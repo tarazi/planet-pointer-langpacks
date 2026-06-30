@@ -1007,6 +1007,36 @@
       "hadar": "남십자자리를 가리키는 남쪽 지시별. 켄타우루스자리에 있으며, 약 390광년 거리.",
       "achernar": "에리다누스 하늘 강의 끝. 약 140광년 거리.",
       "acrux": "남십자자리에서 가장 밝은 별. 약 320광년 거리."
+    },
+    "dsoName": {
+      "orion-nebula": "오리온성운",
+      "lagoon-nebula": "석호성운",
+      "trifid-nebula": "삼렬성운",
+      "eagle-nebula": "독수리성운",
+      "ring-nebula": "고리성운",
+      "crab-nebula": "게성운",
+      "helix-nebula": "나선성운",
+      "carina-nebula": "용골자리 성운",
+      "dumbbell-nebula": "아령성운",
+      "andromeda-galaxy": "안드로메다은하",
+      "triangulum-galaxy": "삼각형자리 은하",
+      "whirlpool-galaxy": "소용돌이은하",
+      "sombrero-galaxy": "솜브레로은하",
+      "bodes-galaxy": "보데은하",
+      "pinwheel-galaxy": "바람개비은하",
+      "centaurus-a": "센타우루스자리 A",
+      "pleiades": "플레이아데스성단",
+      "beehive-cluster": "벌집성단",
+      "hyades": "히아데스성단",
+      "double-cluster": "이중성단",
+      "wild-duck-cluster": "들오리성단",
+      "ptolemy-cluster": "프톨레마이오스성단",
+      "omega-centauri": "오메가 센타우리",
+      "hercules-cluster": "헤르쿨레스 구상성단",
+      "47-tucanae": "큰부리새자리 47",
+      "m22": "메시에 22",
+      "m5": "메시에 5",
+      "milky-way": "은하수"
     }
   }
 }

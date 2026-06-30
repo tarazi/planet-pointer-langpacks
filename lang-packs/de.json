@@ -1007,6 +1007,36 @@
       "hadar": "Ein südlicher Zeigerstern zum Kreuz des Südens. Im Zentaur, ~390 Lichtjahre entfernt.",
       "achernar": "Das Ende des Himmelsflusses Eridanus. ~140 Lichtjahre entfernt.",
       "acrux": "Der hellste Stern des Kreuzes des Südens. ~320 Lichtjahre entfernt."
+    },
+    "dsoName": {
+      "orion-nebula": "Orionnebel",
+      "lagoon-nebula": "Lagunennebel",
+      "trifid-nebula": "Trifidnebel",
+      "eagle-nebula": "Adlernebel",
+      "ring-nebula": "Ringnebel",
+      "crab-nebula": "Krebsnebel",
+      "helix-nebula": "Helixnebel",
+      "carina-nebula": "Carinanebel",
+      "dumbbell-nebula": "Hantelnebel",
+      "andromeda-galaxy": "Andromedagalaxie",
+      "triangulum-galaxy": "Dreiecksgalaxie",
+      "whirlpool-galaxy": "Strudelgalaxie",
+      "sombrero-galaxy": "Sombrerogalaxie",
+      "bodes-galaxy": "Bode-Galaxie",
+      "pinwheel-galaxy": "Feuerradgalaxie",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Plejaden",
+      "beehive-cluster": "Praesepe",
+      "hyades": "Hyaden",
+      "double-cluster": "Doppelter Sternhaufen",
+      "wild-duck-cluster": "Wildentenhaufen",
+      "ptolemy-cluster": "Ptolemäushaufen",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Herkuleshaufen",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Milchstraße"
     }
   }
 }

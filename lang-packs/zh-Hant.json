@@ -943,6 +943,36 @@
       "hadar": "指向南十字座的南方指極星。位於半人馬座，約 390 光年。",
       "achernar": "波江座的末端。約 140 光年。",
       "acrux": "南十字座最亮的星。約 320 光年。"
+    },
+    "dsoName": {
+      "orion-nebula": "獵戶座大星雲",
+      "lagoon-nebula": "礁湖星雲",
+      "trifid-nebula": "三葉星雲",
+      "eagle-nebula": "鷹狀星雲",
+      "ring-nebula": "環狀星雲",
+      "crab-nebula": "蟹狀星雲",
+      "helix-nebula": "螺旋星雲",
+      "carina-nebula": "船底座星雲",
+      "dumbbell-nebula": "啞鈴星雲",
+      "andromeda-galaxy": "仙女座星系",
+      "triangulum-galaxy": "三角座星系",
+      "whirlpool-galaxy": "渦狀星系",
+      "sombrero-galaxy": "草帽星系",
+      "bodes-galaxy": "波德星系",
+      "pinwheel-galaxy": "風車星系",
+      "centaurus-a": "半人馬座A",
+      "pleiades": "昴宿星團",
+      "beehive-cluster": "蜂巢星團",
+      "hyades": "畢宿星團",
+      "double-cluster": "英仙座雙星團",
+      "wild-duck-cluster": "野鴨星團",
+      "ptolemy-cluster": "托勒密星團",
+      "omega-centauri": "半人馬座ω星團",
+      "hercules-cluster": "武仙座球狀星團",
+      "47-tucanae": "杜鵑座47",
+      "m22": "梅西耶22",
+      "m5": "梅西耶5",
+      "milky-way": "銀河"
     }
   }
 }

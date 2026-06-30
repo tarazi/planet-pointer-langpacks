@@ -1007,6 +1007,36 @@
       "hadar": "Una stella puntatore meridionale verso la Croce del Sud. Nel Centauro, a ~390 anni luce.",
       "achernar": "La fine del fiume celeste Eridano. A ~140 anni luce.",
       "acrux": "La stella più luminosa della Croce del Sud. A ~320 anni luce."
+    },
+    "dsoName": {
+      "orion-nebula": "Nebulosa di Orione",
+      "lagoon-nebula": "Nebulosa Laguna",
+      "trifid-nebula": "Nebulosa Trifida",
+      "eagle-nebula": "Nebulosa Aquila",
+      "ring-nebula": "Nebulosa Anello",
+      "crab-nebula": "Nebulosa Granchio",
+      "helix-nebula": "Nebulosa Elica",
+      "carina-nebula": "Nebulosa della Carena",
+      "dumbbell-nebula": "Nebulosa Manubrio",
+      "andromeda-galaxy": "Galassia di Andromeda",
+      "triangulum-galaxy": "Galassia del Triangolo",
+      "whirlpool-galaxy": "Galassia Vortice",
+      "sombrero-galaxy": "Galassia Sombrero",
+      "bodes-galaxy": "Galassia di Bode",
+      "pinwheel-galaxy": "Galassia Girandola",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Pleiadi",
+      "beehive-cluster": "Ammasso del Presepe",
+      "hyades": "Iadi",
+      "double-cluster": "Doppio Ammasso di Perseo",
+      "wild-duck-cluster": "Ammasso Anatra Selvatica",
+      "ptolemy-cluster": "Ammasso di Tolomeo",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Ammasso di Ercole",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Via Lattea"
     }
   }
 }
