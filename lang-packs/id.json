@@ -1,0 +1,1012 @@
+{
+  "code": "id",
+  "v": 1,
+  "strings": {
+    "tab.planets": "Planet",
+    "tab.stars": "Langit Dalam",
+    "tab.constellations": "Rasi Bintang",
+    "tab.satellites": "Satelit",
+    "tab.events": "Fenomena",
+    "tab.settings": "Pengaturan",
+    "settings.title": "Pengaturan",
+    "settings.subtitle": "Preferensi aplikasi",
+    "settings.language": "Bahasa",
+    "settings.language.en": "English",
+    "settings.language.he": "עברית",
+    "settings.language.change": "Ganti bahasa",
+    "lang.title": "Bahasa",
+    "lang.intro": "Bahasa utama sudah tersedia bawaan. Unduh bahasa lain untuk mendapatkan terjemahan lengkap — deskripsi, mitologi, dan lainnya — yang dapat digunakan secara offline.",
+    "lang.search": "Cari bahasa",
+    "lang.builtin": "Bawaan",
+    "lang.download": "Unduh",
+    "lang.downloading": "Mengunduh…",
+    "lang.downloaded": "Telah diunduh",
+    "lang.remove": "Hapus",
+    "lang.failed": "Gagal mengunduh. Periksa koneksi Anda dan coba lagi.",
+    "settings.units": "Satuan",
+    "settings.units.desc": "Cara menampilkan jarak.",
+    "settings.units.km": "Kilometer",
+    "settings.units.mi": "Mil",
+    "settings.night": "Mode Malam (Merah)",
+    "settings.night.desc": "Filter merah pekat melindungi mata yang sudah beradaptasi gelap — cahaya merah hampir tidak mempengaruhi penglihatan malam sehingga bintang tetap terlihat saat Anda menatap langit.",
+    "settings.night.mode": "Mode",
+    "settings.night.off": "Mati",
+    "settings.night.on": "Nyala",
+    "settings.night.auto": "Otomatis",
+    "settings.night.auto.desc": "Mode otomatis secara bertahap menerapkan filter merah setelah matahari terbenam seiring langit semakin gelap.",
+    "settings.night.tint": "Warna",
+    "settings.night.red": "Merah",
+    "settings.night.amber": "Amber",
+    "settings.night.intensity": "Intensitas",
+    "settings.night.low": "Rendah",
+    "settings.night.medium": "Sedang",
+    "settings.night.high": "Tinggi",
+    "settings.location": "Lokasi",
+    "settings.location.desc": "Posisi untuk menghitung langit.",
+    "settings.location.gps": "Gunakan GPS",
+    "settings.location.manual": "Atur manual",
+    "settings.location.lat": "Lintang",
+    "settings.location.lon": "Bujur",
+    "settings.haptics": "Haptic",
+    "settings.haptics.desc": "Getar saat mengunci target.",
+    "settings.speech": "Panduan suara",
+    "settings.speech.desc": "Membacakan target dan panduan arah dengan lantang — untuk penggunaan tanpa melihat layar atau bagi pengguna dengan gangguan penglihatan.",
+    "point.speak": "Bicara",
+    "settings.fov": "Bidang pandang kamera",
+    "settings.fov.desc": "Sesuaikan agar garis rasi bintang dan jejak orbit satelit cocok dengan langit nyata.",
+    "settings.fov.narrow": "Sempit",
+    "settings.fov.default": "Bawaan",
+    "settings.fov.wide": "Lebar",
+    "settings.about": "Tentang",
+    "settings.about.version": "Versi",
+    "settings.about.sources": "Sumber data",
+    "settings.about.credits": "Dibuat dengan astronomy-engine, satellite.js, dan Celestrak.",
+    "pro.title": "Planet Pointer Pro",
+    "pro.free": "Versi gratis",
+    "pro.active": "★ Pro Terbuka",
+    "pro.codePlaceholder": "Punya kode buka kunci?",
+    "pro.unlock": "Buka kunci",
+    "pro.badCode": "Kode itu tidak berfungsi.",
+    "pro.lock": "Kunci kembali",
+    "paywall.title": "Buka Seluruh Langit",
+    "paywall.subtitle": "Pembelian sekali bayar. Tanpa langganan, tanpa akun — selamanya milik Anda, sepenuhnya offline.",
+    "paywall.feature.catalog": "Semua bintang, rasi bintang & satelit",
+    "paywall.feature.favorites": "Favorit tak terbatas",
+    "paywall.feature.timeMachine": "Mesin Waktu — lihat langit di tanggal mana saja",
+    "paywall.feature.events": "Fenomena langit — gerhana, hujan meteor, konjungsi",
+    "paywall.feature.night": "Mode malam penuh (amber, otomatis & intensitas)",
+    "paywall.feature.languages": "Unduh semua bahasa",
+    "paywall.buy": "Buka Pro",
+    "paywall.restore": "Pulihkan pembelian",
+    "paywall.codePrompt": "Punya kode buka kunci?",
+    "paywall.maybeLater": "Nanti saja",
+    "paywall.locked": "Fitur Pro",
+    "paywall.comingSoon": "Pembelian segera hadir — gunakan kode buka kunci untuk sekarang.",
+    "paywall.error": "Terjadi kesalahan. Silakan coba lagi.",
+    "paywall.restoreNone": "Tidak ada pembelian sebelumnya yang ditemukan.",
+    "planets.title": "Planet Pointer",
+    "planets.subtitle": "Pilih target untuk dilacak di langit",
+    "stars.title": "Bintang",
+    "stars.subtitle": "{n} bintang bernama paling terang",
+    "deepsky.title": "Langit Dalam",
+    "deepsky.subtitle": "{n} bintang, nebula, galaksi & gugus",
+    "constellations.title": "Rasi Bintang",
+    "constellations.subtitle": "{n} pola bintang terkenal",
+    "satellites.title": "Satelit",
+    "events.title": "Fenomena Langit",
+    "events.subtitle": "Fenomena mendatang — ketuk untuk berpindah waktu dan mengarah ke sana",
+    "events.calculating": "Menghitung fenomena mendatang…",
+    "search.name": "Cari berdasarkan nama…",
+    "search.star": "Cari bintang atau rasi bintang…",
+    "search.deepsky": "Cari bintang, nebula, galaksi…",
+    "search.constellation": "Cari rasi bintang…",
+    "search.satellite": "Cari satelit…",
+    "filter.visibleNow": "Terlihat sekarang",
+    "filter.showAll": "Tampilkan semua",
+    "dso.cat.all": "Semua",
+    "dso.cat.stars": "Bintang",
+    "dso.cat.nebulae": "Nebula",
+    "dso.cat.galaxies": "Galaksi",
+    "dso.cat.clusters": "Gugus",
+    "dso.type.nebula": "Nebula",
+    "dso.type.galaxy": "Galaksi",
+    "dso.type.openCluster": "Gugus terbuka",
+    "dso.type.globularCluster": "Gugus bola",
+    "dso.type.milkyWay": "Bima Sakti",
+    "badge.above": "Atas",
+    "badge.below": "Bawah",
+    "badge.visible": "Terlihat",
+    "badge.daylight": "Siang",
+    "badge.eclipsed": "Dalam bayangan",
+    "list.calculating": "Menghitung…",
+    "list.gettingLocation": "Mendapatkan lokasi…",
+    "list.locationUnavailable": "Lokasi tidak tersedia",
+    "list.empty.planetsFav": "Belum ada favorit — buka objek langit dan ketuk ★ untuk menambahkan.",
+    "list.empty.visible": "Tidak ada yang berada di atas cakrawala sekarang — coba Tampilkan semua.",
+    "list.empty.search": "Tidak ada hasil yang cocok.",
+    "list.empty.starsVisible": "Tidak ada bintang dari daftar yang berada di atas cakrawala saat ini.",
+    "list.empty.deepskyVisible": "Tidak ada objek langit dalam di atas cakrawala sekarang.",
+    "list.empty.constellationsVisible": "Tidak ada rasi bintang ini yang berada di atas cakrawala saat ini.",
+    "sat.overhead": "● Terlihat sekarang — lihat ke atas!",
+    "sat.overheadDay": "Sedang melintas di atas tapi masih siang hari",
+    "sat.overheadShadow": "Sedang melintas di atas tapi dalam bayangan Bumi",
+    "sat.next": "Lintasan berikutnya",
+    "sat.noPass": "Tidak ada lintasan yang bisa dilihat segera",
+    "sat.kmUp": "km ketinggian",
+    "sat.live": "Data orbit langsung",
+    "sat.cached": "Data orbit tersimpan",
+    "sat.loading": "Memperbarui data orbit…",
+    "sat.offline": "Offline — data bawaan",
+    "sat.bundled": "Data orbit bawaan",
+    "fav.empty": "Belum ada favorit.\nBuka planet atau bintang dan ketuk ★ untuk menyimpannya di sini.",
+    "fav.belowNow": "Tidak ada favorit yang berada di atas cakrawala saat ini.",
+    "fav.noMatch": "Tidak ada favorit yang cocok dengan pencarian.",
+    "kind.star": "Bintang",
+    "kind.constellation": "Rasi bintang",
+    "kind.satellite": "Satelit",
+    "kind.solar": "Tata Surya",
+    "point.back": "Kembali",
+    "point.locked": "Terkunci ke {name}",
+    "point.away": "{n}° jauhnya",
+    "point.acquiring": "Menginisialisasi sensor…",
+    "point.aboveHorizon": "● Di atas cakrawala",
+    "point.belowHorizon": "○ Di bawah cakrawala",
+    "point.info": "Info",
+    "point.target": "Target",
+    "point.you": "Anda",
+    "point.distance": "Jarak",
+    "point.stars": "Bintang",
+    "point.mainStars": "{n} bintang utama",
+    "point.lightYears": "{n} tahun cahaya",
+    "point.belowBanner": "{name} berada di bawah cakrawala — arahkan ke bawah untuk menunjuk melalui Bumi.",
+    "point.satBelowBanner": "{name} tidak sedang melintas di atas — ketuk Info untuk melihat lintasan berikutnya.",
+    "point.timeTravel": "🕰️ Perjalanan waktu: {when} — ketuk untuk kembali ke sekarang",
+    "point.turnRight": "Belok kanan",
+    "point.turnLeft": "Belok kiri",
+    "point.tiltUp": "Miringkan ke atas",
+    "point.tiltDown": "Miringkan ke bawah",
+    "point.almost": "Hampir sampai",
+    "point.permTitle": "Akses kamera diperlukan",
+    "point.permBody": "Planet Pointer menampilkan panah panduan di atas kamera langsung agar Anda dapat melihat saat mengarahkan ke {name}.",
+    "point.permAllow": "Izinkan kamera",
+    "info.rightNow": "Sekarang",
+    "info.about": "Tentang",
+    "info.mythology": "Mitologi",
+    "info.facts": "Fakta utama",
+    "info.didYouKnow": "Tahukah Anda?",
+    "info.learnMore": "Pelajari lebih lanjut",
+    "info.passes": "Lintasan mendatang",
+    "info.direction": "Arah",
+    "info.altitude": "Ketinggian",
+    "info.brightness": "Kecerlangan",
+    "info.visibility": "Visibilitas",
+    "info.aboveHorizon": "Di atas cakrawala",
+    "info.belowHorizon": "Di bawah cakrawala",
+    "info.favorited": "★  Ditambahkan ke favorit",
+    "info.addFav": "☆  Tambahkan ke favorit",
+    "info.passNote": "Waktu setempat. Ketinggian puncak yang lebih tinggi berarti lintasan lebih terang dan lebih mudah dilihat.",
+    "info.typeStar": "Bintang",
+    "info.typeConstellation": "Rasi bintang",
+    "info.starIn": "Di {c}.",
+    "info.starFixed": "Bintang tetap.",
+    "info.patternOfStars": "Pola bintang.",
+    "info.lightYears": "tahun cahaya",
+    "stat.constellation": "Rasi bintang",
+    "stat.distance": "Jarak",
+    "stat.ra": "Asensio rekta",
+    "stat.dec": "Deklinasi",
+    "stat.abbr": "Singkatan",
+    "stat.season": "Musim terbaik",
+    "stat.hemisphere": "Belahan bumi",
+    "stat.brightestStar": "Bintang paling terang",
+    "stat.mainStars": "Bintang utama",
+    "hemi.northern": "Belahan utara",
+    "hemi.southern": "Belahan selatan",
+    "hemi.equatorial": "Ekuatorial",
+    "ev.lunar": "Gerhana bulan {kind}",
+    "ev.solar": "Gerhana matahari {kind}",
+    "ev.lunarSub": "Bulan melewati bayangan Bumi",
+    "ev.solarSub": "Bulan melintas di depan Matahari",
+    "ev.meteor": "Hujan meteor {name}",
+    "ev.meteorSub": "Puncak ~{zhr}/jam · Radiant: {radiant}",
+    "ev.conj": "{a} bertemu {b}",
+    "ev.conjSub": "Melintas ~{sep}° terpisah di langit",
+    "ev.iss": "ISS Melintas di Atas",
+    "ev.issSub": "Puncak {alt}° · {dir}",
+    "ekind.total": "total",
+    "ekind.partial": "sebagian",
+    "ekind.penumbral": "penumbra",
+    "ekind.annular": "cincin",
+    "ekind.hybrid": "hibrida",
+    "count.now": "Sekarang",
+    "count.hour": "Dalam satu jam",
+    "count.hours": "Dalam {n} jam",
+    "count.tomorrow": "Besok",
+    "count.days": "Dalam {n} hari",
+    "count.month": "Sekitar 1 bulan lagi",
+    "count.months": "Sekitar {n} bulan lagi",
+    "time.title": "Mesin Waktu",
+    "time.subtitle": "Lihat langit pada tanggal dan waktu mana saja.",
+    "time.now": "Sekarang",
+    "time.live": "● Langit langsung",
+    "time.year": "Tahun",
+    "time.month": "Bulan",
+    "time.day": "Hari",
+    "time.hour": "Jam",
+    "time.minute": "Menit",
+    "time.return": "Kembali ke sekarang",
+    "time.done": "Selesai",
+    "common.on": "Nyala",
+    "common.off": "Mati"
+  },
+  "content": {
+    "bodyName": {
+      "sun": "Matahari",
+      "moon": "Bulan",
+      "mercury": "Merkurius",
+      "venus": "Venus",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturn": "Saturnus",
+      "uranus": "Uranus",
+      "neptune": "Neptunus"
+    },
+    "bodyDesc": {
+      "sun": "Bintang di pusat tata surya: bola gas raksasa yang membara dan menyediakan cahaya serta panas bagi semua planet. Jangan pernah menatap langsung. Sekitar 109 kali lebih besar dari Bumi.",
+      "moon": "Satu-satunya satelit alami Bumi dan benda paling terang di langit malam. Bulan mengorbit Bumi setiap bulan sambil mengubah fase.",
+      "mercury": "Planet terkecil sekaligus terdekat dengan Matahari: dunia berbatu yang dipenuhi kawah dengan suhu ekstrem. Paling mudah terlihat di dekat cakrawala saat fajar atau senja.",
+      "venus": "Planet terpanas dengan awan tebal. Bersinar sebagai bintang fajar atau bintang sore, menjadi objek paling terang di langit setelah Matahari dan Bulan.",
+      "mars": "Planet Merah: dunia berbatu kemerahan dengan gunung berapi tertinggi dan ngarai terdalam di tata surya. Terlihat sebagai titik merah dengan mata telanjang.",
+      "jupiter": "Planet terbesar: raksasa gas yang begitu besar hingga semua planet lain bisa muat di dalamnya. Empat bulan terbesarnya dapat dilihat dengan teropong.",
+      "saturn": "Permata tata surya dengan cincin megah dari es dan bebatuan. Cincinnya terlihat bahkan dengan teleskop kecil.",
+      "uranus": "Raksasa es biru-kehijauan yang berputar miring ke samping. Hampir tidak terlihat dengan mata telanjang di langit yang sangat gelap.",
+      "neptune": "Planet terjauh: dunia biru yang dingin dengan angin tercepat di tata surya. Tidak terlihat dengan mata telanjang."
+    },
+    "bodyInfo": {
+      "sun": {
+        "type": "Bintang katai kuning (tipe G)",
+        "tagline": "Bintang di pusat tata surya kita.",
+        "stats": [
+          {
+            "label": "Diameter",
+            "value": "1.392.700 km\n(109x Bumi)"
+          },
+          {
+            "label": "Suhu permukaan",
+            "value": "~5.500 °C"
+          },
+          {
+            "label": "Massa",
+            "value": "1,989 × 10³⁰ kg\n(332.900x Bumi)"
+          },
+          {
+            "label": "Usia",
+            "value": "~4,6 miliar tahun"
+          },
+          {
+            "label": "Rotasi",
+            "value": "~25 hari (ekuator)"
+          },
+          {
+            "label": "Kecepatan orbit",
+            "value": "~220 km/dtk (galaksi)"
+          }
+        ],
+        "facts": [
+          "Sekitar 1,3 juta Bumi bisa masuk ke dalamnya.",
+          "Cahayanya membutuhkan sekitar 8 menit untuk mencapai Bumi.",
+          "Jangan pernah menatap langsung melalui teleskop atau teropong."
+        ]
+      },
+      "moon": {
+        "type": "Satelit alami",
+        "tagline": "Satu-satunya satelit alami Bumi.",
+        "stats": [
+          {
+            "label": "Diameter",
+            "value": "3.475 km\n(0,27x Bumi)"
+          },
+          {
+            "label": "Jarak rata-rata",
+            "value": "384.400 km"
+          },
+          {
+            "label": "Massa",
+            "value": "7,35 × 10²² kg\n(0,0123x Bumi)"
+          },
+          {
+            "label": "Periode orbit",
+            "value": "27,3 hari"
+          },
+          {
+            "label": "Rotasi",
+            "value": "27,3 hari (rotasi sinkron)"
+          },
+          {
+            "label": "Kecepatan orbit",
+            "value": "1,0 km/dtk"
+          },
+          {
+            "label": "Gravitasi",
+            "value": "1/6 Bumi"
+          }
+        ],
+        "facts": [
+          "Selalu menampilkan sisi yang sama ke Bumi (rotasi sinkron).",
+          "Bergerak menjauh dari Bumi sekitar 3,8 cm setiap tahun.",
+          "12 manusia telah berjalan di permukaannya."
+        ]
+      },
+      "mercury": {
+        "type": "Planet berbatu",
+        "tagline": "Planet terkecil dan terdekat dengan Matahari.",
+        "stats": [
+          {
+            "label": "Diameter",
+            "value": "4.879 km\n(0,383x Bumi)"
+          },
+          {
+            "label": "Jarak ke Matahari",
+            "value": "57,9 juta km"
+          },
+          {
+            "label": "Massa",
+            "value": "3,30 × 10²³ kg\n(0,055x Bumi)"
+          },
+          {
+            "label": "Periode orbit",
+            "value": "88 hari Bumi"
+          },
+          {
+            "label": "Rotasi",
+            "value": "58,6 hari Bumi"
+          },
+          {
+            "label": "Panjang hari",
+            "value": "176 hari Bumi"
+          },
+          {
+            "label": "Kecepatan orbit",
+            "value": "47,4 km/dtk"
+          },
+          {
+            "label": "Bulan",
+            "value": "Tidak ada"
+          }
+        ],
+        "facts": [
+          "Satu tahun hanya 88 hari Bumi.",
+          "Suhu bervariasi dari 430°C hingga -180°C.",
+          "Paling mudah dilihat tepat di atas cakrawala saat fajar atau senja."
+        ]
+      },
+      "venus": {
+        "type": "Planet berbatu",
+        "tagline": "Planet terpanas dan paling terang di langit.",
+        "stats": [
+          {
+            "label": "Diameter",
+            "value": "12.104 km\n(0,949x Bumi)"
+          },
+          {
+            "label": "Jarak ke Matahari",
+            "value": "108,2 juta km"
+          },
+          {
+            "label": "Massa",
+            "value": "4,87 × 10²⁴ kg\n(0,815x Bumi)"
+          },
+          {
+            "label": "Suhu permukaan",
+            "value": "~465 °C"
+          },
+          {
+            "label": "Periode orbit",
+            "value": "225 hari Bumi"
+          },
+          {
+            "label": "Rotasi",
+            "value": "243 hari Bumi (mundur)"
+          },
+          {
+            "label": "Kecepatan orbit",
+            "value": "35,0 km/dtk"
+          },
+          {
+            "label": "Bulan",
+            "value": "Tidak ada"
+          }
+        ],
+        "facts": [
+          "Berputar berlawanan arah dengan kebanyakan planet.",
+          "Satu hari di Venus lebih lama dari satu tahunnya.",
+          "Juga disebut bintang fajar atau bintang sore."
+        ]
+      },
+      "mars": {
+        "type": "Planet berbatu",
+        "tagline": "Planet Merah, tujuan misi luar angkasa.",
+        "stats": [
+          {
+            "label": "Diameter",
+            "value": "6.779 km\n(0,532x Bumi)"
+          },
+          {
+            "label": "Jarak ke Matahari",
+            "value": "227,9 juta km"
+          },
+          {
+            "label": "Massa",
+            "value": "6,42 × 10²³ kg\n(0,107x Bumi)"
+          },
+          {
+            "label": "Periode orbit",
+            "value": "687 hari Bumi (1,9 tahun)"
+          },
+          {
+            "label": "Rotasi",
+            "value": "24,6 jam"
+          },
+          {
+            "label": "Kecepatan orbit",
+            "value": "24,1 km/dtk"
+          },
+          {
+            "label": "Bulan",
+            "value": "2 (Phobos, Deimos)"
+          }
+        ],
+        "facts": [
+          "Menampung Olympus Mons, gunung berapi tertinggi di tata surya.",
+          "Warna merahnya berasal dari besi oksida (karat).",
+          "Terlihat dengan mata telanjang sebagai titik merah."
+        ]
+      },
+      "jupiter": {
+        "type": "Raksasa gas",
+        "tagline": "Planet terbesar di tata surya.",
+        "stats": [
+          {
+            "label": "Diameter",
+            "value": "139.820 km\n(11,21x Bumi)"
+          },
+          {
+            "label": "Jarak ke Matahari",
+            "value": "778,5 juta km"
+          },
+          {
+            "label": "Massa",
+            "value": "1,898 × 10²⁷ kg\n(317,8x Bumi)"
+          },
+          {
+            "label": "Periode orbit",
+            "value": "11,9 tahun Bumi"
+          },
+          {
+            "label": "Rotasi",
+            "value": "~10 jam"
+          },
+          {
+            "label": "Kecepatan orbit",
+            "value": "13,1 km/dtk"
+          },
+          {
+            "label": "Bulan",
+            "value": "95+"
+          }
+        ],
+        "facts": [
+          "Bintik Merah Besar adalah badai yang lebih besar dari Bumi.",
+          "4 bulan terbesarnya terlihat dengan teropong.",
+          "Memiliki hari terpendek di antara semua planet."
+        ]
+      },
+      "saturn": {
+        "type": "Raksasa gas",
+        "tagline": "Permata tata surya dengan cincinnya yang megah.",
+        "stats": [
+          {
+            "label": "Diameter",
+            "value": "116.460 km\n(9,45x Bumi)"
+          },
+          {
+            "label": "Jarak ke Matahari",
+            "value": "1,43 miliar km"
+          },
+          {
+            "label": "Massa",
+            "value": "5,68 × 10²⁶ kg\n(95,15x Bumi)"
+          },
+          {
+            "label": "Periode orbit",
+            "value": "29,5 tahun Bumi"
+          },
+          {
+            "label": "Rotasi",
+            "value": "~10,7 jam"
+          },
+          {
+            "label": "Kecepatan orbit",
+            "value": "9,7 km/dtk"
+          },
+          {
+            "label": "Bulan",
+            "value": "140+"
+          }
+        ],
+        "facts": [
+          "Cincinnya terutama terdiri dari es dan bebatuan.",
+          "Kepadatannya paling rendah dari semua planet — bisa mengapung di air.",
+          "Cincinnya terlihat bahkan dengan teleskop kecil."
+        ]
+      },
+      "uranus": {
+        "type": "Raksasa es",
+        "tagline": "Planet yang berputar miring ke samping.",
+        "stats": [
+          {
+            "label": "Diameter",
+            "value": "50.724 km\n(4,01x Bumi)"
+          },
+          {
+            "label": "Jarak ke Matahari",
+            "value": "2,87 miliar km"
+          },
+          {
+            "label": "Massa",
+            "value": "8,68 × 10²⁵ kg\n(14,56x Bumi)"
+          },
+          {
+            "label": "Periode orbit",
+            "value": "84 tahun Bumi"
+          },
+          {
+            "label": "Rotasi",
+            "value": "17,2 jam (mundur)"
+          },
+          {
+            "label": "Kecepatan orbit",
+            "value": "6,8 km/dtk"
+          },
+          {
+            "label": "Bulan",
+            "value": "28"
+          }
+        ],
+        "facts": [
+          "Kemiringan ekstremnya mungkin disebabkan tumbukan besar di masa lalu.",
+          "Warna biru-kehijauannya berasal dari metana.",
+          "Hampir tidak terlihat dengan mata telanjang di langit sangat gelap."
+        ]
+      },
+      "neptune": {
+        "type": "Raksasa es",
+        "tagline": "Planet terjauh dengan angin paling kencang.",
+        "stats": [
+          {
+            "label": "Diameter",
+            "value": "49.244 km\n(3,88x Bumi)"
+          },
+          {
+            "label": "Jarak ke Matahari",
+            "value": "4,5 miliar km"
+          },
+          {
+            "label": "Massa",
+            "value": "1,02 × 10²⁶ kg\n(17,15x Bumi)"
+          },
+          {
+            "label": "Periode orbit",
+            "value": "165 tahun Bumi"
+          },
+          {
+            "label": "Rotasi",
+            "value": "16,1 jam"
+          },
+          {
+            "label": "Kecepatan orbit",
+            "value": "5,4 km/dtk"
+          },
+          {
+            "label": "Bulan",
+            "value": "16"
+          }
+        ],
+        "facts": [
+          "Anginnya mencapai 2.000 km/jam — tercepat di tata surya.",
+          "Ditemukan secara matematis sebelum diamati secara langsung.",
+          "Memerlukan teleskop untuk menemukannya."
+        ]
+      }
+    },
+    "constellationName": {
+      "orion": "Orion",
+      "ursa-major": "Beruang Besar",
+      "cassiopeia": "Cassiopeia",
+      "scorpius": "Kalajengking",
+      "leo": "Singa",
+      "cygnus": "Angsa",
+      "gemini": "Kembar",
+      "taurus": "Banteng",
+      "canis-major": "Anjing Besar",
+      "crux": "Salib Selatan",
+      "aries": "Domba Jantan",
+      "cancer": "Kepiting",
+      "virgo": "Perawan",
+      "libra": "Timbangan",
+      "sagittarius": "Pemanah",
+      "capricornus": "Kambing Laut",
+      "aquarius": "Pembawa Air",
+      "pisces": "Ikan",
+      "ursa-minor": "Beruang Kecil",
+      "andromeda": "Andromeda",
+      "perseus": "Perseus",
+      "auriga": "Sais Kereta",
+      "bootes": "Penggembala",
+      "corona-borealis": "Mahkota Utara",
+      "hercules": "Herkules",
+      "lyra": "Kecapi",
+      "aquila": "Rajawali",
+      "pegasus": "Pegasus",
+      "cepheus": "Cepheus",
+      "draco": "Naga",
+      "canis-minor": "Anjing Kecil",
+      "centaurus": "Kentaurus",
+      "lupus": "Serigala",
+      "carina": "Lunas Kapal",
+      "vela": "Layar",
+      "puppis": "Buritan",
+      "corvus": "Gagak",
+      "delphinus": "Lumba-Lumba",
+      "antlia": "Pompa Udara",
+      "apus": "Cendrawasih",
+      "ara": "Mezbah",
+      "caelum": "Pahat",
+      "camelopardalis": "Jerapah",
+      "canes-venatici": "Anjing Pemburu",
+      "cetus": "Ikan Paus",
+      "chamaeleon": "Bunglon",
+      "circinus": "Jangka",
+      "columba": "Merpati",
+      "coma-berenices": "Rambut Berenice",
+      "corona-australis": "Mahkota Selatan",
+      "crater": "Piala",
+      "dorado": "Ikan Todak",
+      "equuleus": "Kuda Kecil",
+      "eridanus": "Eridanus",
+      "fornax": "Tungku",
+      "grus": "Bangau",
+      "horologium": "Jam",
+      "hydra": "Ular Laut",
+      "hydrus": "Ular Air",
+      "indus": "Suku Indian",
+      "lacerta": "Kadal",
+      "leo-minor": "Singa Kecil",
+      "lepus": "Kelinci",
+      "lynx": "Lynx",
+      "mensa": "Gunung Meja",
+      "microscopium": "Mikroskop",
+      "monoceros": "Unicorn",
+      "musca": "Lalat",
+      "norma": "Penggaris Sudut",
+      "octans": "Oktant",
+      "ophiuchus": "Pembawa Ular",
+      "pavo": "Merak",
+      "phoenix": "Phoenix",
+      "pictor": "Pelukis",
+      "piscis-austrinus": "Ikan Selatan",
+      "pyxis": "Kompas",
+      "reticulum": "Jaring",
+      "sagitta": "Panah",
+      "sculptor": "Pematung",
+      "scutum": "Perisai",
+      "serpens": "Ular",
+      "sextans": "Sekstan",
+      "telescopium": "Teleskop",
+      "triangulum": "Segitiga",
+      "triangulum-australe": "Segitiga Selatan",
+      "tucana": "Toucan",
+      "volans": "Ikan Terbang",
+      "vulpecula": "Rubah"
+    },
+    "constellationNick": {
+      "orion": "Sang Pemburu",
+      "ursa-major": "Beruang Besar (Biduk)",
+      "cassiopeia": "Sang Ratu",
+      "scorpius": "Kalajengking",
+      "leo": "Singa",
+      "cygnus": "Angsa (Salib Utara)",
+      "gemini": "Si Kembar",
+      "taurus": "Sang Banteng",
+      "canis-major": "Anjing Pemburu Besar",
+      "crux": "Salib Selatan",
+      "aries": "Domba Jantan",
+      "cancer": "Kepiting",
+      "virgo": "Sang Perawan",
+      "libra": "Timbangan Keadilan",
+      "sagittarius": "Sang Pemanah (Teko)",
+      "capricornus": "Kambing Laut",
+      "aquarius": "Pembawa Air",
+      "pisces": "Dua Ikan",
+      "ursa-minor": "Beruang Kecil (Biduk Kecil)",
+      "andromeda": "Putri Berantai",
+      "perseus": "Sang Pahlawan",
+      "auriga": "Sang Kusir",
+      "bootes": "Penggembala Beruang",
+      "corona-borealis": "Mahkota Utara",
+      "hercules": "Sang Pahlawan Berlutut",
+      "lyra": "Kecapi",
+      "aquila": "Sang Rajawali",
+      "pegasus": "Kuda Bersayap",
+      "cepheus": "Sang Raja",
+      "draco": "Naga",
+      "canis-minor": "Anjing Kecil",
+      "centaurus": "Kentaurus",
+      "lupus": "Serigala",
+      "carina": "Lunas Argo",
+      "vela": "Layar Argo",
+      "puppis": "Buritan Argo",
+      "corvus": "Burung Gagak",
+      "delphinus": "Lumba-Lumba",
+      "antlia": "Pompa Udara",
+      "apus": "Cendrawasih",
+      "ara": "Mezbah",
+      "caelum": "Pahat",
+      "camelopardalis": "Jerapah",
+      "canes-venatici": "Anjing-Anjing Pemburu",
+      "cetus": "Monster Laut",
+      "chamaeleon": "Bunglon",
+      "circinus": "Jangka",
+      "columba": "Burung Merpati",
+      "coma-berenices": "Rambut Berenice",
+      "corona-australis": "Mahkota Selatan",
+      "crater": "Piala",
+      "dorado": "Ikan Pedang",
+      "equuleus": "Kuda Kecil",
+      "eridanus": "Sungai",
+      "fornax": "Tungku",
+      "grus": "Burung Bangau",
+      "horologium": "Jam Dinding",
+      "hydra": "Ular Laut Besar",
+      "hydrus": "Ular Air Kecil",
+      "indus": "Orang Indian",
+      "lacerta": "Kadal",
+      "leo-minor": "Singa Kecil",
+      "lepus": "Kelinci",
+      "lynx": "Lynx",
+      "mensa": "Gunung Meja",
+      "microscopium": "Mikroskop",
+      "monoceros": "Unicorn",
+      "musca": "Lalat",
+      "norma": "Penggaris",
+      "octans": "Oktant",
+      "ophiuchus": "Pemegang Ular",
+      "pavo": "Burung Merak",
+      "phoenix": "Burung Phoenix",
+      "pictor": "Kuda-Kuda Pelukis",
+      "piscis-austrinus": "Ikan Selatan",
+      "pyxis": "Kompas Kapal",
+      "reticulum": "Jaring Optik",
+      "sagitta": "Anak Panah",
+      "sculptor": "Bengkel Pematung",
+      "scutum": "Perisai",
+      "serpens": "Ular",
+      "sextans": "Sekstan",
+      "telescopium": "Teleskop",
+      "triangulum": "Segitiga",
+      "triangulum-australe": "Segitiga Selatan",
+      "tucana": "Burung Toucan",
+      "volans": "Ikan Terbang",
+      "vulpecula": "Rubah Kecil"
+    },
+    "constellationDesc": {
+      "orion": "Sang Pemburu: rasi bintang paling terkenal, terletak di ekuator langit sehingga terlihat di seluruh dunia. Tiga bintang sabuknya mengarah ke Sirius di satu sisi dan Aldebaran di sisi lain.",
+      "ursa-major": "Beruang Besar, termasuk Biduk: tujuh bintang terang membentuk gayung yang akrab — Dubhe dan Merak, dua bintang di ujungnya, menunjuk ke Bintang Utara.",
+      "cassiopeia": "Sang Ratu: lima bintang membentuk W (atau M) yang mencolok, berlawanan dari Biduk di sisi Bintang Utara — salah satunya selalu tinggi di langit utara.",
+      "scorpius": "Kalajengking: lengkungan bintang di sekitar Antares yang merah berakhir dengan ekor melengkung yang bersengat. Permata langit musim panas di selatan.",
+      "leo": "Singa: kepala dan surai membentuk tanda tanya terbalik (sabit) dimahkotai Regulus. Segitiga bintang di belakang mewakili pantatnya.",
+      "cygnus": "Angsa, juga disebut Salib Utara: terbang di sepanjang Bimasakti, dengan Deneb yang terang di ekor dan Albireo bintang ganda yang indah di paruhnya.",
+      "gemini": "Si Kembar: dua deretan bintang berjalan sejajar, berakhir di kepala saudara kembar dalam mitologi — Castor dan Pollux yang terang.",
+      "taurus": "Sang Banteng: wajah V (Gugus Hyades) di sekitar Aldebaran oranye, dengan tanduk panjang mencapai Elnath. Gugus Pleiades bertengger di bahunya.",
+      "canis-major": "Anjing Besar: sahabat setia Orion, ditandai oleh Sirius, bintang paling terang di langit malam.",
+      "crux": "Salib Selatan: rasi bintang terkecil tetapi salah satu yang paling terkenal; sumbu panjangnya menunjuk ke kutub langit selatan.",
+      "aries": "Domba Jantan: garis bintang lembut dipimpin oleh Hamal oranye. Zodiak terkenal yang dulu menampung titik balik musim semi.",
+      "cancer": "Kepiting: zodiak yang paling samar, tapi menampung gugus bintang indah Praesepe (Beehive).",
+      "virgo": "Perawan: rasi bintang terbesar kedua, dipimpin oleh Spica yang terang dan biru-putih — bulir gandum yang dipegangnya.",
+      "libra": "Timbangan: satu-satunya zodiak yang diwakili benda mati; bintang-bintangnya dulu merupakan capit Kalajengking.",
+      "sagittarius": "Sang Pemanah: bintang-bintang terangnya membentuk teko, dengan moncongnya mengarah ke pusat Bimasakti.",
+      "capricornus": "Kambing Laut: segitiga lebar dari bintang-bintang samar; zodiak terkecil, terletak rendah di langit selatan.",
+      "aquarius": "Pembawa Air: rasi bintang kuno yang luas, dengan deretan bintang samar yang mengalir ke selatan dari kendi.",
+      "pisces": "Dua Ikan: dua ikan yang diikatkan ekornya bergerak lemah di bawah Persegi Pegasus, dihubungkan oleh Alrescha.",
+      "ursa-minor": "Beruang Kecil: ujung ekornya adalah Bintang Utara, tempat seluruh langit utara seolah berputar. Bayangan kecil dan lebih samar dari Biduk.",
+      "andromeda": "Andromeda: rantai bintang yang memanjang dari sudut Persegi Pegasus, menampung Galaksi Andromeda — objek terjauh yang bisa dilihat mata telanjang.",
+      "perseus": "Perseus: bagian kaya Bimasakti, menampung Algol si bintang iblis yang meredup setiap beberapa hari ketika bintang pendampingnya menghalangi.",
+      "auriga": "Sais Kereta: segi lima terang tinggi di langit musim dingin, dimahkotai Capella yang cemerlang — bintang keenam paling terang.",
+      "bootes": "Penggembala: berbentuk layang-layang dipimpin Arcturus oranye — bintang paling terang di langit utara. Ikuti busur pegangan Biduk untuk menemukannya.",
+      "corona-borealis": "Mahkota Utara: tujuh bintang berbentuk setengah lingkaran elegan dengan Alphecca sebagai permatanya. Kecil tapi mudah dikenali.",
+      "hercules": "Herkules: rasi bintang musim panas yang besar, empat bintang pusatnya membentuk Keystone. Menampung M13, gugus bola terindah di langit utara.",
+      "lyra": "Kecapi: rasi bintang kecil di sekitar Vega yang terang dan biru-putih — titik sudut Segitiga Musim Panas — dengan jajaran genjang rapi di bawahnya.",
+      "aquila": "Rajawali: terbang di sepanjang Bimasakti, ditandai oleh Altair yang terang dengan dua bintang samar di sisinya. Titik sudut selatan Segitiga Musim Panas.",
+      "pegasus": "Pegasus, kuda bersayap: tubuhnya membentuk Persegi Pegasus, persegi besar yang hampir kosong yang mendominasi langit musim gugur.",
+      "cepheus": "Cepheus: rasi bintang kutub berbentuk rumah kecil, menampung Delta Cephei — bintang variabel yang terkenal.",
+      "draco": "Naga: meliuk panjang di antara dua beruang. Bintangnya, Thuban, adalah bintang utara pada masa piramida Mesir dibangun.",
+      "canis-minor": "Anjing Kecil: hanya dua bintang penting, tapi salah satunya — Procyon — adalah bintang kedelapan paling terang dan titik sudut Segitiga Musim Dingin.",
+      "centaurus": "Kentaurus: rasi bintang selatan yang terang, Alpha dan Beta Centauri menunjuk ke Salib Selatan. Alpha Centauri adalah sistem bintang terdekat dengan Matahari.",
+      "lupus": "Serigala: rasi bintang selatan yang padat di depan Bimasakti yang kaya bintang, di antara Kentaurus dan Kalajengking.",
+      "carina": "Lunas Kapal: bagian Argo Navis, menampung Canopus — bintang paling terang kedua di langit — dan Nebula Carina yang megah.",
+      "vela": "Layar: bagian Argo Navis, bintang-bintangnya bersama dua bintang dari Carina membentuk Salib Palsu.",
+      "puppis": "Buritan: bagian Argo Navis yang besar, terletak di bagian padat Bimasakti, dipimpin oleh bintang panas Naos.",
+      "corvus": "Gagak: persegi empat kecil yang mencolok dari empat bintang bertengger di punggung Ular Laut, mudah ditemukan di selatan Spica.",
+      "delphinus": "Lumba-Lumba: belah ketupat bintang kecil yang menawan (disebut Ayub's Coffin) melompat dari Bimasakti dekat Segitiga Musim Panas.",
+      "antlia": "Pompa Udara: rasi bintang modern yang samar antara Ular Laut dan Layar.",
+      "apus": "Cendrawasih: rasi bintang kecil dan samar dekat kutub langit selatan.",
+      "ara": "Mezbah: altar dari bintang-bintang tepat di selatan sengatan Kalajengking.",
+      "caelum": "Pahat: salah satu rasi bintang paling samar, garis tipis antara Eridanus dan Merpati.",
+      "camelopardalis": "Jerapah: rasi bintang utara yang besar tapi samar, mengisi ruang kosong dekat kutub.",
+      "canes-venatici": "Anjing-Anjing Pemburu: anjing-anjing Bootes dipimpin Cor Caroli, rumah Galaksi Pusaran.",
+      "cetus": "Ikan Paus: rasi bintang besar menampung Mira — variabel jangka panjang pertama yang ditemukan.",
+      "chamaeleon": "Bunglon: rasi bintang kecil dan samar dekat kutub selatan.",
+      "circinus": "Jangka: rasi bintang sangat kecil dan samar bersembunyi di sebelah Alpha Centauri.",
+      "columba": "Merpati: rasi bintang kecil di bawah Kelinci, melambangkan merpati Nuh.",
+      "coma-berenices": "Rambut Berenice: semburat bintang samar yang mewakili rambut Ratu Berenice — sebenarnya sebuah gugus bintang terdekat.",
+      "corona-australis": "Mahkota Selatan: busur bintang elegan di kaki Sagittarius.",
+      "crater": "Piala: piala samar yang bertengger di punggung Ular Laut, terkait kisah gagak yang berbohong.",
+      "dorado": "Ikan Todak: rasi bintang selatan yang menampung sebagian besar Awan Magellan Besar.",
+      "equuleus": "Kuda Kecil: rasi bintang terkecil kedua — kuda kecil yang samar di sebelah Pegasus.",
+      "eridanus": "Eridanus: rasi bintang keenam terbesar — aliran bintang panjang yang berkelok dari kaki Orion ke Achernar yang cemerlang.",
+      "fornax": "Tungku: rasi bintang samar yang dikelilingi oleh lekukan sungai Eridanus.",
+      "grus": "Bangau: burung selatan yang anggun terbang tepat di bawah Ikan Selatan.",
+      "horologium": "Jam: rasi bintang selatan yang panjang dan samar meliuk di sebelah Eridanus.",
+      "hydra": "Ular Laut: rasi bintang terbesar dari semua, merentang sepertiga langit; Alphard oranye adalah kepalanya.",
+      "hydrus": "Ular Air Kecil: ular selatan yang samar meliuk antara dua Awan Magellan.",
+      "indus": "Orang Indian: rasi bintang selatan yang samar mewakili seorang pemburu asli.",
+      "lacerta": "Kadal: zigzag kecil bintang samar antara Cygnus dan Andromeda.",
+      "leo-minor": "Singa Kecil: pita bintang samar terjepit antara Singa dan Beruang Besar.",
+      "lepus": "Kelinci: kelinci yang jongkok di kaki Orion, selamanya melarikan diri dari pemburu dan anjingnya.",
+      "lynx": "Lynx: zigzag samar — dinamai demikian karena butuh mata lynx untuk melihatnya.",
+      "mensa": "Gunung Meja: rasi bintang paling samar: tidak ada bintang lebih terang dari mag 5 — bernama dari Gunung Meja di Cape Town.",
+      "microscopium": "Mikroskop: rasi bintang modern yang samar di selatan Capricornus.",
+      "monoceros": "Unicorn: unicorn samar yang berlari melalui Bimasakti, dikelilingi Segitiga Musim Dingin.",
+      "musca": "Lalat: rasi bintang kecil tapi cukup terang tepat di selatan Salib Selatan.",
+      "norma": "Penggaris Sudut: rasi bintang samar di bagian kaya bintang Bimasakti antara Kalajengking dan Kentaurus.",
+      "octans": "Oktant: menampung kutub langit selatan; bintang kutubnya Sigma Octantis hampir tidak terlihat mata telanjang.",
+      "ophiuchus": "Pembawa Ular: rasi bintang musim panas yang besar, dilintasi Matahari tapi tidak termasuk zodiak.",
+      "pavo": "Merak: rasi bintang selatan dengan bintang paling terang sederhana bernama Peacock.",
+      "phoenix": "Phoenix: burung mitos terbesar di antara burung-burung selatan, dekat Achernar yang cemerlang.",
+      "pictor": "Pelukis: rasi bintang selatan yang samar di sebelah Canopus, terkenal karena cakram protoplanet di sekitar Beta Pictoris.",
+      "piscis-austrinus": "Ikan Selatan: minum air yang dituang Aquarius, ditandai Fomalhaut yang kesepian dan terang.",
+      "pyxis": "Kompas Kapal: rasi bintang kecil dan samar mewakili kompas kapal Argo.",
+      "reticulum": "Jaring Optik: belah ketupat kecil bintang samar dekat Awan Magellan Besar.",
+      "sagitta": "Anak Panah: rasi bintang ketiga terkecil — anak panah kecil terbang di Bimasakti dekat Segitiga Musim Panas.",
+      "sculptor": "Pematung: rasi bintang samar yang menampung kutub galaksi selatan.",
+      "scutum": "Perisai: rasi bintang kecil yang menonjol di depan Gugus Bintang Perisai yang cemerlang di Bimasakti.",
+      "serpens": "Ular: satu-satunya rasi bintang yang terbagi dua bagian — kepala (Caput) dan ekor (Cauda) — dipegang oleh Ophiuchus.",
+      "sextans": "Sekstan: rasi bintang sangat samar tepat di selatan Regulus di Leo.",
+      "telescopium": "Teleskop: rasi bintang selatan yang samar tepat di bawah Sagittarius dan Mahkota Selatan.",
+      "triangulum": "Segitiga: segitiga bintang yang ringkas dekat Andromeda, rumah Galaksi Segitiga (M33).",
+      "triangulum-australe": "Segitiga Selatan: segitiga bintang yang terang dan hampir sama sisi di sebelah Alpha Centauri.",
+      "tucana": "Toucan: burung selatan yang menampung Awan Magellan Kecil dan gugus bola 47 Tucanae yang mengesankan.",
+      "volans": "Ikan Terbang: rasi bintang selatan kecil tersembunyi di lipatan Carina yang mewakili ikan terbang.",
+      "vulpecula": "Rubah Kecil: rasi bintang samar di Segitiga Musim Panas, rumah Nebula Dumbbell yang terang."
+    },
+    "constellationMyth": {
+      "aries": "Domba jantan bulu emas yang membawa Phrixus dan Helle melintasi langit untuk menyelamatkan mereka. Bulunya kemudian menjadi tujuan petualangan Jason dan Argonaut.",
+      "taurus": "Banteng adalah Zeus yang menyamar, membawa Putri Europa melintasi laut ke Kreta. Wajah V adalah Gugus Hyades, dan Pleiades bertengger di bahunya.",
+      "gemini": "Si kembar Castor dan Pollux. Ketika Castor yang fana meninggal, saudaranya yang abadi memohon kepada Zeus untuk berbagi keabadian, dan keduanya bersama selamanya.",
+      "cancer": "Kepiting yang dikirim Hera untuk mengalihkan perhatian Heracles saat ia berkelahi dengan Hydra. Heracles menginjak dan membunuhnya, tapi Hera menempatkannya di antara bintang.",
+      "leo": "Singa Nemea yang kulitnya tak dapat ditembus oleh senjata apa pun. Heracles mencekiknya dengan tangan kosong sebagai tugas pertamanya, dan mengenakan kulitnya sebagai baju zirah.",
+      "virgo": "Dianggap sebagai Demeter dewi panen atau Astraea yang melarikan diri ke langit. Spica adalah bulir gandum yang dipegangnya.",
+      "libra": "Timbangan keadilan yang dipegang Astraea, menimbang yang baik dan buruk. Orang Romawi melihatnya sebagai simbol keseimbangan siang-malam saat ekuinoks musim semi.",
+      "scorpius": "Kalajengking yang menyengat pemburu agung Orion secara fatal. Keduanya diletakkan di sisi berlawanan langit dan tidak pernah bertemu: saat Orion terbenam, Kalajengking terbit.",
+      "sagittarius": "Pemanah kentaurus, sering diidentifikasi sebagai Chiron yang bijak, mengarahkan anak panah ke jantung Kalajengking tetangga.",
+      "capricornus": "Kambing-ikan: dewa Pan melompat ke Sungai Nil untuk melarikan diri dari monster Typhon dan mengubah setengah tubuh bawahnya menjadi ikan.",
+      "aquarius": "Ganymede, pemuda tampan yang dibawa Zeus ke Olympus untuk melayani para dewa, menuangkan air dari guci surga.",
+      "pisces": "Dua ikan tempat Aphrodite dan putranya Eros berubah untuk melarikan diri dari Typhon, mengikat ekor mereka agar tidak terpisah.",
+      "orion": "Pemburu agung yang menyombongkan diri bisa membunuh binatang apa pun, lalu mati disengat kalajengking. Ia melintasi langit musim dingin dengan gada, sabuk, dan pedang, ditemani dua anjingnya.",
+      "cassiopeia": "Ratu sombong yang membanggakan diri lebih cantik dari nimfa laut. Sebagai hukuman ia berputar mengelilingi kutub, menghabiskan setengah malam tergantung terbalik.",
+      "cepheus": "Raja Etiopia, suami Cassiopeia dan ayah Andromeda, ditempatkan di langit bersama keluarga kerajaan.",
+      "andromeda": "Putri yang dirantai ke batu sebagai korban monster laut untuk menebus kesombongan ibunya, diselamatkan oleh pahlawan Perseus.",
+      "perseus": "Pahlawan yang memenggal kepala Medusa dan menyelamatkan Andromeda. Ia memegang kepala Medusa yang terpenggal — matanya yang berkedip-kedip adalah Algol si bintang iblis.",
+      "pegasus": "Kuda bersayap yang lahir dari darah Medusa, membawa para pahlawan dan menciptakan mata air Muse dengan kukunya.",
+      "cetus": "Monster laut yang dikirim untuk menelan Andromeda, yang membatu ketika Perseus menunjukkan kepala Medusa kepadanya.",
+      "ursa-major": "Callisto, nimfa yang diubah menjadi beruang oleh dewi yang cemburu, diangkat Zeus ke langit bersama putranya, Beruang Kecil.",
+      "ursa-minor": "Arcas, putra Callisto, ditempatkan di langit di samping ibunya. Ujung ekornya adalah Bintang Utara.",
+      "bootes": "Sang penggembala beruang, mengemudikan Beruang Besar mengelilingi kutub dan memegang tali Anjing-Anjing Pemburu. Arcturus berarti Penjaga Beruang.",
+      "corona-borealis": "Mahkota Putri Ariadne yang diberikan padanya setelah membantu Theseus melarikan diri dari labirin. Dionysus melemparnya ke langit sebagai diadema.",
+      "hercules": "Pahlawan terbesar Yunani yang menyelesaikan 12 tugas mustahil, digambarkan berlutut. Di sampingnya ada singa dan naga yang telah ia kalahkan.",
+      "lyra": "Kecapi Orpheus yang mempesona semua makhluk hidup. Setelah kematiannya, para dewa menaruh alat musik itu di antara bintang; ditandai Vega yang terang.",
+      "cygnus": "Angsa: wujud Zeus yang diambil, atau Cycnus yang setia yang berulang kali menyelam ke sungai mencari teman yang tewas hingga berubah menjadi angsa.",
+      "aquila": "Rajawali pembawa petir Zeus, yang membawa Ganymede muda ke Olympus.",
+      "draco": "Ladon sang naga yang menjaga apel emas Hesperides sampai Heracles membunuhnya. Kini ia meliuk selamanya di sekitar kutub.",
+      "canis-major": "Anjing pemburu Orion yang setia. Menampung Sirius, bintang paling terang di langit malam.",
+      "canis-minor": "Anjing kedua Orion, ditandai oleh Procyon yang terang yang terbit sedikit sebelum Sirius.",
+      "auriga": "Sang kusir, sering diidentifikasi sebagai Erichthonius penemu kereta empat kuda. Ia memegang kambing (bintang Capella) dan anak-anak kambing di bahunya.",
+      "centaurus": "Dianggap sebagai Chiron sang kentaurus bijak, guru para pahlawan, yang ditempatkan di langit selatan. Dua bintangnya yang terang menunjuk ke Salib Selatan.",
+      "hydra": "Hydra bermulut banyak yang Heracles bunuh — setiap kepala ditebas, dua tumbuh lagi, sampai ia membakarnya.",
+      "corvus": "Gagak yang dikirim Apollo mengambil air tapi berlama-lama makan ara. Saat ia menyalahkan ular, Apollo menaruh ketiganya di langit.",
+      "crater": "Piala Apollo, terkait kisah gagak yang berbohong — ditempatkan di punggung Hydra jauh dari jangkauan gagak.",
+      "ophiuchus": "Asclepius sang penyembuh agung yang bisa membangkitkan orang mati, memegang ular besar. Zeus membunuhnya dengan petir tapi mengabadikannya di antara bintang.",
+      "serpens": "Ular besar yang dipegang Asclepius sang penyembuh: satu-satunya rasi bintang yang dibagi dua — kepala dan ekor — di kedua sisi pemegang ularnya.",
+      "lepus": "Kelinci berjongkok di kaki Orion, selamanya melarikan diri dari pemburu dan anjing-anjingnya.",
+      "sagitta": "Anak panah: dianggap sebagai anak panah yang ditembakkan Heracles untuk membunuh elang yang menyiksa Prometheus, atau milik Apollo atau Eros.",
+      "delphinus": "Lumba-lumba yang membawa penyair Arion ke pantai dengan selamat setelah terpikat oleh lagu sang penyair ketika dia dilemparkan ke laut — Apollo menaruhnya di langit.",
+      "triangulum": "Segitiga sederhana yang dibandingkan orang Yunani dengan delta Sungai Nil, Sisilia, dan huruf Yunani Delta.",
+      "eridanus": "Sungai langit besar, dikaitkan dengan Sungai Nil dan sungai tempat Phaethon jatuh setelah salah mengendarai kereta Matahari.",
+      "columba": "Dalam tradisi kemudian, merpati yang dikirim Nuh dari bahtera, atau merpati yang memandu Argonaut melewati bebatuan yang bertabrakan.",
+      "corona-australis": "Mahkota Selatan, kadang dilihat sebagai karangan bunga di kaki sang Pemanah.",
+      "crux": "Salib Selatan: tidak dikenal bangsa Yunani kuno, tapi bagi banyak bangsa selatan merupakan tanda suci dan pemandu bagi pelaut di lautan selatan.",
+      "phoenix": "Phoenix, burung mitos yang terbakar dan lahir kembali dari abu — simbol kebangkitan dalam banyak budaya.",
+      "pavo": "Burung merak yang dipersembahkan untuk dewi Hera, ekornya konon menampung seratus mata raksasa Argus."
+    },
+    "starName": {
+      "sirius": "Sirius",
+      "canopus": "Kanopos",
+      "rigil-kentaurus": "Rigil Kentaurus",
+      "arcturus": "Arktur",
+      "vega": "Vega",
+      "capella": "Kapela",
+      "rigel": "Rigel",
+      "procyon": "Prokion",
+      "betelgeuse": "Betelgeuse",
+      "altair": "Altair",
+      "aldebaran": "Aldebaran",
+      "antares": "Antares",
+      "spica": "Spika",
+      "pollux": "Poluk",
+      "fomalhaut": "Fomalhaut",
+      "deneb": "Deneb",
+      "regulus": "Regulus",
+      "castor": "Kastor",
+      "bellatrix": "Bellatrik",
+      "elnath": "Elnath",
+      "alnilam": "Alnilam",
+      "alnitak": "Alnitak",
+      "mintaka": "Mintaka",
+      "alioth": "Alioth",
+      "dubhe": "Dubhe",
+      "alkaid": "Alkaid",
+      "mirfak": "Mirfak",
+      "polaris": "Polaris",
+      "alphard": "Alphard",
+      "hamal": "Hamal",
+      "hadar": "Hadar",
+      "achernar": "Achernar",
+      "acrux": "Acrux"
+    },
+    "starDesc": {
+      "sirius": "Bintang paling terang di langit malam. Di Anjing Besar, sekitar 8,6 tahun cahaya jauhnya.",
+      "canopus": "Bintang paling terang kedua, mercu suar langit selatan. Di Carina, sekitar 310 tahun cahaya.",
+      "rigil-kentaurus": "Alpha Centauri: sistem bintang terdekat dengan Matahari. Di Kentaurus, hanya sekitar 4,4 tahun cahaya.",
+      "arcturus": "Raksasa merah, bintang paling terang di langit utara. Di Bootes, sekitar 37 tahun cahaya.",
+      "vega": "Bintang musim panas dan mantan bintang kutub. Di Lyra, sekitar 25 tahun cahaya.",
+      "capella": "Sebenarnya empat bintang dalam satu sistem. Di Auriga, sekitar 43 tahun cahaya.",
+      "rigel": "Raksasa biru menandai kaki Orion. Sekitar 860 tahun cahaya.",
+      "procyon": "Bintang dekat yang terang. Di Canis Minor, sekitar 11,5 tahun cahaya.",
+      "betelgeuse": "Raksasa merah yang suatu hari bisa meledak sebagai supernova. Di Orion, sekitar 550 tahun cahaya.",
+      "altair": "Titik sudut Segitiga Musim Panas. Di Aquila, sekitar 17 tahun cahaya.",
+      "aldebaran": "Mata oranye Banteng. Sekitar 65 tahun cahaya.",
+      "antares": "Raksasa merah saingan Mars, nama artinya 'Saingan Ares'. Di Kalajengking, sekitar 550 tahun cahaya.",
+      "spica": "Bintang paling terang di Perawan. Sekitar 250 tahun cahaya.",
+      "pollux": "Salah satu dari si Kembar, bintang paling terang di Gemini. Sekitar 34 tahun cahaya.",
+      "fomalhaut": "Bintang kesepian musim gugur. Di Ikan Selatan, sekitar 25 tahun cahaya.",
+      "deneb": "Raksasa biru yang jauh dan terang di Segitiga Musim Panas. Di Cygnus, sekitar 1.400 tahun cahaya.",
+      "regulus": "Jantung Singa. Sekitar 79 tahun cahaya.",
+      "castor": "Kembar lainnya, sebenarnya enam bintang. Sekitar 51 tahun cahaya.",
+      "bellatrix": "Bahu Amazon Orion. Sekitar 250 tahun cahaya.",
+      "elnath": "Bersama ujung tanduk Banteng dan kaki Kusir. Sekitar 130 tahun cahaya.",
+      "alnilam": "Bintang tengah sabuk Orion. Sekitar 1.340 tahun cahaya.",
+      "alnitak": "Bintang timur sabuk Orion. Sekitar 1.260 tahun cahaya.",
+      "mintaka": "Bintang barat sabuk Orion. Sekitar 1.200 tahun cahaya.",
+      "alioth": "Bintang paling terang di Beruang Besar. Sekitar 81 tahun cahaya.",
+      "dubhe": "Bintang penunjuk Biduk yang mengarah ke Bintang Utara. Sekitar 123 tahun cahaya.",
+      "alkaid": "Ujung pegangan Biduk. Sekitar 100 tahun cahaya.",
+      "mirfak": "Bintang paling terang di Perseus. Sekitar 510 tahun cahaya.",
+      "polaris": "Bintang Utara, hampir tepat di atas kutub utara langit. Sekitar 430 tahun cahaya.",
+      "alphard": "Bintang kesepian Ular Laut. Sekitar 180 tahun cahaya.",
+      "hamal": "Bintang paling terang di Domba Jantan. Sekitar 66 tahun cahaya.",
+      "hadar": "Penunjuk selatan yang mengarah ke Salib Selatan. Di Kentaurus, sekitar 390 tahun cahaya.",
+      "achernar": "Ujung sungai Eridanus. Sekitar 140 tahun cahaya.",
+      "acrux": "Bintang paling terang di Salib Selatan. Sekitar 320 tahun cahaya."
+    }
+  }
+}

@@ -1,0 +1,1012 @@
+{
+  "code": "it",
+  "v": 1,
+  "strings": {
+    "tab.planets": "Pianeti",
+    "tab.stars": "Cielo Profondo",
+    "tab.constellations": "Costellazioni",
+    "tab.satellites": "Satelliti",
+    "tab.events": "Eventi",
+    "tab.settings": "Impostazioni",
+    "settings.title": "Impostazioni",
+    "settings.subtitle": "Preferenze dell'app",
+    "settings.language": "Lingua",
+    "settings.language.en": "English",
+    "settings.language.he": "עברית",
+    "settings.language.change": "Cambia lingua",
+    "lang.title": "Lingua",
+    "lang.intro": "Le lingue principali sono integrate. Scarica la tua lingua per una traduzione offline completa dell'intera app — descrizioni, mitologia e tutto il resto.",
+    "lang.search": "Cerca lingue",
+    "lang.builtin": "Integrata",
+    "lang.download": "Scarica",
+    "lang.downloading": "Download in corso…",
+    "lang.downloaded": "Scaricata",
+    "lang.remove": "Rimuovi",
+    "lang.failed": "Download non riuscito. Controlla la connessione e riprova.",
+    "settings.units": "Unità",
+    "settings.units.desc": "Come vengono mostrate le distanze.",
+    "settings.units.km": "Chilometri",
+    "settings.units.mi": "Miglia",
+    "settings.night": "Visione notturna (rosso)",
+    "settings.night.desc": "Una tinta rossa profonda preserva gli occhi adattati al buio — la luce rossa quasi non influisce sulla visione notturna, quindi il cielo continua a brillare quando alzi lo sguardo.",
+    "settings.night.mode": "Modalità",
+    "settings.night.off": "Off",
+    "settings.night.on": "On",
+    "settings.night.auto": "Auto",
+    "settings.night.auto.desc": "La modalità Auto attiva gradualmente il rosso man mano che il cielo si oscura dopo il tramonto.",
+    "settings.night.tint": "Tinta",
+    "settings.night.red": "Rosso",
+    "settings.night.amber": "Ambra",
+    "settings.night.intensity": "Intensità",
+    "settings.night.low": "Leggera",
+    "settings.night.medium": "Media",
+    "settings.night.high": "Intensa",
+    "settings.location": "Posizione",
+    "settings.location.desc": "Per quale posizione viene calcolato il cielo.",
+    "settings.location.gps": "Usa GPS",
+    "settings.location.manual": "Imposta manualmente",
+    "settings.location.lat": "Latitudine",
+    "settings.location.lon": "Longitudine",
+    "settings.haptics": "Aptico",
+    "settings.haptics.desc": "Vibra quando si aggancia un obiettivo.",
+    "settings.speech": "Cielo parlato",
+    "settings.speech.desc": "Legge ad alta voce obiettivo e guida alla puntamento — per l'uso senza guardare lo schermo e per ipovedenti.",
+    "point.speak": "Parla",
+    "settings.fov": "Campo visivo della fotocamera",
+    "settings.fov.desc": "Regola finemente in modo che le linee delle costellazioni e le tracce dei satelliti si allineino con il cielo reale.",
+    "settings.fov.narrow": "Stretto",
+    "settings.fov.default": "Predefinito",
+    "settings.fov.wide": "Ampio",
+    "settings.about": "Info",
+    "settings.about.version": "Versione",
+    "settings.about.sources": "Fonti dati",
+    "settings.about.credits": "Realizzato con astronomy-engine, satellite.js e Celestrak.",
+    "pro.title": "Planet Pointer Pro",
+    "pro.free": "Versione gratuita",
+    "pro.active": "★ Pro sbloccato",
+    "pro.codePlaceholder": "Hai un codice di sblocco?",
+    "pro.unlock": "Sblocca",
+    "pro.badCode": "Quel codice non ha funzionato.",
+    "pro.lock": "Blocca di nuovo",
+    "paywall.title": "Sblocca tutto il cielo",
+    "paywall.subtitle": "Un acquisto unico. Nessun abbonamento, nessun account — tuo per sempre, completamente offline.",
+    "paywall.feature.catalog": "Ogni stella, costellazione e satellite",
+    "paywall.feature.favorites": "Preferiti illimitati",
+    "paywall.feature.timeMachine": "Viaggio nel tempo — il cielo in qualsiasi data",
+    "paywall.feature.events": "Eventi celesti — eclissi, sciami meteorici, congiunzioni",
+    "paywall.feature.night": "Visione notturna completa (ambra, auto e intensità)",
+    "paywall.feature.languages": "Scarica qualsiasi lingua",
+    "paywall.buy": "Sblocca Pro",
+    "paywall.restore": "Ripristina acquisto",
+    "paywall.codePrompt": "Hai un codice di sblocco?",
+    "paywall.maybeLater": "Forse dopo",
+    "paywall.locked": "Funzione Pro",
+    "paywall.comingSoon": "Gli acquisti apriranno presto — per ora usa un codice di sblocco.",
+    "paywall.error": "Qualcosa è andato storto. Riprova.",
+    "paywall.restoreNone": "Nessun acquisto precedente trovato.",
+    "planets.title": "Planet Pointer",
+    "planets.subtitle": "Scegli un obiettivo per trovarlo nel cielo",
+    "stars.title": "Stelle",
+    "stars.subtitle": "{n} delle stelle nominate più luminose",
+    "deepsky.title": "Cielo Profondo",
+    "deepsky.subtitle": "{n} stelle, nebulose, galassie e ammassi",
+    "constellations.title": "Costellazioni",
+    "constellations.subtitle": "{n} famose figure stellari",
+    "satellites.title": "Satelliti",
+    "events.title": "Eventi celesti",
+    "events.subtitle": "Cosa si avvicina — tocca per viaggiarci nel tempo e guardare",
+    "events.calculating": "Calcolo degli eventi imminenti…",
+    "search.name": "Cerca per nome…",
+    "search.star": "Cerca stella o costellazione…",
+    "search.deepsky": "Cerca stelle, nebulose, galassie…",
+    "search.constellation": "Cerca costellazione…",
+    "search.satellite": "Cerca satellite…",
+    "filter.visibleNow": "Visibili ora",
+    "filter.showAll": "Mostra tutto",
+    "dso.cat.all": "Tutto",
+    "dso.cat.stars": "Stelle",
+    "dso.cat.nebulae": "Nebulose",
+    "dso.cat.galaxies": "Galassie",
+    "dso.cat.clusters": "Ammassi",
+    "dso.type.nebula": "Nebulosa",
+    "dso.type.galaxy": "Galassia",
+    "dso.type.openCluster": "Ammasso aperto",
+    "dso.type.globularCluster": "Ammasso globulare",
+    "dso.type.milkyWay": "Via Lattea",
+    "badge.above": "Sopra",
+    "badge.below": "Sotto",
+    "badge.visible": "Visibile",
+    "badge.daylight": "Luce del giorno",
+    "badge.eclipsed": "In ombra",
+    "list.calculating": "Calcolo…",
+    "list.gettingLocation": "Acquisizione posizione…",
+    "list.locationUnavailable": "Posizione non disponibile",
+    "list.empty.planetsFav": "Nessun preferito ancora — apri un corpo e tocca ★ per aggiungerlo.",
+    "list.empty.visible": "Niente è sopra l'orizzonte in questo momento — prova Mostra tutto.",
+    "list.empty.search": "Nessun risultato per la tua ricerca.",
+    "list.empty.starsVisible": "Nessuna stella catalogata è sopra l'orizzonte in questo momento.",
+    "list.empty.deepskyVisible": "Nessun oggetto del cielo profondo è sopra l’orizzonte in questo momento.",
+    "list.empty.constellationsVisible": "Nessuna di queste costellazioni è sopra l'orizzonte in questo momento.",
+    "sat.overhead": "● Visibile ora — guarda su!",
+    "sat.overheadDay": "Sopra di te ora, ma è giorno",
+    "sat.overheadShadow": "Sopra di te ora, ma nell'ombra della Terra",
+    "sat.next": "Prossimo passaggio",
+    "sat.noPass": "Nessun passaggio visibile a breve",
+    "sat.kmUp": "km di quota",
+    "sat.live": "Dati orbitali in tempo reale",
+    "sat.cached": "Dati orbitali salvati",
+    "sat.loading": "Aggiornamento dati orbitali…",
+    "sat.offline": "Offline — dati integrati",
+    "sat.bundled": "Dati orbitali integrati",
+    "fav.empty": "Nessun preferito ancora.\nApri un pianeta o una stella e tocca ★ per salvarlo qui.",
+    "fav.belowNow": "Nessuno dei tuoi preferiti è sopra l'orizzonte in questo momento.",
+    "fav.noMatch": "Nessun preferito corrisponde alla tua ricerca.",
+    "kind.star": "Stella",
+    "kind.constellation": "Costellazione",
+    "kind.satellite": "Satellite",
+    "kind.solar": "Sistema Solare",
+    "point.back": "Indietro",
+    "point.locked": "Agganciato a {name}",
+    "point.away": "{n}° di distanza",
+    "point.acquiring": "Inizializzazione sensori…",
+    "point.aboveHorizon": "● Sopra l'orizzonte",
+    "point.belowHorizon": "○ Sotto l'orizzonte",
+    "point.info": "Info",
+    "point.target": "Obiettivo",
+    "point.you": "Tu",
+    "point.distance": "Distanza",
+    "point.stars": "Stelle",
+    "point.mainStars": "{n} stelle principali",
+    "point.lightYears": "{n} anni luce",
+    "point.belowBanner": "{name} è sotto l'orizzonte — punta verso il basso per indicarlo attraverso la Terra.",
+    "point.satBelowBanner": "{name} non è sopra di te ora — tocca Info per vedere il prossimo passaggio.",
+    "point.timeTravel": "🕰️ Viaggio nel tempo: {when} — tocca per tornare al presente",
+    "point.turnRight": "gira a destra",
+    "point.turnLeft": "gira a sinistra",
+    "point.tiltUp": "inclina in su",
+    "point.tiltDown": "inclina in giù",
+    "point.almost": "quasi lì",
+    "point.permTitle": "Accesso alla fotocamera necessario",
+    "point.permBody": "Planet Pointer sovrappone la freccia guida alla fotocamera in tempo reale così puoi vedere {name} mentre punti.",
+    "point.permAllow": "Consenti fotocamera",
+    "info.rightNow": "In questo momento",
+    "info.about": "Info",
+    "info.mythology": "Mitologia",
+    "info.facts": "Curiosità",
+    "info.didYouKnow": "Lo sapevi?",
+    "info.learnMore": "Scopri di più",
+    "info.passes": "Passaggi imminenti",
+    "info.direction": "Direzione",
+    "info.altitude": "Altitudine",
+    "info.brightness": "Luminosità",
+    "info.visibility": "Visibilità",
+    "info.aboveHorizon": "Sopra l'orizzonte",
+    "info.belowHorizon": "Sotto l'orizzonte",
+    "info.favorited": "★  Nei preferiti",
+    "info.addFav": "☆  Aggiungi ai preferiti",
+    "info.passNote": "Orari locali. Un angolo massimo più alto significa un passaggio più luminoso e facile.",
+    "info.typeStar": "Stella",
+    "info.typeConstellation": "Costellazione",
+    "info.starIn": "Nella costellazione {c}.",
+    "info.starFixed": "Una stella fissa.",
+    "info.patternOfStars": "Una figura di stelle.",
+    "info.lightYears": "anni luce",
+    "stat.constellation": "Costellazione",
+    "stat.distance": "Distanza",
+    "stat.ra": "Ascensione retta",
+    "stat.dec": "Declinazione",
+    "stat.abbr": "Abbreviazione",
+    "stat.season": "Stagione migliore",
+    "stat.hemisphere": "Emisfero",
+    "stat.brightestStar": "Stella più luminosa",
+    "stat.mainStars": "Stelle principali",
+    "hemi.northern": "Settentrionale",
+    "hemi.southern": "Meridionale",
+    "hemi.equatorial": "Equatoriale",
+    "ev.lunar": "Eclissi lunare {kind}",
+    "ev.solar": "Eclissi solare {kind}",
+    "ev.lunarSub": "La Luna attraversa l'ombra della Terra",
+    "ev.solarSub": "La Luna passa davanti al Sole",
+    "ev.meteor": "Sciame meteorico delle {name}",
+    "ev.meteorSub": "Fino a ~{zhr}/ora · radiante in {radiant}",
+    "ev.conj": "{a} incontra {b}",
+    "ev.conjSub": "Si avvicinano a ~{sep}° l'uno dall'altro nel cielo",
+    "ev.iss": "Passaggio ISS sopra di te",
+    "ev.issSub": "Picco a {alt}° · {dir}",
+    "ekind.total": "Totale",
+    "ekind.partial": "Parziale",
+    "ekind.penumbral": "Penombrale",
+    "ekind.annular": "Anulare",
+    "ekind.hybrid": "Ibrida",
+    "count.now": "ora",
+    "count.hour": "entro un'ora",
+    "count.hours": "tra {n} ore",
+    "count.tomorrow": "domani",
+    "count.days": "tra {n} giorni",
+    "count.month": "tra ~1 mese",
+    "count.months": "tra ~{n} mesi",
+    "time.title": "Viaggio nel tempo",
+    "time.subtitle": "Guarda il cielo in qualsiasi data o ora.",
+    "time.now": "Ora",
+    "time.live": "● Cielo in diretta",
+    "time.year": "Anno",
+    "time.month": "Mese",
+    "time.day": "Giorno",
+    "time.hour": "Ora",
+    "time.minute": "Minuto",
+    "time.return": "Torna al presente",
+    "time.done": "Fine",
+    "common.on": "On",
+    "common.off": "Off"
+  },
+  "content": {
+    "bodyName": {
+      "sun": "Sole",
+      "moon": "Luna",
+      "mercury": "Mercurio",
+      "venus": "Venere",
+      "mars": "Marte",
+      "jupiter": "Giove",
+      "saturn": "Saturno",
+      "uranus": "Urano",
+      "neptune": "Nettuno"
+    },
+    "bodyDesc": {
+      "sun": "La stella al centro del nostro sistema solare: un'enorme sfera di gas incandescente che fornisce luce e calore a tutti i pianeti. Non guardarlo mai direttamente. Circa 109 volte più grande della Terra.",
+      "moon": "L'unico satellite naturale della Terra e l'oggetto più luminoso nel cielo notturno. Le fasi lunari cambiano mentre orbita intorno a noi ogni mese.",
+      "mercury": "Il pianeta più piccolo e più vicino al Sole: un mondo roccioso costellato di crateri con temperature estreme. Visibile appena sopra l'orizzonte all'alba o al tramonto.",
+      "venus": "Il pianeta più caldo, avvolto in dense nuvole. Splende come stella del mattino o della sera ed è l'oggetto più luminoso nel cielo dopo Sole e Luna.",
+      "mars": "Il Pianeta Rosso: un mondo roccioso color ruggine con i vulcani più alti e i canyon più profondi del sistema solare. Visibile a occhio nudo come un puntino rossastro.",
+      "jupiter": "Il pianeta più grande: un gigante gassoso così massiccio che tutti gli altri pianeti ci entrerebbero dentro. Le quattro lune maggiori sono visibili con un binocolo.",
+      "saturn": "Il gioiello del sistema solare, circondato da magnifici anelli di ghiaccio e roccia. Anche un piccolo telescopio mostra gli anelli.",
+      "uranus": "Un gigante di ghiaccio blu-verde che ruota su un fianco. Quasi invisibile a occhio nudo sotto un cielo molto scuro.",
+      "neptune": "Il pianeta più lontano dal Sole: un mondo gelido e blu flagellato dai venti più veloci del sistema solare. Invisibile a occhio nudo."
+    },
+    "bodyInfo": {
+      "sun": {
+        "type": "Nana gialla (tipo G)",
+        "tagline": "La stella al cuore del nostro sistema solare.",
+        "stats": [
+          {
+            "label": "Diametro",
+            "value": "1.392.700 km\n(109 × Terra)"
+          },
+          {
+            "label": "Temp. superficie",
+            "value": "~5.500 °C"
+          },
+          {
+            "label": "Massa",
+            "value": "1,989 × 10³⁰ kg\n(332.900 × Terra)"
+          },
+          {
+            "label": "Età",
+            "value": "~4,6 miliardi di anni"
+          },
+          {
+            "label": "Rotazione",
+            "value": "~25 giorni (equatore)"
+          },
+          {
+            "label": "Velocità orbitale",
+            "value": "~220 km/s (galassia)"
+          }
+        ],
+        "facts": [
+          "Circa 1,3 milioni di Terre ci entrerebbero dentro.",
+          "La luce impiega ~8 minuti per raggiungere la Terra.",
+          "Non guardarlo mai direttamente con binocolo o telescopio."
+        ]
+      },
+      "moon": {
+        "type": "Satellite naturale",
+        "tagline": "L'unico satellite naturale della Terra.",
+        "stats": [
+          {
+            "label": "Diametro",
+            "value": "3.475 km\n(0,27 × Terra)"
+          },
+          {
+            "label": "Distanza media",
+            "value": "384.400 km"
+          },
+          {
+            "label": "Massa",
+            "value": "7,35 × 10²² kg\n(0,0123 × Terra)"
+          },
+          {
+            "label": "Periodo orbitale",
+            "value": "27,3 giorni"
+          },
+          {
+            "label": "Rotazione",
+            "value": "27,3 giorni (sincrona)"
+          },
+          {
+            "label": "Velocità orbitale",
+            "value": "1,0 km/s"
+          },
+          {
+            "label": "Gravità",
+            "value": "1/6 della Terra"
+          }
+        ],
+        "facts": [
+          "Mostra sempre la stessa faccia (rotazione sincrona).",
+          "Si allontana di circa 3,8 cm all'anno.",
+          "Dodici persone hanno camminato sulla sua superficie."
+        ]
+      },
+      "mercury": {
+        "type": "Pianeta roccioso",
+        "tagline": "Il pianeta più piccolo e più vicino al Sole.",
+        "stats": [
+          {
+            "label": "Diametro",
+            "value": "4.879 km\n(0,389 × Terra)"
+          },
+          {
+            "label": "Distanza dal Sole",
+            "value": "57,9 milioni km"
+          },
+          {
+            "label": "Massa",
+            "value": "3,30 × 10²³ kg\n(0,055 × Terra)"
+          },
+          {
+            "label": "Anno",
+            "value": "88 giorni terrestri"
+          },
+          {
+            "label": "Rotazione",
+            "value": "58,6 giorni terrestri"
+          },
+          {
+            "label": "Durata del giorno",
+            "value": "176 giorni terrestri"
+          },
+          {
+            "label": "Velocità orbitale",
+            "value": "47,4 km/s"
+          },
+          {
+            "label": "Lune",
+            "value": "Nessuna"
+          }
+        ],
+        "facts": [
+          "Un anno dura solo 88 giorni terrestri.",
+          "Le temperature variano tra 430 °C e −180 °C.",
+          "Meglio visibile appena sopra l'orizzonte all'alba o al crepuscolo."
+        ]
+      },
+      "venus": {
+        "type": "Pianeta roccioso",
+        "tagline": "Il pianeta più caldo e il più luminoso nel nostro cielo.",
+        "stats": [
+          {
+            "label": "Diametro",
+            "value": "12.104 km\n(0,949 × Terra)"
+          },
+          {
+            "label": "Distanza dal Sole",
+            "value": "108,2 milioni km"
+          },
+          {
+            "label": "Massa",
+            "value": "4,87 × 10²⁴ kg\n(0,815 × Terra)"
+          },
+          {
+            "label": "Temp. superficie",
+            "value": "~465 °C"
+          },
+          {
+            "label": "Anno",
+            "value": "225 giorni terrestri"
+          },
+          {
+            "label": "Rotazione",
+            "value": "243 giorni terrestri (retrograda)"
+          },
+          {
+            "label": "Velocità orbitale",
+            "value": "35,0 km/s"
+          },
+          {
+            "label": "Lune",
+            "value": "Nessuna"
+          }
+        ],
+        "facts": [
+          "Ruota in senso opposto rispetto alla maggior parte dei pianeti.",
+          "Un giorno su Venere dura più di un anno.",
+          "Spesso chiamata stella del mattino o della sera."
+        ]
+      },
+      "mars": {
+        "type": "Pianeta roccioso",
+        "tagline": "Il Pianeta Rosso, meta di molte missioni spaziali.",
+        "stats": [
+          {
+            "label": "Diametro",
+            "value": "6.779 km\n(0,533 × Terra)"
+          },
+          {
+            "label": "Distanza dal Sole",
+            "value": "227,9 milioni km"
+          },
+          {
+            "label": "Massa",
+            "value": "6,42 × 10²³ kg\n(0,107 × Terra)"
+          },
+          {
+            "label": "Anno",
+            "value": "687 giorni terrestri (1,9 anni)"
+          },
+          {
+            "label": "Rotazione",
+            "value": "24,6 ore"
+          },
+          {
+            "label": "Velocità orbitale",
+            "value": "24,1 km/s"
+          },
+          {
+            "label": "Lune",
+            "value": "2 (Fobos, Deimos)"
+          }
+        ],
+        "facts": [
+          "Ospita l'Olympus Mons, il vulcano più alto del sistema solare.",
+          "Il colore rosso è dovuto all'ossido di ferro (ruggine).",
+          "Visibile a occhio nudo come un puntino rossastro."
+        ]
+      },
+      "jupiter": {
+        "type": "Gigante gassoso",
+        "tagline": "Il pianeta più grande del sistema solare.",
+        "stats": [
+          {
+            "label": "Diametro",
+            "value": "139.820 km\n(11,21 × Terra)"
+          },
+          {
+            "label": "Distanza dal Sole",
+            "value": "778,5 milioni km"
+          },
+          {
+            "label": "Massa",
+            "value": "1,898 × 10²⁷ kg\n(317,8 × Terra)"
+          },
+          {
+            "label": "Anno",
+            "value": "11,9 anni terrestri"
+          },
+          {
+            "label": "Rotazione",
+            "value": "~10 ore"
+          },
+          {
+            "label": "Velocità orbitale",
+            "value": "13,1 km/s"
+          },
+          {
+            "label": "Lune",
+            "value": "95+"
+          }
+        ],
+        "facts": [
+          "La Grande Macchia Rossa è una tempesta più grande della Terra.",
+          "Le quattro lune maggiori sono visibili con un binocolo.",
+          "Ha il giorno più corto di tutti i pianeti."
+        ]
+      },
+      "saturn": {
+        "type": "Gigante gassoso",
+        "tagline": "Il gioiello del sistema solare con i suoi anelli.",
+        "stats": [
+          {
+            "label": "Diametro",
+            "value": "116.460 km\n(9,45 × Terra)"
+          },
+          {
+            "label": "Distanza dal Sole",
+            "value": "1,43 miliardi km"
+          },
+          {
+            "label": "Massa",
+            "value": "5,68 × 10²⁶ kg\n(95,15 × Terra)"
+          },
+          {
+            "label": "Anno",
+            "value": "29,5 anni terrestri"
+          },
+          {
+            "label": "Rotazione",
+            "value": "~10,7 ore"
+          },
+          {
+            "label": "Velocità orbitale",
+            "value": "9,7 km/s"
+          },
+          {
+            "label": "Lune",
+            "value": "140+"
+          }
+        ],
+        "facts": [
+          "Gli anelli sono composti principalmente da ghiaccio e roccia.",
+          "È il pianeta meno denso — galleggerebbe sull'acqua.",
+          "Gli anelli sono visibili anche con un piccolo telescopio."
+        ]
+      },
+      "uranus": {
+        "type": "Gigante di ghiaccio",
+        "tagline": "Il pianeta che ruota su un fianco.",
+        "stats": [
+          {
+            "label": "Diametro",
+            "value": "50.724 km\n(4,01 × Terra)"
+          },
+          {
+            "label": "Distanza dal Sole",
+            "value": "2,87 miliardi km"
+          },
+          {
+            "label": "Massa",
+            "value": "8,68 × 10²⁵ kg\n(14,56 × Terra)"
+          },
+          {
+            "label": "Anno",
+            "value": "84 anni terrestri"
+          },
+          {
+            "label": "Rotazione",
+            "value": "17,2 ore (retrograda)"
+          },
+          {
+            "label": "Velocità orbitale",
+            "value": "6,8 km/s"
+          },
+          {
+            "label": "Lune",
+            "value": "28"
+          }
+        ],
+        "facts": [
+          "Ruota su un fianco, probabilmente a causa di un enorme impatto.",
+          "Il colore blu-verde è dovuto al metano.",
+          "Quasi invisibile a occhio nudo sotto un cielo molto scuro."
+        ]
+      },
+      "neptune": {
+        "type": "Gigante di ghiaccio",
+        "tagline": "Il pianeta più ventoso e più lontano.",
+        "stats": [
+          {
+            "label": "Diametro",
+            "value": "49.244 km\n(3,88 × Terra)"
+          },
+          {
+            "label": "Distanza dal Sole",
+            "value": "4,5 miliardi km"
+          },
+          {
+            "label": "Massa",
+            "value": "1,02 × 10²⁶ kg\n(17,15 × Terra)"
+          },
+          {
+            "label": "Anno",
+            "value": "165 anni terrestri"
+          },
+          {
+            "label": "Rotazione",
+            "value": "16,1 ore"
+          },
+          {
+            "label": "Velocità orbitale",
+            "value": "5,4 km/s"
+          },
+          {
+            "label": "Lune",
+            "value": "16"
+          }
+        ],
+        "facts": [
+          "I venti raggiungono 2.000 km/h — i più veloci del sistema solare.",
+          "Fu scoperto attraverso calcoli matematici prima di essere osservato.",
+          "Serve un telescopio per trovarlo."
+        ]
+      }
+    },
+    "constellationName": {
+      "orion": "Orione",
+      "ursa-major": "Orsa Maggiore",
+      "cassiopeia": "Cassiopea",
+      "scorpius": "Scorpione",
+      "leo": "Leone",
+      "cygnus": "Cigno",
+      "gemini": "Gemelli",
+      "taurus": "Toro",
+      "canis-major": "Cane Maggiore",
+      "crux": "Croce del Sud",
+      "aries": "Ariete",
+      "cancer": "Cancro",
+      "virgo": "Vergine",
+      "libra": "Bilancia",
+      "sagittarius": "Sagittario",
+      "capricornus": "Capricorno",
+      "aquarius": "Acquario",
+      "pisces": "Pesci",
+      "ursa-minor": "Orsa Minore",
+      "andromeda": "Andromeda",
+      "perseus": "Perseo",
+      "auriga": "Auriga",
+      "bootes": "Boote",
+      "corona-borealis": "Corona Boreale",
+      "hercules": "Ercole",
+      "lyra": "Lira",
+      "aquila": "Aquila",
+      "pegasus": "Pegaso",
+      "cepheus": "Cefeo",
+      "draco": "Drago",
+      "canis-minor": "Cane Minore",
+      "centaurus": "Centauro",
+      "lupus": "Lupo",
+      "carina": "Carena",
+      "vela": "Vela",
+      "puppis": "Poppa",
+      "corvus": "Corvo",
+      "delphinus": "Delfino",
+      "antlia": "Macchina Pneumatica",
+      "apus": "Uccello del Paradiso",
+      "ara": "Altare",
+      "caelum": "Bulino",
+      "camelopardalis": "Giraffa",
+      "canes-venatici": "Cani da Caccia",
+      "cetus": "Balena",
+      "chamaeleon": "Camaleonte",
+      "circinus": "Compasso",
+      "columba": "Colomba",
+      "coma-berenices": "Chioma di Berenice",
+      "corona-australis": "Corona Australe",
+      "crater": "Coppa",
+      "dorado": "Pesce Spada",
+      "equuleus": "Cavallino",
+      "eridanus": "Eridano",
+      "fornax": "Fornace",
+      "grus": "Gru",
+      "horologium": "Orologio",
+      "hydra": "Idra",
+      "hydrus": "Idra Maschio",
+      "indus": "Indiano",
+      "lacerta": "Lucertola",
+      "leo-minor": "Leone Minore",
+      "lepus": "Lepre",
+      "lynx": "Lince",
+      "mensa": "Mensa",
+      "microscopium": "Microscopio",
+      "monoceros": "Unicorno",
+      "musca": "Mosca",
+      "norma": "Squadra",
+      "octans": "Ottante",
+      "ophiuchus": "Ofiuco",
+      "pavo": "Pavone",
+      "phoenix": "Fenice",
+      "pictor": "Pittore",
+      "piscis-austrinus": "Pesce Australe",
+      "pyxis": "Bussola",
+      "reticulum": "Reticolo",
+      "sagitta": "Freccia",
+      "sculptor": "Scultore",
+      "scutum": "Scudo",
+      "serpens": "Serpente",
+      "sextans": "Sestante",
+      "telescopium": "Telescopio",
+      "triangulum": "Triangolo",
+      "triangulum-australe": "Triangolo Australe",
+      "tucana": "Tucano",
+      "volans": "Pesce Volante",
+      "vulpecula": "Volpetta"
+    },
+    "constellationNick": {
+      "orion": "il Cacciatore",
+      "ursa-major": "l'Orsa Maggiore (il Grande Carro)",
+      "cassiopeia": "la Regina",
+      "scorpius": "lo Scorpione",
+      "leo": "il Leone",
+      "cygnus": "il Cigno (la Croce del Nord)",
+      "gemini": "i Gemelli",
+      "taurus": "il Toro",
+      "canis-major": "il Cane Maggiore",
+      "crux": "la Croce del Sud",
+      "aries": "l'Ariete",
+      "cancer": "il Cancro",
+      "virgo": "la Vergine",
+      "libra": "la Bilancia",
+      "sagittarius": "il Sagittario (la Teiera)",
+      "capricornus": "la Capra Marina",
+      "aquarius": "l'Acquario",
+      "pisces": "i Pesci",
+      "ursa-minor": "il Piccolo Carro",
+      "andromeda": "la Principessa Incatenata",
+      "perseus": "l'Eroe",
+      "auriga": "il Cocchiere",
+      "bootes": "il Guardiano dell'Orsa",
+      "corona-borealis": "la Corona Boreale",
+      "hercules": "l'Eroe Inginocchiato",
+      "lyra": "la Lira",
+      "aquila": "l'Aquila",
+      "pegasus": "il Cavallo Alato",
+      "cepheus": "il Re",
+      "draco": "il Dragone",
+      "canis-minor": "il Cane Minore",
+      "centaurus": "il Centauro",
+      "lupus": "il Lupo",
+      "carina": "la Carena",
+      "vela": "la Vela",
+      "puppis": "la Poppa",
+      "corvus": "il Corvo",
+      "delphinus": "il Delfino",
+      "antlia": "la Macchina Pneumatica",
+      "apus": "l'Uccello del Paradiso",
+      "ara": "l'Altare",
+      "caelum": "il Bulino",
+      "camelopardalis": "la Giraffa",
+      "canes-venatici": "i Cani da Caccia",
+      "cetus": "il Mostro Marino",
+      "chamaeleon": "il Camaleonte",
+      "circinus": "il Compasso",
+      "columba": "la Colomba",
+      "coma-berenices": "la Chioma di Berenice",
+      "corona-australis": "la Corona Australe",
+      "crater": "la Coppa",
+      "dorado": "il Pesce Spada",
+      "equuleus": "il Cavallino",
+      "eridanus": "il Fiume",
+      "fornax": "la Fornace",
+      "grus": "la Gru",
+      "horologium": "l'Orologio",
+      "hydra": "l'Idra",
+      "hydrus": "l'Idra Maschio",
+      "indus": "l'Indiano",
+      "lacerta": "la Lucertola",
+      "leo-minor": "il Leone Minore",
+      "lepus": "la Lepre",
+      "lynx": "la Lince",
+      "mensa": "la Mensa",
+      "microscopium": "il Microscopio",
+      "monoceros": "l'Unicorno",
+      "musca": "la Mosca",
+      "norma": "la Squadra",
+      "octans": "l'Ottante",
+      "ophiuchus": "il Portatore di Serpente",
+      "pavo": "il Pavone",
+      "phoenix": "la Fenice",
+      "pictor": "il Pittore",
+      "piscis-austrinus": "il Pesce Australe",
+      "pyxis": "la Bussola",
+      "reticulum": "il Reticolo",
+      "sagitta": "la Freccia",
+      "sculptor": "lo Scultore",
+      "scutum": "lo Scudo",
+      "serpens": "il Serpente",
+      "sextans": "il Sestante",
+      "telescopium": "il Telescopio",
+      "triangulum": "il Triangolo",
+      "triangulum-australe": "il Triangolo Australe",
+      "tucana": "il Tucano",
+      "volans": "il Pesce Volante",
+      "vulpecula": "la Volpetta"
+    },
+    "constellationDesc": {
+      "orion": "Il Cacciatore: la costellazione più riconoscibile, sull'equatore celeste e quindi visibile in tutto il mondo. Le tre stelle della cintura puntano verso Sirio da un lato e verso Aldebaran dall'altro.",
+      "ursa-major": "L'Orsa Maggiore con il Grande Carro: sette stelle brillanti le cui stelle puntatori, Dubhe e Merak, conducono direttamente alla Stella Polare.",
+      "cassiopeia": "La Regina: una chiara W (o M) di cinque stelle, dal lato opposto della Stella Polare rispetto all'Orsa Maggiore, cosicché una delle due è sempre alta nel cielo settentrionale.",
+      "scorpius": "Lo Scorpione: un arco di stelle attorno alla supergigante rossa Antares, con una coda ricurva che termina in un pungiglione. Un gioiello del cielo estivo meridionale.",
+      "leo": "Il Leone: testa e criniera formano un punto interrogativo rovesciato (la Falce), coronato da Regolo, e un triangolo di stelle segna il posteriore.",
+      "cygnus": "Il Cigno, detto anche Croce del Nord: vola lungo la Via Lattea, con la luminosa Deneb nella coda e la stella doppia Albireo nel becco.",
+      "gemini": "I Gemelli: due file parallele di stelle coronate dalla brillante coppia Castore e Polluce, le teste dei fratelli mitologici.",
+      "taurus": "Il Toro: un viso a forma di V (l'ammasso delle Iadi) attorno all'arancione Aldebaran, con lunghe corna fino a Elnath. Le Pleiadi riposano sulla spalla.",
+      "canis-major": "Il Cane Maggiore: fedele compagno di Orione, marcato da Sirio, la stella più brillante dell'intero cielo notturno.",
+      "crux": "La Croce del Sud: la costellazione più piccola, ma una delle più famose; l'asse lungo punta verso il polo sud celeste.",
+      "aries": "L'Ariete: una morbida linea di stelle guidata dall'arancione Hamal. Un famoso segno zodiacale che ospitava un tempo il punto vernale.",
+      "cancer": "Il Cancro: la costellazione zodiacale più debole, ma con il magnifico ammasso stellare del Presepio (Praesepe).",
+      "virgo": "La Vergine: la seconda costellazione per dimensioni, guidata dalla brillante Spica bianco-azzurra, la spiga di grano che tiene in mano.",
+      "libra": "La Bilancia: l'unico segno zodiacale che rappresenta un oggetto e non un essere vivente; le sue stelle formavano un tempo le chele del vicino Scorpione.",
+      "sagittarius": "Il Sagittario: le sue stelle brillanti disegnano la Teiera, il cui beccuccio punta verso il centro della nostra Via Lattea.",
+      "capricornus": "Il Capricorno: un ampio triangolo di stelle deboli, la più piccola costellazione zodiacale, bassa nel cielo meridionale.",
+      "aquarius": "L'Acquario: un'antica e vasta costellazione la cui brocca riversa un flusso di stelle deboli verso sud.",
+      "pisces": "I Pesci: due pesci uniti per la coda dalla stella Alrescha, che serpeggiano debolmente sotto il Grande Quadrato di Pegaso.",
+      "ursa-minor": "L'Orsa Minore: la punta della sua coda è la Stella Polare, attorno alla quale sembra ruotare l'intero cielo settentrionale. Un'eco più piccola e più debole del Grande Carro.",
+      "andromeda": "La Principessa Incatenata: una catena di stelle che parte da un angolo del Grande Quadrato di Pegaso, con la Galassia di Andromeda, l'oggetto più lontano visibile a occhio nudo.",
+      "perseus": "L'Eroe: un ricco tratto di Via Lattea con Algol, la stella del diavolo, la cui luminosità cala ogni pochi giorni quando un compagno la oscura.",
+      "auriga": "Il Cocchiere: un brillante pentagono di stelle coronato dallo splendente Capella, la sesta stella più luminosa, alta nel cielo invernale serale.",
+      "bootes": "Il Guardiano dell'Orsa: una figura a forma di aquilone guidata da Arturo, la stella più brillante nel cielo settentrionale, da trovare seguendo l'arco del manico del Grande Carro.",
+      "corona-borealis": "La Corona Boreale: un elegante semicerchio di sette stelle il cui gioiello è Alphecca. Piccola ma facile da riconoscere.",
+      "hercules": "L'Eroe Inginocchiato: una grande costellazione estiva le cui quattro stelle centrali formano la Pietra di Volta. Ospita M13, il più bello ammasso globulare nel cielo settentrionale.",
+      "lyra": "La Lira: una piccola costellazione attorno alla brillante Vega bianco-azzurra, un vertice del Triangolo Estivo, con un ordinato parallelogramma sotto.",
+      "aquila": "L'Aquila: scende lungo la Via Lattea, marcata dalla brillante Altair affiancata da due stelle più deboli; vertice meridionale del Triangolo Estivo.",
+      "pegasus": "Pegaso, il cavallo alato: il suo corpo è il Grande Quadrato di Pegaso, un enorme rettangolo quasi vuoto di stelle che domina il cielo autunnale.",
+      "cepheus": "Il Re: una costellazione polare a forma di casetta, con la famosa stella variabile Delta Cephei.",
+      "draco": "Il Drago: una lunga costellazione sinuosa tra le due Orse. La sua stella Thuban era la Stella Polare ai tempi delle piramidi egizie.",
+      "canis-minor": "Il Cane Minore: poco più di due stelle, ma una di esse è Procione, l'ottava più luminosa, un vertice del Triangolo Invernale.",
+      "centaurus": "Il Centauro: una brillante costellazione meridionale le cui stelle puntatori, Alfa e Beta Centauri, indicano la Croce del Sud. Alfa Centauri è il sistema stellare più vicino al Sole.",
+      "lupus": "Il Lupo: una compatta costellazione meridionale su un ricco sfondo di Via Lattea, tra il Centauro e lo Scorpione.",
+      "carina": "La Carena della nave Argo: ospita Canopo, la seconda stella più luminosa del cielo, e la gigantesca Nebulosa della Carena.",
+      "vela": "La Vela della nave Argo: una brillante costellazione meridionale le cui stelle, insieme a due della Carena, formano la Falsa Croce.",
+      "puppis": "La Poppa della nave Argo: una grande costellazione meridionale in una zona densa di Via Lattea, guidata dalla calda stella Naos.",
+      "corvus": "Il Corvo: un piccolo e netto quadrilatero di quattro stelle che cavalca l'Idra, facile da trovare a sud di Spica.",
+      "delphinus": "Il Delfino: un piccolo e grazioso rombo di stelle (il Sarcofago di Giobbe) che balza dalla Via Lattea vicino al Triangolo Estivo.",
+      "antlia": "Una debole costellazione moderna tra l'Idra e la Vela.",
+      "apus": "Una piccola e debole costellazione vicino al polo sud celeste.",
+      "ara": "Un altare di stelle appena a sud del pungiglione dello Scorpione.",
+      "caelum": "Una delle costellazioni più deboli: una striscia stretta tra il fiume Eridano e la Colomba.",
+      "camelopardalis": "Una grande ma debole costellazione settentrionale che riempie lo spazio vuoto vicino al polo.",
+      "canes-venatici": "I cani da caccia del Guardiano dell'Orsa, guidati dalla stella Cor Caroli; sede della Galassia Vortice.",
+      "cetus": "Il Mostro Marino: una vasta costellazione con Mira, la prima stella variabile mai scoperta.",
+      "chamaeleon": "Una piccola e debole costellazione vicino al polo sud celeste.",
+      "circinus": "Una minuscola e debole costellazione nascosta accanto ad Alfa Centauri.",
+      "columba": "Una piccola costellazione sotto la Lepre, che rappresenta la colomba di Noè.",
+      "coma-berenices": "Una nebulosa dispersione di stelle che rappresenta i capelli tagliati della regina Berenice — ed è davvero un ammasso stellare vicino.",
+      "corona-australis": "Un elegante arco di stelle ai piedi del Sagittario.",
+      "crater": "Una coppa di stelle deboli che cavalca la schiena dell'Idra.",
+      "dorado": "Una costellazione meridionale che ospita la maggior parte della Grande Nube di Magellano.",
+      "equuleus": "La seconda costellazione più piccola: un debole cavallino accanto a Pegaso.",
+      "eridanus": "La sesta costellazione per dimensioni: un lungo flusso di stelle che serpeggia dal piede di Orione fino alla splendente Achernar.",
+      "fornax": "Una debole costellazione racchiusa da una curva del fiume celeste Eridano.",
+      "grus": "Un elegante uccello meridionale in volo, appena sotto il Pesce Australe.",
+      "horologium": "Una lunga e debole costellazione meridionale che si snoda accanto all'Eridano.",
+      "hydra": "La più grande di tutte le costellazioni: un lungo serpente che copre un quarto del cielo, con l'arancione Alphard come testa.",
+      "hydrus": "Un debole serpente meridionale che si snoda tra le due Nubi di Magellano.",
+      "indus": "Una debole costellazione meridionale che rappresenta un cacciatore indigeno.",
+      "lacerta": "Un piccolo zigzag di stelle deboli tra il Cigno e Andromeda.",
+      "leo-minor": "Una debole striscia di stelle incastrata tra il Leone e l'Orsa Maggiore.",
+      "lepus": "Una lepre rannicchiata ai piedi di Orione, che fugge dal cacciatore e dai suoi cani.",
+      "lynx": "Un debole zigzag, così chiamato perché occorrono occhi di lince per vederlo.",
+      "mensa": "La costellazione più debole — nessuna stella più luminosa di magnitudine 5 — situata sotto la Grande Nube di Magellano.",
+      "microscopium": "Una debole costellazione moderna a sud del Capricorno.",
+      "monoceros": "Un debole unicorno che galoppa attraverso la Via Lattea, circondato dal Triangolo Invernale.",
+      "musca": "Una piccola ma abbastanza brillante costellazione appena a sud della Croce del Sud.",
+      "norma": "Una debole costellazione in una zona ricca di stelle della Via Lattea tra lo Scorpione e il Centauro.",
+      "octans": "La costellazione che contiene il polo sud celeste; la sua stella polare Sigma Octantis è appena visibile a occhio nudo.",
+      "ophiuchus": "Il Portatore di Serpente: un gigante del cielo estivo, il 13° segno che il Sole attraversa ma che lo zodiaco non considera.",
+      "pavo": "Una costellazione meridionale la cui stella più brillante si chiama semplicemente Peacock (Pavone).",
+      "phoenix": "Il mitico uccello di fuoco, la più grande delle costellazioni di uccelli meridionali, vicino alla brillante Achernar.",
+      "pictor": "Una debole costellazione meridionale accanto alla splendente Canopo, famosa per il disco protoplanetario attorno a Beta Pictoris.",
+      "piscis-austrinus": "Il Pesce Australe beve il flusso versato dall'Acquario ed è marcato dalla solitaria e brillante Fomalhaut.",
+      "pyxis": "Una piccola e debole costellazione che segna la bussola della nave Argo.",
+      "reticulum": "Un piccolo rombo di stelle deboli vicino alla Grande Nube di Magellano.",
+      "sagitta": "La terza costellazione più piccola: una minuscola freccia che vola attraverso il Triangolo Estivo.",
+      "sculptor": "Una debole costellazione che ospita il polo sud della nostra Via Lattea.",
+      "scutum": "Una piccola costellazione che si staglia contro la splendente Nube Stellare dello Scudo della Via Lattea.",
+      "serpens": "L'unica costellazione divisa in due parti: la testa (Caput) e la coda (Cauda) di un serpente tenuto dall'Ofiuco.",
+      "sextans": "Una costellazione molto debole che si trova appena a sud di Regolo nel Leone.",
+      "telescopium": "Una debole costellazione meridionale appena sotto il Sagittario e la Corona Australe.",
+      "triangulum": "Un semplice e ordinato triangolo di stelle vicino ad Andromeda, sede della Galassia del Triangolo (M33).",
+      "triangulum-australe": "Un brillante, quasi equilatero triangolo di stelle accanto ad Alfa Centauri.",
+      "tucana": "Un uccello meridionale che ospita la Piccola Nube di Magellano e l'imponente ammasso globulare 47 Tucanae.",
+      "volans": "Una piccola costellazione meridionale di un pesce volante, nascosta nella curva della Carena.",
+      "vulpecula": "Una debole costellazione nel Triangolo Estivo, sede della brillante Nebulosa Manubrio."
+    },
+    "constellationMyth": {
+      "aries": "L'ariete con il vello d'oro che salvò i bambini Frisso ed Elle portandoli in cielo. Il suo vello divenne l'obiettivo della ricerca di Giasone e degli Argonauti.",
+      "taurus": "Il toro è Zeus travestito che porta la principessa Europa attraverso il mare fino a Creta. La V del suo viso è l'ammasso delle Iadi, e le Pleiadi riposano sulla sua spalla.",
+      "gemini": "I gemelli Castore e Polluce. Quando il mortale Castore morì, il fratello immortale supplicò Zeus di condividere la sua immortalità; furono posti insieme per sempre.",
+      "cancer": "Il granchio inviato dalla dea Era per distrarre Eracle durante la sua lotta con l'Idra. Lui lo schiacciò, ed Era lo pose tra le stelle.",
+      "leo": "Il leone di Nemea, la cui pelle non poteva essere trafita da nessuna arma. Eracle lo strangolò a mani nude come prima fatica e indossò la pelle come armatura.",
+      "virgo": "Spesso Demetra, dea del raccolto, o Astrea, la vergine della giustizia che fuggì in cielo. La sua stella luminosa, Spica, è una spiga di grano.",
+      "libra": "La bilancia della giustizia tenuta da Astrea, che pesa il bene e il male. I Romani vi vedevano l'equilibrio tra giorno e notte all'equinozio.",
+      "scorpius": "Lo scorpione che uccise il grande cacciatore Orione con una puntura mortale. Posti sui lati opposti del cielo, non si incontrano mai: Orione tramonta quando lo Scorpione sorge.",
+      "sagittarius": "Il centauro arciere, spesso il saggio Chirone, che punta la sua freccia al cuore del vicino Scorpione.",
+      "capricornus": "La capra marina: il dio Pan che si tuffò nel Nilo per sfuggire al mostro Tifone e trasformò la metà inferiore del suo corpo in pesce.",
+      "aquarius": "L'acquaiolo: Ganimede, un bel giovane portato da Zeus sull'Olimpo per servire gli dei, che versa le acque del cielo.",
+      "pisces": "Due pesci in cui si trasformarono Afrodite e suo figlio Eros per sfuggire a Tifone, con le code legate per non perdersi.",
+      "orion": "Il grande cacciatore che si vantava di poter uccidere qualsiasi bestia, e fu dunque ucciso da uno scorpione. Attraversa il cielo invernale con clava, cintura e spada, i suoi due cani ai piedi.",
+      "cassiopeia": "La regina orgogliosa che si vantava di essere più bella delle ninfe del mare. Come punizione, ruota attorno al polo, con metà notte trascorsa a testa in giù.",
+      "cepheus": "Il re d'Etiopia, marito di Cassiopea e padre di Andromeda, posto in cielo accanto alla sua famiglia reale.",
+      "andromeda": "La principessa incatenata a una roccia come sacrificio per un mostro marino, per espiare l'orgoglio della madre, finché l'eroe Perseo la salvò.",
+      "perseus": "L'eroe che tagliò la testa a Medusa e salvò Andromeda. Tiene la testa mozzata di Medusa, il cui occhio lampeggiante è la stella del diavolo Algol.",
+      "pegasus": "Il cavallo alato nato dal sangue di Medusa, che trasportava eroi e con uno zoccolo fece scaturire la fonte delle Muse.",
+      "cetus": "Il mostro marino inviato a divorare Andromeda, pietrificato quando Perseo gli mostrò la testa di Medusa.",
+      "ursa-major": "L'Orsa Maggiore: la ninfa Callisto, trasformata in orsa da una dea gelosa, che Zeus sollevò in cielo insieme a suo figlio, l'Orsa Minore.",
+      "ursa-minor": "L'Orsa Minore: Arcade, figlio di Callisto, posto in cielo accanto a sua madre. La punta della sua coda è la Stella Polare.",
+      "bootes": "Il Guardiano dell'Orsa che fa girare l'Orsa Maggiore attorno al polo e tiene le redini dei suoi cani da caccia. La sua brillante stella arancione è Arturo, il custode dell'orsa.",
+      "corona-borealis": "La corona della principessa Arianna, che aiutò Teseo a fuggire dal labirinto. Dioniso lanciò la sua corona nuziale in cielo come un diadema di stelle.",
+      "hercules": "Il più grande eroe greco, raffigurato inginocchiato, che compì dodici fatiche impossibili. Accanto a lui ci sono il Leone e il Drago che sconfisse.",
+      "lyra": "La lira di Orfeo, la cui musica incantava ogni essere vivente. Dopo la sua morte, gli dei posero lo strumento tra le stelle, segnato dalla brillante Vega.",
+      "cygnus": "Il cigno: una forma assunta da Zeus, o il fedele Cigno che si tuffava nel fiume cercando il suo amico caduto, finché fu trasformato in cigno.",
+      "aquila": "L'aquila di Zeus, portatrice dei suoi fulmini, che portò il giovane Ganimede sull'Olimpo.",
+      "draco": "Il drago Ladone, che custodiva le mele d'oro delle Esperidi finché Eracle lo uccise. Si avvolge per sempre attorno al polo nord.",
+      "canis-major": "Il Cane Maggiore: il fedele cane di Orione. Porta Sirio, la stella più luminosa dell'intero cielo notturno.",
+      "canis-minor": "Il Cane Minore, il secondo cane di Orione, marcato dalla brillante Procione, prima del cane, perché sorge poco prima di Sirio.",
+      "auriga": "Il Cocchiere, spesso Erittonio, che inventò il carro a quattro cavalli. Porta una capra — la stella Capella — e i suoi capretti sulla spalla.",
+      "centaurus": "Un centauro, spesso il saggio Chirone, maestro di eroi, posto nel cielo meridionale. Le sue due stelle brillanti puntano verso la Croce del Sud.",
+      "hydra": "Il serpente dalle molte teste che Eracle uccise; a ogni testa mozzata ne crescevano due, finché non cauterizzò i monconi col fuoco.",
+      "corvus": "Il corvo di Apollo, inviato a prendere dell'acqua ma che tardò per mangiare fichi. Incolpò un serpente d'acqua del ritardo, e Apollo li pose tutti in cielo.",
+      "crater": "La coppa di Apollo, legata alla storia del corvo bugiardo, posta sul dorso dell'Idra, fuori dalla portata del corvo.",
+      "ophiuchus": "Il Portatore di Serpente: Asclepio, il grande guaritore che poteva riportare in vita i morti, che tiene un enorme serpente. Zeus lo uccise con un fulmine ma lo immortalò tra le stelle.",
+      "serpens": "Il grande serpente tenuto dal guaritore Asclepio: l'unica costellazione divisa in due parti, testa e coda, ai suoi lati.",
+      "lepus": "La lepre rannicchiata ai piedi di Orione, in etterna fuga dal cacciatore e dai suoi cani.",
+      "sagitta": "La freccia: forse quella con cui Eracle uccise l'aquila che tormentava Prometeo, o una freccia di Apollo o Eros.",
+      "delphinus": "Il delfino che portò in salvo il poeta Arione a riva dopo che dei marinai lo avevano gettato in mare, incantati dal suo canto; Apollo lo pose in cielo.",
+      "triangulum": "Un semplice triangolo che i Greci paragonarono al delta del Nilo, all'isola della Sicilia e alla lettera delta.",
+      "eridanus": "Il grande fiume celeste, associato al Nilo e al fiume in cui cadde Fetonte dopo aver perso il controllo del carro del Sole.",
+      "columba": "La colomba: in una tradizione successiva quella che Noè mandò dall'arca, o quella che guidò gli Argonauti attraverso le rocce scontrantisi.",
+      "corona-australis": "La Corona Australe, talvolta vista come una ghirlanda ai piedi del centauro arciere.",
+      "crux": "La Croce del Sud: sconosciuta agli antichi Greci, ma un segno sacro per molti popoli meridionali e una guida per i navigatori che attraversano i mari australi.",
+      "phoenix": "La Fenice, il mitico uccello di fuoco che si consuma e risorge dalle proprie ceneri: simbolo di rinnovamento in molte culture.",
+      "pavo": "Il Pavone, sacro alla dea Era, la cui coda avrebbe portato i cento occhi del gigante Argo."
+    },
+    "starName": {
+      "sirius": "Sirio",
+      "canopus": "Canopo",
+      "rigil-kentaurus": "Rigil Kentaurus",
+      "arcturus": "Arturo",
+      "vega": "Vega",
+      "capella": "Capella",
+      "rigel": "Rigel",
+      "procyon": "Procione",
+      "betelgeuse": "Betelgeuse",
+      "altair": "Altair",
+      "aldebaran": "Aldebaran",
+      "antares": "Antares",
+      "spica": "Spica",
+      "pollux": "Polluce",
+      "fomalhaut": "Fomalhaut",
+      "deneb": "Deneb",
+      "regulus": "Regolo",
+      "castor": "Castore",
+      "bellatrix": "Bellatrix",
+      "elnath": "Elnath",
+      "alnilam": "Alnilam",
+      "alnitak": "Alnitak",
+      "mintaka": "Mintaka",
+      "alioth": "Alioth",
+      "dubhe": "Dubhe",
+      "alkaid": "Alkaid",
+      "mirfak": "Mirfak",
+      "polaris": "Stella Polare",
+      "alphard": "Alphard",
+      "hamal": "Hamal",
+      "hadar": "Hadar",
+      "achernar": "Achernar",
+      "acrux": "Acrux"
+    },
+    "starDesc": {
+      "sirius": "La stella più luminosa del cielo notturno. Una stella nel Cane Maggiore, a circa 8,6 anni luce.",
+      "canopus": "La seconda stella più luminosa, un faro meridionale. Nella Carena, a ~310 anni luce.",
+      "rigil-kentaurus": "Alfa Centauri: il sistema stellare più vicino al Sole. Nel Centauro, a soli ~4,4 anni luce.",
+      "arcturus": "Una gigante rossa; la stella più luminosa nel cielo settentrionale. Nel Boote, a ~37 anni luce.",
+      "vega": "Una stella estiva e in passato stella polare. Nella Lira, a ~25 anni luce.",
+      "capella": "In realtà un sistema di quattro stelle. Nell'Auriga, a ~43 anni luce.",
+      "rigel": "Una supergigante azzurra che segna il piede di Orione. A ~860 anni luce.",
+      "procyon": "Una stella brillante e vicina. Nel Cane Minore, a ~11,5 anni luce.",
+      "betelgeuse": "Una supergigante rossa che potrebbe un giorno esplodere come supernova. In Orione, a ~550 anni luce.",
+      "altair": "Un vertice del Triangolo Estivo. Nell'Aquila, a ~17 anni luce.",
+      "aldebaran": "L'occhio arancione del Toro. A ~65 anni luce.",
+      "antares": "Una supergigante rossa, il rivale di Marte. Nello Scorpione, a ~550 anni luce.",
+      "spica": "La stella più luminosa della Vergine. A ~250 anni luce.",
+      "pollux": "Uno dei gemelli dei Gemelli. A ~34 anni luce.",
+      "fomalhaut": "La stella solitaria dell'autunno. Nel Pesce Australe, a ~25 anni luce.",
+      "deneb": "Una lontana e luminosissima supergigante del Triangolo Estivo. Nel Cigno, a ~1400 anni luce.",
+      "regulus": "Il cuore del Leone. A ~79 anni luce.",
+      "castor": "La seconda stella gemella, un sistema di sei stelle. A ~51 anni luce.",
+      "bellatrix": "La stella amazzone di Orione. A ~250 anni luce.",
+      "elnath": "Condivisa tra i confini del Toro e dell'Auriga. A ~130 anni luce.",
+      "alnilam": "La stella centrale della cintura di Orione. A ~1340 anni luce.",
+      "alnitak": "La stella orientale della cintura di Orione. A ~1260 anni luce.",
+      "mintaka": "La stella occidentale della cintura di Orione. A ~1200 anni luce.",
+      "alioth": "La stella più luminosa dell'Orsa Maggiore. A ~81 anni luce.",
+      "dubhe": "Una stella puntatore dell'Orsa Maggiore verso la Stella Polare. A ~123 anni luce.",
+      "alkaid": "La punta del manico del Grande Carro. A ~100 anni luce.",
+      "mirfak": "La stella più luminosa di Perseo. A ~510 anni luce.",
+      "polaris": "La Stella Polare, quasi esattamente sopra il polo nord. A ~430 anni luce.",
+      "alphard": "Il solitario dell'Idra. A ~180 anni luce.",
+      "hamal": "La stella più luminosa dell'Ariete. A ~66 anni luce.",
+      "hadar": "Una stella puntatore meridionale verso la Croce del Sud. Nel Centauro, a ~390 anni luce.",
+      "achernar": "La fine del fiume celeste Eridano. A ~140 anni luce.",
+      "acrux": "La stella più luminosa della Croce del Sud. A ~320 anni luce."
+    }
+  }
+}

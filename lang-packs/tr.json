@@ -1,0 +1,1012 @@
+{
+  "code": "tr",
+  "v": 1,
+  "strings": {
+    "tab.planets": "Gezegenler",
+    "tab.stars": "Derin Uzay",
+    "tab.constellations": "Takımyıldızlar",
+    "tab.satellites": "Uydular",
+    "tab.events": "Gök Olayları",
+    "tab.settings": "Ayarlar",
+    "settings.title": "Ayarlar",
+    "settings.subtitle": "Uygulama tercihleri",
+    "settings.language": "Dil",
+    "settings.language.en": "English",
+    "settings.language.he": "עברית",
+    "settings.language.change": "Dili değiştir",
+    "lang.title": "Dil",
+    "lang.intro": "Ana diller yerleşik olarak gelir. Dilinizi indirerek uygulamanın tamamını — açıklamalar, mitoloji ve daha fazlası — çevrimdışı olarak tam çeviri ile kullanabilirsiniz.",
+    "lang.search": "Dil ara",
+    "lang.builtin": "Yerleşik",
+    "lang.download": "İndir",
+    "lang.downloading": "İndiriliyor…",
+    "lang.downloaded": "İndirildi",
+    "lang.remove": "Kaldır",
+    "lang.failed": "İndirme başarısız oldu. Bağlantınızı kontrol edip tekrar deneyin.",
+    "settings.units": "Birimler",
+    "settings.units.desc": "Mesafelerin nasıl gösterileceği.",
+    "settings.units.km": "Kilometre",
+    "settings.units.mi": "Mil",
+    "settings.night": "Gece Modu (Kırmızı)",
+    "settings.night.desc": "Yoğun kırmızı filtre, karanlığa alışmış gözlerinizi korur — kırmızı ışık gece görüşünü neredeyse etkilemez, gökyüzüne bakarken yıldızları görebilirsiniz.",
+    "settings.night.mode": "Mod",
+    "settings.night.off": "Kapalı",
+    "settings.night.on": "Açık",
+    "settings.night.auto": "Otomatik",
+    "settings.night.auto.desc": "Otomatik mod, gün batımından sonra gökyüzü kararınca kademeli olarak kırmızı filtre uygular.",
+    "settings.night.tint": "Renk tonu",
+    "settings.night.red": "Kırmızı",
+    "settings.night.amber": "Amber",
+    "settings.night.intensity": "Yoğunluk",
+    "settings.night.low": "Düşük",
+    "settings.night.medium": "Orta",
+    "settings.night.high": "Yüksek",
+    "settings.location": "Konum",
+    "settings.location.desc": "Gökyüzünü hesaplamak için konum.",
+    "settings.location.gps": "GPS kullan",
+    "settings.location.manual": "Manuel ayarla",
+    "settings.location.lat": "Enlem",
+    "settings.location.lon": "Boylam",
+    "settings.haptics": "Dokunsal geri bildirim",
+    "settings.haptics.desc": "Hedefe kilitlenildiğinde titreşim.",
+    "settings.speech": "Sesli rehberlik",
+    "settings.speech.desc": "Hedefi ve yön rehberliğini sesli okur — ekrana bakmadan kullanım veya görme engelliler için.",
+    "point.speak": "Sesli oku",
+    "settings.fov": "Kamera görüş alanı",
+    "settings.fov.desc": "Takımyıldız çizgilerinin ve uydu yörüngelerinin gerçek gökyüzüyle örtüşmesi için ince ayar yapın.",
+    "settings.fov.narrow": "Dar",
+    "settings.fov.default": "Varsayılan",
+    "settings.fov.wide": "Geniş",
+    "settings.about": "Hakkında",
+    "settings.about.version": "Sürüm",
+    "settings.about.sources": "Veri kaynakları",
+    "settings.about.credits": "astronomy-engine, satellite.js ve Celestrak ile yapılmıştır.",
+    "pro.title": "Planet Pointer Pro",
+    "pro.free": "Ücretsiz sürüm",
+    "pro.active": "★ Pro Kilidi Açık",
+    "pro.codePlaceholder": "Kilit açma kodunuz var mı?",
+    "pro.unlock": "Kilidi aç",
+    "pro.badCode": "Bu kod işe yaramadı.",
+    "pro.lock": "Yeniden kilitle",
+    "paywall.title": "Tüm Gökyüzünün Kilidini Aç",
+    "paywall.subtitle": "Tek seferlik satın alma. Abonelik yok, hesap yok — sonsuza kadar sizin, tamamen çevrimdışı.",
+    "paywall.feature.catalog": "Tüm yıldızlar, takımyıldızlar ve uydular",
+    "paywall.feature.favorites": "Sınırsız favoriler",
+    "paywall.feature.timeMachine": "Zaman Makinesi — herhangi bir tarihin gökyüzünü görün",
+    "paywall.feature.events": "Gök olayları — tutulmalar, meteor yağmurları, kavuşumlar",
+    "paywall.feature.night": "Tam gece modu (amber, otomatik ve yoğunluk)",
+    "paywall.feature.languages": "Tüm dilleri indirin",
+    "paywall.buy": "Pro Kilidini Aç",
+    "paywall.restore": "Satın almaları geri yükle",
+    "paywall.codePrompt": "Kilit açma kodunuz var mı?",
+    "paywall.maybeLater": "Belki sonra",
+    "paywall.locked": "Pro özelliği",
+    "paywall.comingSoon": "Satın alma yakında geliyor — şimdilik kilit açma kodunu kullanın.",
+    "paywall.error": "Bir sorun oluştu. Lütfen tekrar deneyin.",
+    "paywall.restoreNone": "Önceki satın alma bulunamadı.",
+    "planets.title": "Planet Pointer",
+    "planets.subtitle": "Gökyüzünde takip etmek için bir hedef seçin",
+    "stars.title": "Yıldızlar",
+    "stars.subtitle": "En parlak {n} isimli yıldız",
+    "deepsky.title": "Derin Uzay",
+    "deepsky.subtitle": "{n} yıldız, bulutsu, galaksi ve küme",
+    "constellations.title": "Takımyıldızlar",
+    "constellations.subtitle": "{n} tanınmış yıldız deseni",
+    "satellites.title": "Uydular",
+    "events.title": "Gök Olayları",
+    "events.subtitle": "Yaklaşan olaylar — zamanda yolculuk edip oraya bakmak için dokunun",
+    "events.calculating": "Yaklaşan olaylar hesaplanıyor…",
+    "search.name": "İsme göre ara…",
+    "search.star": "Yıldız veya takımyıldız ara…",
+    "search.deepsky": "Yıldız, bulutsu, galaksi ara…",
+    "search.constellation": "Takımyıldız ara…",
+    "search.satellite": "Uydu ara…",
+    "filter.visibleNow": "Şu an görünür",
+    "filter.showAll": "Tümünü göster",
+    "dso.cat.all": "Tümü",
+    "dso.cat.stars": "Yıldızlar",
+    "dso.cat.nebulae": "Bulutsular",
+    "dso.cat.galaxies": "Galaksiler",
+    "dso.cat.clusters": "Kümeler",
+    "dso.type.nebula": "Bulutsu",
+    "dso.type.galaxy": "Galaksi",
+    "dso.type.openCluster": "Açık küme",
+    "dso.type.globularCluster": "Küresel küme",
+    "dso.type.milkyWay": "Samanyolu",
+    "badge.above": "Üstünde",
+    "badge.below": "Altında",
+    "badge.visible": "Görünür",
+    "badge.daylight": "Gündüz",
+    "badge.eclipsed": "Gölgede",
+    "list.calculating": "Hesaplanıyor…",
+    "list.gettingLocation": "Konum alınıyor…",
+    "list.locationUnavailable": "Konum kullanılamıyor",
+    "list.empty.planetsFav": "Favori yok — bir gök cismini açıp ★ işaretine dokunarak ekleyin.",
+    "list.empty.visible": "Şu an ufkun üzerinde hiçbir şey yok — Tümünü göster'i deneyin.",
+    "list.empty.search": "Eşleşen sonuç bulunamadı.",
+    "list.empty.starsVisible": "Listeden hiçbir yıldız şu an ufkun üzerinde değil.",
+    "list.empty.deepskyVisible": "Şu anda ufkun üzerinde derin uzay nesnesi yok.",
+    "list.empty.constellationsVisible": "Bu takımyıldızların hiçbiri şu an ufkun üzerinde değil.",
+    "sat.overhead": "● Şu an görünür — yukarıya bakın!",
+    "sat.overheadDay": "Şu an tepede ama gündüz",
+    "sat.overheadShadow": "Şu an tepede ama Dünya'nın gölgesinde",
+    "sat.next": "Sonraki geçiş",
+    "sat.noPass": "Yakında görünür geçiş yok",
+    "sat.kmUp": "km yükseklik",
+    "sat.live": "Canlı yörünge verisi",
+    "sat.cached": "Önbelleğe alınmış yörünge verisi",
+    "sat.loading": "Yörünge verisi güncelleniyor…",
+    "sat.offline": "Çevrimdışı — yerleşik veri",
+    "sat.bundled": "Yerleşik yörünge verisi",
+    "fav.empty": "Favori yok.\nBir gezegen veya yıldız açıp ★ işaretine dokunarak buraya kaydedin.",
+    "fav.belowNow": "Favorilerin hiçbiri şu an ufkun üzerinde değil.",
+    "fav.noMatch": "Aramayla eşleşen favori bulunamadı.",
+    "kind.star": "Yıldız",
+    "kind.constellation": "Takımyıldız",
+    "kind.satellite": "Uydu",
+    "kind.solar": "Güneş Sistemi",
+    "point.back": "Geri",
+    "point.locked": "{name}'e kilitlendi",
+    "point.away": "{n}° uzakta",
+    "point.acquiring": "Sensörler başlatılıyor…",
+    "point.aboveHorizon": "● Ufkun üzerinde",
+    "point.belowHorizon": "○ Ufkun altında",
+    "point.info": "Bilgi",
+    "point.target": "Hedef",
+    "point.you": "Siz",
+    "point.distance": "Mesafe",
+    "point.stars": "Yıldızlar",
+    "point.mainStars": "{n} ana yıldız",
+    "point.lightYears": "{n} ışık yılı",
+    "point.belowBanner": "{name} ufkun altında — Dünya'nın içinden işaret etmek için aşağıya yönelin.",
+    "point.satBelowBanner": "{name} şu an tepede değil — sonraki geçişi görmek için Bilgi'ye dokunun.",
+    "point.timeTravel": "🕰️ Zaman yolculuğu: {when} — şimdiye dönmek için dokunun",
+    "point.turnRight": "Sağa dönün",
+    "point.turnLeft": "Sola dönün",
+    "point.tiltUp": "Yukarı eğin",
+    "point.tiltDown": "Aşağı eğin",
+    "point.almost": "Neredeyse orada",
+    "point.permTitle": "Kamera erişimi gerekli",
+    "point.permBody": "Planet Pointer, {name}'e nişan alırken görebilmeniz için canlı kamera üzerine rehber ok yerleştirir.",
+    "point.permAllow": "Kameraya izin ver",
+    "info.rightNow": "Şu an",
+    "info.about": "Hakkında",
+    "info.mythology": "Mitoloji",
+    "info.facts": "Temel bilgiler",
+    "info.didYouKnow": "Biliyor muydunuz?",
+    "info.learnMore": "Daha fazla öğren",
+    "info.passes": "Yaklaşan geçişler",
+    "info.direction": "Yön",
+    "info.altitude": "Yükseklik açısı",
+    "info.brightness": "Parlaklık",
+    "info.visibility": "Görünürlük",
+    "info.aboveHorizon": "Ufkun üzerinde",
+    "info.belowHorizon": "Ufkun altında",
+    "info.favorited": "★  Favorilere eklendi",
+    "info.addFav": "☆  Favorilere ekle",
+    "info.passNote": "Yerel saat. Daha yüksek tepe açısı, daha parlak ve kolay görünür geçiş anlamına gelir.",
+    "info.typeStar": "Yıldız",
+    "info.typeConstellation": "Takımyıldız",
+    "info.starIn": "{c} içinde.",
+    "info.starFixed": "Sabit yıldız.",
+    "info.patternOfStars": "Yıldız deseni.",
+    "info.lightYears": "ışık yılı",
+    "stat.constellation": "Takımyıldız",
+    "stat.distance": "Mesafe",
+    "stat.ra": "Sağ açıklık",
+    "stat.dec": "Dik açıklık",
+    "stat.abbr": "Kısaltma",
+    "stat.season": "En iyi mevsim",
+    "stat.hemisphere": "Yarımküre",
+    "stat.brightestStar": "En parlak yıldız",
+    "stat.mainStars": "Ana yıldızlar",
+    "hemi.northern": "Kuzey yarımküre",
+    "hemi.southern": "Güney yarımküre",
+    "hemi.equatorial": "Ekvatoryal",
+    "ev.lunar": "{kind} ay tutulması",
+    "ev.solar": "{kind} güneş tutulması",
+    "ev.lunarSub": "Ay, Dünya'nın gölgesinden geçiyor",
+    "ev.solarSub": "Ay, Güneş'in önünden geçiyor",
+    "ev.meteor": "{name} meteor yağmuru",
+    "ev.meteorSub": "Saatte ~{zhr} meteor · Radyan: {radiant}",
+    "ev.conj": "{a}, {b} ile kavuşumda",
+    "ev.conjSub": "Gökyüzünde ~{sep}° ayrılıkla geçiyor",
+    "ev.iss": "UUİ Tepe Geçişi",
+    "ev.issSub": "Tepe {alt}° · {dir}",
+    "ekind.total": "tam",
+    "ekind.partial": "kısmi",
+    "ekind.penumbral": "yarı gölge",
+    "ekind.annular": "halka",
+    "ekind.hybrid": "hibrit",
+    "count.now": "Şimdi",
+    "count.hour": "Bir saat içinde",
+    "count.hours": "{n} saat içinde",
+    "count.tomorrow": "Yarın",
+    "count.days": "{n} gün içinde",
+    "count.month": "Yaklaşık 1 ay sonra",
+    "count.months": "Yaklaşık {n} ay sonra",
+    "time.title": "Zaman Makinesi",
+    "time.subtitle": "İstediğiniz tarih ve saatin gökyüzünü görün.",
+    "time.now": "Şimdi",
+    "time.live": "● Canlı gökyüzü",
+    "time.year": "Yıl",
+    "time.month": "Ay",
+    "time.day": "Gün",
+    "time.hour": "Saat",
+    "time.minute": "Dakika",
+    "time.return": "Şimdiye dön",
+    "time.done": "Tamam",
+    "common.on": "Açık",
+    "common.off": "Kapalı"
+  },
+  "content": {
+    "bodyName": {
+      "sun": "Güneş",
+      "moon": "Ay",
+      "mercury": "Merkür",
+      "venus": "Venüs",
+      "mars": "Mars",
+      "jupiter": "Jüpiter",
+      "saturn": "Satürn",
+      "uranus": "Uranüs",
+      "neptune": "Neptün"
+    },
+    "bodyDesc": {
+      "sun": "Güneş sisteminin merkezindeki yıldız: tüm gezegenlere ışık ve ısı sağlayan devasa bir yanan gaz küresi. Asla doğrudan bakmayın. Dünya'dan yaklaşık 109 kat büyüktür.",
+      "moon": "Dünya'nın tek doğal uydusu ve gece gökyüzünün en parlak cismi. Ay, her ay Dünya'nın etrafında dönerken evrelerini değiştirir.",
+      "mercury": "En küçük ve Güneş'e en yakın gezegen: aşırı sıcaklıklarla kraterlerle dolu kayalık bir dünya. Şafak veya alacakaranlıkta ufuk yakınında en iyi görülür.",
+      "venus": "Yoğun bulutlarla kaplı en sıcak gezegen. Sabah yıldızı veya akşam yıldızı olarak parlar; Güneş ve Ay'dan sonra gökyüzünün en parlak cismidir.",
+      "mars": "Kızıl Gezegen: güneş sisteminin en yüksek volkanı ve en derin kanyonuna sahip kırmızımsı kayalık dünya. Çıplak gözle kırmızı bir nokta olarak görülür.",
+      "jupiter": "En büyük gezegen: diğer tüm gezegenlerin sığabileceği kadar büyük devasa bir gaz küresi. En büyük 4 uydusu dürbünle görülebilir.",
+      "saturn": "Buz ve kayadan oluşan görkemli halkaları ile güneş sisteminin mücevheri. Halkaları küçük bir teleskopla bile görülebilir.",
+      "uranus": "Yan yatarak dönen mavi-yeşil bir buz devi. Çok karanlık gökyüzünde çıplak gözle zar zor görülebilir.",
+      "neptune": "En uzak gezegen: güneş sisteminin en hızlı rüzgârlarına sahip mavi, soğuk bir dünya. Çıplak gözle görülemez."
+    },
+    "bodyInfo": {
+      "sun": {
+        "type": "Sarı cüce yıldız (G tipi)",
+        "tagline": "Güneş sistemimizin merkezindeki yıldız.",
+        "stats": [
+          {
+            "label": "Çap",
+            "value": "1.392.700 km\n(Dünya'nın 109 katı)"
+          },
+          {
+            "label": "Yüzey sıcaklığı",
+            "value": "~5.500 °C"
+          },
+          {
+            "label": "Kütle",
+            "value": "1,989 × 10³⁰ kg\n(Dünya'nın 332.900 katı)"
+          },
+          {
+            "label": "Yaş",
+            "value": "~4,6 milyar yıl"
+          },
+          {
+            "label": "Dönüş",
+            "value": "~25 gün (ekvator)"
+          },
+          {
+            "label": "Yörünge hızı",
+            "value": "~220 km/s (galaksi)"
+          }
+        ],
+        "facts": [
+          "İçine yaklaşık 1,3 milyon Dünya sığar.",
+          "Işığı Dünya'ya ulaşmak için yaklaşık 8 dakika gerektirir.",
+          "Teleskop veya dürbünle asla doğrudan bakmayın."
+        ]
+      },
+      "moon": {
+        "type": "Doğal uydu",
+        "tagline": "Dünya'nın tek doğal uydusu.",
+        "stats": [
+          {
+            "label": "Çap",
+            "value": "3.475 km\n(Dünya'nın 0,27 katı)"
+          },
+          {
+            "label": "Ortalama mesafe",
+            "value": "384.400 km"
+          },
+          {
+            "label": "Kütle",
+            "value": "7,35 × 10²² kg\n(Dünya'nın 0,0123 katı)"
+          },
+          {
+            "label": "Yörünge periyodu",
+            "value": "27,3 gün"
+          },
+          {
+            "label": "Dönüş",
+            "value": "27,3 gün (eş zamanlı)"
+          },
+          {
+            "label": "Yörünge hızı",
+            "value": "1,0 km/s"
+          },
+          {
+            "label": "Yerçekimi",
+            "value": "Dünya'nın 1/6'sı"
+          }
+        ],
+        "facts": [
+          "Her zaman Dünya'ya aynı yüzünü gösterir (eş zamanlı dönüş).",
+          "Her yıl Dünya'dan yaklaşık 3,8 cm uzaklaşıyor.",
+          "12 insan yüzeyinde yürüdü."
+        ]
+      },
+      "mercury": {
+        "type": "Kayalık gezegen",
+        "tagline": "En küçük ve Güneş'e en yakın gezegen.",
+        "stats": [
+          {
+            "label": "Çap",
+            "value": "4.879 km\n(Dünya'nın 0,383 katı)"
+          },
+          {
+            "label": "Güneş'e uzaklık",
+            "value": "57,9 milyon km"
+          },
+          {
+            "label": "Kütle",
+            "value": "3,30 × 10²³ kg\n(Dünya'nın 0,055 katı)"
+          },
+          {
+            "label": "Yörünge periyodu",
+            "value": "88 Dünya günü"
+          },
+          {
+            "label": "Dönüş",
+            "value": "58,6 Dünya günü"
+          },
+          {
+            "label": "Gün uzunluğu",
+            "value": "176 Dünya günü"
+          },
+          {
+            "label": "Yörünge hızı",
+            "value": "47,4 km/s"
+          },
+          {
+            "label": "Uydu",
+            "value": "Yok"
+          }
+        ],
+        "facts": [
+          "Bir yıl yalnızca 88 Dünya günü sürer.",
+          "Sıcaklık 430°C ile -180°C arasında değişir.",
+          "Şafak veya alacakaranlıkta ufkun hemen üzerinde en iyi görülür."
+        ]
+      },
+      "venus": {
+        "type": "Kayalık gezegen",
+        "tagline": "En sıcak ve gökyüzündeki en parlak gezegen.",
+        "stats": [
+          {
+            "label": "Çap",
+            "value": "12.104 km\n(Dünya'nın 0,949 katı)"
+          },
+          {
+            "label": "Güneş'e uzaklık",
+            "value": "108,2 milyon km"
+          },
+          {
+            "label": "Kütle",
+            "value": "4,87 × 10²⁴ kg\n(Dünya'nın 0,815 katı)"
+          },
+          {
+            "label": "Yüzey sıcaklığı",
+            "value": "~465 °C"
+          },
+          {
+            "label": "Yörünge periyodu",
+            "value": "225 Dünya günü"
+          },
+          {
+            "label": "Dönüş",
+            "value": "243 Dünya günü (ters yönde)"
+          },
+          {
+            "label": "Yörünge hızı",
+            "value": "35,0 km/s"
+          },
+          {
+            "label": "Uydu",
+            "value": "Yok"
+          }
+        ],
+        "facts": [
+          "Çoğu gezegenin aksine ters yönde döner.",
+          "Venüs'teki bir gün, bir yıldan daha uzundur.",
+          "Sabah yıldızı veya akşam yıldızı olarak da bilinir."
+        ]
+      },
+      "mars": {
+        "type": "Kayalık gezegen",
+        "tagline": "Kızıl Gezegen, pek çok uzay misyonunun hedefi.",
+        "stats": [
+          {
+            "label": "Çap",
+            "value": "6.779 km\n(Dünya'nın 0,532 katı)"
+          },
+          {
+            "label": "Güneş'e uzaklık",
+            "value": "227,9 milyon km"
+          },
+          {
+            "label": "Kütle",
+            "value": "6,42 × 10²³ kg\n(Dünya'nın 0,107 katı)"
+          },
+          {
+            "label": "Yörünge periyodu",
+            "value": "687 Dünya günü (1,9 yıl)"
+          },
+          {
+            "label": "Dönüş",
+            "value": "24,6 saat"
+          },
+          {
+            "label": "Yörünge hızı",
+            "value": "24,1 km/s"
+          },
+          {
+            "label": "Uydu",
+            "value": "2 (Phobos, Deimos)"
+          }
+        ],
+        "facts": [
+          "Güneş sisteminin en yüksek volkanı Olympus Mons burada.",
+          "Kırmızı rengi demir oksitden (pas) kaynaklanır.",
+          "Çıplak gözle kırmızı bir nokta olarak görülebilir."
+        ]
+      },
+      "jupiter": {
+        "type": "Gaz devi",
+        "tagline": "Güneş sisteminin en büyük gezegeni.",
+        "stats": [
+          {
+            "label": "Çap",
+            "value": "139.820 km\n(Dünya'nın 11,21 katı)"
+          },
+          {
+            "label": "Güneş'e uzaklık",
+            "value": "778,5 milyon km"
+          },
+          {
+            "label": "Kütle",
+            "value": "1,898 × 10²⁷ kg\n(Dünya'nın 317,8 katı)"
+          },
+          {
+            "label": "Yörünge periyodu",
+            "value": "11,9 Dünya yılı"
+          },
+          {
+            "label": "Dönüş",
+            "value": "~10 saat"
+          },
+          {
+            "label": "Yörünge hızı",
+            "value": "13,1 km/s"
+          },
+          {
+            "label": "Uydu",
+            "value": "95'ten fazla"
+          }
+        ],
+        "facts": [
+          "Büyük Kırmızı Leke, Dünya'dan büyük bir fırtınadır.",
+          "En büyük 4 uydusu dürbünle görülebilir.",
+          "Tüm gezegenler içinde en kısa güne sahiptir."
+        ]
+      },
+      "saturn": {
+        "type": "Gaz devi",
+        "tagline": "Görkemli halkaları ile güneş sisteminin mücevheri.",
+        "stats": [
+          {
+            "label": "Çap",
+            "value": "116.460 km\n(Dünya'nın 9,45 katı)"
+          },
+          {
+            "label": "Güneş'e uzaklık",
+            "value": "1,43 milyar km"
+          },
+          {
+            "label": "Kütle",
+            "value": "5,68 × 10²⁶ kg\n(Dünya'nın 95,15 katı)"
+          },
+          {
+            "label": "Yörünge periyodu",
+            "value": "29,5 Dünya yılı"
+          },
+          {
+            "label": "Dönüş",
+            "value": "~10,7 saat"
+          },
+          {
+            "label": "Yörünge hızı",
+            "value": "9,7 km/s"
+          },
+          {
+            "label": "Uydu",
+            "value": "140'tan fazla"
+          }
+        ],
+        "facts": [
+          "Halkaları ağırlıklı olarak buzdan ve kayadan oluşur.",
+          "Tüm gezegenlerin en düşük yoğunluğuna sahip — suyun üzerinde yüzer.",
+          "Halkaları küçük bir teleskopla bile görülebilir."
+        ]
+      },
+      "uranus": {
+        "type": "Buz devi",
+        "tagline": "Yan yatarak dönen gezegen.",
+        "stats": [
+          {
+            "label": "Çap",
+            "value": "50.724 km\n(Dünya'nın 4,01 katı)"
+          },
+          {
+            "label": "Güneş'e uzaklık",
+            "value": "2,87 milyar km"
+          },
+          {
+            "label": "Kütle",
+            "value": "8,68 × 10²⁵ kg\n(Dünya'nın 14,56 katı)"
+          },
+          {
+            "label": "Yörünge periyodu",
+            "value": "84 Dünya yılı"
+          },
+          {
+            "label": "Dönüş",
+            "value": "17,2 saat (ters yönde)"
+          },
+          {
+            "label": "Yörünge hızı",
+            "value": "6,8 km/s"
+          },
+          {
+            "label": "Uydu",
+            "value": "28"
+          }
+        ],
+        "facts": [
+          "Aşırı eğikliğinin büyük bir çarpışmadan kaynaklandığı düşünülüyor.",
+          "Mavi-yeşil rengi metan gazından gelir.",
+          "Çok karanlık gökyüzünde çıplak gözle güçlükle görülebilir."
+        ]
+      },
+      "neptune": {
+        "type": "Buz devi",
+        "tagline": "En uzak ve en rüzgârlı gezegen.",
+        "stats": [
+          {
+            "label": "Çap",
+            "value": "49.244 km\n(Dünya'nın 3,88 katı)"
+          },
+          {
+            "label": "Güneş'e uzaklık",
+            "value": "4,5 milyar km"
+          },
+          {
+            "label": "Kütle",
+            "value": "1,02 × 10²⁶ kg\n(Dünya'nın 17,15 katı)"
+          },
+          {
+            "label": "Yörünge periyodu",
+            "value": "165 Dünya yılı"
+          },
+          {
+            "label": "Dönüş",
+            "value": "16,1 saat"
+          },
+          {
+            "label": "Yörünge hızı",
+            "value": "5,4 km/s"
+          },
+          {
+            "label": "Uydu",
+            "value": "16"
+          }
+        ],
+        "facts": [
+          "Rüzgârları saatte 2.000 km'ye ulaşır — güneş sisteminin en hızlısı.",
+          "Gözlemlenmeden önce matematiksel hesaplarla keşfedildi.",
+          "Bulmak için teleskop gerekir."
+        ]
+      }
+    },
+    "constellationName": {
+      "orion": "Avcı",
+      "ursa-major": "Büyük Ayı",
+      "cassiopeia": "Cassiopeia",
+      "scorpius": "Akrep",
+      "leo": "Aslan",
+      "cygnus": "Kuğu",
+      "gemini": "İkizler",
+      "taurus": "Boğa",
+      "canis-major": "Büyük Köpek",
+      "crux": "Güney Haçı",
+      "aries": "Koç",
+      "cancer": "Yengeç",
+      "virgo": "Başak",
+      "libra": "Terazi",
+      "sagittarius": "Yay",
+      "capricornus": "Oğlak",
+      "aquarius": "Kova",
+      "pisces": "Balık",
+      "ursa-minor": "Küçük Ayı",
+      "andromeda": "Andromeda",
+      "perseus": "Perseus",
+      "auriga": "Arabacı",
+      "bootes": "Çoban",
+      "corona-borealis": "Kuzey Tacı",
+      "hercules": "Herkül",
+      "lyra": "Lir",
+      "aquila": "Kartal",
+      "pegasus": "Pegasus",
+      "cepheus": "Cepheus",
+      "draco": "Ejderha",
+      "canis-minor": "Küçük Köpek",
+      "centaurus": "Kentaur",
+      "lupus": "Kurt",
+      "carina": "Tekne Omurgası",
+      "vela": "Yelken",
+      "puppis": "Kıç",
+      "corvus": "Karga",
+      "delphinus": "Yunus",
+      "antlia": "Hava Pompası",
+      "apus": "Cennet Kuşu",
+      "ara": "Sunak",
+      "caelum": "Keski",
+      "camelopardalis": "Zürafa",
+      "canes-venatici": "Av Köpekleri",
+      "cetus": "Balina",
+      "chamaeleon": "Bukalemun",
+      "circinus": "Pergel",
+      "columba": "Güvercin",
+      "coma-berenices": "Berenike'nin Saçları",
+      "corona-australis": "Güney Tacı",
+      "crater": "Kâse",
+      "dorado": "Kılıç Balığı",
+      "equuleus": "Küçük At",
+      "eridanus": "Eridanus",
+      "fornax": "Fırın",
+      "grus": "Turna",
+      "horologium": "Saat",
+      "hydra": "Deniz Yılanı",
+      "hydrus": "Su Yılanı",
+      "indus": "Kızılderili",
+      "lacerta": "Kertenkele",
+      "leo-minor": "Küçük Aslan",
+      "lepus": "Tavşan",
+      "lynx": "Vaşak",
+      "mensa": "Masa Dağı",
+      "microscopium": "Mikroskop",
+      "monoceros": "Tek Boynuzlu At",
+      "musca": "Sinek",
+      "norma": "Gönye",
+      "octans": "Oktant",
+      "ophiuchus": "Yılancı",
+      "pavo": "Tavus Kuşu",
+      "phoenix": "Anka Kuşu",
+      "pictor": "Ressam",
+      "piscis-austrinus": "Güney Balığı",
+      "pyxis": "Pusula",
+      "reticulum": "Ağ",
+      "sagitta": "Ok",
+      "sculptor": "Heykeltraş",
+      "scutum": "Kalkan",
+      "serpens": "Yılan",
+      "sextans": "Sekstant",
+      "telescopium": "Teleskop",
+      "triangulum": "Üçgen",
+      "triangulum-australe": "Güney Üçgeni",
+      "tucana": "Tukan",
+      "volans": "Uçan Balık",
+      "vulpecula": "Tilki"
+    },
+    "constellationNick": {
+      "orion": "Büyük Avcı",
+      "ursa-major": "Büyük Ayı (Büyük Kepçe)",
+      "cassiopeia": "Kraliçe",
+      "scorpius": "Akrep",
+      "leo": "Aslan",
+      "cygnus": "Kuğu (Kuzey Haçı)",
+      "gemini": "İkizler",
+      "taurus": "Boğa",
+      "canis-major": "Büyük Av Köpeği",
+      "crux": "Güney Haçı",
+      "aries": "Koç",
+      "cancer": "Yengeç",
+      "virgo": "Bakire",
+      "libra": "Adalet Terazisi",
+      "sagittarius": "Okçu (Çaydanlık)",
+      "capricornus": "Deniz Keçisi",
+      "aquarius": "Su Taşıyıcı",
+      "pisces": "İki Balık",
+      "ursa-minor": "Küçük Ayı (Küçük Kepçe)",
+      "andromeda": "Zincirli Prenses",
+      "perseus": "Kahraman",
+      "auriga": "Arabacı",
+      "bootes": "Çoban",
+      "corona-borealis": "Kuzey Tacı",
+      "hercules": "Diz Çöken Kahraman",
+      "lyra": "Lir",
+      "aquila": "Kartal",
+      "pegasus": "Kanatlı At",
+      "cepheus": "Kral",
+      "draco": "Ejderha",
+      "canis-minor": "Küçük Av Köpeği",
+      "centaurus": "Kentaur",
+      "lupus": "Kurt",
+      "carina": "Argo'nun Omurgası",
+      "vela": "Argo'nun Yelkeni",
+      "puppis": "Argo'nun Kıçı",
+      "corvus": "Karga",
+      "delphinus": "Yunus",
+      "antlia": "Hava Pompası",
+      "apus": "Cennet Kuşu",
+      "ara": "Sunak",
+      "caelum": "Keski",
+      "camelopardalis": "Zürafa",
+      "canes-venatici": "Av Köpekleri",
+      "cetus": "Deniz Canavarı",
+      "chamaeleon": "Bukalemun",
+      "circinus": "Pergel",
+      "columba": "Güvercin",
+      "coma-berenices": "Berenike'nin Saçları",
+      "corona-australis": "Güney Tacı",
+      "crater": "Kâse",
+      "dorado": "Kılıç Balığı",
+      "equuleus": "Küçük At",
+      "eridanus": "Nehir",
+      "fornax": "Ocak",
+      "grus": "Turna Kuşu",
+      "horologium": "Sarkaçlı Saat",
+      "hydra": "Su Yılanı",
+      "hydrus": "Küçük Su Yılanı",
+      "indus": "Kızılderili",
+      "lacerta": "Kertenkele",
+      "leo-minor": "Küçük Aslan",
+      "lepus": "Tavşan",
+      "lynx": "Vaşak",
+      "mensa": "Masa Dağı",
+      "microscopium": "Mikroskop",
+      "monoceros": "Tek Boynuzlu At",
+      "musca": "Sinek",
+      "norma": "Gönye",
+      "octans": "Oktant",
+      "ophiuchus": "Yılan Tutan",
+      "pavo": "Tavus Kuşu",
+      "phoenix": "Anka Kuşu",
+      "pictor": "Ressam Şövölesi",
+      "piscis-austrinus": "Güney Balığı",
+      "pyxis": "Pusula",
+      "reticulum": "Optik Ağ",
+      "sagitta": "Ok",
+      "sculptor": "Heykeltıraş Atölyesi",
+      "scutum": "Kalkan",
+      "serpens": "Yılan",
+      "sextans": "Sekstant",
+      "telescopium": "Teleskop",
+      "triangulum": "Üçgen",
+      "triangulum-australe": "Güney Üçgeni",
+      "tucana": "Tukan Kuşu",
+      "volans": "Uçan Balık",
+      "vulpecula": "Küçük Tilki"
+    },
+    "constellationDesc": {
+      "orion": "Avcı: gök ekvatorunda yer alan ve tüm dünyadan görülebilen en tanınmış takımyıldız. Üç kuşak yıldızı bir yanda Sirius'a, diğer yanda Aldebaran'a işaret eder.",
+      "ursa-major": "Büyük Ayı, Büyük Kepçe'yi içerir: yedi parlak yıldızdan oluşan tanıdık kepçe — Dubhe ve Merak, Kutup Yıldızı'na işaret eder.",
+      "cassiopeia": "Kraliçe: beş yıldızdan oluşan belirgin W (ya da M) şekli, Büyük Ayı'nın tam karşısında, Kutup Yıldızı'nın ötesinde yer alır.",
+      "scorpius": "Akrep: kırmızı Antares etrafında kavis yapan yıldızlar, zehirli iğnesiyle kıvrılan bir kuyruğa uzanır. Güney yaz göğünün mücevheri.",
+      "leo": "Aslan: baş ve yele, Regulus ile taçlanan ters soru işareti (orak) şeklini oluşturur. Arka kısımdaki yıldız üçgeni gövdeyi temsil eder.",
+      "cygnus": "Kuğu, Kuzey Haçı olarak da bilinir: Samanyolu boyunca uçar, kuyrukta parlak Deneb, gagada güzel çift yıldız Albireo vardır.",
+      "gemini": "İkizler: iki yıldız dizisi paralel uzanır ve mitolojideki ikiz kardeşlerin başları olan parlak Castor ve Pollux'ta son bulur.",
+      "taurus": "Boğa: turuncu Aldebaran etrafındaki V şeklindeki yüz (Hyades kümesi), Elnath'a uzanan uzun boynuzlar. Pleiades kümesi omuzunda.",
+      "canis-major": "Büyük Köpek: Orion'un sadık av köpeği, gece göğünün en parlak yıldızı Sirius ile işaretlenir.",
+      "crux": "Güney Haçı: en küçük takımyıldız ama en tanınmışlardan biri; uzun ekseni güney gök kutbuna işaret eder.",
+      "aries": "Koç: turuncu Hamal'ın önderliğinde yumuşak bir yıldız dizisi. Bir zamanlar ilkbahar noktasını barındıran ünlü burç.",
+      "cancer": "Yengeç: burçların en soluk olanı, ancak güzel Praesepe (Arı Kovanı) yıldız kümesine ev sahipliği yapar.",
+      "virgo": "Başak: ikinci en büyük takımyıldız, elindeki buğday başağını temsil eden parlak ve mavi-beyaz Spica ile öne çıkar.",
+      "libra": "Terazi: canlı olmayan bir nesneyi temsil eden tek burç; yıldızları eskiden komşu Akrep'in kıskaçlarıydı.",
+      "sagittarius": "Yay: parlak yıldızları çaydanlık şeklini oluşturur, ağzı Samanyolu'nun merkezine işaret eder.",
+      "capricornus": "Oğlak: soluk yıldızların geniş üçgeni; burçların en küçüğü, güney göğünde alçakta yer alır.",
+      "aquarius": "Kova: eski ve geniş bir takımyıldız, testiciden güneye doğru soluk yıldızların aktığı uzun bir dizi.",
+      "pisces": "Balık: Alrescha'da kuyrukları birleşen iki balık, Pegasus Büyük Meydanı'nın altında solukça dolaşır.",
+      "ursa-minor": "Küçük Ayı: kuyruğunun ucu tüm kuzey göğünün etrafında döndüğü izlenimini veren Kutup Yıldızı'dır. Büyük Ayı'nın küçük ve soluk bir yankısı.",
+      "andromeda": "Andromeda: Pegasus Büyük Meydanı'nın bir köşesinden uzanan yıldız zinciri; çıplak gözle görülebilen en uzak cisim olan Andromeda Galaksisi'ne ev sahipliği yapar.",
+      "perseus": "Perseus: yıldız açısından zengin Samanyolu bölgesi; birkaç günde bir ikincil yıldızın önünden geçmesiyle kararıp aydınlanan Şeytan Yıldızı Algol buradadır.",
+      "auriga": "Arabacı: kış gecelerinin yüksek göğünde parlayan, altıncı en parlak yıldız Capella ile taçlanmış parlak beşgen.",
+      "bootes": "Çoban: kuzey göğünün en parlak yıldızı turuncu Arcturus'un önderliğinde uçurtma biçimli takımyıldız. Büyük Kepçe'nin sapını izleyerek bulunur.",
+      "corona-borealis": "Kuzey Tacı: Alphecca'yı mücevher olarak taşıyan zarif yarım daire. Küçük ama kolayca tanınır.",
+      "hercules": "Herkül: dört merkez yıldızı Keystone şeklini oluşturan büyük yaz takımyıldızı. Kuzey göğünün en güzel küresel yıldız kümesi M13 burada.",
+      "lyra": "Lir: yaz üçgeninin köşesi olan parlak mavi-beyaz Vega etrafındaki küçük takımyıldız, altında düzgün bir paralelkenar.",
+      "aquila": "Kartal: Samanyolu boyunca uzanır, her iki yanında iki soluk yıldızla parlak Altair ile işaretlenir. Yaz üçgeninin güney köşesi.",
+      "pegasus": "Pegasus, kanatlı at: gövdesi sonbahar göğüne hâkim olan neredeyse boş büyük yıldız dörtgeni Pegasus Büyük Meydanı'nı oluşturur.",
+      "cepheus": "Cepheus: çocuk evi şeklindeki kutup takımyıldızı, ünlü değişen yıldız Delta Cephei'ye ev sahipliği yapar.",
+      "draco": "Ejderha: iki ayı arasında kıvrılan uzun takımyıldız. Thuban yıldızı, Mısır piramitlerinin inşa edildiği dönemde Kutup Yıldızı'ydı.",
+      "canis-minor": "Küçük Köpek: yalnızca iki önemli yıldızı var, ama Procyon sekizinci en parlak yıldız ve Kış Üçgeni'nin köşesi.",
+      "centaurus": "Kentaur: parlak güney takımyıldızı, Alpha ve Beta Centauri Güney Haçı'na işaret eder. Alpha Centauri, Güneş'e en yakın yıldız sistemi.",
+      "lupus": "Kurt: Kentaur ile Akrep arasında yıldız açısından zengin Samanyolu arka planı önünde sıkışık güney takımyıldızı.",
+      "carina": "Tekne Omurgası: Argo Navis'in parçası; göğün ikinci en parlak yıldızı Canopus ve muazzam Carina Bulutsusu burada.",
+      "vela": "Yelken: Argo Navis'in parçası; yıldızları Carina'nın iki yıldızıyla birlikte Sahte Haç'ı oluşturur.",
+      "puppis": "Kıç: Argo Navis'in büyük parçası, Samanyolu'nun yoğun kesiminde, sıcak Naos yıldızıyla öne çıkar.",
+      "corvus": "Karga: Deniz Yılanı'nın sırtına tüneyen dört yıldızdan oluşan küçük ve belirgin dörtgen, Spica'nın güneyinde kolayca bulunur.",
+      "delphinus": "Yunus: yaz üçgeni yakınında Samanyolu'ndan fırlayan küçük ve büyüleyici yıldız baklava dilimi (İyob'un Tabutu).",
+      "antlia": "Hava Pompası: Deniz Yılanı ile Yelken arasındaki soluk çağdaş takımyıldız.",
+      "apus": "Cennet Kuşu: güney gök kutbu yakınındaki küçük ve soluk takımyıldız.",
+      "ara": "Sunak: Akrep'in iğnesinin hemen güneyindeki yıldızlardan oluşan sunak.",
+      "caelum": "Keski: Eridanus ile Güvercin arasındaki ince bir çizgiden ibaret en soluk takımyıldızlardan biri.",
+      "camelopardalis": "Zürafa: kutup yakınındaki büyük ama soluk kuzey takımyıldızı.",
+      "canes-venatici": "Av Köpekleri: Cor Caroli önderliğinde Çoban'ın av köpekleri; Girdap Galaksisi'ne ev sahipliği yapar.",
+      "cetus": "Balina: keşfedilen ilk değişen yıldız Mira'ya ev sahipliği yapan geniş takımyıldız.",
+      "chamaeleon": "Bukalemun: güney gök kutbu yakınındaki küçük ve soluk takımyıldız.",
+      "circinus": "Pergel: Alpha Centauri'nin yanına gizlenmiş çok küçük ve soluk takımyıldız.",
+      "columba": "Güvercin: Tavşan'ın altındaki küçük takımyıldız; Nuh'un güvercinini temsil eder.",
+      "coma-berenices": "Berenike'nin Saçları: Kraliçe Berenike'nin kesilen saçlarını temsil eden bulanık yıldız serisi — aslında yakın bir yıldız kümesi.",
+      "corona-australis": "Güney Tacı: Yay'ın ayakları altındaki zarif yıldız yayı.",
+      "crater": "Kâse: Deniz Yılanı'nın sırtında oturan soluk yıldızlardan oluşan kâse; yalanı ortaya çıkarılan Karga'nın hikâyesiyle bağlantılı.",
+      "dorado": "Kılıç Balığı: Büyük Magellan Bulutsusunun büyük bölümünü barındıran güney takımyıldızı.",
+      "equuleus": "Küçük At: ikinci en küçük takımyıldız — Pegasus'un yanındaki soluk minik at.",
+      "eridanus": "Eridanus: altıncı en büyük takımyıldız — Orion'un ayağından parlak Achernar'a kıvrılarak uzanan uzun yıldız akıntısı.",
+      "fornax": "Fırın: Eridanus nehrinin kıvrımlarıyla çevrili soluk takımyıldız.",
+      "grus": "Turna: Güney Balığı'nın hemen altında süzülen zarif güney kuşu.",
+      "horologium": "Saat: Eridanus'un yanı boyunca kıvrılan uzun ve soluk güney takımyıldızı.",
+      "hydra": "Deniz Yılanı: tüm takımyıldızların en büyüğü, göğün dörtte birini kaplayan uzun yılan; turuncu Alphard başı.",
+      "hydrus": "Su Yılanı: iki Magellan Bulutsusunun arasında kıvrılan soluk güney yılanı.",
+      "indus": "Kızılderili: yerli bir avcıyı temsil eden soluk güney takımyıldızı.",
+      "lacerta": "Kertenkele: Kuğu ile Andromeda arasında küçük zikzak biçimindeki soluk yıldızlar.",
+      "leo-minor": "Küçük Aslan: Aslan ile Büyük Ayı arasına sıkışmış soluk yıldız şeridi.",
+      "lepus": "Tavşan: Orion'un ayakları altında çömelmiş, ebediyen avcıdan ve köpeklerinden kaçan tavşan.",
+      "lynx": "Vaşak: görmek için vaşak gözü gerekirmiş gibi adlandırılmış soluk zikzak.",
+      "mensa": "Masa Dağı: 5. büyüklükten parlak yıldızı olmayan en soluk takımyıldız; Cape Town'daki Masa Dağı'ndan adını almış.",
+      "microscopium": "Mikroskop: Oğlak'ın güneyindeki soluk çağdaş takımyıldız.",
+      "monoceros": "Tek Boynuzlu At: Kış Üçgeni'nin içinde Samanyolu'ndan geçen soluk mitolojik hayvan.",
+      "musca": "Sinek: Güney Haçı'nın hemen güneyindeki küçük ama oldukça parlak takımyıldız.",
+      "norma": "Gönye: Akrep ve Kentaur arasındaki yıldız bakımından zengin Samanyolu bölümündeki soluk takımyıldız.",
+      "octans": "Oktant: güney gök kutbunu içeren takımyıldız; kutup yıldızı Sigma Octantis çıplak gözle güçlükle görülür.",
+      "ophiuchus": "Yılancı: Güneş'in geçtiği ama burçlara dahil edilmeyen onüçüncü yıldız işareti; yaz göğünün devi.",
+      "pavo": "Tavus Kuşu: en parlak yıldızının adı basitçe Peacock (Tavus) olan güney takımyıldızı.",
+      "phoenix": "Anka Kuşu: parlak Achernar yakınındaki güney kuşu takımyıldızlarının en büyüğü — mitolojik ateş kuşu.",
+      "pictor": "Ressam: Beta Pictoris etrafındaki proto-gezegen diski ile tanınan soluk güney takımyıldızı; parlak Canopus'un yanında.",
+      "piscis-austrinus": "Güney Balığı: Kova'nın döktüklerini içer; yalnız ve parlak Fomalhaut ile işaretlenir.",
+      "pyxis": "Pusula: Argo gemisinin pusulasını temsil eden küçük ve soluk takımyıldız.",
+      "reticulum": "Ağ: Büyük Magellan Bulutsusunun yakınında soluk yıldızlardan oluşan küçük baklava dilimi.",
+      "sagitta": "Ok: üçüncü en küçük takımyıldız — Yaz Üçgeni'nin içinden geçen küçük ok.",
+      "sculptor": "Heykeltraş: galaktik güney kutbunu barındıran soluk takımyıldız.",
+      "scutum": "Kalkan: Samanyolu'nun parlak Kalkan Bulutsusunun önünde belirgin küçük takımyıldız.",
+      "serpens": "Yılan: Yılancı'nın tuttuğu yılan — baş (Caput) ve kuyruk (Cauda) olarak ikiye bölünen tek takımyıldız.",
+      "sextans": "Sekstant: Aslan'daki Regulus'un hemen güneyinde çok soluk takımyıldız.",
+      "telescopium": "Teleskop: Yay ve Güney Tacı'nın hemen altındaki soluk güney takımyıldızı.",
+      "triangulum": "Üçgen: Andromeda yakınındaki sıkı yıldız üçgeni; Üçgen Galaksisi'ne (M33) ev sahipliği yapar.",
+      "triangulum-australe": "Güney Üçgeni: Alpha Centauri yanındaki parlak, neredeyse eşkenar yıldız üçgeni.",
+      "tucana": "Tukan: Küçük Magellan Bulutsusunu ve etkileyici 47 Tucanae küresel yıldız kümesini barındıran güney kuşu.",
+      "volans": "Uçan Balık: Tekne Omurgası'nın kıvrımlarına gizlenmiş uçan balığı temsil eden küçük güney takımyıldızı.",
+      "vulpecula": "Tilki: Yaz Üçgeni'ndeki soluk takımyıldız; parlak Dumbbell Bulutsusu'na ev sahipliği yapar."
+    },
+    "constellationMyth": {
+      "aries": "Altın postlu koç; Phrixus ve Helle'yi kurtarmak için gökyüzüne taşıdı. Bu post, Jason ve Argonautlar'ın maceralarının hedefi oldu.",
+      "taurus": "Boğa kılığına girmiş Zeus; Prenses Europa'yı Girit'e götürdü. V şeklindeki yüz Hyades kümesi, Pleiades ise omuzunda.",
+      "gemini": "İkizler Castor ve Pollux. Ölümlü Castor öldüğünde, ölümsüz kardeşi Zeus'tan ölümsüzlüğü paylaşmalarını istedi; ikisi sonsuza dek birlikte kaldı.",
+      "cancer": "Hydra ile savaşan Heracles'in dikkatini dağıtmak için Hera'nın gönderdiği yengeç. Heracles onu ezdi; Hera onu yıldızlar arasına koydu.",
+      "leo": "Hiçbir silahın derisini delemedigi Nemea Aslanı. Heracles onu ilk göreviyle çıplak elle boğdu ve derisini zırh olarak giydi.",
+      "virgo": "Hasat tanrıçası Demeter ya da gökyüzüne kaçan adalet bakire Astraea olarak düşünülür. Parlak Spica, elindeki buğday başağını temsil eder.",
+      "libra": "Astraea'nın iyiyi kötüden ayırdığı adalet terazisi. Romalılar, gündüz ve gecenin dengelendiği ilkbahar ekinoksunu simgelediğini düşünüyordu.",
+      "scorpius": "Büyük avcı Orion'u ölümcül biçimde sokan akrep. İkisi göğün karşı taraflarına yerleştirilmiştir; Orion battığında Akrep doğar.",
+      "sagittarius": "Komşu Akrep'in kalbine ok nişan almış kentaur okçu; genellikle bilge Chiron olarak kabul edilir.",
+      "capricornus": "Deniz keçisi: canavar Typhon'dan kaçmak için Nil'e atlayan Pan'ın alt yarısı balık şeklini aldı.",
+      "aquarius": "Zeus'un tanrılara hizmet etmesi için Olympos'a götürdüğü güzel genç Ganymedes, gök sularını döküyor.",
+      "pisces": "Aphrodite ile oğlu Eros'un Typhon'dan kaçmak için dönüştüğü iki balık; birbirini kaybetmemek için kuyrukları bağlandı.",
+      "orion": "Her hayvanı öldürebileceğiyle övünen büyük avcı, akrep tarafından öldürüldü. İki köpeğiyle birlikte gürz, kuşak ve kılıcıyla kış göğünü kat eder.",
+      "cassiopeia": "Deniz perilerinden daha güzel olduğunu iddia eden kibirli kraliçe. Ceza olarak kutbun çevresinde döner, gecenin yarısını baş aşağı geçirir.",
+      "cepheus": "Etiyopya Kralı, Cassiopeia'nın eşi ve Andromeda'nın babası; kraliyet ailesiyle birlikte gökyüzüne alındı.",
+      "andromeda": "Annesinin kibrini kefaret etmek için deniz canavarına kurban olarak kayaya zincirlenmiş prenses; kahraman Perseus tarafından kurtarıldı.",
+      "perseus": "Medusa'nın başını kesen ve Andromeda'yı kurtaran kahraman. Kesik Medusa başını tutar; yanıp sönen gözü Şeytan Yıldızı Algol'dür.",
+      "pegasus": "Medusa'nın kanından doğan kanatlı at; kahramanları taşıdı ve toynaklarıyla Musa pınarlarını fışkırttı.",
+      "cetus": "Andromeda'yı yutmak için gönderilen deniz canavarı; Perseus Medusa başını gösterince taşa dönüştü.",
+      "ursa-major": "Kıskanç bir tanrıça tarafından ayıya dönüştürülen Nimf Callisto; Zeus onu oğlu Küçük Ayı ile birlikte gökyüzüne aldı.",
+      "ursa-minor": "Callisto'nun oğlu Arcas, gökyüzünde annesinin yanına yerleştirildi. Kuyruğunun ucu Kutup Yıldızı'dır.",
+      "bootes": "Büyük Ayı'yı kutbun çevresinde süren ve Av Köpekleri'nin tasmasını tutan çoban. Arcturus, 'ayı bekçisi' anlamına gelir.",
+      "corona-borealis": "Theseus'un labirentten kaçmasına yardım eden Prenses Ariadne'nin tacı. Dionysos, düğün çelengini göğe fırlattı.",
+      "hercules": "On iki imkânsız görevi tamamlayan Yunan'ın en büyük kahramanı, diz çökmüş hâlde tasvir edilir. Yanında yendiği aslan ve ejderha var.",
+      "lyra": "Tüm canlıları büyüleyen Orpheus'un liri. Ölümünden sonra tanrılar enstrümanı yıldızlar arasına bıraktı; parlak Vega ile işaretlenir.",
+      "cygnus": "Kuğu: Zeus'un aldığı kılık ya da ölen arkadaşını aramak için ırmağa tekrar tekrar dalan, sonunda kuğuya dönüşen sadık Cygnus.",
+      "aquila": "Zeus'un şimşeklerini taşıyan kartal; genç Ganymedes'i Olympos'a götürdü.",
+      "draco": "Heracles öldürene dek Hesperides'in altın elmalarını bekleyen ejderha Ladon. Sonsuza dek kutbun çevresinde dolaşır.",
+      "canis-major": "Orion'un sadık av köpeği. Gece göğünün en parlak yıldızı Sirius burada.",
+      "canis-minor": "Orion'un ikinci av köpeği; Sirius'tan biraz önce doğduğu için Procyon ('köpekten önce' anlamında) adını taşır.",
+      "auriga": "Arabacı; genellikle dört atlı arabayı icat eden Erichthonius olarak kabul edilir. Omuzunda Capella ve yavru keçileri tutar.",
+      "centaurus": "Güney gökyüzüne yerleştirilen kahraman öğretmeni Chiron olarak yorumlanan kentaur. İki parlak yıldızı Güney Haçı'na işaret eder.",
+      "hydra": "Heracles'in öldürdüğü çok başlı deniz yılanı — her kafa kesildiğinde iki tane çıkıyordu, ta ki yakmak zorunda kalana dek.",
+      "corvus": "Su getirmesi için Apollo tarafından gönderilen ama incir yemek için oyalanan karga. Yılanı suçlayınca Apollo üçünü birden gökyüzüne yerleştirdi.",
+      "crater": "Apollo'nun kâsesi; yalanı ortaya çıkan karganın hikâyesiyle bağlantılı; karganın erişemeyeceği Hydra'nın sırtına konulmuş.",
+      "ophiuchus": "Ölüleri diriltebilen büyük hekim Asclepius; büyük bir yılan tutar. Zeus onu yıldırımla öldürdü ama yıldızlar arasında sonsuza dek yaşattı.",
+      "serpens": "Hekim Asclepius'un tuttuğu büyük yılan: baş (Caput) ve kuyruk (Cauda) olmak üzere ikiye bölünen tek takımyıldız.",
+      "lepus": "Orion'un ayakları altında çömelmiş tavşan; ebediyen avcıdan ve köpeklerinden kaçar.",
+      "sagitta": "Ok: Prometheus'u işkence eden kartalı öldüren Heracles'in oku ya da Apollo veya Eros'un oku olduğu düşünülür.",
+      "delphinus": "Denize atılan şair Arion'u şarkısından büyülenerek kıyıya götüren yunus; Apollo tarafından gökyüzüne alındı.",
+      "triangulum": "Yunanlıların Nil deltasına, Sicilya'ya ve Yunan harfi Delta'ya benzettikleri basit üçgen.",
+      "eridanus": "Nil nehriyle ve Phaethon'un Güneş arabasını sürerken düştüğü nehirle ilişkilendirilen büyük gök nehri.",
+      "columba": "Sonraki geleneğe göre Nuh'un gemiden gönderdiği güvercin ya da Argonautlar'a çarpan kayaların arasından rehberlik eden güvercin.",
+      "corona-australis": "Güney Tacı; bazen Kentaur Okçu'nun ayakları altındaki çelenk olarak yorumlanır.",
+      "crux": "Güney Haçı: eski Yunanlılara bilinmiyordu, ama pek çok güney halkı için kutsal bir işaret ve güney denizlerinde yelken açan denizciler için yol gösterici.",
+      "phoenix": "Anka Kuşu, ateşten yanıp kendi külünden yeniden doğan mitolojik kuş: pek çok kültürde yeniden doğuşun simgesi.",
+      "pavo": "Hera'ya adanmış tavus kuşu; kuyruğunun yüz gözü dev Argus'un gözlerini barındırdığı söylenir."
+    },
+    "starName": {
+      "sirius": "Sirius",
+      "canopus": "Canopus",
+      "rigil-kentaurus": "Rigil Kentaurus",
+      "arcturus": "Arcturus",
+      "vega": "Vega",
+      "capella": "Capella",
+      "rigel": "Rigel",
+      "procyon": "Procyon",
+      "betelgeuse": "Betelgeuse",
+      "altair": "Altair",
+      "aldebaran": "Aldebaran",
+      "antares": "Antares",
+      "spica": "Spica",
+      "pollux": "Pollux",
+      "fomalhaut": "Fomalhaut",
+      "deneb": "Deneb",
+      "regulus": "Regulus",
+      "castor": "Castor",
+      "bellatrix": "Bellatrix",
+      "elnath": "Elnath",
+      "alnilam": "Alnilam",
+      "alnitak": "Alnitak",
+      "mintaka": "Mintaka",
+      "alioth": "Alioth",
+      "dubhe": "Dubhe",
+      "alkaid": "Alkaid",
+      "mirfak": "Mirfak",
+      "polaris": "Kutup Yıldızı",
+      "alphard": "Alphard",
+      "hamal": "Hamal",
+      "hadar": "Hadar",
+      "achernar": "Achernar",
+      "acrux": "Acrux"
+    },
+    "starDesc": {
+      "sirius": "Gece göğünün en parlak yıldızı. Büyük Köpek'te, yaklaşık 8,6 ışık yılı uzaklıkta.",
+      "canopus": "İkinci en parlak yıldız, güney göğünün feneri. Tekne Omurgası'nda, yaklaşık 310 ışık yılı uzaklıkta.",
+      "rigil-kentaurus": "Alpha Centauri: Güneş'e en yakın yıldız sistemi. Kentaur'da, yalnızca yaklaşık 4,4 ışık yılı uzaklıkta.",
+      "arcturus": "Kuzey göğünün en parlak yıldızı, kırmızı dev. Çoban'da, yaklaşık 37 ışık yılı uzaklıkta.",
+      "vega": "Yaz yıldızı ve eski Kutup Yıldızı. Lir'de, yaklaşık 25 ışık yılı uzaklıkta.",
+      "capella": "Aslında dört yıldızdan oluşan bir sistem. Arabacı'da, yaklaşık 43 ışık yılı uzaklıkta.",
+      "rigel": "Orion'un ayağını işaretleyen mavi süpergigant. Yaklaşık 860 ışık yılı uzaklıkta.",
+      "procyon": "Parlak ve yakın bir yıldız. Küçük Köpek'te, yaklaşık 11,5 ışık yılı uzaklıkta.",
+      "betelgeuse": "Bir gün süpernova olarak patlayabilecek kırmızı süpergigant. Avcı'da, yaklaşık 550 ışık yılı uzaklıkta.",
+      "altair": "Yaz üçgeninin köşesi. Kartal'da, yaklaşık 17 ışık yılı uzaklıkta.",
+      "aldebaran": "Boğa'nın turuncu gözü. Yaklaşık 65 ışık yılı uzaklıkta.",
+      "antares": "Mars'ın rakibi kırmızı süpergigant, adı 'Ares'in Rakibi' anlamına gelir. Akrep'te, yaklaşık 550 ışık yılı uzaklıkta.",
+      "spica": "Başak'ın en parlak yıldızı. Yaklaşık 250 ışık yılı uzaklıkta.",
+      "pollux": "İkizlerden biri, Gemini'nin en parlak yıldızı. Yaklaşık 34 ışık yılı uzaklıkta.",
+      "fomalhaut": "Sonbaharın yalnız yıldızı. Güney Balığı'nda, yaklaşık 25 ışık yılı uzaklıkta.",
+      "deneb": "Yaz üçgeninin uzak ve parlak süperdevinin. Kuğu'da, yaklaşık 1.400 ışık yılı uzaklıkta.",
+      "regulus": "Aslan'ın kalbi. Yaklaşık 79 ışık yılı uzaklıkta.",
+      "castor": "Diğer ikiz, aslında altı yıldızlı sistem. Yaklaşık 51 ışık yılı uzaklıkta.",
+      "bellatrix": "Orion'un Amazon yıldızı. Yaklaşık 250 ışık yılı uzaklıkta.",
+      "elnath": "Boğa ile Arabacı sınırında paylaşılan yıldız. Yaklaşık 130 ışık yılı uzaklıkta.",
+      "alnilam": "Orion kuşağının orta yıldızı. Yaklaşık 1.340 ışık yılı uzaklıkta.",
+      "alnitak": "Orion kuşağının doğu yıldızı. Yaklaşık 1.260 ışık yılı uzaklıkta.",
+      "mintaka": "Orion kuşağının batı yıldızı. Yaklaşık 1.200 ışık yılı uzaklıkta.",
+      "alioth": "Büyük Ayı'nın en parlak yıldızı. Yaklaşık 81 ışık yılı uzaklıkta.",
+      "dubhe": "Kutup Yıldızı'na işaret eden Büyük Kepçe'nin kılavuz yıldızı. Yaklaşık 123 ışık yılı uzaklıkta.",
+      "alkaid": "Büyük Kepçe'nin sapının ucu. Yaklaşık 100 ışık yılı uzaklıkta.",
+      "mirfak": "Perseus'un en parlak yıldızı. Yaklaşık 510 ışık yılı uzaklıkta.",
+      "polaris": "Kuzey gök kutbunun hemen üzerindeki Kutup Yıldızı. Yaklaşık 430 ışık yılı uzaklıkta.",
+      "alphard": "Deniz Yılanı'nın yalnız yıldızı. Yaklaşık 180 ışık yılı uzaklıkta.",
+      "hamal": "Koç'un en parlak yıldızı. Yaklaşık 66 ışık yılı uzaklıkta.",
+      "hadar": "Güney Haçı'na işaret eden güney kılavuz yıldızı. Kentaur'da, yaklaşık 390 ışık yılı uzaklıkta.",
+      "achernar": "Eridanus nehrinin sonu. Yaklaşık 140 ışık yılı uzaklıkta.",
+      "acrux": "Güney Haçı'nın en parlak yıldızı. Yaklaşık 320 ışık yılı uzaklıkta."
+    }
+  }
+}

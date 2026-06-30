@@ -1,0 +1,1012 @@
+{
+  "code": "de",
+  "v": 1,
+  "strings": {
+    "tab.planets": "Planeten",
+    "tab.stars": "Tiefer Himmel",
+    "tab.constellations": "Sternbilder",
+    "tab.satellites": "Satelliten",
+    "tab.events": "Ereignisse",
+    "tab.settings": "Einstellungen",
+    "settings.title": "Einstellungen",
+    "settings.subtitle": "App-Einstellungen",
+    "settings.language": "Sprache",
+    "settings.language.en": "English",
+    "settings.language.he": "עברית",
+    "settings.language.change": "Sprache ändern",
+    "lang.title": "Sprache",
+    "lang.intro": "Die wichtigsten Sprachen sind eingebaut. Lade deine Sprache herunter für eine vollständige Offline-Übersetzung der gesamten App – Beschreibungen, Mythologie und alles andere.",
+    "lang.search": "Sprachen suchen",
+    "lang.builtin": "Eingebaut",
+    "lang.download": "Herunterladen",
+    "lang.downloading": "Wird heruntergeladen…",
+    "lang.downloaded": "Heruntergeladen",
+    "lang.remove": "Entfernen",
+    "lang.failed": "Download fehlgeschlagen. Überprüfe deine Verbindung und versuche es erneut.",
+    "settings.units": "Einheiten",
+    "settings.units.desc": "Wie Entfernungen angezeigt werden.",
+    "settings.units.km": "Kilometer",
+    "settings.units.mi": "Meilen",
+    "settings.night": "Nachtsicht (Rot)",
+    "settings.night.desc": "Ein tiefer Rotton schont deine dunkeladaptierten Augen – rotes Licht beeinträchtigt das Nachtsehen kaum, sodass der Himmel noch leuchtet, wenn du aufschaust.",
+    "settings.night.mode": "Modus",
+    "settings.night.off": "Aus",
+    "settings.night.on": "An",
+    "settings.night.auto": "Automatisch",
+    "settings.night.auto.desc": "Im Auto-Modus wird das Rot nach Sonnenuntergang automatisch mit zunehmender Dunkelheit eingeblendet.",
+    "settings.night.tint": "Farbton",
+    "settings.night.red": "Rot",
+    "settings.night.amber": "Bernstein",
+    "settings.night.intensity": "Stärke",
+    "settings.night.low": "Schwach",
+    "settings.night.medium": "Mittel",
+    "settings.night.high": "Stark",
+    "settings.location": "Standort",
+    "settings.location.desc": "Für welchen Standort der Himmel berechnet wird.",
+    "settings.location.gps": "GPS verwenden",
+    "settings.location.manual": "Manuell festlegen",
+    "settings.location.lat": "Breitengrad",
+    "settings.location.lon": "Längengrad",
+    "settings.haptics": "Haptik",
+    "settings.haptics.desc": "Vibration beim Einrasten auf ein Ziel.",
+    "settings.speech": "Gesprochener Himmel",
+    "settings.speech.desc": "Liest Ziel und Richtungshinweise vor – für freihändige Nutzung und Sehbeeinträchtigte.",
+    "point.speak": "Sprechen",
+    "settings.fov": "Kamera-Sichtfeld",
+    "settings.fov.desc": "Feinjustierung, damit Sternbildlinien und Satellitenbahnen mit dem echten Himmel übereinstimmen.",
+    "settings.fov.narrow": "Schmal",
+    "settings.fov.default": "Standard",
+    "settings.fov.wide": "Weit",
+    "settings.about": "Über",
+    "settings.about.version": "Version",
+    "settings.about.sources": "Datenquellen",
+    "settings.about.credits": "Erstellt mit astronomy-engine, satellite.js und Celestrak.",
+    "pro.title": "Planet Pointer Pro",
+    "pro.free": "Gratis-Version",
+    "pro.active": "★ Pro freigeschaltet",
+    "pro.codePlaceholder": "Hast du einen Freischaltcode?",
+    "pro.unlock": "Freischalten",
+    "pro.badCode": "Dieser Code hat nicht funktioniert.",
+    "pro.lock": "Wieder sperren",
+    "paywall.title": "Den ganzen Himmel freischalten",
+    "paywall.subtitle": "Einmaliger Kauf. Kein Abo, kein Konto – für immer deins, vollständig offline.",
+    "paywall.feature.catalog": "Jeder Stern, jedes Sternbild und Satellit",
+    "paywall.feature.favorites": "Unbegrenzte Favoriten",
+    "paywall.feature.timeMachine": "Zeitreise – den Himmel zu jedem Datum sehen",
+    "paywall.feature.events": "Himmelsereignisse – Finsternisse, Meteorschauer, Konjunktionen",
+    "paywall.feature.night": "Volle Nachtsicht (Bernstein, Auto und Intensität)",
+    "paywall.feature.languages": "Jede Sprache herunterladen",
+    "paywall.buy": "Pro freischalten",
+    "paywall.restore": "Kauf wiederherstellen",
+    "paywall.codePrompt": "Hast du einen Freischaltcode?",
+    "paywall.maybeLater": "Vielleicht später",
+    "paywall.locked": "Pro-Funktion",
+    "paywall.comingSoon": "Käufe öffnen bald – nutze vorerst einen Freischaltcode.",
+    "paywall.error": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+    "paywall.restoreNone": "Kein früherer Kauf gefunden.",
+    "planets.title": "Planet Pointer",
+    "planets.subtitle": "Wähle ein Ziel, um es am Himmel zu finden",
+    "stars.title": "Sterne",
+    "stars.subtitle": "{n} der hellsten benannten Sterne",
+    "deepsky.title": "Tiefer Himmel",
+    "deepsky.subtitle": "{n} Sterne, Nebel, Galaxien & Sternhaufen",
+    "constellations.title": "Sternbilder",
+    "constellations.subtitle": "{n} bekannte Sternmuster",
+    "satellites.title": "Satelliten",
+    "events.title": "Himmelsereignisse",
+    "events.subtitle": "Was kommt – tippe, um dorthin zu reisen und zu schauen",
+    "events.calculating": "Bevorstehende Ereignisse werden berechnet…",
+    "search.name": "Nach Name suchen…",
+    "search.star": "Stern oder Sternbild suchen…",
+    "search.deepsky": "Sterne, Nebel, Galaxien suchen…",
+    "search.constellation": "Sternbild suchen…",
+    "search.satellite": "Satellit suchen…",
+    "filter.visibleNow": "Jetzt sichtbar",
+    "filter.showAll": "Alle anzeigen",
+    "dso.cat.all": "Alle",
+    "dso.cat.stars": "Sterne",
+    "dso.cat.nebulae": "Nebel",
+    "dso.cat.galaxies": "Galaxien",
+    "dso.cat.clusters": "Sternhaufen",
+    "dso.type.nebula": "Nebel",
+    "dso.type.galaxy": "Galaxie",
+    "dso.type.openCluster": "Offener Sternhaufen",
+    "dso.type.globularCluster": "Kugelsternhaufen",
+    "dso.type.milkyWay": "Milchstraße",
+    "badge.above": "Oben",
+    "badge.below": "Unten",
+    "badge.visible": "Sichtbar",
+    "badge.daylight": "Tageslicht",
+    "badge.eclipsed": "Im Schatten",
+    "list.calculating": "Berechnung…",
+    "list.gettingLocation": "Standort wird ermittelt…",
+    "list.locationUnavailable": "Standort nicht verfügbar",
+    "list.empty.planetsFav": "Noch keine Favoriten – öffne einen Körper und tippe ★, um ihn hinzuzufügen.",
+    "list.empty.visible": "Gerade nichts über dem Horizont – versuche „Alle anzeigen“.",
+    "list.empty.search": "Keine Suchergebnisse.",
+    "list.empty.starsVisible": "Kein katalogisierter Stern ist gerade über dem Horizont.",
+    "list.empty.deepskyVisible": "Kein Tiefenhimmelobjekt ist gerade über dem Horizont.",
+    "list.empty.constellationsVisible": "Keines dieser Sternbilder ist gerade über dem Horizont.",
+    "sat.overhead": "● Jetzt sichtbar – schau rauf!",
+    "sat.overheadDay": "Gerade über dir, aber es ist Tageslicht",
+    "sat.overheadShadow": "Gerade über dir, aber im Erdschatten",
+    "sat.next": "Nächster Überflug",
+    "sat.noPass": "Bald kein sichtbarer Überflug",
+    "sat.kmUp": "km hoch",
+    "sat.live": "Live-Bahndaten",
+    "sat.cached": "Gespeicherte Bahndaten",
+    "sat.loading": "Bahndaten werden aktualisiert…",
+    "sat.offline": "Offline – eingebaute Daten",
+    "sat.bundled": "Eingebaute Bahndaten",
+    "fav.empty": "Noch keine Favoriten.\nÖffne einen Planeten oder Stern und tippe ★, um ihn hier zu speichern.",
+    "fav.belowNow": "Keiner deiner Favoriten ist gerade über dem Horizont.",
+    "fav.noMatch": "Keine Favoriten passen zu deiner Suche.",
+    "kind.star": "Stern",
+    "kind.constellation": "Sternbild",
+    "kind.satellite": "Satellit",
+    "kind.solar": "Sonnensystem",
+    "point.back": "Zurück",
+    "point.locked": "Eingerastet auf {name}",
+    "point.away": "{n}° entfernt",
+    "point.acquiring": "Sensoren werden initialisiert…",
+    "point.aboveHorizon": "● Über dem Horizont",
+    "point.belowHorizon": "○ Unter dem Horizont",
+    "point.info": "Info",
+    "point.target": "Ziel",
+    "point.you": "Du",
+    "point.distance": "Entfernung",
+    "point.stars": "Sterne",
+    "point.mainStars": "{n} Hauptsterne",
+    "point.lightYears": "{n} Lichtjahre",
+    "point.belowBanner": "{name} ist unter dem Horizont – zeige nach unten, um durch die Erde darauf zu zeigen.",
+    "point.satBelowBanner": "{name} ist gerade nicht über dir – tippe Info, um den nächsten Überflug zu sehen.",
+    "point.timeTravel": "🕰️ Zeitreise: {when} – tippe, um zur Gegenwart zurückzukehren",
+    "point.turnRight": "rechts drehen",
+    "point.turnLeft": "links drehen",
+    "point.tiltUp": "nach oben neigen",
+    "point.tiltDown": "nach unten neigen",
+    "point.almost": "fast da",
+    "point.permTitle": "Kamerazugriff benötigt",
+    "point.permBody": "Planet Pointer legt den Richtungspfeil über die Live-Kamera, damit du {name} beim Zielen sehen kannst.",
+    "point.permAllow": "Kamera erlauben",
+    "info.rightNow": "Gerade jetzt",
+    "info.about": "Über",
+    "info.mythology": "Mythologie",
+    "info.facts": "Kurzfakten",
+    "info.didYouKnow": "Wusstest du?",
+    "info.learnMore": "Mehr erfahren",
+    "info.passes": "Bevorstehende Überflüge",
+    "info.direction": "Richtung",
+    "info.altitude": "Höhe",
+    "info.brightness": "Helligkeit",
+    "info.visibility": "Sichtbarkeit",
+    "info.aboveHorizon": "Über dem Horizont",
+    "info.belowHorizon": "Unter dem Horizont",
+    "info.favorited": "★  Als Favorit gespeichert",
+    "info.addFav": "☆  Zu Favoriten hinzufügen",
+    "info.passNote": "Ortszeit. Ein höherer Scheitelpunkt bedeutet einen helleren, leichter sichtbaren Überflug.",
+    "info.typeStar": "Stern",
+    "info.typeConstellation": "Sternbild",
+    "info.starIn": "Im Sternbild {c}.",
+    "info.starFixed": "Ein Fixstern.",
+    "info.patternOfStars": "Ein Sternmuster.",
+    "info.lightYears": "Lichtjahre",
+    "stat.constellation": "Sternbild",
+    "stat.distance": "Entfernung",
+    "stat.ra": "Rektaszension",
+    "stat.dec": "Deklination",
+    "stat.abbr": "Abkürzung",
+    "stat.season": "Beste Jahreszeit",
+    "stat.hemisphere": "Hemisphäre",
+    "stat.brightestStar": "Hellster Stern",
+    "stat.mainStars": "Hauptsterne",
+    "hemi.northern": "Nördlich",
+    "hemi.southern": "Südlich",
+    "hemi.equatorial": "Äquatorial",
+    "ev.lunar": "{kind} Mondfinsternis",
+    "ev.solar": "{kind} Sonnenfinsternis",
+    "ev.lunarSub": "Der Mond zieht durch den Erdschatten",
+    "ev.solarSub": "Der Mond zieht vor der Sonne vorbei",
+    "ev.meteor": "{name}-Meteorschauer",
+    "ev.meteorSub": "Bis zu ~{zhr}/Std. · Radiant in {radiant}",
+    "ev.conj": "{a} trifft {b}",
+    "ev.conjSub": "Sie passieren sich ~{sep}° voneinander am Himmel",
+    "ev.iss": "ISS-Überflug",
+    "ev.issSub": "Maximal {alt}° hoch · {dir}",
+    "ekind.total": "Total",
+    "ekind.partial": "Partiell",
+    "ekind.penumbral": "Halbschatten",
+    "ekind.annular": "Ringförmig",
+    "ekind.hybrid": "Hybrid",
+    "count.now": "jetzt",
+    "count.hour": "in weniger als einer Stunde",
+    "count.hours": "in {n} Stunden",
+    "count.tomorrow": "morgen",
+    "count.days": "in {n} Tagen",
+    "count.month": "in ~1 Monat",
+    "count.months": "in ~{n} Monaten",
+    "time.title": "Zeitreise",
+    "time.subtitle": "Sieh den Himmel zu einem beliebigen Datum oder Uhrzeit.",
+    "time.now": "Jetzt",
+    "time.live": "● Live-Himmel",
+    "time.year": "Jahr",
+    "time.month": "Monat",
+    "time.day": "Tag",
+    "time.hour": "Stunde",
+    "time.minute": "Minute",
+    "time.return": "Zur Gegenwart zurück",
+    "time.done": "Fertig",
+    "common.on": "An",
+    "common.off": "Aus"
+  },
+  "content": {
+    "bodyName": {
+      "sun": "Sonne",
+      "moon": "Mond",
+      "mercury": "Merkur",
+      "venus": "Venus",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturn": "Saturn",
+      "uranus": "Uranus",
+      "neptune": "Neptun"
+    },
+    "bodyDesc": {
+      "sun": "Der Stern im Zentrum unseres Sonnensystems: eine gewaltige Gaskugel, die allen Planeten Licht und Wärme spendet. Schau niemals direkt hinein. Etwa 109-mal größer als die Erde.",
+      "moon": "Der einzige natürliche Satellit der Erde und das hellste Objekt am Nachthimmel. Die Mondphasen wechseln, während er jeden Monat um uns kreist.",
+      "mercury": "Der kleinste Planet und der Sonne am nächsten: eine felsige, kraterübersäte Welt mit extremen Temperaturen. Sichtbar knapp über dem Horizont bei Morgen- oder Abenddämmerung.",
+      "venus": "Der heißeste Planet, in dichte Wolken gehüllt. Strahlt als Morgenstern oder Abendstern und ist nach Sonne und Mond das hellste Objekt am Himmel.",
+      "mars": "Der Rote Planet: eine felsige, rostfarbene Welt mit den höchsten Vulkanen und den tiefsten Canyons im Sonnensystem. Mit bloßem Auge als rötliches Pünktchen sichtbar.",
+      "jupiter": "Der größte Planet: ein Gasriese, so massig, dass alle anderen Planeten hineinpassen würden. Die vier größten Monde sind mit einem Fernglas zu sehen.",
+      "saturn": "Das Juwel des Sonnensystems, umgeben von prächtigen Ringen aus Eis und Gestein. Bereits ein kleines Teleskop zeigt die Ringe.",
+      "uranus": "Ein blaugrüner Eisriese, der auf seiner Seite rollt. Kaum mit bloßem Auge unter sehr dunklem Himmel sichtbar.",
+      "neptune": "Der sonnenfernste Planet: eine blaue, eisige Welt, heimgesucht von den schnellsten Winden im Sonnensystem. Mit bloßem Auge unsichtbar."
+    },
+    "bodyInfo": {
+      "sun": {
+        "type": "Gelber Zwergstern (Typ G)",
+        "tagline": "Der Stern im Herzen unseres Sonnensystems.",
+        "stats": [
+          {
+            "label": "Durchmesser",
+            "value": "1.392.700 km\n(109 × Erde)"
+          },
+          {
+            "label": "Oberflächentemp.",
+            "value": "~5.500 °C"
+          },
+          {
+            "label": "Masse",
+            "value": "1,989 × 10³⁰ kg\n(332.900 × Erde)"
+          },
+          {
+            "label": "Alter",
+            "value": "~4,6 Mrd. Jahre"
+          },
+          {
+            "label": "Rotation",
+            "value": "~25 Tage (Äquator)"
+          },
+          {
+            "label": "Bahngeschwindigkeit",
+            "value": "~220 km/s (Galaxis)"
+          }
+        ],
+        "facts": [
+          "Etwa 1,3 Millionen Erden würden hineinpassen.",
+          "Licht benötigt ~8 Minuten, um die Erde zu erreichen.",
+          "Schau niemals direkt mit Fernglas oder Teleskop hinein."
+        ]
+      },
+      "moon": {
+        "type": "Natürlicher Satellit",
+        "tagline": "Der einzige natürliche Satellit der Erde.",
+        "stats": [
+          {
+            "label": "Durchmesser",
+            "value": "3.475 km\n(0,27 × Erde)"
+          },
+          {
+            "label": "Ø Entfernung",
+            "value": "384.400 km"
+          },
+          {
+            "label": "Masse",
+            "value": "7,35 × 10²² kg\n(0,0123 × Erde)"
+          },
+          {
+            "label": "Umlaufzeit",
+            "value": "27,3 Tage"
+          },
+          {
+            "label": "Rotation",
+            "value": "27,3 Tage (synchron)"
+          },
+          {
+            "label": "Bahngeschwindigkeit",
+            "value": "1,0 km/s"
+          },
+          {
+            "label": "Schwerkraft",
+            "value": "1/6 der Erde"
+          }
+        ],
+        "facts": [
+          "Zeigt uns immer dieselbe Seite (gebundene Rotation).",
+          "Entfernt sich jährlich um etwa 3,8 cm.",
+          "Zwölf Menschen haben die Oberfläche betreten."
+        ]
+      },
+      "mercury": {
+        "type": "Felsplanet",
+        "tagline": "Der kleinste Planet und der Sonne am nächsten.",
+        "stats": [
+          {
+            "label": "Durchmesser",
+            "value": "4.879 km\n(0,389 × Erde)"
+          },
+          {
+            "label": "Abstand zur Sonne",
+            "value": "57,9 Mio. km"
+          },
+          {
+            "label": "Masse",
+            "value": "3,30 × 10²³ kg\n(0,055 × Erde)"
+          },
+          {
+            "label": "Jahr",
+            "value": "88 Erdentage"
+          },
+          {
+            "label": "Rotation",
+            "value": "58,6 Erdentage"
+          },
+          {
+            "label": "Taglänge",
+            "value": "176 Erdentage"
+          },
+          {
+            "label": "Bahngeschwindigkeit",
+            "value": "47,4 km/s"
+          },
+          {
+            "label": "Monde",
+            "value": "Keine"
+          }
+        ],
+        "facts": [
+          "Ein Jahr dauert nur 88 Erdentage.",
+          "Temperaturen schwanken zwischen 430 °C und −180 °C.",
+          "Am besten knapp über dem Horizont bei Morgen- oder Abenddämmerung sichtbar."
+        ]
+      },
+      "venus": {
+        "type": "Felsplanet",
+        "tagline": "Der heißeste Planet und der hellste an unserem Himmel.",
+        "stats": [
+          {
+            "label": "Durchmesser",
+            "value": "12.104 km\n(0,949 × Erde)"
+          },
+          {
+            "label": "Abstand zur Sonne",
+            "value": "108,2 Mio. km"
+          },
+          {
+            "label": "Masse",
+            "value": "4,87 × 10²⁴ kg\n(0,815 × Erde)"
+          },
+          {
+            "label": "Oberflächentemp.",
+            "value": "~465 °C"
+          },
+          {
+            "label": "Jahr",
+            "value": "225 Erdentage"
+          },
+          {
+            "label": "Rotation",
+            "value": "243 Erdentage (rückläufig)"
+          },
+          {
+            "label": "Bahngeschwindigkeit",
+            "value": "35,0 km/s"
+          },
+          {
+            "label": "Monde",
+            "value": "Keine"
+          }
+        ],
+        "facts": [
+          "Dreht sich entgegen der Bewegungsrichtung der meisten Planeten.",
+          "Ein Tag auf Venus dauert länger als ein Jahr.",
+          "Wird oft Morgen- oder Abendstern genannt."
+        ]
+      },
+      "mars": {
+        "type": "Felsplanet",
+        "tagline": "Der Rote Planet – Ziel vieler Raumfahrtmissionen.",
+        "stats": [
+          {
+            "label": "Durchmesser",
+            "value": "6.779 km\n(0,533 × Erde)"
+          },
+          {
+            "label": "Abstand zur Sonne",
+            "value": "227,9 Mio. km"
+          },
+          {
+            "label": "Masse",
+            "value": "6,42 × 10²³ kg\n(0,107 × Erde)"
+          },
+          {
+            "label": "Jahr",
+            "value": "687 Erdentage (1,9 Jahre)"
+          },
+          {
+            "label": "Rotation",
+            "value": "24,6 Stunden"
+          },
+          {
+            "label": "Bahngeschwindigkeit",
+            "value": "24,1 km/s"
+          },
+          {
+            "label": "Monde",
+            "value": "2 (Phobos, Deimos)"
+          }
+        ],
+        "facts": [
+          "Beherbergt Olympus Mons, den höchsten Vulkan im Sonnensystem.",
+          "Die rote Farbe stammt von Eisenoxid (Rost).",
+          "Mit bloßem Auge als rötliches Lichtpünktchen sichtbar."
+        ]
+      },
+      "jupiter": {
+        "type": "Gasriese",
+        "tagline": "Der größte Planet des Sonnensystems.",
+        "stats": [
+          {
+            "label": "Durchmesser",
+            "value": "139.820 km\n(11,21 × Erde)"
+          },
+          {
+            "label": "Abstand zur Sonne",
+            "value": "778,5 Mio. km"
+          },
+          {
+            "label": "Masse",
+            "value": "1,898 × 10²⁷ kg\n(317,8 × Erde)"
+          },
+          {
+            "label": "Jahr",
+            "value": "11,9 Erdenjahre"
+          },
+          {
+            "label": "Rotation",
+            "value": "~10 Stunden"
+          },
+          {
+            "label": "Bahngeschwindigkeit",
+            "value": "13,1 km/s"
+          },
+          {
+            "label": "Monde",
+            "value": "95+"
+          }
+        ],
+        "facts": [
+          "Der Große Rote Fleck ist ein Sturm, größer als die Erde.",
+          "Die vier größten Monde sind mit einem Fernglas sichtbar.",
+          "Hat den kürzesten Tag aller Planeten."
+        ]
+      },
+      "saturn": {
+        "type": "Gasriese",
+        "tagline": "Das Juwel des Sonnensystems mit seinen Ringen.",
+        "stats": [
+          {
+            "label": "Durchmesser",
+            "value": "116.460 km\n(9,45 × Erde)"
+          },
+          {
+            "label": "Abstand zur Sonne",
+            "value": "1,43 Mrd. km"
+          },
+          {
+            "label": "Masse",
+            "value": "5,68 × 10²⁶ kg\n(95,15 × Erde)"
+          },
+          {
+            "label": "Jahr",
+            "value": "29,5 Erdenjahre"
+          },
+          {
+            "label": "Rotation",
+            "value": "~10,7 Stunden"
+          },
+          {
+            "label": "Bahngeschwindigkeit",
+            "value": "9,7 km/s"
+          },
+          {
+            "label": "Monde",
+            "value": "140+"
+          }
+        ],
+        "facts": [
+          "Die Ringe bestehen hauptsächlich aus Eis und Gestein.",
+          "Er ist der am wenigsten dichte Planet – er würde auf Wasser schwimmen.",
+          "Die Ringe sind auch mit einem kleinen Teleskop sichtbar."
+        ]
+      },
+      "uranus": {
+        "type": "Eisriese",
+        "tagline": "Der Planet, der auf seiner Seite rollt.",
+        "stats": [
+          {
+            "label": "Durchmesser",
+            "value": "50.724 km\n(4,01 × Erde)"
+          },
+          {
+            "label": "Abstand zur Sonne",
+            "value": "2,87 Mrd. km"
+          },
+          {
+            "label": "Masse",
+            "value": "8,68 × 10²⁵ kg\n(14,56 × Erde)"
+          },
+          {
+            "label": "Jahr",
+            "value": "84 Erdenjahre"
+          },
+          {
+            "label": "Rotation",
+            "value": "17,2 Stunden (rückläufig)"
+          },
+          {
+            "label": "Bahngeschwindigkeit",
+            "value": "6,8 km/s"
+          },
+          {
+            "label": "Monde",
+            "value": "28"
+          }
+        ],
+        "facts": [
+          "Dreht sich auf der Seite, vermutlich nach einem riesigen Einschlag.",
+          "Die blaugrüne Farbe kommt von Methan.",
+          "Kaum mit bloßem Auge unter sehr dunklem Himmel sichtbar."
+        ]
+      },
+      "neptune": {
+        "type": "Eisriese",
+        "tagline": "Der windigste und entfernteste große Planet.",
+        "stats": [
+          {
+            "label": "Durchmesser",
+            "value": "49.244 km\n(3,88 × Erde)"
+          },
+          {
+            "label": "Abstand zur Sonne",
+            "value": "4,5 Mrd. km"
+          },
+          {
+            "label": "Masse",
+            "value": "1,02 × 10²⁶ kg\n(17,15 × Erde)"
+          },
+          {
+            "label": "Jahr",
+            "value": "165 Erdenjahre"
+          },
+          {
+            "label": "Rotation",
+            "value": "16,1 Stunden"
+          },
+          {
+            "label": "Bahngeschwindigkeit",
+            "value": "5,4 km/s"
+          },
+          {
+            "label": "Monde",
+            "value": "16"
+          }
+        ],
+        "facts": [
+          "Winde erreichen 2.000 km/h – die schnellsten im Sonnensystem.",
+          "Wurde durch Berechnungen entdeckt, bevor er beobachtet wurde.",
+          "Ein Teleskop ist nötig, um ihn zu finden."
+        ]
+      }
+    },
+    "constellationName": {
+      "orion": "Orion",
+      "ursa-major": "Großer Bär",
+      "cassiopeia": "Kassiopeia",
+      "scorpius": "Skorpion",
+      "leo": "Löwe",
+      "cygnus": "Schwan",
+      "gemini": "Zwillinge",
+      "taurus": "Stier",
+      "canis-major": "Großer Hund",
+      "crux": "Kreuz des Südens",
+      "aries": "Widder",
+      "cancer": "Krebs",
+      "virgo": "Jungfrau",
+      "libra": "Waage",
+      "sagittarius": "Schütze",
+      "capricornus": "Steinbock",
+      "aquarius": "Wassermann",
+      "pisces": "Fische",
+      "ursa-minor": "Kleiner Bär",
+      "andromeda": "Andromeda",
+      "perseus": "Perseus",
+      "auriga": "Fuhrmann",
+      "bootes": "Bärenhüter",
+      "corona-borealis": "Nördliche Krone",
+      "hercules": "Herkules",
+      "lyra": "Leier",
+      "aquila": "Adler",
+      "pegasus": "Pegasus",
+      "cepheus": "Kepheus",
+      "draco": "Drache",
+      "canis-minor": "Kleiner Hund",
+      "centaurus": "Zentaur",
+      "lupus": "Wolf",
+      "carina": "Kiel",
+      "vela": "Segel",
+      "puppis": "Hinterdeck",
+      "corvus": "Rabe",
+      "delphinus": "Delfin",
+      "antlia": "Luftpumpe",
+      "apus": "Paradiesvogel",
+      "ara": "Altar",
+      "caelum": "Grabstichel",
+      "camelopardalis": "Giraffe",
+      "canes-venatici": "Jagdhunde",
+      "cetus": "Walfisch",
+      "chamaeleon": "Chamäleon",
+      "circinus": "Zirkel",
+      "columba": "Taube",
+      "coma-berenices": "Haar der Berenike",
+      "corona-australis": "Südliche Krone",
+      "crater": "Becher",
+      "dorado": "Schwertfisch",
+      "equuleus": "Füllen",
+      "eridanus": "Eridanus",
+      "fornax": "Chemischer Ofen",
+      "grus": "Kranich",
+      "horologium": "Pendeluhr",
+      "hydra": "Wasserschlange",
+      "hydrus": "Kleine Wasserschlange",
+      "indus": "Indianer",
+      "lacerta": "Eidechse",
+      "leo-minor": "Kleiner Löwe",
+      "lepus": "Hase",
+      "lynx": "Luchs",
+      "mensa": "Tafelberg",
+      "microscopium": "Mikroskop",
+      "monoceros": "Einhorn",
+      "musca": "Fliege",
+      "norma": "Winkelmaß",
+      "octans": "Oktant",
+      "ophiuchus": "Schlangenträger",
+      "pavo": "Pfau",
+      "phoenix": "Phönix",
+      "pictor": "Maler",
+      "piscis-austrinus": "Südlicher Fisch",
+      "pyxis": "Schiffskompass",
+      "reticulum": "Netz",
+      "sagitta": "Pfeil",
+      "sculptor": "Bildhauer",
+      "scutum": "Schild",
+      "serpens": "Schlange",
+      "sextans": "Sextant",
+      "telescopium": "Teleskop",
+      "triangulum": "Dreieck",
+      "triangulum-australe": "Südliches Dreieck",
+      "tucana": "Tukan",
+      "volans": "Fliegender Fisch",
+      "vulpecula": "Füchschen"
+    },
+    "constellationNick": {
+      "orion": "der Jäger",
+      "ursa-major": "der Große Bär (der Große Wagen)",
+      "cassiopeia": "die Königin",
+      "scorpius": "der Skorpion",
+      "leo": "der Löwe",
+      "cygnus": "der Schwan (das Nordkreuz)",
+      "gemini": "die Zwillinge",
+      "taurus": "der Stier",
+      "canis-major": "der Große Hund",
+      "crux": "das Kreuz des Südens",
+      "aries": "der Widder",
+      "cancer": "der Krebs",
+      "virgo": "die Jungfrau",
+      "libra": "die Waage",
+      "sagittarius": "der Schütze (die Teekanne)",
+      "capricornus": "die Meerziege",
+      "aquarius": "der Wasserträger",
+      "pisces": "die Fische",
+      "ursa-minor": "der Kleine Wagen",
+      "andromeda": "die gefesselte Prinzessin",
+      "perseus": "der Held",
+      "auriga": "der Fuhrmann",
+      "bootes": "der Bärenhüter",
+      "corona-borealis": "die Nördliche Krone",
+      "hercules": "der kniende Held",
+      "lyra": "die Leier",
+      "aquila": "der Adler",
+      "pegasus": "das geflügelte Pferd",
+      "cepheus": "der König",
+      "draco": "der Drache",
+      "canis-minor": "der Kleine Hund",
+      "centaurus": "der Zentaur",
+      "lupus": "der Wolf",
+      "carina": "der Schiffskiel",
+      "vela": "die Segel",
+      "puppis": "das Hinterdeck",
+      "corvus": "der Rabe",
+      "delphinus": "der Delfin",
+      "antlia": "die Luftpumpe",
+      "apus": "der Paradiesvogel",
+      "ara": "der Altar",
+      "caelum": "der Grabstichel",
+      "camelopardalis": "die Giraffe",
+      "canes-venatici": "die Jagdhunde",
+      "cetus": "das Meeresungeheuer",
+      "chamaeleon": "das Chamäleon",
+      "circinus": "der Zirkel",
+      "columba": "die Taube",
+      "coma-berenices": "das Haar der Berenike",
+      "corona-australis": "die Südliche Krone",
+      "crater": "der Becher",
+      "dorado": "der Schwertfisch",
+      "equuleus": "das Füllen",
+      "eridanus": "der Fluss",
+      "fornax": "der Chemische Ofen",
+      "grus": "der Kranich",
+      "horologium": "die Pendeluhr",
+      "hydra": "die Wasserschlange",
+      "hydrus": "die Kleine Wasserschlange",
+      "indus": "der Indianer",
+      "lacerta": "die Eidechse",
+      "leo-minor": "der Kleine Löwe",
+      "lepus": "der Hase",
+      "lynx": "der Luchs",
+      "mensa": "der Tafelberg",
+      "microscopium": "das Mikroskop",
+      "monoceros": "das Einhorn",
+      "musca": "die Fliege",
+      "norma": "das Winkelmaß",
+      "octans": "der Oktant",
+      "ophiuchus": "der Schlangenträger",
+      "pavo": "der Pfau",
+      "phoenix": "der Phönix",
+      "pictor": "der Maler",
+      "piscis-austrinus": "der Südliche Fisch",
+      "pyxis": "der Schiffskompass",
+      "reticulum": "das Netz",
+      "sagitta": "der Pfeil",
+      "sculptor": "der Bildhauer",
+      "scutum": "der Schild",
+      "serpens": "die Schlange",
+      "sextans": "der Sextant",
+      "telescopium": "das Teleskop",
+      "triangulum": "das Dreieck",
+      "triangulum-australe": "das Südliche Dreieck",
+      "tucana": "der Tukan",
+      "volans": "der Fliegende Fisch",
+      "vulpecula": "das Füchschen"
+    },
+    "constellationDesc": {
+      "orion": "Der Jäger: das bekannteste Sternbild, auf dem Himmelsäquator, daher weltweit sichtbar. Die drei Gürtelsterne zeigen auf einer Seite auf Sirius, auf der anderen auf Aldebaran.",
+      "ursa-major": "Der Große Bär mit dem Großen Wagen: sieben helle Sterne, deren Zeigersterne Dubhe und Merak geradlinig zum Polarstern führen.",
+      "cassiopeia": "Die Königin: ein markantes W (oder M) aus fünf Sternen, auf der gegenüberliegenden Seite des Polarsterns vom Großen Bären, sodass immer eines von beiden hoch am Nordhimmel steht.",
+      "scorpius": "Der Skorpion: ein Sternenbogen um den roten Überriesenstern Antares mit einem geschwungenen Schwanz, der in einem Stachel endet. Ein Juwel des südlichen Sommerhimmels.",
+      "leo": "Der Löwe: Kopf und Mähne bilden ein umgekehrtes Fragezeichen (die Sichel), gekrönt von Regulus, und ein Sternendreieck markiert seinen Hinterleib.",
+      "cygnus": "Der Schwan, auch Nordkreuz genannt: fliegt die Milchstraße entlang, mit dem hellen Deneb im Schwanz und dem Doppelstern Albireo im Schnabel.",
+      "gemini": "Die Zwillinge: zwei parallele Sternenreihen, gekrönt vom hellen Paar Castor und Pollux, den Köpfen der mythologischen Brüder.",
+      "taurus": "Der Stier: ein V-förmiges Gesicht (der Sternhaufen der Hyaden) um das orange Aldebaran, mit langen Hörnern bis zu Elnath. Die Plejaden ruhen auf seiner Schulter.",
+      "canis-major": "Der Große Hund: treuer Begleiter Orions, markiert durch Sirius, den hellsten Stern am gesamten Nachthimmel.",
+      "crux": "Das Kreuz des Südens: das kleinste Sternbild, aber eines der bekanntesten; die Längsachse zeigt zum Südpol.",
+      "aries": "Der Widder: eine sanfte Sternenlinie, angeführt vom orangefarbenen Hamal. Ein berühmtes Sternzeichen, das einst den Frühlingspunkt beherbergte.",
+      "cancer": "Der Krebs: das schwächste Tierkreissternbild, aber mit dem prachtvollen Sternhaufen Krippe (Praesepe).",
+      "virgo": "Die Jungfrau: das zweitgrößte Sternbild, angeführt vom hellen blauweißen Spica, der Ähre, die sie hält.",
+      "libra": "Die Waage: das einzige Tierkreiszeichen, das ein Objekt darstellt und kein Lebewesen; ihre Sterne bildeten einst die Scheren des benachbarten Skorpions.",
+      "sagittarius": "Der Schütze: seine hellen Sterne zeichnen die Teekanne, deren Ausguss auf das Zentrum unserer Milchstraße zeigt.",
+      "capricornus": "Der Steinbock: ein breites Dreieck schwacher Sterne, das kleinste Tierkreissternbild, tief am Südhimmel.",
+      "aquarius": "Der Wassermann: ein altes, weitläufiges Sternbild, dessen Krug einen Strom schwacher Sterne nach Süden ausgießt.",
+      "pisces": "Die Fische: zwei Fische, schwanzweise beim Stern Alrescha verbunden, die schwach unter dem Großen Viereck von Pegasus mäandern.",
+      "ursa-minor": "Der Kleine Bär: die Spitze seines Schwanzes ist der Polarstern, um den sich der gesamte Nordhimmel zu drehen scheint. Ein kleineres, schwächeres Echo des Großen Wagens.",
+      "andromeda": "Die gefesselte Prinzessin: eine Sternenkette von einer Ecke des Großen Vierecks von Pegasus, mit der Andromeda-Galaxie, dem fernsten mit bloßem Auge sichtbaren Objekt.",
+      "perseus": "Der Held: ein reiches Stück der Milchstraße mit Algol, dem Teufelsstern, dessen Helligkeit alle paar Tage abnimmt, wenn ein Begleiter ihn bedeckt.",
+      "auriga": "Der Fuhrmann: ein helles Fünfeck aus Sternen, gekrönt vom strahlenden Capella, dem sechsthellsten Stern, hoch am Winterabendhimmel.",
+      "bootes": "Der Bärenhüter: eine drachenartige Figur, angeführt von Arcturus, dem hellsten Stern am Nordhimmel, zu finden durch Verlängern des Bogens des Großen Wagengriffs.",
+      "corona-borealis": "Die Nördliche Krone: ein eleganter Halbkreis aus sieben Sternen, dessen Juwel Alphecca ist. Klein, aber leicht erkennbar.",
+      "hercules": "Der kniende Held: ein großes Sommersternbild, dessen vier zentrale Sterne den Schlussstein bilden. Beherbergt M13, den prächtigsten Kugelsternhaufen am Nordhimmel.",
+      "lyra": "Die Leier: ein kleines Sternbild um das helle blauweise Wega, einem Eckpunkt des Sommerdreiecks, mit einem sauberen Parallelogramm darunter.",
+      "aquila": "Der Adler: gleitet die Milchstraße entlang, markiert durch das helle Altair, flankiert von zwei schwächeren Sternen; südlicher Eckpunkt des Sommerdreiecks.",
+      "pegasus": "Pegasus, das geflügelte Pferd: sein Körper ist das Große Viereck von Pegasus, ein riesiges, fast leeres Viereck aus Sternen, das den Herbsthimmel beherrscht.",
+      "cepheus": "Der König: ein Polarsternbild in Form eines Kinderhauses, mit dem berühmten veränderlichen Stern Delta Cephei.",
+      "draco": "Der Drache: ein langes, sich windendes Sternbild zwischen den beiden Bären. Sein Stern Thuban war zu Zeiten der ägyptischen Pyramiden der Polarstern.",
+      "canis-minor": "Der Kleine Hund: kaum mehr als zwei Sterne, aber einer davon ist Procyon, der achthellste, ein Eckpunkt des Winterdreiecks.",
+      "centaurus": "Der Zentaur: ein helles südliches Sternbild, dessen Zeigersterne Alpha und Beta Centauri auf das Kreuz des Südens weisen. Alpha Centauri ist das nächste Sternsystem zur Sonne.",
+      "lupus": "Der Wolf: ein kompaktes südliches Sternbild vor einem reichen Milchstraßenhintergrund, zwischen Zentaur und Skorpion.",
+      "carina": "Der Kiel des Schiffes Argo: beherbergt Canopus, den zweithellsten Stern am Himmel, und den gewaltigen Carinanebel.",
+      "vela": "Die Segel des Schiffes Argo: ein helles südliches Sternbild, dessen Sterne zusammen mit zwei Sternen des Kiels das Falsche Kreuz bilden.",
+      "puppis": "Das Hinterdeck des Schiffes Argo: ein großes südliches Sternbild in einem dichten Teil der Milchstraße, angeführt vom heißen Stern Naos.",
+      "corvus": "Der Rabe: ein kleines, markantes Viereck aus vier Sternen, das auf der Wasserschlange reitet, leicht südlich von Spica zu finden.",
+      "delphinus": "Der Delfin: eine kleine, reizvolle Sternenraute (der Sarg des Hiob), die aus der Milchstraße nahe dem Sommerdreieck springt.",
+      "antlia": "Ein schwaches, modernes Sternbild zwischen Wasserschlange und Segel.",
+      "apus": "Ein kleines, schwaches Sternbild nahe dem Südpol.",
+      "ara": "Ein Altar aus Sternen knapp südlich des Skorpionschwanzes.",
+      "caelum": "Eines der schwächsten Sternbilder: ein schmaler Streifen zwischen dem Fluss Eridanus und der Taube.",
+      "camelopardalis": "Ein großes, aber schwaches nördliches Sternbild, das die leere Fläche am Pol ausfüllt.",
+      "canes-venatici": "Die Jagdhunde des Bärenhüters, angeführt vom Stern Cor Caroli; Heimat der Whirlpool-Galaxie.",
+      "cetus": "Das Meeresungeheuer: ein ausgedehntes Sternbild mit Mira, dem ersten jemals entdeckten veränderlichen Stern.",
+      "chamaeleon": "Ein kleines, schwaches Sternbild nahe dem Südpol.",
+      "circinus": "Ein winziges, schwaches Sternbild, versteckt neben Alpha Centauri.",
+      "columba": "Ein kleines Sternbild unterhalb des Hasen, das Noahs Taube darstellt.",
+      "coma-berenices": "Eine verschwommene Streuung von Sternen, die das abgeschnittene Haar von Königin Berenike darstellt – tatsächlich ein nahegelegener Sternhaufen.",
+      "corona-australis": "Ein eleganter Sternbogen zu Füßen des Schützen.",
+      "crater": "Ein Becher aus schwachen Sternen, der auf dem Rücken der Wasserschlange reitet.",
+      "dorado": "Ein südliches Sternbild, das den Großteil der Großen Magellan'schen Wolke beherbergt.",
+      "equuleus": "Das zweitkleinste Sternbild: ein schwaches Füllen neben Pegasus.",
+      "eridanus": "Das sechstgrößte Sternbild: ein langer Sternenstrom, der vom Fuß Orions bis zum strahlenden Achernar mäandert.",
+      "fornax": "Ein schwaches Sternbild, eingeschlossen von einer Biegung des Himmelsflusses Eridanus.",
+      "grus": "Ein eleganter südlicher Vogel im Flug, direkt unterhalb des Südlichen Fisches.",
+      "horologium": "Ein langes, schwaches südliches Sternbild, das sich neben Eridanus schlängelt.",
+      "hydra": "Das größte aller Sternbilder: eine lange Schlange, die ein Viertel des Himmels überdeckt, mit dem orangefarbenen Alphard als Kopf.",
+      "hydrus": "Eine schwache südliche Schlange, die zwischen den zwei Magellan'schen Wolken mäandert.",
+      "indus": "Ein schwaches südliches Sternbild, das einen einheimischen Jäger darstellt.",
+      "lacerta": "Ein kleines Zickzack aus schwachen Sternen zwischen Schwan und Andromeda.",
+      "leo-minor": "Ein schwacher Streifen von Sternen, eingeklemmt zwischen Löwen und Großem Bären.",
+      "lepus": "Ein Hase, der sich zu Orions Füßen duckt und vor dem Jäger und seinen Hunden flieht.",
+      "lynx": "Ein schwaches Zickzack, so benannt, weil man Luchsaugen braucht, um ihn zu sehen.",
+      "mensa": "Das schwächste Sternbild – kein Stern heller als Magnitude 5 – unterhalb der Großen Magellan'schen Wolke.",
+      "microscopium": "Ein schwaches, modernes Sternbild südlich des Steinbocks.",
+      "monoceros": "Ein schwaches Einhorn, das durch die Milchstraße galoppiert, umgeben vom Winterdreieck.",
+      "musca": "Ein kleines, aber recht helles Sternbild knapp südlich des Kreuzes des Südens.",
+      "norma": "Ein schwaches Sternbild in einem sternenreichen Teil der Milchstraße zwischen Skorpion und Zentaur.",
+      "octans": "Das Sternbild, das den Südpol enthält; sein Polarstern Sigma Octantis ist mit bloßem Auge kaum sichtbar.",
+      "ophiuchus": "Der Schlangenträger: ein Riese des Sommerhimmels, das 13. Zeichen, durch das die Sonne zieht, aber das der Tierkreis nicht berücksichtigt.",
+      "pavo": "Ein südliches Sternbild, dessen hellster Stern schlicht Pfau (Peacock) heißt.",
+      "phoenix": "Der mythische Feuervogel, das größte der südlichen Vogelsternbilder, in der Nähe des hellen Achernar.",
+      "pictor": "Ein schwaches südliches Sternbild neben dem strahlenden Canopus, bekannt für die planetenbildende Scheibe um Beta Pictoris.",
+      "piscis-austrinus": "Der Südliche Fisch trinkt den Strom, den der Wassermann ausgießt, und wird durch den einsamen, hellen Fomalhaut markiert.",
+      "pyxis": "Ein kleines, schwaches Sternbild, das den Kompass des Schiffes Argo markiert.",
+      "reticulum": "Eine kleine Raute aus schwachen Sternen nahe der Großen Magellan'schen Wolke.",
+      "sagitta": "Das drittkleinste Sternbild: ein winziger Pfeil, der durch das Sommerdreieck fliegt.",
+      "sculptor": "Ein schwaches Sternbild, das den Südpol unserer Milchstraße beherbergt.",
+      "scutum": "Ein kleines Sternbild, das sich vor der strahlenden Scutum-Sternwolke der Milchstraße abhebt.",
+      "serpens": "Das einzige Sternbild, das in zwei Teile aufgeteilt ist: Kopf (Caput) und Schwanz (Cauda) einer Schlange, die vom Schlangenträger gehalten wird.",
+      "sextans": "Ein sehr schwaches Sternbild, das knapp südlich von Regulus im Löwen liegt.",
+      "telescopium": "Ein schwaches südliches Sternbild knapp unterhalb von Schütze und Südlicher Krone.",
+      "triangulum": "Ein einfaches, ordentliches Sternendreieck nahe Andromeda, Heimat der Dreiecksgalaxie (M33).",
+      "triangulum-australe": "Ein helles, nahezu gleichseitiges Sternendreieck neben Alpha Centauri.",
+      "tucana": "Ein südlicher Vogel, der die Kleine Magellan'sche Wolke und den eindrucksvollen Kugelsternhaufen 47 Tucanae trägt.",
+      "volans": "Ein kleines südliches Sternbild eines fliegenden Fisches, versteckt in der Kurve des Kiels.",
+      "vulpecula": "Ein schwaches Sternbild im Sommerdreieck, Heimat des hellen Hantelförmigen Nebels."
+    },
+    "constellationMyth": {
+      "aries": "Der Widder mit dem goldenen Vlies, der die Kinder Phrixus und Helle rettete, indem er sie durch den Himmel trug. Sein Fell wurde das Ziel von Jasons und der Argonauten Suche.",
+      "taurus": "Der Stier ist Zeus in Verkleidung, der Prinzessin Europa übers Meer nach Kreta trägt. Das V seines Gesichts ist der Sternhaufen der Hyaden, und die Plejaden ruhen auf seiner Schulter.",
+      "gemini": "Die Zwillinge Castor und Pollux. Als der sterbliche Castor starb, bat sein unsterblicher Bruder Zeus, seine Unsterblichkeit zu teilen; sie wurden für immer zusammen an den Himmel versetzt.",
+      "cancer": "Der Krebs, den die Göttin Hera schickte, um Herakles während seines Kampfes mit der Hydra abzulenken. Er zertrampelte ihn, und Hera versetzte ihn unter die Sterne.",
+      "leo": "Der nemeische Löwe, dessen Fell durch keine Waffe durchbohrt werden konnte. Herakles erdrosselte ihn mit bloßen Händen als seine erste Aufgabe und trug das Fell als Rüstung.",
+      "virgo": "Oft Demeter, Göttin der Ernte, oder Astraea, die Jungfrau der Gerechtigkeit, die in den Himmel floh. Ihr heller Stern Spica ist eine Getreideähre.",
+      "libra": "Die Waage der Gerechtigkeit, die Astraea hält und Gut und Böse abwiegt. Die Römer sahen darin das Gleichgewicht zwischen Tag und Nacht beim Äquinoktium.",
+      "scorpius": "Der Skorpion, der den großen Jäger Orion tödlich stach. Sie wurden auf gegenüberliegende Seiten des Himmels gesetzt und begegnen sich nie: Orion geht unter, wenn der Skorpion aufgeht.",
+      "sagittarius": "Der Zentauren-Bogenschütze, oft der weise Chiron, der seinen Pfeil auf das Herz des benachbarten Skorpions richtet.",
+      "capricornus": "Die Meerziege: der Gott Pan, der in den Nil tauchte, um dem Monster Typhon zu entkommen, und seine untere Körperhälfte in einen Fisch verwandelte.",
+      "aquarius": "Der Wasserträger: Ganymed, ein schöner Jüngling, den Zeus auf den Olymp brachte, um den Göttern zu dienen, und der die Wasser des Himmels ausgießt.",
+      "pisces": "Zwei Fische, in die sich Aphrodite und ihr Sohn Eros verwandelten, um vor Typhon zu fliehen, ihre Schwänze zusammengebunden, um sich nicht zu verlieren.",
+      "orion": "Der große Jäger, der prahlte, er könne jedes Tier töten, und deshalb von einem Skorpion getötet wurde. Er durchquert den Winterhimmel mit Keule, Gürtel und Schwert, seine zwei Hunde zu seinen Füßen.",
+      "cassiopeia": "Die stolze Königin, die prahlte, schöner als die Meernymphen zu sein. Zur Strafe dreht sie sich um den Pol, eine halbe Nacht auf dem Kopf hängend.",
+      "cepheus": "Der König von Äthiopien, Ehemann der Kassiopeia und Vater der Andromeda, neben seiner königlichen Familie an den Himmel versetzt.",
+      "andromeda": "Die Prinzessin, die an einen Felsen gekettet wurde als Opfer für ein Meeresungeheuer, um den Stolz ihrer Mutter zu sühnen, bis der Held Perseus sie rettete.",
+      "perseus": "Der Held, der Medusas Kopf abschlug und Andromeda rettete. Er hält das abgeschlagene Haupt der Medusa, deren blinkendes Auge der Teufelsstern Algol ist.",
+      "pegasus": "Das geflügelte Pferd, geboren aus Medusas Blut, das Helden trug und mit einem Hufschlag die Quelle der Musen entspringen ließ.",
+      "cetus": "Das Meeresungeheuer, das ausgesandt wurde, Andromeda zu verschlingen, versteinert als Perseus ihm das Haupt der Medusa zeigte.",
+      "ursa-major": "Der Große Bär: die Nymphe Kallisto, von einer eifersüchtigen Göttin in eine Bärin verwandelt, die Zeus zusammen mit ihrem Sohn, dem Kleinen Bären, in den Himmel erhob.",
+      "ursa-minor": "Der Kleine Bär: Arcas, Kallistos Sohn, neben seiner Mutter an den Himmel versetzt. Die Spitze seines Schwanzes ist der Polarstern.",
+      "bootes": "Der Bärenhüter, der den Großen Bären um den Pol kreisen lässt und die Leinen seiner Jagdhunde hält. Sein heller orangefarbener Stern ist Arcturus, der Bärenhüter.",
+      "corona-borealis": "Die Krone der Prinzessin Ariadne, die Theseus aus dem Labyrinth half zu entkommen. Dionysos warf ihren Brautkranz als Diadem aus Sternen an den Himmel.",
+      "hercules": "Der größte griechische Held, kniend dargestellt, der zwölf unmögliche Aufgaben vollbrachte. Neben ihm liegen der Löwe und der Drache, die er besiegte.",
+      "lyra": "Die Leier des Orpheus, deren Musik jedes Lebewesen verzauberte. Nach seinem Tod versetzten die Götter das Instrument unter die Sterne, markiert durch das helle Wega.",
+      "cygnus": "Der Schwan: eine Gestalt, die Zeus annahm, oder der treue Cygnus, der immer wieder in den Fluss tauchte, seinen gefallenen Freund suchend, bis er in einen Schwan verwandelt wurde.",
+      "aquila": "Der Adler des Zeus, Träger seiner Blitze, der den jungen Ganymed auf den Olymp brachte.",
+      "draco": "Der Drache Ladon, der die goldenen Äpfel der Hesperiden bewachte, bis Herakles ihn tötete. Er windet sich für immer um den Nordpol.",
+      "canis-major": "Der Große Hund: Orions treuer Hund. Er trägt Sirius, den hellsten Stern am gesamten Nachthimmel.",
+      "canis-minor": "Der Kleine Hund, Orions zweiter Hund, markiert durch das helle Procyon, vor dem Hund, da er kurz vor Sirius aufgeht.",
+      "auriga": "Der Fuhrmann, oft Erichthonius, der das Vierergespann erfand. Er trägt eine Ziege – den Stern Capella – und ihre Kitze auf der Schulter.",
+      "centaurus": "Ein Zentaur, oft der weise Chiron, Lehrer der Helden, am Südhimmel versetzt. Seine zwei hellen Sterne zeigen auf das Kreuz des Südens.",
+      "hydra": "Die vielköpfige Wasserschlange, die Herakles tötete; bei jedem abgehackten Kopf wuchsen zwei nach, bis er die Stümpfe mit Feuer versiegelte.",
+      "corvus": "Der Rabe des Apollon, ausgesandt, Wasser zu holen, der aber zögerte, um Feigen zu essen. Er beschuldigte eine Wasserschlange für die Verspätung, und Apollon versetzte sie alle an den Himmel.",
+      "crater": "Der Becher des Apollon, verbunden mit der Geschichte des lügenden Raben, auf dem Rücken der Hydra platziert, außer Reichweite des Raben.",
+      "ophiuchus": "Der Schlangenträger: Asklepios, der große Heiler, der die Toten zum Leben erwecken konnte, eine riesige Schlange haltend. Zeus tötete ihn mit dem Blitz, verewigt ihn aber unter den Sternen.",
+      "serpens": "Die große Schlange, die der Heiler Asklepios hält: das einzige Sternbild, das in zwei Teile gespalten ist, Kopf und Schwanz, auf beiden Seiten von ihm.",
+      "lepus": "Der Hase, der sich zu Orions Füßen duckt und ewig vor dem Jäger und seinen Hunden flieht.",
+      "sagitta": "Der Pfeil: vielleicht derjenige, mit dem Herakles den Adler tötete, der Prometheus quälte, oder ein Pfeil des Apollon oder Eros.",
+      "delphinus": "Der Delfin, der den Dichter Arion sicher ans Ufer brachte, nachdem Seeleute ihn über Bord geworfen hatten, bezaubert von seinem Gesang; Apollon versetzte ihn an den Himmel.",
+      "triangulum": "Ein einfaches Dreieck, das die Griechen mit dem Nildelta, der Insel Sizilien und dem Buchstaben Delta verglichen.",
+      "eridanus": "Der große Himmelsfluss, assoziiert mit dem Nil und dem Fluss, in den Phaëton fiel, nachdem er die Kontrolle über den Sonnenwagen verlor.",
+      "columba": "Die Taube: in einer späteren Tradition diejenige, die Noach aus der Arche schickte, oder diejenige, die die Argonauten zwischen den aufeinanderprallenden Felsen hindurchführte.",
+      "corona-australis": "Die Südliche Krone, manchmal als Kranz zu Füßen des Zentauren-Bogenschützen gesehen.",
+      "crux": "Das Kreuz des Südens: den alten Griechen unbekannt, aber ein heiliges Zeichen für viele südliche Völker und ein Wegweiser für Seefahrer, die die südlichen Meere durchqueren.",
+      "phoenix": "Der Phönix, der mythische Feuervogel, der sich in seiner Asche verbrennt und neu aufsteigt: ein Symbol der Erneuerung in vielen Kulturen.",
+      "pavo": "Der Pfau, der Göttin Hera geweiht, dessen Schwanz die hundert Augen des Riesen Argus tragen soll."
+    },
+    "starName": {
+      "sirius": "Sirius",
+      "canopus": "Canopus",
+      "rigil-kentaurus": "Rigil Kentaurus",
+      "arcturus": "Arcturus",
+      "vega": "Wega",
+      "capella": "Capella",
+      "rigel": "Rigel",
+      "procyon": "Procyon",
+      "betelgeuse": "Beteigeuze",
+      "altair": "Altair",
+      "aldebaran": "Aldebaran",
+      "antares": "Antares",
+      "spica": "Spica",
+      "pollux": "Pollux",
+      "fomalhaut": "Fomalhaut",
+      "deneb": "Deneb",
+      "regulus": "Regulus",
+      "castor": "Castor",
+      "bellatrix": "Bellatrix",
+      "elnath": "Elnath",
+      "alnilam": "Alnilam",
+      "alnitak": "Alnitak",
+      "mintaka": "Mintaka",
+      "alioth": "Alioth",
+      "dubhe": "Dubhe",
+      "alkaid": "Alkaid",
+      "mirfak": "Mirfak",
+      "polaris": "Polarstern",
+      "alphard": "Alphard",
+      "hamal": "Hamal",
+      "hadar": "Hadar",
+      "achernar": "Achernar",
+      "acrux": "Acrux"
+    },
+    "starDesc": {
+      "sirius": "Der hellste Stern am Nachthimmel. Ein Stern im Großen Hund, etwa 8,6 Lichtjahre entfernt.",
+      "canopus": "Der zweithellste Stern, ein südliches Leuchtfeuer. Im Kiel, ~310 Lichtjahre entfernt.",
+      "rigil-kentaurus": "Alpha Centauri: das nächste Sternsystem zur Sonne. Im Zentaur, nur ~4,4 Lichtjahre entfernt.",
+      "arcturus": "Ein roter Riese; der hellste Stern am Nordhimmel. Im Bärenhüter, ~37 Lichtjahre entfernt.",
+      "vega": "Ein Sommerstern und einstiger Polarstern. In der Leier, ~25 Lichtjahre entfernt.",
+      "capella": "Eigentlich ein System aus vier Sternen. Im Fuhrmann, ~43 Lichtjahre entfernt.",
+      "rigel": "Ein blauer Überriese, der Orions Fuß markiert. ~860 Lichtjahre entfernt.",
+      "procyon": "Ein heller, naher Stern. Im Kleinen Hund, ~11,5 Lichtjahre entfernt.",
+      "betelgeuse": "Ein roter Überriese, der eines Tages als Supernova explodieren könnte. In Orion, ~550 Lichtjahre entfernt.",
+      "altair": "Ein Eckpunkt des Sommerdreiecks. Im Adler, ~17 Lichtjahre entfernt.",
+      "aldebaran": "Das orangefarbene Auge des Stiers. ~65 Lichtjahre entfernt.",
+      "antares": "Ein roter Überriese, der Rivale des Mars. Im Skorpion, ~550 Lichtjahre entfernt.",
+      "spica": "Der hellste Stern der Jungfrau. ~250 Lichtjahre entfernt.",
+      "pollux": "Einer der Zwillinge der Zwillinge. ~34 Lichtjahre entfernt.",
+      "fomalhaut": "Der einsame Stern des Herbstes. Im Südlichen Fisch, ~25 Lichtjahre entfernt.",
+      "deneb": "Ein ferner, leuchtkräftiger Überriese des Sommerdreiecks. Im Schwan, ~1400 Lichtjahre entfernt.",
+      "regulus": "Das Herz des Löwen. ~79 Lichtjahre entfernt.",
+      "castor": "Der zweite Zwillingstern, ein System aus sechs Sternen. ~51 Lichtjahre entfernt.",
+      "bellatrix": "Der Amazonenstern Orions. ~250 Lichtjahre entfernt.",
+      "elnath": "Geteilt zwischen den Grenzen von Stier und Fuhrmann. ~130 Lichtjahre entfernt.",
+      "alnilam": "Der mittlere Stern in Orions Gürtel. ~1340 Lichtjahre entfernt.",
+      "alnitak": "Der östliche Stern in Orions Gürtel. ~1260 Lichtjahre entfernt.",
+      "mintaka": "Der westliche Stern in Orions Gürtel. ~1200 Lichtjahre entfernt.",
+      "alioth": "Der hellste Stern des Großen Bären. ~81 Lichtjahre entfernt.",
+      "dubhe": "Ein Zeigerstern des Großen Bären zum Polarstern. ~123 Lichtjahre entfernt.",
+      "alkaid": "Die Spitze des Griffs des Großen Wagens. ~100 Lichtjahre entfernt.",
+      "mirfak": "Der hellste Stern des Perseus. ~510 Lichtjahre entfernt.",
+      "polaris": "Der Polarstern, fast genau über dem Nordpol. ~430 Lichtjahre entfernt.",
+      "alphard": "Der Einsame der Wasserschlange. ~180 Lichtjahre entfernt.",
+      "hamal": "Der hellste Stern des Widders. ~66 Lichtjahre entfernt.",
+      "hadar": "Ein südlicher Zeigerstern zum Kreuz des Südens. Im Zentaur, ~390 Lichtjahre entfernt.",
+      "achernar": "Das Ende des Himmelsflusses Eridanus. ~140 Lichtjahre entfernt.",
+      "acrux": "Der hellste Stern des Kreuzes des Südens. ~320 Lichtjahre entfernt."
+    }
+  }
+}

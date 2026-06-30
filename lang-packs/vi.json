@@ -1,0 +1,1012 @@
+{
+  "code": "vi",
+  "v": 1,
+  "strings": {
+    "tab.planets": "Hành Tinh",
+    "tab.stars": "Bầu Trời Sâu",
+    "tab.constellations": "Chòm Sao",
+    "tab.satellites": "Vệ Tinh",
+    "tab.events": "Sự Kiện",
+    "tab.settings": "Cài Đặt",
+    "settings.title": "Cài Đặt",
+    "settings.subtitle": "Tùy chọn ứng dụng",
+    "settings.language": "Ngôn ngữ",
+    "settings.language.en": "English",
+    "settings.language.he": "עברית",
+    "settings.language.change": "Thay đổi ngôn ngữ",
+    "lang.title": "Ngôn ngữ",
+    "lang.intro": "Các ngôn ngữ chính đã được tích hợp sẵn. Tải xuống ngôn ngữ của bạn để có bản dịch đầy đủ — mô tả, thần thoại và nhiều hơn nữa — hoàn toàn ngoại tuyến.",
+    "lang.search": "Tìm kiếm ngôn ngữ",
+    "lang.builtin": "Tích hợp sẵn",
+    "lang.download": "Tải xuống",
+    "lang.downloading": "Đang tải xuống…",
+    "lang.downloaded": "Đã tải xuống",
+    "lang.remove": "Xóa",
+    "lang.failed": "Tải xuống thất bại. Kiểm tra kết nối và thử lại.",
+    "settings.units": "Đơn vị",
+    "settings.units.desc": "Cách hiển thị khoảng cách.",
+    "settings.units.km": "Kilômét",
+    "settings.units.mi": "Dặm",
+    "settings.night": "Chế Độ Ban Đêm (Đỏ)",
+    "settings.night.desc": "Bộ lọc đỏ đậm bảo vệ mắt đã thích nghi bóng tối — ánh sáng đỏ hầu như không ảnh hưởng đến thị lực ban đêm, giúp bạn vẫn thấy sao khi nhìn lên bầu trời.",
+    "settings.night.mode": "Chế độ",
+    "settings.night.off": "Tắt",
+    "settings.night.on": "Bật",
+    "settings.night.auto": "Tự động",
+    "settings.night.auto.desc": "Chế độ tự động dần dần áp dụng bộ lọc đỏ sau khi mặt trời lặn khi bầu trời tối dần.",
+    "settings.night.tint": "Màu sắc",
+    "settings.night.red": "Đỏ",
+    "settings.night.amber": "Hổ phách",
+    "settings.night.intensity": "Cường độ",
+    "settings.night.low": "Thấp",
+    "settings.night.medium": "Vừa",
+    "settings.night.high": "Cao",
+    "settings.location": "Vị trí",
+    "settings.location.desc": "Vị trí để tính toán bầu trời.",
+    "settings.location.gps": "Sử dụng GPS",
+    "settings.location.manual": "Đặt thủ công",
+    "settings.location.lat": "Vĩ độ",
+    "settings.location.lon": "Kinh độ",
+    "settings.haptics": "Rung",
+    "settings.haptics.desc": "Rung khi khóa mục tiêu.",
+    "settings.speech": "Hướng dẫn bằng giọng nói",
+    "settings.speech.desc": "Đọc to mục tiêu và hướng dẫn định hướng — để sử dụng không cần nhìn màn hình hoặc cho người khiếm thị.",
+    "point.speak": "Đọc to",
+    "settings.fov": "Trường nhìn camera",
+    "settings.fov.desc": "Tinh chỉnh để các đường chòm sao và quỹ đạo vệ tinh khớp với bầu trời thực tế.",
+    "settings.fov.narrow": "Hẹp",
+    "settings.fov.default": "Mặc định",
+    "settings.fov.wide": "Rộng",
+    "settings.about": "Giới thiệu",
+    "settings.about.version": "Phiên bản",
+    "settings.about.sources": "Nguồn dữ liệu",
+    "settings.about.credits": "Được tạo với astronomy-engine, satellite.js và Celestrak.",
+    "pro.title": "Planet Pointer Pro",
+    "pro.free": "Phiên bản miễn phí",
+    "pro.active": "★ Pro Đã Mở Khóa",
+    "pro.codePlaceholder": "Bạn có mã mở khóa không?",
+    "pro.unlock": "Mở khóa",
+    "pro.badCode": "Mã đó không hoạt động.",
+    "pro.lock": "Khóa lại",
+    "paywall.title": "Mở Khóa Toàn Bộ Bầu Trời",
+    "paywall.subtitle": "Mua một lần. Không đăng ký, không tài khoản — mãi mãi của bạn, hoàn toàn ngoại tuyến.",
+    "paywall.feature.catalog": "Tất cả sao, chòm sao và vệ tinh",
+    "paywall.feature.favorites": "Yêu thích không giới hạn",
+    "paywall.feature.timeMachine": "Cỗ Máy Thời Gian — xem bầu trời vào bất kỳ ngày nào",
+    "paywall.feature.events": "Sự kiện thiên văn — nhật thực, mưa sao băng, hội tụ",
+    "paywall.feature.night": "Chế độ ban đêm đầy đủ (hổ phách, tự động và cường độ)",
+    "paywall.feature.languages": "Tải xuống tất cả ngôn ngữ",
+    "paywall.buy": "Mở Khóa Pro",
+    "paywall.restore": "Khôi phục mua hàng",
+    "paywall.codePrompt": "Bạn có mã mở khóa không?",
+    "paywall.maybeLater": "Để sau",
+    "paywall.locked": "Tính năng Pro",
+    "paywall.comingSoon": "Tính năng mua hàng sắp ra mắt — hãy dùng mã mở khóa cho đến lúc đó.",
+    "paywall.error": "Đã xảy ra sự cố. Vui lòng thử lại.",
+    "paywall.restoreNone": "Không tìm thấy giao dịch mua trước đó.",
+    "planets.title": "Planet Pointer",
+    "planets.subtitle": "Chọn mục tiêu để theo dõi trên bầu trời",
+    "stars.title": "Sao",
+    "stars.subtitle": "{n} ngôi sao sáng nhất có tên",
+    "deepsky.title": "Bầu Trời Sâu",
+    "deepsky.subtitle": "{n} sao, tinh vân, thiên hà và cụm sao",
+    "constellations.title": "Chòm Sao",
+    "constellations.subtitle": "{n} mẫu sao nổi tiếng",
+    "satellites.title": "Vệ Tinh",
+    "events.title": "Sự Kiện Thiên Văn",
+    "events.subtitle": "Sự kiện sắp tới — nhấn để du hành thời gian và nhìn về đó",
+    "events.calculating": "Đang tính toán các sự kiện sắp tới…",
+    "search.name": "Tìm kiếm theo tên…",
+    "search.star": "Tìm kiếm sao hoặc chòm sao…",
+    "search.deepsky": "Tìm kiếm sao, tinh vân, thiên hà…",
+    "search.constellation": "Tìm kiếm chòm sao…",
+    "search.satellite": "Tìm kiếm vệ tinh…",
+    "filter.visibleNow": "Có thể thấy ngay",
+    "filter.showAll": "Hiển thị tất cả",
+    "dso.cat.all": "Tất cả",
+    "dso.cat.stars": "Các sao",
+    "dso.cat.nebulae": "Tinh vân",
+    "dso.cat.galaxies": "Thiên hà",
+    "dso.cat.clusters": "Cụm sao",
+    "dso.type.nebula": "Tinh vân",
+    "dso.type.galaxy": "Thiên hà",
+    "dso.type.openCluster": "Cụm sao mở",
+    "dso.type.globularCluster": "Cụm sao cầu",
+    "dso.type.milkyWay": "Ngân Hà",
+    "badge.above": "Trên",
+    "badge.below": "Dưới",
+    "badge.visible": "Có thể thấy",
+    "badge.daylight": "Ban ngày",
+    "badge.eclipsed": "Trong bóng tối",
+    "list.calculating": "Đang tính toán…",
+    "list.gettingLocation": "Đang lấy vị trí…",
+    "list.locationUnavailable": "Vị trí không khả dụng",
+    "list.empty.planetsFav": "Chưa có yêu thích — mở một thiên thể và nhấn ★ để thêm.",
+    "list.empty.visible": "Hiện không có gì ở trên đường chân trời — hãy thử Hiển thị tất cả.",
+    "list.empty.search": "Không tìm thấy kết quả phù hợp.",
+    "list.empty.starsVisible": "Hiện không có ngôi sao nào trong danh sách ở trên đường chân trời.",
+    "list.empty.deepskyVisible": "Không có thiên thể bầu trời sâu nào trên đường chân trời lúc này.",
+    "list.empty.constellationsVisible": "Hiện không có chòm sao nào ở trên đường chân trời.",
+    "sat.overhead": "● Có thể nhìn thấy ngay — nhìn lên!",
+    "sat.overheadDay": "Đang ở trên đầu nhưng là ban ngày",
+    "sat.overheadShadow": "Đang ở trên đầu nhưng trong bóng của Trái Đất",
+    "sat.next": "Lần bay qua tiếp theo",
+    "sat.noPass": "Không có lần bay qua có thể nhìn thấy sớm",
+    "sat.kmUp": "km độ cao",
+    "sat.live": "Dữ liệu quỹ đạo trực tiếp",
+    "sat.cached": "Dữ liệu quỹ đạo đã lưu",
+    "sat.loading": "Đang cập nhật dữ liệu quỹ đạo…",
+    "sat.offline": "Ngoại tuyến — dữ liệu tích hợp",
+    "sat.bundled": "Dữ liệu quỹ đạo tích hợp",
+    "fav.empty": "Chưa có yêu thích.\nMở một hành tinh hoặc ngôi sao và nhấn ★ để lưu vào đây.",
+    "fav.belowNow": "Không có yêu thích nào đang ở trên đường chân trời.",
+    "fav.noMatch": "Không tìm thấy yêu thích nào khớp với tìm kiếm.",
+    "kind.star": "Sao",
+    "kind.constellation": "Chòm sao",
+    "kind.satellite": "Vệ tinh",
+    "kind.solar": "Hệ Mặt Trời",
+    "point.back": "Quay lại",
+    "point.locked": "Đã khóa vào {name}",
+    "point.away": "Cách {n}°",
+    "point.acquiring": "Đang khởi tạo cảm biến…",
+    "point.aboveHorizon": "● Trên đường chân trời",
+    "point.belowHorizon": "○ Dưới đường chân trời",
+    "point.info": "Thông tin",
+    "point.target": "Mục tiêu",
+    "point.you": "Bạn",
+    "point.distance": "Khoảng cách",
+    "point.stars": "Sao",
+    "point.mainStars": "{n} sao chính",
+    "point.lightYears": "{n} năm ánh sáng",
+    "point.belowBanner": "{name} đang ở dưới đường chân trời — hướng xuống để chỉ xuyên qua Trái Đất.",
+    "point.satBelowBanner": "{name} hiện không ở trên đầu — nhấn Thông tin để xem lần bay qua tiếp theo.",
+    "point.timeTravel": "🕰️ Du hành thời gian: {when} — nhấn để quay về hiện tại",
+    "point.turnRight": "Quay phải",
+    "point.turnLeft": "Quay trái",
+    "point.tiltUp": "Nghiêng lên",
+    "point.tiltDown": "Nghiêng xuống",
+    "point.almost": "Gần đến rồi",
+    "point.permTitle": "Cần quyền truy cập camera",
+    "point.permBody": "Planet Pointer hiển thị mũi tên hướng dẫn trên camera trực tiếp để bạn có thể nhìn thấy khi hướng vào {name}.",
+    "point.permAllow": "Cho phép camera",
+    "info.rightNow": "Ngay bây giờ",
+    "info.about": "Giới thiệu",
+    "info.mythology": "Thần thoại",
+    "info.facts": "Sự thật chính",
+    "info.didYouKnow": "Bạn có biết không?",
+    "info.learnMore": "Tìm hiểu thêm",
+    "info.passes": "Lần bay qua sắp tới",
+    "info.direction": "Hướng",
+    "info.altitude": "Độ cao",
+    "info.brightness": "Độ sáng",
+    "info.visibility": "Khả năng nhìn thấy",
+    "info.aboveHorizon": "Trên đường chân trời",
+    "info.belowHorizon": "Dưới đường chân trời",
+    "info.favorited": "★  Đã thêm vào yêu thích",
+    "info.addFav": "☆  Thêm vào yêu thích",
+    "info.passNote": "Giờ địa phương. Góc đỉnh cao hơn có nghĩa là lần bay qua sáng hơn và dễ nhìn thấy hơn.",
+    "info.typeStar": "Sao",
+    "info.typeConstellation": "Chòm sao",
+    "info.starIn": "Trong {c}.",
+    "info.starFixed": "Sao cố định.",
+    "info.patternOfStars": "Mẫu các ngôi sao.",
+    "info.lightYears": "năm ánh sáng",
+    "stat.constellation": "Chòm sao",
+    "stat.distance": "Khoảng cách",
+    "stat.ra": "Xích kinh",
+    "stat.dec": "Xích vĩ",
+    "stat.abbr": "Viết tắt",
+    "stat.season": "Mùa tốt nhất",
+    "stat.hemisphere": "Bán cầu",
+    "stat.brightestStar": "Sao sáng nhất",
+    "stat.mainStars": "Sao chính",
+    "hemi.northern": "Bán cầu bắc",
+    "hemi.southern": "Bán cầu nam",
+    "hemi.equatorial": "Xích đạo",
+    "ev.lunar": "Nguyệt thực {kind}",
+    "ev.solar": "Nhật thực {kind}",
+    "ev.lunarSub": "Mặt Trăng đi qua bóng của Trái Đất",
+    "ev.solarSub": "Mặt Trăng đi qua phía trước Mặt Trời",
+    "ev.meteor": "Mưa sao băng {name}",
+    "ev.meteorSub": "Cực đại ~{zhr}/giờ · Tâm điểm: {radiant}",
+    "ev.conj": "{a} gặp {b}",
+    "ev.conjSub": "Cách nhau ~{sep}° trên bầu trời",
+    "ev.iss": "ISS Bay Qua Đỉnh Đầu",
+    "ev.issSub": "Đỉnh {alt}° · {dir}",
+    "ekind.total": "toàn phần",
+    "ekind.partial": "một phần",
+    "ekind.penumbral": "nửa tối",
+    "ekind.annular": "hình khuyên",
+    "ekind.hybrid": "lai",
+    "count.now": "Ngay bây giờ",
+    "count.hour": "Trong một giờ",
+    "count.hours": "Trong {n} giờ",
+    "count.tomorrow": "Ngày mai",
+    "count.days": "Trong {n} ngày",
+    "count.month": "Khoảng 1 tháng nữa",
+    "count.months": "Khoảng {n} tháng nữa",
+    "time.title": "Cỗ Máy Thời Gian",
+    "time.subtitle": "Xem bầu trời vào bất kỳ ngày và giờ nào.",
+    "time.now": "Ngay bây giờ",
+    "time.live": "● Bầu trời trực tiếp",
+    "time.year": "Năm",
+    "time.month": "Tháng",
+    "time.day": "Ngày",
+    "time.hour": "Giờ",
+    "time.minute": "Phút",
+    "time.return": "Quay về hiện tại",
+    "time.done": "Xong",
+    "common.on": "Bật",
+    "common.off": "Tắt"
+  },
+  "content": {
+    "bodyName": {
+      "sun": "Mặt Trời",
+      "moon": "Mặt Trăng",
+      "mercury": "Sao Thủy",
+      "venus": "Sao Kim",
+      "mars": "Sao Hỏa",
+      "jupiter": "Sao Mộc",
+      "saturn": "Sao Thổ",
+      "uranus": "Sao Thiên Vương",
+      "neptune": "Sao Hải Vương"
+    },
+    "bodyDesc": {
+      "sun": "Ngôi sao ở trung tâm hệ mặt trời: một quả cầu khí khổng lồ bốc cháy cung cấp ánh sáng và nhiệt cho tất cả các hành tinh. Đừng bao giờ nhìn trực tiếp. Lớn hơn Trái Đất khoảng 109 lần.",
+      "moon": "Vệ tinh tự nhiên duy nhất của Trái Đất và thiên thể sáng nhất trên bầu trời đêm. Mặt Trăng quay quanh Trái Đất mỗi tháng trong khi thay đổi các pha.",
+      "mercury": "Hành tinh nhỏ nhất và gần Mặt Trời nhất: một thế giới đá đầy miệng hố với nhiệt độ cực đoan. Nhìn thấy tốt nhất gần đường chân trời vào lúc bình minh hoặc hoàng hôn.",
+      "venus": "Hành tinh nóng nhất với những đám mây dày đặc. Tỏa sáng như sao mai hoặc sao hôm, là thiên thể sáng nhất sau Mặt Trời và Mặt Trăng.",
+      "mars": "Hành tinh Đỏ: một thế giới đá màu đỏ với núi lửa cao nhất và hẻm núi sâu nhất trong hệ mặt trời. Có thể nhìn thấy bằng mắt thường như một chấm đỏ.",
+      "jupiter": "Hành tinh lớn nhất: một khối khí khổng lồ đủ lớn để chứa tất cả các hành tinh khác. 4 mặt trăng lớn nhất có thể thấy bằng ống nhòm.",
+      "saturn": "Viên ngọc của hệ mặt trời với những vành đai tuyệt vời bằng băng và đá. Vành đai có thể nhìn thấy ngay cả với kính thiên văn nhỏ.",
+      "uranus": "Một khối băng xanh-lục khổng lồ lăn nghiêng sang bên. Hầu như không thể nhìn thấy bằng mắt thường trên bầu trời rất tối.",
+      "neptune": "Hành tinh xa nhất: một thế giới lạnh màu xanh với những cơn gió nhanh nhất trong hệ mặt trời. Không thể nhìn thấy bằng mắt thường."
+    },
+    "bodyInfo": {
+      "sun": {
+        "type": "Sao lùn vàng (loại G)",
+        "tagline": "Ngôi sao ở trung tâm hệ mặt trời của chúng ta.",
+        "stats": [
+          {
+            "label": "Đường kính",
+            "value": "1.392.700 km\n(109 lần Trái Đất)"
+          },
+          {
+            "label": "Nhiệt độ bề mặt",
+            "value": "~5.500 °C"
+          },
+          {
+            "label": "Khối lượng",
+            "value": "1,989 × 10³⁰ kg\n(332.900 lần Trái Đất)"
+          },
+          {
+            "label": "Tuổi",
+            "value": "~4,6 tỷ năm"
+          },
+          {
+            "label": "Tự quay",
+            "value": "~25 ngày (xích đạo)"
+          },
+          {
+            "label": "Tốc độ quỹ đạo",
+            "value": "~220 km/s (thiên hà)"
+          }
+        ],
+        "facts": [
+          "Có thể chứa khoảng 1,3 triệu Trái Đất bên trong.",
+          "Ánh sáng mất khoảng 8 phút để đến Trái Đất.",
+          "Đừng bao giờ nhìn trực tiếp qua kính thiên văn hoặc ống nhòm."
+        ]
+      },
+      "moon": {
+        "type": "Vệ tinh tự nhiên",
+        "tagline": "Vệ tinh tự nhiên duy nhất của Trái Đất.",
+        "stats": [
+          {
+            "label": "Đường kính",
+            "value": "3.475 km\n(0,27 lần Trái Đất)"
+          },
+          {
+            "label": "Khoảng cách trung bình",
+            "value": "384.400 km"
+          },
+          {
+            "label": "Khối lượng",
+            "value": "7,35 × 10²² kg\n(0,0123 lần Trái Đất)"
+          },
+          {
+            "label": "Chu kỳ quỹ đạo",
+            "value": "27,3 ngày"
+          },
+          {
+            "label": "Tự quay",
+            "value": "27,3 ngày (đồng bộ)"
+          },
+          {
+            "label": "Tốc độ quỹ đạo",
+            "value": "1,0 km/s"
+          },
+          {
+            "label": "Trọng lực",
+            "value": "1/6 Trái Đất"
+          }
+        ],
+        "facts": [
+          "Luôn quay một mặt về phía Trái Đất (quay đồng bộ).",
+          "Đang dịch chuyển ra xa Trái Đất khoảng 3,8 cm mỗi năm.",
+          "12 người đã đi bộ trên bề mặt của nó."
+        ]
+      },
+      "mercury": {
+        "type": "Hành tinh đá",
+        "tagline": "Hành tinh nhỏ nhất và gần Mặt Trời nhất.",
+        "stats": [
+          {
+            "label": "Đường kính",
+            "value": "4.879 km\n(0,383 lần Trái Đất)"
+          },
+          {
+            "label": "Khoảng cách đến Mặt Trời",
+            "value": "57,9 triệu km"
+          },
+          {
+            "label": "Khối lượng",
+            "value": "3,30 × 10²³ kg\n(0,055 lần Trái Đất)"
+          },
+          {
+            "label": "Chu kỳ quỹ đạo",
+            "value": "88 ngày Trái Đất"
+          },
+          {
+            "label": "Tự quay",
+            "value": "58,6 ngày Trái Đất"
+          },
+          {
+            "label": "Độ dài ngày",
+            "value": "176 ngày Trái Đất"
+          },
+          {
+            "label": "Tốc độ quỹ đạo",
+            "value": "47,4 km/s"
+          },
+          {
+            "label": "Mặt trăng",
+            "value": "Không có"
+          }
+        ],
+        "facts": [
+          "Một năm chỉ có 88 ngày Trái Đất.",
+          "Nhiệt độ dao động từ 430°C đến -180°C.",
+          "Nhìn thấy tốt nhất ngay trên đường chân trời lúc bình minh hoặc hoàng hôn."
+        ]
+      },
+      "venus": {
+        "type": "Hành tinh đá",
+        "tagline": "Hành tinh nóng nhất và sáng nhất trên bầu trời.",
+        "stats": [
+          {
+            "label": "Đường kính",
+            "value": "12.104 km\n(0,949 lần Trái Đất)"
+          },
+          {
+            "label": "Khoảng cách đến Mặt Trời",
+            "value": "108,2 triệu km"
+          },
+          {
+            "label": "Khối lượng",
+            "value": "4,87 × 10²⁴ kg\n(0,815 lần Trái Đất)"
+          },
+          {
+            "label": "Nhiệt độ bề mặt",
+            "value": "~465 °C"
+          },
+          {
+            "label": "Chu kỳ quỹ đạo",
+            "value": "225 ngày Trái Đất"
+          },
+          {
+            "label": "Tự quay",
+            "value": "243 ngày Trái Đất (ngược chiều)"
+          },
+          {
+            "label": "Tốc độ quỹ đạo",
+            "value": "35,0 km/s"
+          },
+          {
+            "label": "Mặt trăng",
+            "value": "Không có"
+          }
+        ],
+        "facts": [
+          "Quay ngược chiều so với hầu hết các hành tinh.",
+          "Một ngày trên Sao Kim dài hơn một năm của nó.",
+          "Còn được gọi là sao mai hoặc sao hôm."
+        ]
+      },
+      "mars": {
+        "type": "Hành tinh đá",
+        "tagline": "Hành tinh Đỏ, đích đến của nhiều sứ mệnh không gian.",
+        "stats": [
+          {
+            "label": "Đường kính",
+            "value": "6.779 km\n(0,532 lần Trái Đất)"
+          },
+          {
+            "label": "Khoảng cách đến Mặt Trời",
+            "value": "227,9 triệu km"
+          },
+          {
+            "label": "Khối lượng",
+            "value": "6,42 × 10²³ kg\n(0,107 lần Trái Đất)"
+          },
+          {
+            "label": "Chu kỳ quỹ đạo",
+            "value": "687 ngày Trái Đất (1,9 năm)"
+          },
+          {
+            "label": "Tự quay",
+            "value": "24,6 giờ"
+          },
+          {
+            "label": "Tốc độ quỹ đạo",
+            "value": "24,1 km/s"
+          },
+          {
+            "label": "Mặt trăng",
+            "value": "2 (Phobos, Deimos)"
+          }
+        ],
+        "facts": [
+          "Chứa Olympus Mons, núi lửa cao nhất trong hệ mặt trời.",
+          "Màu đỏ đến từ oxit sắt (gỉ sét).",
+          "Có thể nhìn thấy bằng mắt thường như một chấm đỏ."
+        ]
+      },
+      "jupiter": {
+        "type": "Hành tinh khí khổng lồ",
+        "tagline": "Hành tinh lớn nhất trong hệ mặt trời.",
+        "stats": [
+          {
+            "label": "Đường kính",
+            "value": "139.820 km\n(11,21 lần Trái Đất)"
+          },
+          {
+            "label": "Khoảng cách đến Mặt Trời",
+            "value": "778,5 triệu km"
+          },
+          {
+            "label": "Khối lượng",
+            "value": "1,898 × 10²⁷ kg\n(317,8 lần Trái Đất)"
+          },
+          {
+            "label": "Chu kỳ quỹ đạo",
+            "value": "11,9 năm Trái Đất"
+          },
+          {
+            "label": "Tự quay",
+            "value": "~10 giờ"
+          },
+          {
+            "label": "Tốc độ quỹ đạo",
+            "value": "13,1 km/s"
+          },
+          {
+            "label": "Mặt trăng",
+            "value": "Hơn 95"
+          }
+        ],
+        "facts": [
+          "Vết Đỏ Lớn là cơn bão lớn hơn Trái Đất.",
+          "4 mặt trăng lớn nhất có thể thấy bằng ống nhòm.",
+          "Có ngày ngắn nhất trong tất cả các hành tinh."
+        ]
+      },
+      "saturn": {
+        "type": "Hành tinh khí khổng lồ",
+        "tagline": "Viên ngọc của hệ mặt trời với vành đai tuyệt đẹp.",
+        "stats": [
+          {
+            "label": "Đường kính",
+            "value": "116.460 km\n(9,45 lần Trái Đất)"
+          },
+          {
+            "label": "Khoảng cách đến Mặt Trời",
+            "value": "1,43 tỷ km"
+          },
+          {
+            "label": "Khối lượng",
+            "value": "5,68 × 10²⁶ kg\n(95,15 lần Trái Đất)"
+          },
+          {
+            "label": "Chu kỳ quỹ đạo",
+            "value": "29,5 năm Trái Đất"
+          },
+          {
+            "label": "Tự quay",
+            "value": "~10,7 giờ"
+          },
+          {
+            "label": "Tốc độ quỹ đạo",
+            "value": "9,7 km/s"
+          },
+          {
+            "label": "Mặt trăng",
+            "value": "Hơn 140"
+          }
+        ],
+        "facts": [
+          "Vành đai chủ yếu làm bằng băng và đá.",
+          "Mật độ thấp nhất trong các hành tinh — có thể nổi trên nước.",
+          "Vành đai có thể nhìn thấy ngay cả với kính thiên văn nhỏ."
+        ]
+      },
+      "uranus": {
+        "type": "Hành tinh băng khổng lồ",
+        "tagline": "Hành tinh lăn nghiêng sang bên.",
+        "stats": [
+          {
+            "label": "Đường kính",
+            "value": "50.724 km\n(4,01 lần Trái Đất)"
+          },
+          {
+            "label": "Khoảng cách đến Mặt Trời",
+            "value": "2,87 tỷ km"
+          },
+          {
+            "label": "Khối lượng",
+            "value": "8,68 × 10²⁵ kg\n(14,56 lần Trái Đất)"
+          },
+          {
+            "label": "Chu kỳ quỹ đạo",
+            "value": "84 năm Trái Đất"
+          },
+          {
+            "label": "Tự quay",
+            "value": "17,2 giờ (ngược chiều)"
+          },
+          {
+            "label": "Tốc độ quỹ đạo",
+            "value": "6,8 km/s"
+          },
+          {
+            "label": "Mặt trăng",
+            "value": "28"
+          }
+        ],
+        "facts": [
+          "Độ nghiêng cực đoan có thể do va chạm lớn trong quá khứ.",
+          "Màu xanh-lục đến từ khí mêtan.",
+          "Hầu như không thể nhìn thấy bằng mắt thường trên bầu trời rất tối."
+        ]
+      },
+      "neptune": {
+        "type": "Hành tinh băng khổng lồ",
+        "tagline": "Hành tinh xa nhất với những cơn gió mạnh nhất.",
+        "stats": [
+          {
+            "label": "Đường kính",
+            "value": "49.244 km\n(3,88 lần Trái Đất)"
+          },
+          {
+            "label": "Khoảng cách đến Mặt Trời",
+            "value": "4,5 tỷ km"
+          },
+          {
+            "label": "Khối lượng",
+            "value": "1,02 × 10²⁶ kg\n(17,15 lần Trái Đất)"
+          },
+          {
+            "label": "Chu kỳ quỹ đạo",
+            "value": "165 năm Trái Đất"
+          },
+          {
+            "label": "Tự quay",
+            "value": "16,1 giờ"
+          },
+          {
+            "label": "Tốc độ quỹ đạo",
+            "value": "5,4 km/s"
+          },
+          {
+            "label": "Mặt trăng",
+            "value": "16"
+          }
+        ],
+        "facts": [
+          "Gió đạt 2.000 km/h — nhanh nhất trong hệ mặt trời.",
+          "Được phát hiện bằng tính toán toán học trước khi quan sát trực tiếp.",
+          "Cần kính thiên văn để tìm thấy."
+        ]
+      }
+    },
+    "constellationName": {
+      "orion": "Thợ Săn",
+      "ursa-major": "Đại Hùng",
+      "cassiopeia": "Cassiopeia",
+      "scorpius": "Bọ Cạp",
+      "leo": "Sư Tử",
+      "cygnus": "Thiên Nga",
+      "gemini": "Song Tử",
+      "taurus": "Kim Ngưu",
+      "canis-major": "Đại Khuyển",
+      "crux": "Nam Thập Tự",
+      "aries": "Bạch Dương",
+      "cancer": "Cự Giải",
+      "virgo": "Xử Nữ",
+      "libra": "Thiên Bình",
+      "sagittarius": "Nhân Mã",
+      "capricornus": "Ma Kết",
+      "aquarius": "Bảo Bình",
+      "pisces": "Song Ngư",
+      "ursa-minor": "Tiểu Hùng",
+      "andromeda": "Andromeda",
+      "perseus": "Perseus",
+      "auriga": "Ngự Phu",
+      "bootes": "Mục Phu",
+      "corona-borealis": "Bắc Miện",
+      "hercules": "Herkules",
+      "lyra": "Thiên Cầm",
+      "aquila": "Thiên Ưng",
+      "pegasus": "Thiên Mã",
+      "cepheus": "Cepheus",
+      "draco": "Thiên Long",
+      "canis-minor": "Tiểu Khuyển",
+      "centaurus": "Nhân Mã Tộc",
+      "lupus": "Sói",
+      "carina": "Long Cốt",
+      "vela": "Phàm Thuyền",
+      "puppis": "Thuyền Vĩ",
+      "corvus": "Ô Nha",
+      "delphinus": "Cá Heo",
+      "antlia": "Khí Bơm",
+      "apus": "Phong Điểu",
+      "ara": "Tế Đàn",
+      "caelum": "Đục Khắc",
+      "camelopardalis": "Hươu Cao Cổ",
+      "canes-venatici": "Liệp Khuyển",
+      "cetus": "Kình Ngư",
+      "chamaeleon": "Tắc Kè Hoa",
+      "circinus": "Com-pa",
+      "columba": "Bồ Câu",
+      "coma-berenices": "Tóc Berenice",
+      "corona-australis": "Nam Miện",
+      "crater": "Cái Chén",
+      "dorado": "Kiếm Ngư",
+      "equuleus": "Tiểu Mã",
+      "eridanus": "Eridanus",
+      "fornax": "Lò Nung",
+      "grus": "Hạc",
+      "horologium": "Đồng Hồ",
+      "hydra": "Trường Xà",
+      "hydrus": "Thủy Xà",
+      "indus": "Ấn Đệ An",
+      "lacerta": "Thằn Lằn",
+      "leo-minor": "Tiểu Sư",
+      "lepus": "Thỏ",
+      "lynx": "Linh Miêu",
+      "mensa": "Bàn Sơn",
+      "microscopium": "Kính Hiển Vi",
+      "monoceros": "Kỳ Lân",
+      "musca": "Ruồi",
+      "norma": "Thước Thợ",
+      "octans": "Phân Độ Nghi",
+      "ophiuchus": "Xà Phu",
+      "pavo": "Khổng Tước",
+      "phoenix": "Phượng Hoàng",
+      "pictor": "Giá Vẽ",
+      "piscis-austrinus": "Nam Ngư",
+      "pyxis": "La Bàn",
+      "reticulum": "Võng Môn",
+      "sagitta": "Tên Lửa",
+      "sculptor": "Điêu Khắc Gia",
+      "scutum": "Khiên",
+      "serpens": "Thiên Xà",
+      "sextans": "Lục Phân Nghi",
+      "telescopium": "Kính Thiên Văn",
+      "triangulum": "Tam Giác",
+      "triangulum-australe": "Nam Tam Giác",
+      "tucana": "Toucan",
+      "volans": "Cá Bay",
+      "vulpecula": "Cáo"
+    },
+    "constellationNick": {
+      "orion": "Thợ Săn Vĩ Đại",
+      "ursa-major": "Đại Hùng (Gáo Lớn)",
+      "cassiopeia": "Nữ Hoàng",
+      "scorpius": "Con Bọ Cạp",
+      "leo": "Con Sư Tử",
+      "cygnus": "Con Thiên Nga (Thập Tự Bắc)",
+      "gemini": "Hai Anh Em",
+      "taurus": "Con Bò Đực",
+      "canis-major": "Con Chó Săn Lớn",
+      "crux": "Thập Tự Phía Nam",
+      "aries": "Con Cừu Đực",
+      "cancer": "Con Cua",
+      "virgo": "Người Trinh Nữ",
+      "libra": "Cân Công Lý",
+      "sagittarius": "Người Bắn Cung (Ấm Trà)",
+      "capricornus": "Dê Biển",
+      "aquarius": "Người Mang Nước",
+      "pisces": "Hai Con Cá",
+      "ursa-minor": "Tiểu Hùng (Gáo Nhỏ)",
+      "andromeda": "Nàng Công Chúa Bị Xiềng",
+      "perseus": "Người Anh Hùng",
+      "auriga": "Người Đánh Xe",
+      "bootes": "Người Chăn Gấu",
+      "corona-borealis": "Vương Miện Phương Bắc",
+      "hercules": "Anh Hùng Quỳ Gối",
+      "lyra": "Đàn Lia",
+      "aquila": "Con Đại Bàng",
+      "pegasus": "Con Ngựa Có Cánh",
+      "cepheus": "Nhà Vua",
+      "draco": "Con Rồng",
+      "canis-minor": "Con Chó Săn Nhỏ",
+      "centaurus": "Nhân Mã",
+      "lupus": "Con Sói",
+      "carina": "Sống Thuyền Argo",
+      "vela": "Buồm Thuyền Argo",
+      "puppis": "Đuôi Thuyền Argo",
+      "corvus": "Con Quạ",
+      "delphinus": "Con Cá Heo",
+      "antlia": "Máy Bơm Khí",
+      "apus": "Chim Thiên Đường",
+      "ara": "Bàn Thờ",
+      "caelum": "Cái Đục",
+      "camelopardalis": "Con Hươu Cao Cổ",
+      "canes-venatici": "Các Con Chó Săn",
+      "cetus": "Con Quái Vật Biển",
+      "chamaeleon": "Con Tắc Kè Hoa",
+      "circinus": "Cái Com-pa",
+      "columba": "Con Bồ Câu",
+      "coma-berenices": "Mái Tóc Berenice",
+      "corona-australis": "Vương Miện Phương Nam",
+      "crater": "Cái Cốc",
+      "dorado": "Cá Kiếm",
+      "equuleus": "Con Ngựa Nhỏ",
+      "eridanus": "Dòng Sông",
+      "fornax": "Lò Nung",
+      "grus": "Con Hạc",
+      "horologium": "Đồng Hồ Quả Lắc",
+      "hydra": "Rắn Biển Lớn",
+      "hydrus": "Rắn Nước Nhỏ",
+      "indus": "Người Thổ Dân",
+      "lacerta": "Con Thằn Lằn",
+      "leo-minor": "Con Sư Tử Nhỏ",
+      "lepus": "Con Thỏ",
+      "lynx": "Con Linh Miêu",
+      "mensa": "Núi Bàn",
+      "microscopium": "Kính Hiển Vi",
+      "monoceros": "Kỳ Lân",
+      "musca": "Con Ruồi",
+      "norma": "Thước Vuông",
+      "octans": "Bát Phân Nghi",
+      "ophiuchus": "Người Cầm Rắn",
+      "pavo": "Con Công",
+      "phoenix": "Phượng Hoàng",
+      "pictor": "Giá Vẽ Tranh",
+      "piscis-austrinus": "Cá Phương Nam",
+      "pyxis": "La Bàn Tàu",
+      "reticulum": "Lưới Quang Học",
+      "sagitta": "Mũi Tên",
+      "sculptor": "Xưởng Điêu Khắc",
+      "scutum": "Cái Khiên",
+      "serpens": "Con Rắn",
+      "sextans": "Lục Phân Kế",
+      "telescopium": "Kính Thiên Văn",
+      "triangulum": "Tam Giác",
+      "triangulum-australe": "Tam Giác Phương Nam",
+      "tucana": "Chim Toucan",
+      "volans": "Cá Bay",
+      "vulpecula": "Con Cáo Nhỏ"
+    },
+    "constellationDesc": {
+      "orion": "Thợ Săn: chòm sao nổi tiếng nhất, nằm trên xích đạo thiên cầu nên có thể nhìn thấy từ khắp nơi trên thế giới. Ba ngôi sao đai chỉ về phía Sirius ở một phía và Aldebaran ở phía kia.",
+      "ursa-major": "Đại Hùng, chứa Gáo Lớn: bảy ngôi sao sáng tạo thành hình gáo quen thuộc — Dubhe và Merak chỉ về phía Sao Bắc Cực.",
+      "cassiopeia": "Nữ Hoàng: năm ngôi sao tạo thành chữ W (hoặc M) rõ ràng, ở phía đối diện Sao Bắc Cực so với Đại Hùng — một trong hai luôn cao trên bầu trời phía bắc.",
+      "scorpius": "Bọ Cạp: vòng cung các ngôi sao quanh Antares đỏ tươi kết thúc bằng đuôi cong có nọc độc. Viên ngọc của bầu trời hè phía nam.",
+      "leo": "Sư Tử: đầu và bờm tạo thành dấu hỏi ngược (lưỡi hái) với Regulus làm vương miện. Tam giác sao phía sau đại diện cho phần thân.",
+      "cygnus": "Thiên Nga, còn gọi là Thập Tự Bắc: bay dọc theo Ngân Hà, với Deneb sáng ở đuôi và sao đôi Albireo đẹp ở mỏ.",
+      "gemini": "Song Tử: hai hàng sao chạy song song, kết thúc ở đầu hai anh em thần thoại — Castor và Pollux sáng chói.",
+      "taurus": "Kim Ngưu: khuôn mặt hình chữ V (cụm sao Hyades) quanh Aldebaran màu cam, với những chiếc sừng dài đến Elnath. Cụm sao Pleiades nằm trên vai.",
+      "canis-major": "Đại Khuyển: người bạn đồng hành trung thành của Orion, được đánh dấu bởi Sirius, ngôi sao sáng nhất trên bầu trời đêm.",
+      "crux": "Nam Thập Tự: chòm sao nhỏ nhất nhưng nổi tiếng nhất; trục dài chỉ về phía cực trời phía nam.",
+      "aries": "Bạch Dương: hàng sao nhẹ nhàng dẫn đầu bởi Hamal màu cam. Cung hoàng đạo nổi tiếng từng chứa điểm xuân phân.",
+      "cancer": "Cự Giải: cung hoàng đạo mờ nhất, nhưng chứa cụm sao Praesepe (Tổ Ong) xinh đẹp.",
+      "virgo": "Xử Nữ: chòm sao lớn thứ hai, dẫn đầu bởi Spica sáng và xanh trắng — bông lúa cô ấy đang cầm.",
+      "libra": "Thiên Bình: cung hoàng đạo duy nhất đại diện cho vật vô sinh; các ngôi sao của nó từng là càng của Bọ Cạp lân cận.",
+      "sagittarius": "Nhân Mã: các ngôi sao sáng tạo thành hình ấm trà, vòi chỉ về phía trung tâm Ngân Hà.",
+      "capricornus": "Ma Kết: tam giác rộng các ngôi sao mờ; cung hoàng đạo nhỏ nhất, nằm thấp ở bầu trời phía nam.",
+      "aquarius": "Bảo Bình: chòm sao cổ đại rộng lớn, với dòng chảy mờ nhạt các ngôi sao từ chiếc bình xuống phía nam.",
+      "pisces": "Song Ngư: hai con cá nối đuôi nhau đi lơ lửng yếu ớt dưới Ô vuông Pegasus lớn, nối qua Alrescha.",
+      "ursa-minor": "Tiểu Hùng: đầu đuôi là Sao Bắc Cực, nơi toàn bộ bầu trời phương bắc dường như quay quanh. Hình ảnh nhỏ và mờ hơn của Gáo Lớn.",
+      "andromeda": "Andromeda: chuỗi sao kéo dài từ một góc của Ô vuông Pegasus, chứa Thiên hà Andromeda — thiên thể xa nhất có thể nhìn thấy bằng mắt thường.",
+      "perseus": "Perseus: vùng Ngân Hà phong phú, chứa Algol — ngôi sao ma quỷ mờ dần vài ngày một lần khi ngôi sao đồng hành che khuất nó.",
+      "auriga": "Ngự Phu: ngũ giác sáng cao trên bầu trời đông, được tô điểm bởi Capella lộng lẫy — ngôi sao sáng thứ sáu.",
+      "bootes": "Mục Phu: chòm sao hình diều dẫn đầu bởi Arcturus cam — ngôi sao sáng nhất bầu trời phía bắc. Tìm bằng cách theo vòng cung tay cầm Gáo Lớn.",
+      "corona-borealis": "Bắc Miện: bảy ngôi sao bán nguyệt duyên dáng với Alphecca làm tâm điểm. Nhỏ nhưng dễ nhận ra.",
+      "hercules": "Herkules: chòm sao hè lớn với bốn ngôi sao trung tâm tạo thành hình Keystone. Chứa M13 — cụm sao cầu đẹp nhất bầu trời phương bắc.",
+      "lyra": "Thiên Cầm: chòm sao nhỏ quanh Vega sáng và xanh trắng — đỉnh của Tam giác Mùa Hè — với hình bình hành gọn gàng bên dưới.",
+      "aquila": "Thiên Ưng: bay dọc Ngân Hà, được đánh dấu bởi Altair sáng với hai ngôi sao mờ hai bên. Đỉnh phía nam của Tam giác Mùa Hè.",
+      "pegasus": "Thiên Mã, ngựa có cánh: thân tạo thành Ô vuông Pegasus lớn — hình vuông sao gần như trống thống trị bầu trời thu.",
+      "cepheus": "Cepheus: chòm sao cực có hình ngôi nhà, chứa biến sao nổi tiếng Delta Cephei.",
+      "draco": "Thiên Long: chòm sao dài uốn lượn giữa hai con gấu. Ngôi sao Thuban từng là Sao Bắc Cực thời các kim tự tháp Ai Cập được xây dựng.",
+      "canis-minor": "Tiểu Khuyển: chỉ có hai ngôi sao chính, nhưng Procyon là ngôi sao sáng thứ tám và là đỉnh của Tam giác Mùa Đông.",
+      "centaurus": "Nhân Mã Tộc: chòm sao phương nam sáng, Alpha và Beta Centauri chỉ về Nam Thập Tự. Alpha Centauri là hệ sao gần Mặt Trời nhất.",
+      "lupus": "Sói: chòm sao phương nam chật hẹp trước nền Ngân Hà phong phú giữa Nhân Mã Tộc và Bọ Cạp.",
+      "carina": "Long Cốt: phần thuyền Argo, chứa Canopus — ngôi sao sáng thứ hai — và Tinh vân Carina hùng vĩ.",
+      "vela": "Phàm Thuyền: phần thuyền Argo, các ngôi sao cùng hai ngôi sao của Long Cốt tạo thành Thập Tự Giả.",
+      "puppis": "Thuyền Vĩ: phần lớn của thuyền Argo, trong phần dày đặc của Ngân Hà, dẫn đầu bởi ngôi sao nóng Naos.",
+      "corvus": "Ô Nha: tứ giác nhỏ và rõ nét gồm bốn ngôi sao đậu trên lưng Trường Xà, dễ tìm về phía nam Spica.",
+      "delphinus": "Cá Heo: hình thoi sao nhỏ quyến rũ (Quan Tài Job) nhảy lên từ Ngân Hà gần Tam giác Mùa Hè.",
+      "antlia": "Khí Bơm: chòm sao hiện đại mờ nhạt giữa Trường Xà và Phàm Thuyền.",
+      "apus": "Phong Điểu: chòm sao nhỏ và mờ gần cực trời phía nam.",
+      "ara": "Tế Đàn: bàn thờ bằng các ngôi sao ngay phía nam nọc Bọ Cạp.",
+      "caelum": "Đục Khắc: một trong những chòm sao mờ nhất — đường mỏng giữa Eridanus và Bồ Câu.",
+      "camelopardalis": "Hươu Cao Cổ: chòm sao phương bắc lớn nhưng mờ, lấp đầy khoảng trống gần cực.",
+      "canes-venatici": "Liệp Khuyển: các con chó săn của Mục Phu dẫn đầu bởi Cor Caroli, quê hương của Thiên hà Xoáy.",
+      "cetus": "Kình Ngư: chòm sao lớn chứa Mira — biến sao chu kỳ dài đầu tiên được phát hiện.",
+      "chamaeleon": "Tắc Kè Hoa: chòm sao nhỏ và mờ gần cực trời phía nam.",
+      "circinus": "Com-pa: chòm sao rất nhỏ và mờ ẩn bên cạnh Alpha Centauri.",
+      "columba": "Bồ Câu: chòm sao nhỏ bên dưới Thỏ, đại diện cho con bồ câu của Noah.",
+      "coma-berenices": "Tóc Berenice: đám sao mờ đại diện cho mái tóc được cắt của Nữ hoàng Berenice — thực ra là một cụm sao gần.",
+      "corona-australis": "Nam Miện: vòng cung sao duyên dáng dưới chân Nhân Mã.",
+      "crater": "Cái Chén: chiếc cốc gồm các ngôi sao mờ ngồi trên lưng Trường Xà, liên quan đến câu chuyện Ô Nha nói dối.",
+      "dorado": "Kiếm Ngư: chòm sao phương nam chứa phần lớn Đám Mây Magellan Lớn.",
+      "equuleus": "Tiểu Mã: chòm sao nhỏ thứ hai — con ngựa nhỏ mờ bên cạnh Thiên Mã.",
+      "eridanus": "Eridanus: chòm sao lớn thứ sáu — dòng chảy sao dài uốn lượn từ chân Orion đến Achernar rực rỡ.",
+      "fornax": "Lò Nung: chòm sao mờ bao quanh bởi khúc cong của sông Eridanus.",
+      "grus": "Hạc: con chim phương nam duyên dáng bay ngay dưới Nam Ngư.",
+      "horologium": "Đồng Hồ: chòm sao phương nam dài và mờ uốn dọc theo Eridanus.",
+      "hydra": "Trường Xà: lớn nhất trong tất cả các chòm sao, con rắn dài trải dài một phần tư bầu trời; Alphard cam là đầu.",
+      "hydrus": "Thủy Xà: con rắn phương nam mờ uốn lượn giữa hai Đám Mây Magellan.",
+      "indus": "Ấn Đệ An: chòm sao phương nam mờ đại diện cho người thợ săn bản địa.",
+      "lacerta": "Thằn Lằn: hình zíc-zắc nhỏ gồm các ngôi sao mờ giữa Thiên Nga và Andromeda.",
+      "leo-minor": "Tiểu Sư: dải sao mờ kẹp giữa Sư Tử và Đại Hùng.",
+      "lepus": "Thỏ: con thỏ ngồi dưới chân Orion, mãi mãi chạy trốn khỏi thợ săn và các chó của ông.",
+      "lynx": "Linh Miêu: đường zíc-zắc mờ — được đặt tên vì cần mắt linh miêu mới nhìn thấy.",
+      "mensa": "Bàn Sơn: chòm sao mờ nhất, không có ngôi sao nào sáng hơn cấp 5 — đặt tên theo Núi Bàn ở Cape Town.",
+      "microscopium": "Kính Hiển Vi: chòm sao hiện đại mờ phía nam Ma Kết.",
+      "monoceros": "Kỳ Lân: kỳ lân mờ chạy qua Ngân Hà, bao quanh bởi Tam giác Mùa Đông.",
+      "musca": "Ruồi: chòm sao nhỏ nhưng khá sáng ngay phía nam Nam Thập Tự.",
+      "norma": "Thước Thợ: chòm sao mờ trong phần Ngân Hà giàu sao giữa Bọ Cạp và Nhân Mã Tộc.",
+      "octans": "Phân Độ Nghi: chứa cực trời phía nam; sao cực Sigma Octantis hầu như không nhìn thấy bằng mắt thường.",
+      "ophiuchus": "Xà Phu: chòm sao hè khổng lồ, Mặt Trời đi qua nhưng không thuộc cung hoàng đạo.",
+      "pavo": "Khổng Tước: chòm sao phương nam với ngôi sao sáng nhất đơn giản là Peacock.",
+      "phoenix": "Phượng Hoàng: con chim thần thoại lớn nhất trong các chòm sao chim phương nam, gần Achernar rực rỡ.",
+      "pictor": "Giá Vẽ: chòm sao phương nam mờ bên cạnh Canopus, nổi tiếng vì đĩa tiền hành tinh quanh Beta Pictoris.",
+      "piscis-austrinus": "Nam Ngư: uống nước đổ từ Bảo Bình, được đánh dấu bởi Fomalhaut cô đơn và sáng.",
+      "pyxis": "La Bàn: chòm sao nhỏ và mờ đại diện cho la bàn tàu Argo.",
+      "reticulum": "Võng Môn: hình thoi nhỏ các ngôi sao mờ gần Đám Mây Magellan Lớn.",
+      "sagitta": "Tên Lửa: chòm sao nhỏ thứ ba — mũi tên nhỏ bay qua Tam giác Mùa Hè.",
+      "sculptor": "Điêu Khắc Gia: chòm sao mờ chứa cực thiên hà phía nam.",
+      "scutum": "Khiên: chòm sao nhỏ nổi bật trước Tinh vân Khiên rực rỡ trong Ngân Hà.",
+      "serpens": "Thiên Xà: con rắn do Xà Phu cầm — chòm sao duy nhất chia thành hai phần, đầu (Caput) và đuôi (Cauda).",
+      "sextans": "Lục Phân Nghi: chòm sao rất mờ ngay phía nam Regulus trong Sư Tử.",
+      "telescopium": "Kính Thiên Văn: chòm sao phương nam mờ ngay dưới Nhân Mã và Nam Miện.",
+      "triangulum": "Tam Giác: tam giác sao gọn gàng gần Andromeda, quê hương của Thiên hà Tam Giác (M33).",
+      "triangulum-australe": "Nam Tam Giác: tam giác sao sáng và gần đều bên cạnh Alpha Centauri.",
+      "tucana": "Toucan: con chim phương nam chứa Đám Mây Magellan Nhỏ và cụm sao cầu 47 Tucanae ấn tượng.",
+      "volans": "Cá Bay: chòm sao phương nam nhỏ ẩn trong nếp gấp của Long Cốt đại diện cho cá bay.",
+      "vulpecula": "Cáo: chòm sao mờ trong Tam giác Mùa Hè, quê hương của Tinh vân Dumbbell sáng."
+    },
+    "constellationMyth": {
+      "aries": "Con cừu lông vàng mang Phrixus và Helle đến nơi an toàn. Bộ lông của nó trở thành mục tiêu của cuộc phiêu lưu Jason và Argonauts.",
+      "taurus": "Con bò là Zeus hóa thân, mang Công chúa Europa vượt biển đến Crete. Khuôn mặt hình chữ V là cụm sao Hyades, Pleiades nằm trên vai.",
+      "gemini": "Hai anh em Castor và Pollux. Khi Castor phàm trần mất, người anh bất tử cầu xin Zeus chia sẻ sự bất tử, và cả hai mãi mãi bên nhau.",
+      "cancer": "Con cua được Hera sai đến để làm phân tâm Heracles khi chiến đấu với Hydra. Heracles giẫm chết nó; Hera đặt nó giữa các vì sao.",
+      "leo": "Sư tử Nemea có da không thể đâm xuyên bởi bất kỳ vũ khí nào. Heracles bóp cổ nó bằng tay trần trong nhiệm vụ đầu tiên và mặc da làm giáp.",
+      "virgo": "Được coi là nữ thần mùa màng Demeter hoặc nữ thần công lý Astraea đã trốn lên bầu trời. Spica sáng đại diện cho bông lúa cô ấy cầm.",
+      "libra": "Cân công lý Astraea dùng để cân thiện ác. Người La Mã thấy nó tượng trưng cho sự cân bằng ngày và đêm vào xuân phân.",
+      "scorpius": "Con bọ cạp đã cắn chết thợ săn vĩ đại Orion. Cả hai được đặt ở hai phía đối diện bầu trời; khi Orion lặn thì Bọ Cạp mọc.",
+      "sagittarius": "Người bắn cung nhân mã, thường được coi là Chiron khôn ngoan, nhắm mũi tên vào tim Bọ Cạp lân cận.",
+      "capricornus": "Dê biển: thần Pan nhảy xuống sông Nile để trốn quái vật Typhon và biến nửa người dưới thành cá.",
+      "aquarius": "Ganymede, chàng trai đẹp được Zeus mang lên Olympus phục vụ các thần, đang rót nước thiên đường.",
+      "pisces": "Hai con cá là Aphrodite và con trai Eros hóa thân để trốn Typhon, buộc đuôi nhau để không bị lạc.",
+      "orion": "Thợ săn vĩ đại đã khoe khoang có thể giết bất kỳ con thú nào, rồi bị bọ cạp giết chết. Ông đi qua bầu trời đông với gậy, đai và kiếm cùng hai con chó.",
+      "cassiopeia": "Nữ hoàng kiêu ngạo tự cho mình đẹp hơn các nữ thần biển. Bị phạt quay quanh cực, nửa đêm treo ngược đầu.",
+      "cepheus": "Vua Ethiopia, chồng của Cassiopeia và cha của Andromeda, được đặt lên bầu trời cùng gia đình hoàng gia.",
+      "andromeda": "Nàng công chúa bị xiềng vào đá để hiến tế quái vật biển chuộc tội kiêu ngạo của mẹ; được anh hùng Perseus giải cứu.",
+      "perseus": "Anh hùng chặt đầu Medusa và cứu Andromeda. Ông cầm đầu Medusa bị chặt; con mắt nháy của nó là ngôi sao ma quỷ Algol.",
+      "pegasus": "Con ngựa có cánh sinh ra từ máu Medusa, mang các anh hùng và tạo ra suối của các nàng thơ bằng vó ngựa.",
+      "cetus": "Quái vật biển được sai đến nuốt Andromeda, bị hóa đá khi Perseus cho thấy đầu Medusa.",
+      "ursa-major": "Callisto, tiên nữ bị biến thành gấu bởi nữ thần ghen tuông; Zeus đưa cô lên bầu trời cùng con trai Tiểu Hùng.",
+      "ursa-minor": "Arcas, con trai của Callisto, được đặt lên bầu trời bên mẹ. Đầu đuôi là Sao Bắc Cực.",
+      "bootes": "Người chăn gấu, đẩy Đại Hùng quanh cực và cầm dây xích các con chó săn. Arcturus có nghĩa là người canh gấu.",
+      "corona-borealis": "Vương miện của Công chúa Ariadne, người đã giúp Theseus thoát khỏi mê cung. Dionysus ném vòng hoa cưới lên bầu trời.",
+      "hercules": "Anh hùng vĩ đại nhất Hy Lạp hoàn thành 12 nhiệm vụ bất khả thi, được khắc họa quỳ gối. Bên cạnh là sư tử và rồng ông đã chinh phục.",
+      "lyra": "Cây đàn lira của Orpheus mê hoặc mọi sinh vật. Sau khi ông mất, các thần đặt nhạc cụ giữa các vì sao; được đánh dấu bằng Vega sáng.",
+      "cygnus": "Thiên Nga: hình dạng Zeus đã mang, hoặc Cygnus trung thành liên tục lặn xuống sông tìm bạn đã mất cho đến khi hóa thành thiên nga.",
+      "aquila": "Con đại bàng mang sấm sét của Zeus, đã mang chàng Ganymede trẻ tuổi lên Olympus.",
+      "draco": "Rồng Ladon canh giữ táo vàng của Hesperides cho đến khi Heracles giết nó. Mãi mãi quay quanh cực bắc.",
+      "canis-major": "Con chó săn trung thành của Orion. Chứa Sirius, ngôi sao sáng nhất trên bầu trời đêm.",
+      "canis-minor": "Con chó thứ hai của Orion, được đánh dấu bởi Procyon sáng — mọc ngay trước Sirius, nên có nghĩa là trước con chó.",
+      "auriga": "Người đánh xe, thường được coi là Erichthonius người phát minh ra xe ngựa bốn bánh. Ôm con dê (ngôi sao Capella) và các dê con trên vai.",
+      "centaurus": "Nhân mã được diễn giải là Chiron khôn ngoan, thầy của các anh hùng, được đặt ở bầu trời phía nam. Hai ngôi sao sáng chỉ về Nam Thập Tự.",
+      "hydra": "Con rắn biển nhiều đầu mà Heracles giết — mỗi đầu bị chặt lại mọc ra hai cái, cho đến khi phải dùng lửa đốt.",
+      "corvus": "Con quạ được Apollo sai đi lấy nước nhưng nán lại ăn sung. Khi đổ lỗi cho con rắn, Apollo đặt cả ba lên bầu trời.",
+      "crater": "Cái cốc của Apollo, liên quan đến câu chuyện quạ nói dối — đặt trên lưng Hydra ngoài tầm với của quạ.",
+      "ophiuchus": "Asclepius, thầy thuốc vĩ đại có thể hồi sinh người chết, cầm con rắn lớn. Zeus giết ông bằng tia sét nhưng khắc ông vĩnh viễn giữa các vì sao.",
+      "serpens": "Con rắn lớn do Asclepius thầy thuốc cầm: chòm sao duy nhất chia thành hai phần — đầu (Caput) và đuôi (Cauda) — ở hai bên người cầm rắn.",
+      "lepus": "Con thỏ ngồi dưới chân Orion, mãi mãi chạy trốn khỏi thợ săn và các chó của ông.",
+      "sagitta": "Mũi tên: được coi là mũi tên Heracles bắn để giết con đại bàng tra tấn Prometheus, hoặc của Apollo hay Eros.",
+      "delphinus": "Con cá heo mang thi sĩ Arion về bờ an toàn sau khi bị mê hoặc bởi bài ca của ông khi bị ném xuống biển — Apollo đặt nó lên bầu trời.",
+      "triangulum": "Tam giác đơn giản mà người Hy Lạp so sánh với đồng bằng sông Nile, đảo Sicily và chữ cái Hy Lạp Delta.",
+      "eridanus": "Dòng sông thiên đường lớn, gắn liền với sông Nile và dòng sông nơi Phaethon ngã xuống khi lái xe ngựa Mặt Trời.",
+      "columba": "Trong truyền thuyết sau, con bồ câu Noah thả ra từ tàu, hoặc con bồ câu dẫn đường Argonauts qua những tảng đá va chạm.",
+      "corona-australis": "Nam Miện, đôi khi được xem là vòng hoa dưới chân Nhân Mã Bắn Cung.",
+      "crux": "Nam Thập Tự: không được người Hy Lạp cổ đại biết đến, nhưng là dấu hiệu thiêng liêng với nhiều dân tộc phương nam và là kim chỉ nam cho các thủy thủ.",
+      "phoenix": "Phượng Hoàng, con chim thần thoại tự thiêu và tái sinh từ tro — biểu tượng của sự hồi sinh trong nhiều nền văn hóa.",
+      "pavo": "Con công được dâng hiến cho nữ thần Hera, đuôi của nó được cho là chứa một trăm mắt của người khổng lồ Argus."
+    },
+    "starName": {
+      "sirius": "Thiên Lang",
+      "canopus": "Lão Nhân",
+      "rigil-kentaurus": "Rigil Kentaurus",
+      "arcturus": "Arcturus",
+      "vega": "Chức Nữ",
+      "capella": "Capella",
+      "rigel": "Rigel",
+      "procyon": "Procyon",
+      "betelgeuse": "Betelgeuse",
+      "altair": "Ngưu Lang",
+      "aldebaran": "Aldebaran",
+      "antares": "Antares",
+      "spica": "Spica",
+      "pollux": "Pollux",
+      "fomalhaut": "Fomalhaut",
+      "deneb": "Deneb",
+      "regulus": "Regulus",
+      "castor": "Castor",
+      "bellatrix": "Bellatrix",
+      "elnath": "Elnath",
+      "alnilam": "Alnilam",
+      "alnitak": "Alnitak",
+      "mintaka": "Mintaka",
+      "alioth": "Alioth",
+      "dubhe": "Dubhe",
+      "alkaid": "Alkaid",
+      "mirfak": "Mirfak",
+      "polaris": "Sao Bắc Cực",
+      "alphard": "Alphard",
+      "hamal": "Hamal",
+      "hadar": "Hadar",
+      "achernar": "Achernar",
+      "acrux": "Acrux"
+    },
+    "starDesc": {
+      "sirius": "Ngôi sao sáng nhất trên bầu trời đêm. Trong Đại Khuyển, cách khoảng 8,6 năm ánh sáng.",
+      "canopus": "Ngôi sao sáng thứ hai, ngọn hải đăng bầu trời phương nam. Trong Long Cốt, cách khoảng 310 năm ánh sáng.",
+      "rigil-kentaurus": "Alpha Centauri: hệ sao gần Mặt Trời nhất. Trong Nhân Mã Tộc, chỉ cách khoảng 4,4 năm ánh sáng.",
+      "arcturus": "Sao khổng lồ đỏ, ngôi sao sáng nhất bầu trời phía bắc. Trong Mục Phu, cách khoảng 37 năm ánh sáng.",
+      "vega": "Ngôi sao mùa hè và Sao Bắc Cực trong quá khứ. Trong Thiên Cầm, cách khoảng 25 năm ánh sáng.",
+      "capella": "Thực ra là bốn ngôi sao trong một hệ. Trong Ngự Phu, cách khoảng 43 năm ánh sáng.",
+      "rigel": "Sao siêu khổng lồ xanh đánh dấu chân Orion. Cách khoảng 860 năm ánh sáng.",
+      "procyon": "Ngôi sao sáng và gần. Trong Tiểu Khuyển, cách khoảng 11,5 năm ánh sáng.",
+      "betelgeuse": "Sao siêu khổng lồ đỏ có thể sẽ nổ tung thành siêu tân tinh. Trong Thợ Săn, cách khoảng 550 năm ánh sáng.",
+      "altair": "Đỉnh của Tam giác Mùa Hè. Trong Thiên Ưng, cách khoảng 17 năm ánh sáng.",
+      "aldebaran": "Mắt cam của Kim Ngưu. Cách khoảng 65 năm ánh sáng.",
+      "antares": "Sao siêu khổng lồ đỏ đối thủ của Sao Hỏa. Trong Bọ Cạp, cách khoảng 550 năm ánh sáng.",
+      "spica": "Ngôi sao sáng nhất trong Xử Nữ. Cách khoảng 250 năm ánh sáng.",
+      "pollux": "Một trong hai anh em Song Tử. Cách khoảng 34 năm ánh sáng.",
+      "fomalhaut": "Ngôi sao cô đơn của mùa thu. Trong Nam Ngư, cách khoảng 25 năm ánh sáng.",
+      "deneb": "Sao siêu khổng lồ xa và sáng của Tam giác Mùa Hè. Trong Thiên Nga, cách khoảng 1.400 năm ánh sáng.",
+      "regulus": "Trái tim của Sư Tử. Cách khoảng 79 năm ánh sáng.",
+      "castor": "Người anh em kia, thực ra là sáu ngôi sao. Cách khoảng 51 năm ánh sáng.",
+      "bellatrix": "Ngôi sao Amazon của Orion. Cách khoảng 250 năm ánh sáng.",
+      "elnath": "Chia sẻ ranh giới giữa Kim Ngưu và Ngự Phu. Cách khoảng 130 năm ánh sáng.",
+      "alnilam": "Ngôi sao giữa của đai Orion. Cách khoảng 1.340 năm ánh sáng.",
+      "alnitak": "Ngôi sao phía đông của đai Orion. Cách khoảng 1.260 năm ánh sáng.",
+      "mintaka": "Ngôi sao phía tây của đai Orion. Cách khoảng 1.200 năm ánh sáng.",
+      "alioth": "Ngôi sao sáng nhất trong Đại Hùng. Cách khoảng 81 năm ánh sáng.",
+      "dubhe": "Ngôi sao chỉ hướng của Gáo Lớn chỉ về Sao Bắc Cực. Cách khoảng 123 năm ánh sáng.",
+      "alkaid": "Đầu tay cầm của Gáo Lớn. Cách khoảng 100 năm ánh sáng.",
+      "mirfak": "Ngôi sao sáng nhất trong Perseus. Cách khoảng 510 năm ánh sáng.",
+      "polaris": "Sao Bắc Cực, gần đúng phía trên cực bắc thiên cầu. Cách khoảng 430 năm ánh sáng.",
+      "alphard": "Ngôi sao cô đơn của Trường Xà. Cách khoảng 180 năm ánh sáng.",
+      "hamal": "Ngôi sao sáng nhất trong Bạch Dương. Cách khoảng 66 năm ánh sáng.",
+      "hadar": "Ngôi sao chỉ hướng phía nam về Nam Thập Tự. Trong Nhân Mã Tộc, cách khoảng 390 năm ánh sáng.",
+      "achernar": "Cuối dòng sông Eridanus. Cách khoảng 140 năm ánh sáng.",
+      "acrux": "Ngôi sao sáng nhất trong Nam Thập Tự. Cách khoảng 320 năm ánh sáng."
+    }
+  }
+}
