@@ -1037,6 +1037,36 @@
       "m22": "Messier 22",
       "m5": "Messier 5",
       "milky-way": "Milchstraße"
+    },
+    "dsoDesc": {
+      "orion-nebula": "Eine riesige Sternenkinderstube, gerade noch mit bloßem Auge unter dem Oriongürtel sichtbar. Im Sternbild Orion.",
+      "lagoon-nebula": "Ein heller Emissionsnebel nahe dem Zentrum der Milchstraße. Im Sternbild Schütze.",
+      "trifid-nebula": "Durch dunkle Staubbänder in drei Lappen geteilt. Im Sternbild Schütze.",
+      "eagle-nebula": "Heimat der berühmten „Säulen der Schöpfung“. Im Sternbild Schlange.",
+      "ring-nebula": "Die leuchtende Hülle eines sterbenden Sterns, wie ein Rauchring im All. Im Sternbild Leier.",
+      "crab-nebula": "Der Überrest einer 1054 von Astronomen verzeichneten Supernova. Im Sternbild Stier.",
+      "helix-nebula": "Einer der nächstgelegenen planetarischen Nebel — das „Auge Gottes“. Im Sternbild Wassermann.",
+      "carina-nebula": "Ein riesiger südlicher Nebel um den instabilen Stern Eta Carinae. Im Sternbild Kiel des Schiffs.",
+      "dumbbell-nebula": "Der erste jemals entdeckte planetarische Nebel. Im Sternbild Füchschen.",
+      "andromeda-galaxy": "Das fernste mit bloßem Auge sichtbare Objekt und unsere nächste große Galaxie. Im Sternbild Andromeda.",
+      "triangulum-galaxy": "Eine von vorn gesehene Spirale, die drittgrößte Galaxie unserer Lokalen Gruppe. Im Sternbild Dreieck.",
+      "whirlpool-galaxy": "Eine klassische Spiralgalaxie, die mit einem kleineren Begleiter verschmilzt. Im Sternbild Jagdhunde.",
+      "sombrero-galaxy": "Eine helle Scheibe mit dunklem Staubband, wie ein breitkrempiger Hut. Im Sternbild Jungfrau.",
+      "bodes-galaxy": "Eine helle Spiralgalaxie nahe dem Großen Wagen. Im Sternbild Großer Bär.",
+      "pinwheel-galaxy": "Eine große, von vorn gesehene Spiralgalaxie mit ausladenden Armen. Im Sternbild Großer Bär.",
+      "centaurus-a": "Eine eigentümliche Galaxie mit auffälligem Staubband und aktivem Schwarzen Loch. Im Sternbild Zentaur.",
+      "pleiades": "Die „Sieben Schwestern“ — ein funkelnder Haufen, mit bloßem Auge sichtbar. Im Sternbild Stier.",
+      "beehive-cluster": "Auch Praesepe genannt; ein nebliger Fleck fürs Auge, ein Sternenschwarm im Fernglas. Im Sternbild Krebs.",
+      "hyades": "Der nächstgelegene offene Sternhaufen, bildet das V-förmige Gesicht des Stiers. Im Sternbild Stier.",
+      "double-cluster": "Ein Paar heller Haufen nebeneinander, herrlich im Fernglas. Im Sternbild Perseus.",
+      "wild-duck-cluster": "Ein reicher, dichter Haufen, dessen Sterne sich wie fliegende Enten auffächern. Im Sternbild Schild.",
+      "ptolemy-cluster": "Ein heller Haufen, von Ptolemäus im 2. Jahrhundert katalogisiert. Im Sternbild Skorpion.",
+      "omega-centauri": "Der größte und hellste Kugelsternhaufen am Himmel — Millionen Sterne. Im Sternbild Zentaur.",
+      "hercules-cluster": "M13 — der schönste Kugelsternhaufen des Nordhimmels. Im Sternbild Herkules.",
+      "47-tucanae": "Der zweithellste Kugelsternhaufen, eine dichte südliche Sternkugel. Im Sternbild Tukan.",
+      "m22": "Einer der nächstgelegenen Kugelsternhaufen, nahe dem galaktischen Zentrum. Im Sternbild Schütze.",
+      "m5": "Ein alter, reicher Kugelsternhaufen, schwach mit bloßem Auge sichtbar. Im Sternbild Schlange.",
+      "milky-way": "Unsere Heimatgalaxie — ihr heller Kern liegt Richtung Schütze. Zeigt zum galaktischen Zentrum."
     }
   }
 }

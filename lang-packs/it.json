@@ -1037,6 +1037,36 @@
       "m22": "Messier 22",
       "m5": "Messier 5",
       "milky-way": "Via Lattea"
+    },
+    "dsoDesc": {
+      "orion-nebula": "Una vasta culla stellare, appena visibile a occhio nudo sotto la Cintura di Orione. Nella costellazione di Orione.",
+      "lagoon-nebula": "Una brillante nebulosa a emissione vicino al centro della Via Lattea. Nella costellazione del Sagittario.",
+      "trifid-nebula": "Divisa in tre lobi da scure bande di polvere. Nella costellazione del Sagittario.",
+      "eagle-nebula": "Casa dei celebri «Pilastri della Creazione». Nella costellazione del Serpente.",
+      "ring-nebula": "L'involucro luminoso di una stella morente, come un anello di fumo nello spazio. Nella costellazione della Lira.",
+      "crab-nebula": "Il resto di una supernova registrata dagli astronomi nel 1054. Nella costellazione del Toro.",
+      "helix-nebula": "Una delle nebulose planetarie più vicine — l'«Occhio di Dio». Nella costellazione dell'Acquario.",
+      "carina-nebula": "Una gigantesca nebulosa australe attorno alla stella instabile Eta Carinae. Nella costellazione della Carena.",
+      "dumbbell-nebula": "La prima nebulosa planetaria mai scoperta. Nella costellazione della Volpetta.",
+      "andromeda-galaxy": "L'oggetto più lontano visibile a occhio nudo e la grande galassia più vicina a noi. Nella costellazione di Andromeda.",
+      "triangulum-galaxy": "Una spirale vista di faccia, la terza galassia più grande del nostro Gruppo Locale. Nella costellazione del Triangolo.",
+      "whirlpool-galaxy": "Una classica galassia a spirale che si fonde con una compagna più piccola. Nella costellazione dei Cani da Caccia.",
+      "sombrero-galaxy": "Un disco brillante con una scura banda di polvere, come un cappello a tesa larga. Nella costellazione della Vergine.",
+      "bodes-galaxy": "Una brillante galassia a spirale vicino al Grande Carro. Nella costellazione dell'Orsa Maggiore.",
+      "pinwheel-galaxy": "Una grande galassia a spirale vista di faccia, dalle braccia estese. Nella costellazione dell'Orsa Maggiore.",
+      "centaurus-a": "Una galassia peculiare con una notevole banda di polvere e un buco nero attivo. Nella costellazione del Centauro.",
+      "pleiades": "Le «Sette Sorelle» — un ammasso scintillante visibile a occhio nudo. Nella costellazione del Toro.",
+      "beehive-cluster": "Detto anche Presepe; una macchia sfocata a occhio nudo, uno sciame di stelle al binocolo. Nella costellazione del Cancro.",
+      "hyades": "Il più vicino ammasso aperto, forma il volto a V del Toro. Nella costellazione del Toro.",
+      "double-cluster": "Una coppia di ammassi brillanti affiancati, splendidi al binocolo. Nella costellazione di Perseo.",
+      "wild-duck-cluster": "Un ammasso ricco e compatto le cui stelle si aprono a ventaglio come anatre in volo. Nella costellazione dello Scudo.",
+      "ptolemy-cluster": "Un ammasso brillante catalogato da Tolomeo nel II secolo. Nella costellazione dello Scorpione.",
+      "omega-centauri": "Il più grande e luminoso ammasso globulare del cielo — milioni di stelle. Nella costellazione del Centauro.",
+      "hercules-cluster": "M13 — il più bell’ammasso globulare del cielo boreale. Nella costellazione di Ercole.",
+      "47-tucanae": "Il secondo ammasso globulare più luminoso, una densa sfera australe di stelle. Nella costellazione del Tucano.",
+      "m22": "Uno degli ammassi globulari più vicini, presso il centro galattico. Nella costellazione del Sagittario.",
+      "m5": "Un antico e ricco ammasso globulare, debolmente visibile a occhio nudo. Nella costellazione del Serpente.",
+      "milky-way": "La nostra galassia — il suo nucleo brillante è verso il Sagittario. Punta al centro galattico."
     }
   }
 }
