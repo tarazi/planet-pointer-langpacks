@@ -940,6 +940,36 @@
       "crux": "Jižní kříž nebyl v antice samostatným souhvězdím, ale byl znám jako klíč k nalezení jižního pólu při plavbách na jižní polokouli.",
       "phoenix": "Fénix představuje bájného ptáka, který žije pět set let, shoří a znovu se rodí ze svého popela.",
       "pavo": "Páv je spojen s Hérou — Héra si ptáka posvětila poté, co na něj přenesla oči hlídače Arga, kterého zabil Hermés."
+    },
+    "dsoName": {
+      "orion-nebula": "Mlhovina v Orionu",
+      "lagoon-nebula": "Mlhovina Laguna",
+      "trifid-nebula": "Mlhovina Trifid",
+      "eagle-nebula": "Orlí mlhovina",
+      "ring-nebula": "Prstencová mlhovina",
+      "crab-nebula": "Krabí mlhovina",
+      "helix-nebula": "Mlhovina Helix",
+      "carina-nebula": "Mlhovina Carina",
+      "dumbbell-nebula": "Mlhovina Činka",
+      "andromeda-galaxy": "Galaxie v Andromedě",
+      "triangulum-galaxy": "Galaxie v Trojúhelníku",
+      "whirlpool-galaxy": "Vírová galaxie",
+      "sombrero-galaxy": "Galaxie Sombrero",
+      "bodes-galaxy": "Bodeho galaxie",
+      "pinwheel-galaxy": "Galaxie Větrník",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Plejády",
+      "beehive-cluster": "Jesličky",
+      "hyades": "Hyády",
+      "double-cluster": "Dvojitá hvězdokupa",
+      "wild-duck-cluster": "Hvězdokupa Divoká kachna",
+      "ptolemy-cluster": "Ptolemaiova hvězdokupa",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Herkulova hvězdokupa",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Mléčná dráha"
     }
   }
 }

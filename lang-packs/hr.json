@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "Orionova maglica",
+      "lagoon-nebula": "Maglica Laguna",
+      "trifid-nebula": "Trifidna maglica",
+      "eagle-nebula": "Orlova maglica",
+      "ring-nebula": "Prstenasta maglica",
+      "crab-nebula": "Rakova maglica",
+      "helix-nebula": "Maglica Heliks",
+      "carina-nebula": "Maglica Carina",
+      "dumbbell-nebula": "Maglica Bučica",
+      "andromeda-galaxy": "Andromedina galaksija",
+      "triangulum-galaxy": "Galaksija Trokut",
+      "whirlpool-galaxy": "Vrtložna galaksija",
+      "sombrero-galaxy": "Galaksija Sombrero",
+      "bodes-galaxy": "Bodeova galaksija",
+      "pinwheel-galaxy": "Galaksija Vjetrenjača",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Plejade",
+      "beehive-cluster": "Jaslice",
+      "hyades": "Hijade",
+      "double-cluster": "Dvostruki skup",
+      "wild-duck-cluster": "Skup Divlja patka",
+      "ptolemy-cluster": "Ptolemejev skup",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Herkulov skup",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Mliječna staza"
+    }
   }
 }

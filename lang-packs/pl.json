@@ -943,6 +943,36 @@
       "hadar": "Południowa gwiazda kierunkowa wskazująca Krzyż Południa. W Centaurze, ok. 390 lat świetlnych.",
       "achernar": "Koniec rzeki Eridan. Ok. 140 lat świetlnych.",
       "acrux": "Najjaśniejsza gwiazda Krzyża Południa. Ok. 320 lat świetlnych."
+    },
+    "dsoName": {
+      "orion-nebula": "Mgławica Oriona",
+      "lagoon-nebula": "Mgławica Laguna",
+      "trifid-nebula": "Mgławica Trójlistna",
+      "eagle-nebula": "Mgławica Orła",
+      "ring-nebula": "Mgławica Pierścień",
+      "crab-nebula": "Mgławica Krab",
+      "helix-nebula": "Mgławica Helisa",
+      "carina-nebula": "Mgławica Kil",
+      "dumbbell-nebula": "Mgławica Hantle",
+      "andromeda-galaxy": "Galaktyka Andromedy",
+      "triangulum-galaxy": "Galaktyka Trójkąta",
+      "whirlpool-galaxy": "Galaktyka Wir",
+      "sombrero-galaxy": "Galaktyka Sombrero",
+      "bodes-galaxy": "Galaktyka Bodego",
+      "pinwheel-galaxy": "Galaktyka Wiatraczek",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Plejady",
+      "beehive-cluster": "Żłóbek",
+      "hyades": "Hiady",
+      "double-cluster": "Podwójna Gromada",
+      "wild-duck-cluster": "Gromada Dzika Kaczka",
+      "ptolemy-cluster": "Gromada Ptolemeusza",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Gromada Herkulesa",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Droga Mleczna"
     }
   }
 }

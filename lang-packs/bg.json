@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "Орионова мъглявина",
+      "lagoon-nebula": "Мъглявина Лагуна",
+      "trifid-nebula": "Мъглявина Трифид",
+      "eagle-nebula": "Мъглявина Орел",
+      "ring-nebula": "Пръстеновидна мъглявина",
+      "crab-nebula": "Ракообразна мъглявина",
+      "helix-nebula": "Мъглявина Спирала",
+      "carina-nebula": "Мъглявина Кил",
+      "dumbbell-nebula": "Мъглявина Гира",
+      "andromeda-galaxy": "Галактика Андромеда",
+      "triangulum-galaxy": "Галактика Триъгълник",
+      "whirlpool-galaxy": "Галактика Водовъртеж",
+      "sombrero-galaxy": "Галактика Сомбреро",
+      "bodes-galaxy": "Галактика на Боде",
+      "pinwheel-galaxy": "Галактика Въртележка",
+      "centaurus-a": "Кентавър A",
+      "pleiades": "Плеяди",
+      "beehive-cluster": "Ясли",
+      "hyades": "Хиади",
+      "double-cluster": "Двоен куп",
+      "wild-duck-cluster": "Куп Дива патица",
+      "ptolemy-cluster": "Куп на Птолемей",
+      "omega-centauri": "Омега Кентавър",
+      "hercules-cluster": "Куп в Херкулес",
+      "47-tucanae": "47 Тукан",
+      "m22": "Месие 22",
+      "m5": "Месие 5",
+      "milky-way": "Млечен път"
+    }
   }
 }

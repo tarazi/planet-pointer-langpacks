@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "Орионова маглина",
+      "lagoon-nebula": "Маглина Лагуна",
+      "trifid-nebula": "Трифидна маглина",
+      "eagle-nebula": "Орлова маглина",
+      "ring-nebula": "Прстенаста маглина",
+      "crab-nebula": "Ракова маглина",
+      "helix-nebula": "Маглина Хеликс",
+      "carina-nebula": "Маглина Карина",
+      "dumbbell-nebula": "Маглина Бучица",
+      "andromeda-galaxy": "Андромедина галаксија",
+      "triangulum-galaxy": "Галаксија Троугао",
+      "whirlpool-galaxy": "Вртложна галаксија",
+      "sombrero-galaxy": "Галаксија Сомбреро",
+      "bodes-galaxy": "Бодеова галаксија",
+      "pinwheel-galaxy": "Галаксија Ветрењача",
+      "centaurus-a": "Кентаур А",
+      "pleiades": "Плејаде",
+      "beehive-cluster": "Јасле",
+      "hyades": "Хијаде",
+      "double-cluster": "Двоструко јато",
+      "wild-duck-cluster": "Јато Дивља патка",
+      "ptolemy-cluster": "Птоломејево јато",
+      "omega-centauri": "Омега Кентаура",
+      "hercules-cluster": "Херкулово јато",
+      "47-tucanae": "47 Тукане",
+      "m22": "Месије 22",
+      "m5": "Месије 5",
+      "milky-way": "Млечни пут"
+    }
   }
 }

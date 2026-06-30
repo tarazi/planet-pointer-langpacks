@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "Orionova meglica",
+      "lagoon-nebula": "Meglica Laguna",
+      "trifid-nebula": "Trifidna meglica",
+      "eagle-nebula": "Orlova meglica",
+      "ring-nebula": "Obročasta meglica",
+      "crab-nebula": "Meglica Rakovica",
+      "helix-nebula": "Meglica Helix",
+      "carina-nebula": "Meglica Karina",
+      "dumbbell-nebula": "Meglica Ročka",
+      "andromeda-galaxy": "Andromedina galaksija",
+      "triangulum-galaxy": "Galaksija Trikotnik",
+      "whirlpool-galaxy": "Vrtinčasta galaksija",
+      "sombrero-galaxy": "Galaksija Sombrero",
+      "bodes-galaxy": "Bodejeva galaksija",
+      "pinwheel-galaxy": "Galaksija Vrtavka",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Gostosevci",
+      "beehive-cluster": "Jaslice",
+      "hyades": "Hiade",
+      "double-cluster": "Dvojna kopica",
+      "wild-duck-cluster": "Kopica Divja raca",
+      "ptolemy-cluster": "Ptolemejeva kopica",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Herkulova kopica",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Rimska cesta"
+    }
   }
 }

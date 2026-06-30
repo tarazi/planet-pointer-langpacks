@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "Hmlovina v Orióne",
+      "lagoon-nebula": "Hmlovina Lagúna",
+      "trifid-nebula": "Hmlovina Trifid",
+      "eagle-nebula": "Orlia hmlovina",
+      "ring-nebula": "Prstencová hmlovina",
+      "crab-nebula": "Krabia hmlovina",
+      "helix-nebula": "Hmlovina Helix",
+      "carina-nebula": "Hmlovina Carina",
+      "dumbbell-nebula": "Hmlovina Činka",
+      "andromeda-galaxy": "Galaxia v Andromede",
+      "triangulum-galaxy": "Galaxia v Trojuholníku",
+      "whirlpool-galaxy": "Vírová galaxia",
+      "sombrero-galaxy": "Galaxia Sombrero",
+      "bodes-galaxy": "Bodeho galaxia",
+      "pinwheel-galaxy": "Galaxia Veterník",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Plejády",
+      "beehive-cluster": "Jasličky",
+      "hyades": "Hyády",
+      "double-cluster": "Dvojitá hviezdokopa",
+      "wild-duck-cluster": "Hviezdokopa Divá kačica",
+      "ptolemy-cluster": "Ptolemaiova hviezdokopa",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Herkulova hviezdokopa",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Mliečna cesta"
+    }
   }
 }
