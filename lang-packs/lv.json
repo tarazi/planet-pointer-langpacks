@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "Oriona miglājs",
+      "lagoon-nebula": "Lagūnas miglājs",
+      "trifid-nebula": "Trifīda miglājs",
+      "eagle-nebula": "Ērgļa miglājs",
+      "ring-nebula": "Gredzena miglājs",
+      "crab-nebula": "Krabja miglājs",
+      "helix-nebula": "Helix miglājs",
+      "carina-nebula": "Karīnas miglājs",
+      "dumbbell-nebula": "Hanteles miglājs",
+      "andromeda-galaxy": "Andromedas galaktika",
+      "triangulum-galaxy": "Trijstūra galaktika",
+      "whirlpool-galaxy": "Virpuļa galaktika",
+      "sombrero-galaxy": "Sombrero galaktika",
+      "bodes-galaxy": "Bodes galaktika",
+      "pinwheel-galaxy": "Vējdzirnavu galaktika",
+      "centaurus-a": "Kentaura A",
+      "pleiades": "Plejādes",
+      "beehive-cluster": "Bišu stropa kopa",
+      "hyades": "Hiādes",
+      "double-cluster": "Dubultkopa",
+      "wild-duck-cluster": "Savvaļas pīles kopa",
+      "ptolemy-cluster": "Ptolemaja kopa",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Herkulesa kopa",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Piena Ceļš"
+    }
   }
 }

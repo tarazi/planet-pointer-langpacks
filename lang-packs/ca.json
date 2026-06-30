@@ -943,6 +943,36 @@
       "hadar": "Estrella indicadora del sud cap a la Creu del Sud. Al Centaure, a uns 390 anys llum.",
       "achernar": "L'extrem del riu Eridan. A uns 140 anys llum.",
       "acrux": "L'estrella més brillant de la Creu del Sud. A uns 320 anys llum."
+    },
+    "dsoName": {
+      "orion-nebula": "Nebulosa d'Orió",
+      "lagoon-nebula": "Nebulosa de la Llacuna",
+      "trifid-nebula": "Nebulosa Trífida",
+      "eagle-nebula": "Nebulosa de l'Àguila",
+      "ring-nebula": "Nebulosa de l'Anell",
+      "crab-nebula": "Nebulosa del Cranc",
+      "helix-nebula": "Nebulosa de l'Hèlix",
+      "carina-nebula": "Nebulosa de la Quilla",
+      "dumbbell-nebula": "Nebulosa Dumbbell",
+      "andromeda-galaxy": "Galàxia d'Andròmeda",
+      "triangulum-galaxy": "Galàxia del Triangle",
+      "whirlpool-galaxy": "Galàxia del Remolí",
+      "sombrero-galaxy": "Galàxia del Barret",
+      "bodes-galaxy": "Galàxia de Bode",
+      "pinwheel-galaxy": "Galàxia del Molinet",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Plèiades",
+      "beehive-cluster": "Cúmul del Pessebre",
+      "hyades": "Híades",
+      "double-cluster": "Doble Cúmul",
+      "wild-duck-cluster": "Cúmul de l'Ànec Salvatge",
+      "ptolemy-cluster": "Cúmul de Ptolemeu",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Cúmul d'Hèrcules",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Via Làctia"
     }
   }
 }

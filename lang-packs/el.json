@@ -943,6 +943,36 @@
       "hadar": "Νότιος δείκτης προς τον Νότιο Σταυρό. Στον Κένταυρο, περίπου 390 έτη φωτός.",
       "achernar": "Άκρη του ποταμού Ηριδανού. Περίπου 140 έτη φωτός.",
       "acrux": "Πιο λαμπρό αστέρι του Νότιου Σταυρού. Περίπου 320 έτη φωτός."
+    },
+    "dsoName": {
+      "orion-nebula": "Νεφέλωμα του Ωρίωνα",
+      "lagoon-nebula": "Νεφέλωμα Λιμνοθάλασσα",
+      "trifid-nebula": "Τρισχιδές Νεφέλωμα",
+      "eagle-nebula": "Νεφέλωμα Αετός",
+      "ring-nebula": "Δακτυλιοειδές Νεφέλωμα",
+      "crab-nebula": "Νεφέλωμα του Καρκίνου",
+      "helix-nebula": "Νεφέλωμα Έλικας",
+      "carina-nebula": "Νεφέλωμα της Τρόπιδας",
+      "dumbbell-nebula": "Νεφέλωμα Αλτήρας",
+      "andromeda-galaxy": "Γαλαξίας της Ανδρομέδας",
+      "triangulum-galaxy": "Γαλαξίας του Τριγώνου",
+      "whirlpool-galaxy": "Γαλαξίας Δίνη",
+      "sombrero-galaxy": "Γαλαξίας Σομπρέρο",
+      "bodes-galaxy": "Γαλαξίας του Bode",
+      "pinwheel-galaxy": "Γαλαξίας Ανεμόμυλος",
+      "centaurus-a": "Κένταυρος Α",
+      "pleiades": "Πλειάδες",
+      "beehive-cluster": "Σμήνος Φάτνη",
+      "hyades": "Υάδες",
+      "double-cluster": "Διπλό Σμήνος",
+      "wild-duck-cluster": "Σμήνος Αγριόπαπια",
+      "ptolemy-cluster": "Σμήνος του Πτολεμαίου",
+      "omega-centauri": "Ωμέγα Κενταύρου",
+      "hercules-cluster": "Σμήνος του Ηρακλή",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Μεσιέ 22",
+      "m5": "Μεσιέ 5",
+      "milky-way": "Γαλαξίας"
     }
   }
 }

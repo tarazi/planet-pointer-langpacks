@@ -943,6 +943,36 @@
       "hadar": "Eteläinen osoitintähti Eteläiseen Ristiin. Kentaurissa, noin 390 valovuotta.",
       "achernar": "Eridanus-joen pää. Noin 140 valovuotta.",
       "acrux": "Eteläisen Ristin kirkkain tähti. Noin 320 valovuotta."
+    },
+    "dsoName": {
+      "orion-nebula": "Orionin sumu",
+      "lagoon-nebula": "Laguunisumu",
+      "trifid-nebula": "Trifidisumu",
+      "eagle-nebula": "Kotkasumu",
+      "ring-nebula": "Rengassumu",
+      "crab-nebula": "Rapusumu",
+      "helix-nebula": "Helix-sumu",
+      "carina-nebula": "Carinan sumu",
+      "dumbbell-nebula": "Käsipainosumu",
+      "andromeda-galaxy": "Andromedan galaksi",
+      "triangulum-galaxy": "Kolmion galaksi",
+      "whirlpool-galaxy": "Pyörregalaksi",
+      "sombrero-galaxy": "Sombrerogalaksi",
+      "bodes-galaxy": "Boden galaksi",
+      "pinwheel-galaxy": "Tuulimyllygalaksi",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Seulaset",
+      "beehive-cluster": "Mehiläispesä",
+      "hyades": "Hyadit",
+      "double-cluster": "Kaksoisjoukko",
+      "wild-duck-cluster": "Villisorsajoukko",
+      "ptolemy-cluster": "Ptolemaioksen joukko",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Herkuleksen joukko",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Linnunrata"
     }
   }
 }

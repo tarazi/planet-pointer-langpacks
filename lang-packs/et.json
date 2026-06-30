@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "Orioni udukogu",
+      "lagoon-nebula": "Laguuni udukogu",
+      "trifid-nebula": "Trifidi udukogu",
+      "eagle-nebula": "Kotka udukogu",
+      "ring-nebula": "Rõngasudukogu",
+      "crab-nebula": "Krabiudukogu",
+      "helix-nebula": "Heeliksudukogu",
+      "carina-nebula": "Carina udukogu",
+      "dumbbell-nebula": "Hantli udukogu",
+      "andromeda-galaxy": "Andromeeda galaktika",
+      "triangulum-galaxy": "Kolmnurga galaktika",
+      "whirlpool-galaxy": "Keerise galaktika",
+      "sombrero-galaxy": "Sombrero galaktika",
+      "bodes-galaxy": "Bode galaktika",
+      "pinwheel-galaxy": "Tuuleveski galaktika",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Plejaadid",
+      "beehive-cluster": "Mesipuu parv",
+      "hyades": "Hüaadid",
+      "double-cluster": "Topeltparv",
+      "wild-duck-cluster": "Metspardi parv",
+      "ptolemy-cluster": "Ptolemaiose parv",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Heraklese parv",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Linnutee"
+    }
   }
 }

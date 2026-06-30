@@ -943,6 +943,36 @@
       "hadar": "Sørlig pekestjerne mot Sydkorset. I Kentauren, omtrent 390 lysår.",
       "achernar": "Enden av elven Eridanus. Omtrent 140 lysår.",
       "acrux": "Den lyseste stjernen i Sydkorset. Omtrent 320 lysår."
+    },
+    "dsoName": {
+      "orion-nebula": "Oriontåken",
+      "lagoon-nebula": "Lagunetåken",
+      "trifid-nebula": "Trifidtåken",
+      "eagle-nebula": "Ørnetåken",
+      "ring-nebula": "Ringtåken",
+      "crab-nebula": "Krabbetåken",
+      "helix-nebula": "Helixtåken",
+      "carina-nebula": "Carinatåken",
+      "dumbbell-nebula": "Manualtåken",
+      "andromeda-galaxy": "Andromedagalaksen",
+      "triangulum-galaxy": "Trekantgalaksen",
+      "whirlpool-galaxy": "Virvelgalaksen",
+      "sombrero-galaxy": "Sombrerogalaksen",
+      "bodes-galaxy": "Bodes galakse",
+      "pinwheel-galaxy": "Vindmøllegalaksen",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Pleiadene",
+      "beehive-cluster": "Bikuben",
+      "hyades": "Hyadene",
+      "double-cluster": "Dobbelthopen",
+      "wild-duck-cluster": "Villandhopen",
+      "ptolemy-cluster": "Ptolemaios-hopen",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Herkuleshopen",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Melkeveien"
     }
   }
 }

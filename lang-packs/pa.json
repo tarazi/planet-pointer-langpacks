@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "ਓਰਾਇਨ ਨੀਹਾਰਿਕਾ",
+      "lagoon-nebula": "ਲਗੂਨ ਨੀਹਾਰਿਕਾ",
+      "trifid-nebula": "ਟ੍ਰਾਈਫਿਡ ਨੀਹਾਰਿਕਾ",
+      "eagle-nebula": "ਉਕਾਬ ਨੀਹਾਰਿਕਾ",
+      "ring-nebula": "ਛੱਲਾ ਨੀਹਾਰਿਕਾ",
+      "crab-nebula": "ਕੇਕੜਾ ਨੀਹਾਰਿਕਾ",
+      "helix-nebula": "ਹੈਲਿਕਸ ਨੀਹਾਰਿਕਾ",
+      "carina-nebula": "ਕਰੀਨਾ ਨੀਹਾਰਿਕਾ",
+      "dumbbell-nebula": "ਡੰਬਲ ਨੀਹਾਰਿਕਾ",
+      "andromeda-galaxy": "ਐਂਡ੍ਰੋਮੇਡਾ ਗਲੈਕਸੀ",
+      "triangulum-galaxy": "ਤਿਕੋਣ ਗਲੈਕਸੀ",
+      "whirlpool-galaxy": "ਘੁੰਮਣਘੇਰੀ ਗਲੈਕਸੀ",
+      "sombrero-galaxy": "ਸੋਮਬ੍ਰੇਰੋ ਗਲੈਕਸੀ",
+      "bodes-galaxy": "ਬੋਡੇ ਗਲੈਕਸੀ",
+      "pinwheel-galaxy": "ਪਿਨਵੀਲ ਗਲੈਕਸੀ",
+      "centaurus-a": "ਸੈਂਟੌਰਸ A",
+      "pleiades": "ਕ੍ਰਿਤਿਕਾ",
+      "beehive-cluster": "ਮਧੂਮੱਖੀ ਛੱਤਾ ਸਮੂਹ",
+      "hyades": "ਹਾਈਡੀਜ਼ ਸਮੂਹ",
+      "double-cluster": "ਦੋਹਰਾ ਸਮੂਹ",
+      "wild-duck-cluster": "ਜੰਗਲੀ ਬਤਖ ਸਮੂਹ",
+      "ptolemy-cluster": "ਟਾਲਮੀ ਸਮੂਹ",
+      "omega-centauri": "ਓਮੇਗਾ ਸੈਂਟੌਰੀ",
+      "hercules-cluster": "ਹਰਕੁਲੀਸ ਸਮੂਹ",
+      "47-tucanae": "47 Tucanae",
+      "m22": "ਮੈਸੀਅਰ 22",
+      "m5": "ਮੈਸੀਅਰ 5",
+      "milky-way": "ਆਕਾਸ਼ਗੰਗਾ"
+    }
   }
 }

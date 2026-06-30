@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "Orion-köd",
+      "lagoon-nebula": "Lagúna-köd",
+      "trifid-nebula": "Trifid-köd",
+      "eagle-nebula": "Sas-köd",
+      "ring-nebula": "Gyűrűs-köd",
+      "crab-nebula": "Rák-köd",
+      "helix-nebula": "Helix-köd",
+      "carina-nebula": "Carina-köd",
+      "dumbbell-nebula": "Súlyzó-köd",
+      "andromeda-galaxy": "Androméda-galaxis",
+      "triangulum-galaxy": "Háromszög-galaxis",
+      "whirlpool-galaxy": "Örvény-galaxis",
+      "sombrero-galaxy": "Sombrero-galaxis",
+      "bodes-galaxy": "Bode-galaxis",
+      "pinwheel-galaxy": "Szélkerék-galaxis",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Plejádok",
+      "beehive-cluster": "Méhkas halmaz",
+      "hyades": "Hiádok",
+      "double-cluster": "Kettős halmaz",
+      "wild-duck-cluster": "Vadkacsa-halmaz",
+      "ptolemy-cluster": "Ptolemaiosz-halmaz",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Herkules-halmaz",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Tejút"
+    }
   }
 }

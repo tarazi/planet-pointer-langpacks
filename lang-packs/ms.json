@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "Nebula Orion",
+      "lagoon-nebula": "Nebula Lagun",
+      "trifid-nebula": "Nebula Trifid",
+      "eagle-nebula": "Nebula Helang",
+      "ring-nebula": "Nebula Cincin",
+      "crab-nebula": "Nebula Ketam",
+      "helix-nebula": "Nebula Heliks",
+      "carina-nebula": "Nebula Carina",
+      "dumbbell-nebula": "Nebula Dumbbell",
+      "andromeda-galaxy": "Galaksi Andromeda",
+      "triangulum-galaxy": "Galaksi Segi Tiga",
+      "whirlpool-galaxy": "Galaksi Pusaran",
+      "sombrero-galaxy": "Galaksi Sombrero",
+      "bodes-galaxy": "Galaksi Bode",
+      "pinwheel-galaxy": "Galaksi Kincir",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Pleiades",
+      "beehive-cluster": "Gugusan Sarang Lebah",
+      "hyades": "Gugusan Hyades",
+      "double-cluster": "Gugusan Berkembar",
+      "wild-duck-cluster": "Gugusan Itik Liar",
+      "ptolemy-cluster": "Gugusan Ptolemy",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Gugusan Hercules",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Bima Sakti"
+    }
   }
 }

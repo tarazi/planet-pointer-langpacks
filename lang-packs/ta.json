@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "ஓரியன் நெபுலா",
+      "lagoon-nebula": "லகூன் நெபுலா",
+      "trifid-nebula": "ட்ரிஃபிட் நெபுலா",
+      "eagle-nebula": "கழுகு நெபுலா",
+      "ring-nebula": "வளைய நெபுலா",
+      "crab-nebula": "நண்டு நெபுலா",
+      "helix-nebula": "ஹெலிக்ஸ் நெபுலா",
+      "carina-nebula": "கரினா நெபுலா",
+      "dumbbell-nebula": "டம்பெல் நெபுலா",
+      "andromeda-galaxy": "ஆண்ட்ரோமெடா விண்மீன் திரள்",
+      "triangulum-galaxy": "முக்கோண விண்மீன் திரள்",
+      "whirlpool-galaxy": "சுழல் விண்மீன் திரள்",
+      "sombrero-galaxy": "சோம்ப்ரெரோ விண்மீன் திரள்",
+      "bodes-galaxy": "போடே விண்மீன் திரள்",
+      "pinwheel-galaxy": "காற்றாடி விண்மீன் திரள்",
+      "centaurus-a": "சென்டாரஸ் A",
+      "pleiades": "கார்த்திகை",
+      "beehive-cluster": "தேனடை கொத்து",
+      "hyades": "ஹையாட்ஸ் கொத்து",
+      "double-cluster": "இரட்டை கொத்து",
+      "wild-duck-cluster": "காட்டு வாத்து கொத்து",
+      "ptolemy-cluster": "டாலமி கொத்து",
+      "omega-centauri": "ஒமேகா சென்டாரி",
+      "hercules-cluster": "ஹெர்குலிஸ் கொத்து",
+      "47-tucanae": "47 Tucanae",
+      "m22": "மெஸியர் 22",
+      "m5": "மெஸியர் 5",
+      "milky-way": "பால்வழி"
+    }
   }
 }

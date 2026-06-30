@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "কালপুরুষ নীহারিকা",
+      "lagoon-nebula": "লেগুন নীহারিকা",
+      "trifid-nebula": "ট্রাইফিড নীহারিকা",
+      "eagle-nebula": "ঈগল নীহারিকা",
+      "ring-nebula": "বলয় নীহারিকা",
+      "crab-nebula": "কাঁকড়া নীহারিকা",
+      "helix-nebula": "হেলিক্স নীহারিকা",
+      "carina-nebula": "ক্যারিনা নীহারিকা",
+      "dumbbell-nebula": "ডাম্বেল নীহারিকা",
+      "andromeda-galaxy": "অ্যান্ড্রোমিডা ছায়াপথ",
+      "triangulum-galaxy": "ত্রিভুজ ছায়াপথ",
+      "whirlpool-galaxy": "ঘূর্ণি ছায়াপথ",
+      "sombrero-galaxy": "সোমব্রেরো ছায়াপথ",
+      "bodes-galaxy": "বোডে ছায়াপথ",
+      "pinwheel-galaxy": "পিনহুইল ছায়াপথ",
+      "centaurus-a": "সেন্টরাস A",
+      "pleiades": "কৃত্তিকা",
+      "beehive-cluster": "মৌচাক স্তবক",
+      "hyades": "হায়াডিস স্তবক",
+      "double-cluster": "যুগ্ম স্তবক",
+      "wild-duck-cluster": "বুনো হাঁস স্তবক",
+      "ptolemy-cluster": "টলেমি স্তবক",
+      "omega-centauri": "ওমেগা সেন্টরি",
+      "hercules-cluster": "হারকিউলিস স্তবক",
+      "47-tucanae": "47 Tucanae",
+      "m22": "মেসিয়ে 22",
+      "m5": "মেসিয়ে 5",
+      "milky-way": "আকাশগঙ্গা"
+    }
   }
 }

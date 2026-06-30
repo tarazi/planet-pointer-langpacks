@@ -1007,6 +1007,36 @@
       "hadar": "Ngôi sao chỉ hướng phía nam về Nam Thập Tự. Trong Nhân Mã Tộc, cách khoảng 390 năm ánh sáng.",
       "achernar": "Cuối dòng sông Eridanus. Cách khoảng 140 năm ánh sáng.",
       "acrux": "Ngôi sao sáng nhất trong Nam Thập Tự. Cách khoảng 320 năm ánh sáng."
+    },
+    "dsoName": {
+      "orion-nebula": "Tinh vân Lạp Hộ",
+      "lagoon-nebula": "Tinh vân Đầm Phá",
+      "trifid-nebula": "Tinh vân Ba Thùy",
+      "eagle-nebula": "Tinh vân Đại Bàng",
+      "ring-nebula": "Tinh vân Chiếc Nhẫn",
+      "crab-nebula": "Tinh vân Con Cua",
+      "helix-nebula": "Tinh vân Xoắn Ốc",
+      "carina-nebula": "Tinh vân Thuyền Để",
+      "dumbbell-nebula": "Tinh vân Quả Tạ",
+      "andromeda-galaxy": "Thiên hà Tiên Nữ",
+      "triangulum-galaxy": "Thiên hà Tam Giác",
+      "whirlpool-galaxy": "Thiên hà Xoáy Nước",
+      "sombrero-galaxy": "Thiên hà Sombrero",
+      "bodes-galaxy": "Thiên hà Bode",
+      "pinwheel-galaxy": "Thiên hà Chong Chóng",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Tua Rua",
+      "beehive-cluster": "Cụm sao Tổ Ong",
+      "hyades": "Cụm sao Hyades",
+      "double-cluster": "Cụm sao Đôi",
+      "wild-duck-cluster": "Cụm sao Vịt Trời",
+      "ptolemy-cluster": "Cụm sao Ptolemy",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Cụm sao Hercules",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Ngân Hà"
     }
   }
 }

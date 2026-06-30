@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "ઓરાયન નિહારિકા",
+      "lagoon-nebula": "લગૂન નિહારિકા",
+      "trifid-nebula": "ટ્રાઇફિડ નિહારિકા",
+      "eagle-nebula": "ગરુડ નિહારિકા",
+      "ring-nebula": "વલય નિહારિકા",
+      "crab-nebula": "કરચલા નિહારિકા",
+      "helix-nebula": "હેલિક્સ નિહારિકા",
+      "carina-nebula": "કેરિના નિહારિકા",
+      "dumbbell-nebula": "ડમ્બેલ નિહારિકા",
+      "andromeda-galaxy": "એન્ડ્રોમેડા મંદાકિની",
+      "triangulum-galaxy": "ત્રિકોણ મંદાકિની",
+      "whirlpool-galaxy": "વમળ મંદાકિની",
+      "sombrero-galaxy": "સોમ્બ્રેરો મંદાકિની",
+      "bodes-galaxy": "બોડે મંદાકિની",
+      "pinwheel-galaxy": "પિનવ્હીલ મંદાકિની",
+      "centaurus-a": "સેન્ટોરસ A",
+      "pleiades": "કૃત્તિકા",
+      "beehive-cluster": "મધપૂડો તારાગુચ્છ",
+      "hyades": "હાયડિસ તારાગુચ્છ",
+      "double-cluster": "દ્વિ તારાગુચ્છ",
+      "wild-duck-cluster": "જંગલી બતક તારાગુચ્છ",
+      "ptolemy-cluster": "ટોલેમી તારાગુચ્છ",
+      "omega-centauri": "ઓમેગા સેન્ટોરી",
+      "hercules-cluster": "હર્ક્યુલસ તારાગુચ્છ",
+      "47-tucanae": "47 Tucanae",
+      "m22": "મેસિયર 22",
+      "m5": "મેસિયર 5",
+      "milky-way": "આકાશગંગા"
+    }
   }
 }

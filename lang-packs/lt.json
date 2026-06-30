@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "Oriono ūkas",
+      "lagoon-nebula": "Lagūnos ūkas",
+      "trifid-nebula": "Trifido ūkas",
+      "eagle-nebula": "Erelio ūkas",
+      "ring-nebula": "Žiedo ūkas",
+      "crab-nebula": "Krabo ūkas",
+      "helix-nebula": "Helix ūkas",
+      "carina-nebula": "Karinos ūkas",
+      "dumbbell-nebula": "Hantelio ūkas",
+      "andromeda-galaxy": "Andromedos galaktika",
+      "triangulum-galaxy": "Trikampio galaktika",
+      "whirlpool-galaxy": "Sūkurio galaktika",
+      "sombrero-galaxy": "Sombrero galaktika",
+      "bodes-galaxy": "Bodės galaktika",
+      "pinwheel-galaxy": "Vėjo malūnėlio galaktika",
+      "centaurus-a": "Kentauras A",
+      "pleiades": "Plejados",
+      "beehive-cluster": "Ėdžių spiečius",
+      "hyades": "Hiadės",
+      "double-cluster": "Dvigubasis spiečius",
+      "wild-duck-cluster": "Laukinės anties spiečius",
+      "ptolemy-cluster": "Ptolemėjo spiečius",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Heraklio spiečius",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Paukščių Takas"
+    }
   }
 }

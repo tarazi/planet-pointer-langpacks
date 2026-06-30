@@ -943,6 +943,36 @@
       "hadar": "ستاره راهنمای جنوبی به صلیب جنوبی. در قنطورس، حدود ۳۹۰ سال نوری.",
       "achernar": "انتهای رودخانه اریدانوس. حدود ۱۴۰ سال نوری.",
       "acrux": "روشن‌ترین ستاره صلیب جنوبی. حدود ۳۲۰ سال نوری."
+    },
+    "dsoName": {
+      "orion-nebula": "سحابی جبار",
+      "lagoon-nebula": "سحابی مرداب",
+      "trifid-nebula": "سحابی سه‌بخشی",
+      "eagle-nebula": "سحابی عقاب",
+      "ring-nebula": "سحابی حلقه",
+      "crab-nebula": "سحابی خرچنگ",
+      "helix-nebula": "سحابی مارپیچ",
+      "carina-nebula": "سحابی کارینا",
+      "dumbbell-nebula": "سحابی دمبل",
+      "andromeda-galaxy": "کهکشان آندرومدا",
+      "triangulum-galaxy": "کهکشان مثلث",
+      "whirlpool-galaxy": "کهکشان گرداب",
+      "sombrero-galaxy": "کهکشان سامبررو",
+      "bodes-galaxy": "کهکشان بوده",
+      "pinwheel-galaxy": "کهکشان فرفره",
+      "centaurus-a": "قنطورس A",
+      "pleiades": "پروین",
+      "beehive-cluster": "خوشه کندوی عسل",
+      "hyades": "خوشه هیادس",
+      "double-cluster": "خوشه دوقلو",
+      "wild-duck-cluster": "خوشه اردک وحشی",
+      "ptolemy-cluster": "خوشه بطلمیوس",
+      "omega-centauri": "امگا قنطورس",
+      "hercules-cluster": "خوشه هرکول",
+      "47-tucanae": "47 Tucanae",
+      "m22": "مسیه 22",
+      "m5": "مسیه 5",
+      "milky-way": "راه شیری"
     }
   }
 }

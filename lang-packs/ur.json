@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "سحابیہ الجبار",
+      "lagoon-nebula": "سحابیہ جھیل",
+      "trifid-nebula": "سہ شاخہ سحابیہ",
+      "eagle-nebula": "سحابیہ عقاب",
+      "ring-nebula": "حلقہ سحابیہ",
+      "crab-nebula": "کیکڑا سحابیہ",
+      "helix-nebula": "مارپیچ سحابیہ",
+      "carina-nebula": "سحابیہ کارینا",
+      "dumbbell-nebula": "ڈمبل سحابیہ",
+      "andromeda-galaxy": "کہکشاں اینڈرومیڈا",
+      "triangulum-galaxy": "مثلث کہکشاں",
+      "whirlpool-galaxy": "بھنور کہکشاں",
+      "sombrero-galaxy": "سومبریرو کہکشاں",
+      "bodes-galaxy": "بوڈے کہکشاں",
+      "pinwheel-galaxy": "پن وہیل کہکشاں",
+      "centaurus-a": "قنطورس A",
+      "pleiades": "ثریا",
+      "beehive-cluster": "چھتہ جھرمٹ",
+      "hyades": "ہائیڈیز جھرمٹ",
+      "double-cluster": "دوہرا جھرمٹ",
+      "wild-duck-cluster": "جنگلی بطخ جھرمٹ",
+      "ptolemy-cluster": "بطلیموس جھرمٹ",
+      "omega-centauri": "اومیگا قنطورس",
+      "hercules-cluster": "ہرکیولس جھرمٹ",
+      "47-tucanae": "47 Tucanae",
+      "m22": "میسیئے 22",
+      "m5": "میسیئے 5",
+      "milky-way": "کہکشاں"
+    }
   }
 }

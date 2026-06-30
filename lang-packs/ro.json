@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "Nebuloasa Orion",
+      "lagoon-nebula": "Nebuloasa Laguna",
+      "trifid-nebula": "Nebuloasa Trifidă",
+      "eagle-nebula": "Nebuloasa Vulturul",
+      "ring-nebula": "Nebuloasa Inelul",
+      "crab-nebula": "Nebuloasa Crabul",
+      "helix-nebula": "Nebuloasa Helix",
+      "carina-nebula": "Nebuloasa Carina",
+      "dumbbell-nebula": "Nebuloasa Haltera",
+      "andromeda-galaxy": "Galaxia Andromeda",
+      "triangulum-galaxy": "Galaxia Triunghiul",
+      "whirlpool-galaxy": "Galaxia Vârtej",
+      "sombrero-galaxy": "Galaxia Sombrero",
+      "bodes-galaxy": "Galaxia lui Bode",
+      "pinwheel-galaxy": "Galaxia Morișca",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Pleiadele",
+      "beehive-cluster": "Roiul Stupul",
+      "hyades": "Hiadele",
+      "double-cluster": "Roiul Dublu",
+      "wild-duck-cluster": "Roiul Rața Sălbatică",
+      "ptolemy-cluster": "Roiul lui Ptolemeu",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Roiul din Hercule",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Calea Lactee"
+    }
   }
 }

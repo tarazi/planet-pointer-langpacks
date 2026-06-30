@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "ఓరియన్ నీహారిక",
+      "lagoon-nebula": "లగూన్ నీహారిక",
+      "trifid-nebula": "ట్రిఫిడ్ నీహారిక",
+      "eagle-nebula": "డేగ నీహారిక",
+      "ring-nebula": "వలయ నీహారిక",
+      "crab-nebula": "పీత నీహారిక",
+      "helix-nebula": "హెలిక్స్ నీహారిక",
+      "carina-nebula": "కరీనా నీహారిక",
+      "dumbbell-nebula": "డంబెల్ నీహారిక",
+      "andromeda-galaxy": "ఆండ్రోమెడా గెలాక్సీ",
+      "triangulum-galaxy": "త్రిభుజ గెలాక్సీ",
+      "whirlpool-galaxy": "సుడిగుండం గెలాక్సీ",
+      "sombrero-galaxy": "సోంబ్రెరో గెలాక్సీ",
+      "bodes-galaxy": "బోడే గెలాక్సీ",
+      "pinwheel-galaxy": "పిన్‌వీల్ గెలాక్సీ",
+      "centaurus-a": "సెంటారస్ A",
+      "pleiades": "కృత్తిక",
+      "beehive-cluster": "తేనెతుట్టె గుచ్ఛం",
+      "hyades": "హయాడిస్ గుచ్ఛం",
+      "double-cluster": "జంట గుచ్ఛం",
+      "wild-duck-cluster": "అడవి బాతు గుచ్ఛం",
+      "ptolemy-cluster": "టోలెమీ గుచ్ఛం",
+      "omega-centauri": "ఒమేగా సెంటారి",
+      "hercules-cluster": "హెర్క్యులస్ గుచ్ఛం",
+      "47-tucanae": "47 Tucanae",
+      "m22": "మెస్సియర్ 22",
+      "m5": "మెస్సియర్ 5",
+      "milky-way": "పాలపుంత"
+    }
   }
 }

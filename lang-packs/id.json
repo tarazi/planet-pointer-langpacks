@@ -1007,6 +1007,36 @@
       "hadar": "Penunjuk selatan yang mengarah ke Salib Selatan. Di Kentaurus, sekitar 390 tahun cahaya.",
       "achernar": "Ujung sungai Eridanus. Sekitar 140 tahun cahaya.",
       "acrux": "Bintang paling terang di Salib Selatan. Sekitar 320 tahun cahaya."
+    },
+    "dsoName": {
+      "orion-nebula": "Nebula Orion",
+      "lagoon-nebula": "Nebula Laguna",
+      "trifid-nebula": "Nebula Trifid",
+      "eagle-nebula": "Nebula Elang",
+      "ring-nebula": "Nebula Cincin",
+      "crab-nebula": "Nebula Kepiting",
+      "helix-nebula": "Nebula Heliks",
+      "carina-nebula": "Nebula Carina",
+      "dumbbell-nebula": "Nebula Dumbbell",
+      "andromeda-galaxy": "Galaksi Andromeda",
+      "triangulum-galaxy": "Galaksi Segitiga",
+      "whirlpool-galaxy": "Galaksi Pusaran Air",
+      "sombrero-galaxy": "Galaksi Sombrero",
+      "bodes-galaxy": "Galaksi Bode",
+      "pinwheel-galaxy": "Galaksi Kincir Angin",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Pleiades",
+      "beehive-cluster": "Gugus Sarang Lebah",
+      "hyades": "Gugus Hyades",
+      "double-cluster": "Gugus Ganda",
+      "wild-duck-cluster": "Gugus Bebek Liar",
+      "ptolemy-cluster": "Gugus Ptolemy",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Gugus Hercules",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Bima Sakti"
     }
   }
 }

@@ -248,6 +248,36 @@
     "constellationDesc": {},
     "constellationMyth": {},
     "starName": {},
-    "starDesc": {}
+    "starDesc": {},
+    "dsoName": {
+      "orion-nebula": "मृग तेजोमेघ",
+      "lagoon-nebula": "लगून तेजोमेघ",
+      "trifid-nebula": "ट्रायफिड तेजोमेघ",
+      "eagle-nebula": "गरुड तेजोमेघ",
+      "ring-nebula": "वलय तेजोमेघ",
+      "crab-nebula": "खेकडा तेजोमेघ",
+      "helix-nebula": "हेलिक्स तेजोमेघ",
+      "carina-nebula": "कॅरिना तेजोमेघ",
+      "dumbbell-nebula": "डंबेल तेजोमेघ",
+      "andromeda-galaxy": "अँड्रोमेडा दीर्घिका",
+      "triangulum-galaxy": "त्रिकोण दीर्घिका",
+      "whirlpool-galaxy": "भोवरा दीर्घिका",
+      "sombrero-galaxy": "सोम्ब्रेरो दीर्घिका",
+      "bodes-galaxy": "बोडे दीर्घिका",
+      "pinwheel-galaxy": "पिनव्हील दीर्घिका",
+      "centaurus-a": "सेंटॉरस A",
+      "pleiades": "कृत्तिका",
+      "beehive-cluster": "बीहाइव्ह तारकागुच्छ",
+      "hyades": "हायडीज तारकागुच्छ",
+      "double-cluster": "दुहेरी तारकागुच्छ",
+      "wild-duck-cluster": "रानबदक तारकागुच्छ",
+      "ptolemy-cluster": "टॉलेमी तारकागुच्छ",
+      "omega-centauri": "ओमेगा सेंटॉरी",
+      "hercules-cluster": "हर्क्युलस तारकागुच्छ",
+      "47-tucanae": "47 Tucanae",
+      "m22": "मेसिए 22",
+      "m5": "मेसिए 5",
+      "milky-way": "आकाशगंगा"
+    }
   }
 }

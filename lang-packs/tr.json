@@ -1007,6 +1007,36 @@
       "hadar": "Güney Haçı'na işaret eden güney kılavuz yıldızı. Kentaur'da, yaklaşık 390 ışık yılı uzaklıkta.",
       "achernar": "Eridanus nehrinin sonu. Yaklaşık 140 ışık yılı uzaklıkta.",
       "acrux": "Güney Haçı'nın en parlak yıldızı. Yaklaşık 320 ışık yılı uzaklıkta."
+    },
+    "dsoName": {
+      "orion-nebula": "Orion Bulutsusu",
+      "lagoon-nebula": "Lagün Bulutsusu",
+      "trifid-nebula": "Trifid Bulutsusu",
+      "eagle-nebula": "Kartal Bulutsusu",
+      "ring-nebula": "Halka Bulutsusu",
+      "crab-nebula": "Yengeç Bulutsusu",
+      "helix-nebula": "Helezon Bulutsusu",
+      "carina-nebula": "Karina Bulutsusu",
+      "dumbbell-nebula": "Dambıl Bulutsusu",
+      "andromeda-galaxy": "Andromeda Gökadası",
+      "triangulum-galaxy": "Üçgen Gökadası",
+      "whirlpool-galaxy": "Girdap Gökadası",
+      "sombrero-galaxy": "Sombrero Gökadası",
+      "bodes-galaxy": "Bode Gökadası",
+      "pinwheel-galaxy": "Fırıldak Gökadası",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Ülker",
+      "beehive-cluster": "Arı Kovanı Kümesi",
+      "hyades": "Hyadlar",
+      "double-cluster": "Çift Küme",
+      "wild-duck-cluster": "Yaban Ördeği Kümesi",
+      "ptolemy-cluster": "Batlamyus Kümesi",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Herkül Kümesi",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Samanyolu"
     }
   }
 }

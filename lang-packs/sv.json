@@ -943,6 +943,36 @@
       "hadar": "Sydlig pekstjärna mot Sydkorset. I Kentauren, ungefär 390 ljusår.",
       "achernar": "Änden av floden Eridanus. Ungefär 140 ljusår.",
       "acrux": "Den ljusstarkaste stjärnan i Sydkorset. Ungefär 320 ljusår."
+    },
+    "dsoName": {
+      "orion-nebula": "Orionnebulosan",
+      "lagoon-nebula": "Lagunnebulosan",
+      "trifid-nebula": "Trifidnebulosan",
+      "eagle-nebula": "Örnnebulosan",
+      "ring-nebula": "Ringnebulosan",
+      "crab-nebula": "Krabbnebulosan",
+      "helix-nebula": "Helixnebulosan",
+      "carina-nebula": "Carinanebulosan",
+      "dumbbell-nebula": "Hantelnebulosan",
+      "andromeda-galaxy": "Andromedagalaxen",
+      "triangulum-galaxy": "Triangelgalaxen",
+      "whirlpool-galaxy": "Virvelgalaxen",
+      "sombrero-galaxy": "Sombrerogalaxen",
+      "bodes-galaxy": "Bodes galax",
+      "pinwheel-galaxy": "Pinwheelgalaxen",
+      "centaurus-a": "Centaurus A",
+      "pleiades": "Plejaderna",
+      "beehive-cluster": "Bikupan",
+      "hyades": "Hyaderna",
+      "double-cluster": "Dubbelhopen",
+      "wild-duck-cluster": "Vildandshopen",
+      "ptolemy-cluster": "Ptolemaios stjärnhop",
+      "omega-centauri": "Omega Centauri",
+      "hercules-cluster": "Herkuleshopen",
+      "47-tucanae": "47 Tucanae",
+      "m22": "Messier 22",
+      "m5": "Messier 5",
+      "milky-way": "Vintergatan"
     }
   }
 }
