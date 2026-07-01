@@ -653,9 +653,9 @@
       "canis-minor": "Kleiner Hund",
       "centaurus": "Zentaur",
       "lupus": "Wolf",
-      "carina": "Kiel",
-      "vela": "Segel",
-      "puppis": "Hinterdeck",
+      "carina": "Kiel des Schiffs",
+      "vela": "Segel des Schiffs",
+      "puppis": "Achterdeck des Schiffs",
       "corvus": "Rabe",
       "delphinus": "Delfin",
       "antlia": "Luftpumpe",
@@ -702,12 +702,12 @@
       "scutum": "Schild",
       "serpens": "Schlange",
       "sextans": "Sextant",
-      "telescopium": "Teleskop",
+      "telescopium": "Fernrohr",
       "triangulum": "Dreieck",
       "triangulum-australe": "Südliches Dreieck",
       "tucana": "Tukan",
       "volans": "Fliegender Fisch",
-      "vulpecula": "Füchschen"
+      "vulpecula": "Fuchs"
     },
     "constellationNick": {
       "orion": "der Jäger",
