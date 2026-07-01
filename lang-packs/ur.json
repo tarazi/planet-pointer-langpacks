@@ -240,7 +240,17 @@
     "common.off": "بند"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "سورج",
+      "moon": "چاند",
+      "mercury": "عطارد",
+      "venus": "زہرہ",
+      "mars": "مریخ",
+      "jupiter": "مشتری",
+      "saturn": "زحل",
+      "uranus": "یورینس",
+      "neptune": "نیپچون"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

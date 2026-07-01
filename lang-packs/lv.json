@@ -240,7 +240,17 @@
     "common.off": "Izslēgts"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "Saule",
+      "moon": "Mēness",
+      "mercury": "Merkurs",
+      "venus": "Venera",
+      "mars": "Marss",
+      "jupiter": "Jupiters",
+      "saturn": "Saturns",
+      "uranus": "Urāns",
+      "neptune": "Neptūns"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

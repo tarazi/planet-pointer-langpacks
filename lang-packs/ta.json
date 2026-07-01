@@ -240,7 +240,17 @@
     "common.off": "அணைக்கப்பட்டது"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "சூரியன்",
+      "moon": "நிலா",
+      "mercury": "புதன்",
+      "venus": "வெள்ளி",
+      "mars": "செவ்வாய்",
+      "jupiter": "வியாழன்",
+      "saturn": "சனி",
+      "uranus": "யுரேனஸ்",
+      "neptune": "நெப்டியூன்"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

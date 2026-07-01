@@ -240,7 +240,17 @@
     "common.off": "ఆఫ్"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "సూర్యుడు",
+      "moon": "చంద్రుడు",
+      "mercury": "బుధుడు",
+      "venus": "శుక్రుడు",
+      "mars": "అంగారకుడు",
+      "jupiter": "గురుడు",
+      "saturn": "శని",
+      "uranus": "యురేనస్",
+      "neptune": "నెప్ట్యూన్"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

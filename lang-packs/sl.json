@@ -240,7 +240,17 @@
     "common.off": "Izklopljeno"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "Sonce",
+      "moon": "Luna",
+      "mercury": "Merkur",
+      "venus": "Venera",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturn": "Saturn",
+      "uranus": "Uran",
+      "neptune": "Neptun"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

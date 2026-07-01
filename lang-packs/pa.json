@@ -240,7 +240,17 @@
     "common.off": "ਬੰਦ"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "ਸੂਰਜ",
+      "moon": "ਚੰਦ",
+      "mercury": "ਬੁੱਧ",
+      "venus": "ਸ਼ੁੱਕਰ",
+      "mars": "ਮੰਗਲ",
+      "jupiter": "ਬ੍ਰਿਹਸਪਤੀ",
+      "saturn": "ਸ਼ਨੀ",
+      "uranus": "ਯੂਰੇਨਸ",
+      "neptune": "ਨੈਪਚੂਨ"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

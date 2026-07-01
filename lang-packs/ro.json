@@ -240,7 +240,17 @@
     "common.off": "Oprit"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "Soare",
+      "moon": "Lună",
+      "mercury": "Mercur",
+      "venus": "Venus",
+      "mars": "Marte",
+      "jupiter": "Jupiter",
+      "saturn": "Saturn",
+      "uranus": "Uranus",
+      "neptune": "Neptun"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

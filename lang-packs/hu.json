@@ -240,7 +240,17 @@
     "common.off": "Ki"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "Nap",
+      "moon": "Hold",
+      "mercury": "Merkúr",
+      "venus": "Vénusz",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturn": "Szaturnusz",
+      "uranus": "Uránusz",
+      "neptune": "Neptunusz"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

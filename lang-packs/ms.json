@@ -240,7 +240,17 @@
     "common.off": "Mati"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "Matahari",
+      "moon": "Bulan",
+      "mercury": "Utarid",
+      "venus": "Zuhrah",
+      "mars": "Marikh",
+      "jupiter": "Musytari",
+      "saturn": "Zuhal",
+      "uranus": "Uranus",
+      "neptune": "Neptun"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

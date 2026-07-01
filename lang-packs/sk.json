@@ -240,7 +240,17 @@
     "common.off": "Vypnuté"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "Slnko",
+      "moon": "Mesiac",
+      "mercury": "Merkúr",
+      "venus": "Venuša",
+      "mars": "Mars",
+      "jupiter": "Jupiter",
+      "saturn": "Saturn",
+      "uranus": "Urán",
+      "neptune": "Neptún"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

@@ -240,7 +240,17 @@
     "common.off": "Изключено"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "Слънце",
+      "moon": "Луна",
+      "mercury": "Меркурий",
+      "venus": "Венера",
+      "mars": "Марс",
+      "jupiter": "Юпитер",
+      "saturn": "Сатурн",
+      "uranus": "Уран",
+      "neptune": "Нептун"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

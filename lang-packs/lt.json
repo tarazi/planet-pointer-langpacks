@@ -240,7 +240,17 @@
     "common.off": "Išjungta"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "Saulė",
+      "moon": "Mėnulis",
+      "mercury": "Merkurijus",
+      "venus": "Venera",
+      "mars": "Marsas",
+      "jupiter": "Jupiteris",
+      "saturn": "Saturnas",
+      "uranus": "Uranas",
+      "neptune": "Neptūnas"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

@@ -240,7 +240,17 @@
     "common.off": "Väljas"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "Päike",
+      "moon": "Kuu",
+      "mercury": "Merkuur",
+      "venus": "Veenus",
+      "mars": "Marss",
+      "jupiter": "Jupiter",
+      "saturn": "Saturn",
+      "uranus": "Uraan",
+      "neptune": "Neptuun"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},

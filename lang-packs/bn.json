@@ -240,7 +240,17 @@
     "common.off": "বন্ধ"
   },
   "content": {
-    "bodyName": {},
+    "bodyName": {
+      "sun": "সূর্য",
+      "moon": "চাঁদ",
+      "mercury": "বুধ",
+      "venus": "শুক্র",
+      "mars": "মঙ্গল",
+      "jupiter": "বৃহস্পতি",
+      "saturn": "শনি",
+      "uranus": "ইউরেনাস",
+      "neptune": "নেপচুন"
+    },
     "bodyDesc": {},
     "bodyInfo": {},
     "constellationName": {},
