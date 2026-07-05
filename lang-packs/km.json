@@ -237,7 +237,12 @@
     "time.return": "ត្រឡប់ទៅបច្ចុប្បន្ន",
     "time.done": "រួចរាល់",
     "common.on": "បើក",
-    "common.off": "បិទ"
+    "common.off": "បិទ",
+    "season.winter": "រដូវរងា",
+    "season.spring": "រដូវផ្ការីក",
+    "season.summer": "រដូវក្តៅ",
+    "season.autumn": "រដូវស្លឹកឈើជ្រុះ",
+    "season.allYear": "ពេញមួយឆ្នាំ"
   },
   "content": {
     "bodyName": {},

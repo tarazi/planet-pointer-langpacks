@@ -237,7 +237,12 @@
     "time.return": "Tornar al present",
     "time.done": "Fet",
     "common.on": "Activat",
-    "common.off": "Desactivat"
+    "common.off": "Desactivat",
+    "season.winter": "Hivern",
+    "season.spring": "Primavera",
+    "season.summer": "Estiu",
+    "season.autumn": "Tardor",
+    "season.allYear": "Tot l'any"
   },
   "content": {
     "bodyName": {

@@ -237,7 +237,12 @@
     "time.return": "Gå tilbake til nå",
     "time.done": "Ferdig",
     "common.on": "På",
-    "common.off": "Av"
+    "common.off": "Av",
+    "season.winter": "Vinter",
+    "season.spring": "Vår",
+    "season.summer": "Sommer",
+    "season.autumn": "Høst",
+    "season.allYear": "Hele året"
   },
   "content": {
     "bodyName": {

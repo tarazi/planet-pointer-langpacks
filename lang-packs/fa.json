@@ -237,7 +237,12 @@
     "time.return": "بازگشت به اکنون",
     "time.done": "انجام شد",
     "common.on": "روشن",
-    "common.off": "خاموش"
+    "common.off": "خاموش",
+    "season.winter": "زمستان",
+    "season.spring": "بهار",
+    "season.summer": "تابستان",
+    "season.autumn": "پاییز",
+    "season.allYear": "تمام سال"
   },
   "content": {
     "bodyName": {

@@ -237,7 +237,12 @@
     "time.return": "กลับสู่ปัจจุบัน",
     "time.done": "เสร็จ",
     "common.on": "เปิด",
-    "common.off": "ปิด"
+    "common.off": "ปิด",
+    "season.winter": "ฤดูหนาว",
+    "season.spring": "ฤดูใบไม้ผลิ",
+    "season.summer": "ฤดูร้อน",
+    "season.autumn": "ฤดูใบไม้ร่วง",
+    "season.allYear": "ตลอดทั้งปี"
   },
   "content": {
     "bodyName": {

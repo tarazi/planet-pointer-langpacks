@@ -237,7 +237,12 @@
     "time.return": "Vrni se v sedanjost",
     "time.done": "Končano",
     "common.on": "Vklopljeno",
-    "common.off": "Izklopljeno"
+    "common.off": "Izklopljeno",
+    "season.winter": "Zima",
+    "season.spring": "Pomlad",
+    "season.summer": "Poletje",
+    "season.autumn": "Jesen",
+    "season.allYear": "Vse leto"
   },
   "content": {
     "bodyName": {

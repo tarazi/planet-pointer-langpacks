@@ -237,7 +237,12 @@
     "time.return": "વર્તમાનમાં પાછા",
     "time.done": "પૂર્ણ",
     "common.on": "ચાલુ",
-    "common.off": "બંધ"
+    "common.off": "બંધ",
+    "season.winter": "શિયાળો",
+    "season.spring": "વસંત",
+    "season.summer": "ઉનાળો",
+    "season.autumn": "પાનખર",
+    "season.allYear": "આખું વર્ષ"
   },
   "content": {
     "bodyName": {

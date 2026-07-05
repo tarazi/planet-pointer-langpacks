@@ -237,7 +237,12 @@
     "time.return": "Atgriezties tagadnē",
     "time.done": "Gatavs",
     "common.on": "Ieslēgts",
-    "common.off": "Izslēgts"
+    "common.off": "Izslēgts",
+    "season.winter": "Ziema",
+    "season.spring": "Pavasaris",
+    "season.summer": "Vasara",
+    "season.autumn": "Rudens",
+    "season.allYear": "Visu gadu"
   },
   "content": {
     "bodyName": {

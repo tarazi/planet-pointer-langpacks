@@ -237,7 +237,12 @@
     "time.return": "ابھی واپس جائیں",
     "time.done": "مکمل",
     "common.on": "چالو",
-    "common.off": "بند"
+    "common.off": "بند",
+    "season.winter": "سردی",
+    "season.spring": "بہار",
+    "season.summer": "گرمی",
+    "season.autumn": "خزاں",
+    "season.allYear": "سارا سال"
   },
   "content": {
     "bodyName": {

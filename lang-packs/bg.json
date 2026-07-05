@@ -237,7 +237,12 @@
     "time.return": "Върнете се към настоящето",
     "time.done": "Готово",
     "common.on": "Включено",
-    "common.off": "Изключено"
+    "common.off": "Изключено",
+    "season.winter": "Зима",
+    "season.spring": "Пролет",
+    "season.summer": "Лято",
+    "season.autumn": "Есен",
+    "season.allYear": "Цяла година"
   },
   "content": {
     "bodyName": {

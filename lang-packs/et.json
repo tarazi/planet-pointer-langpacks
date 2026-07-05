@@ -237,7 +237,12 @@
     "time.return": "Naase olevikku",
     "time.done": "Valmis",
     "common.on": "Sees",
-    "common.off": "Väljas"
+    "common.off": "Väljas",
+    "season.winter": "Talv",
+    "season.spring": "Kevad",
+    "season.summer": "Suvi",
+    "season.autumn": "Sügis",
+    "season.allYear": "Aastaringselt"
   },
   "content": {
     "bodyName": {

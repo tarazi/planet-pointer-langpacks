@@ -237,7 +237,12 @@
     "time.return": "ప్రస్తుతానికి తిరిగి రండి",
     "time.done": "పూర్తయింది",
     "common.on": "ఆన్",
-    "common.off": "ఆఫ్"
+    "common.off": "ఆఫ్",
+    "season.winter": "శీతాకాలం",
+    "season.spring": "వసంత కాలం",
+    "season.summer": "వేసవి కాలం",
+    "season.autumn": "శరదృతువు",
+    "season.allYear": "ఏడాది పొడవునా"
   },
   "content": {
     "bodyName": {

@@ -237,7 +237,12 @@
     "time.return": "ਵਰਤਮਾਨ ਵਿੱਚ ਵਾਪਸ",
     "time.done": "ਮੁਕੰਮਲ",
     "common.on": "ਚਾਲੂ",
-    "common.off": "ਬੰਦ"
+    "common.off": "ਬੰਦ",
+    "season.winter": "ਸਰਦੀ",
+    "season.spring": "ਬਸੰਤ",
+    "season.summer": "ਗਰਮੀ",
+    "season.autumn": "ਪਤਝੜ",
+    "season.allYear": "ਸਾਰਾ ਸਾਲ"
   },
   "content": {
     "bodyName": {

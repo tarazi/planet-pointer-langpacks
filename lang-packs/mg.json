@@ -237,7 +237,12 @@
     "time.return": "Hiverina izao",
     "time.done": "Vita",
     "common.on": "Ampiasaina",
-    "common.off": "Tsy ampiasaina"
+    "common.off": "Tsy ampiasaina",
+    "season.winter": "Ririnina",
+    "season.spring": "Lohataona",
+    "season.summer": "Fahavaratra",
+    "season.autumn": "Fararano",
+    "season.allYear": "Mandritra ny taona"
   },
   "content": {
     "bodyName": {},

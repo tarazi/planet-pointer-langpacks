@@ -237,7 +237,12 @@
     "time.return": "Koma yanzu",
     "time.done": "An gama",
     "common.on": "Kunna",
-    "common.off": "Kashe"
+    "common.off": "Kashe",
+    "season.winter": "Hunturu",
+    "season.spring": "Bazara",
+    "season.summer": "Rani",
+    "season.autumn": "Kaka",
+    "season.allYear": "Cikin shekara"
   },
   "content": {
     "bodyName": {},

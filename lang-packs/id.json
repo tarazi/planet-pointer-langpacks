@@ -237,7 +237,12 @@
     "time.return": "Kembali ke sekarang",
     "time.done": "Selesai",
     "common.on": "Nyala",
-    "common.off": "Mati"
+    "common.off": "Mati",
+    "season.winter": "Musim dingin",
+    "season.spring": "Musim semi",
+    "season.summer": "Musim panas",
+    "season.autumn": "Musim gugur",
+    "season.allYear": "Sepanjang tahun"
   },
   "content": {
     "bodyName": {

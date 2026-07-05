@@ -237,7 +237,12 @@
     "time.return": "Zur Gegenwart zurück",
     "time.done": "Fertig",
     "common.on": "An",
-    "common.off": "Aus"
+    "common.off": "Aus",
+    "season.winter": "Winter",
+    "season.spring": "Frühling",
+    "season.summer": "Sommer",
+    "season.autumn": "Herbst",
+    "season.allYear": "Das ganze Jahr"
   },
   "content": {
     "bodyName": {

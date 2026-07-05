@@ -237,7 +237,12 @@
     "time.return": "বর্তমানে ফিরুন",
     "time.done": "সম্পন্ন",
     "common.on": "চালু",
-    "common.off": "বন্ধ"
+    "common.off": "বন্ধ",
+    "season.winter": "শীতকাল",
+    "season.spring": "বসন্তকাল",
+    "season.summer": "গ্রীষ্মকাল",
+    "season.autumn": "শরৎকাল",
+    "season.allYear": "সারা বছর"
   },
   "content": {
     "bodyName": {

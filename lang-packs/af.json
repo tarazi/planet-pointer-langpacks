@@ -237,7 +237,12 @@
     "time.return": "Keer nou terug",
     "time.done": "Klaar",
     "common.on": "Aan",
-    "common.off": "Af"
+    "common.off": "Af",
+    "season.winter": "Winter",
+    "season.spring": "Lente",
+    "season.summer": "Somer",
+    "season.autumn": "Herfs",
+    "season.allYear": "Die hele jaar"
   },
   "content": {
     "bodyName": {},

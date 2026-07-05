@@ -237,7 +237,12 @@
     "time.return": "Повернутись до сьогодення",
     "time.done": "Готово",
     "common.on": "Увімк.",
-    "common.off": "Вимк."
+    "common.off": "Вимк.",
+    "season.winter": "Зима",
+    "season.spring": "Весна",
+    "season.summer": "Літо",
+    "season.autumn": "Осінь",
+    "season.allYear": "Цілий рік"
   },
   "content": {
     "bodyName": {

@@ -237,7 +237,12 @@
     "time.return": "Vissza a jelenbe",
     "time.done": "Kész",
     "common.on": "Be",
-    "common.off": "Ki"
+    "common.off": "Ki",
+    "season.winter": "Tél",
+    "season.spring": "Tavasz",
+    "season.summer": "Nyár",
+    "season.autumn": "Ősz",
+    "season.allYear": "Egész évben"
   },
   "content": {
     "bodyName": {

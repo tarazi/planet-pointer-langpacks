@@ -237,7 +237,12 @@
     "time.return": "Fara aftur í núið",
     "time.done": "Lokið",
     "common.on": "Kveikt",
-    "common.off": "Slökkt"
+    "common.off": "Slökkt",
+    "season.winter": "Vetur",
+    "season.spring": "Vor",
+    "season.summer": "Sumar",
+    "season.autumn": "Haust",
+    "season.allYear": "Allt árið"
   },
   "content": {
     "bodyName": {

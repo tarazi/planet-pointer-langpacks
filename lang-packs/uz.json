@@ -237,7 +237,12 @@
     "time.return": "Hozirga qaytish",
     "time.done": "Tayyor",
     "common.on": "Yoqiq",
-    "common.off": "O'chiriq"
+    "common.off": "O'chiriq",
+    "season.winter": "Qish",
+    "season.spring": "Bahor",
+    "season.summer": "Yoz",
+    "season.autumn": "Kuz",
+    "season.allYear": "Butun yil"
   },
   "content": {
     "bodyName": {},

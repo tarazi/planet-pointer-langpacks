@@ -237,7 +237,12 @@
     "time.return": "Бүгінгіге оралу",
     "time.done": "Дайын",
     "common.on": "Қосу",
-    "common.off": "Өшіру"
+    "common.off": "Өшіру",
+    "season.winter": "Қыс",
+    "season.spring": "Көктем",
+    "season.summer": "Жаз",
+    "season.autumn": "Күз",
+    "season.allYear": "Жыл бойы"
   },
   "content": {
     "bodyName": {},

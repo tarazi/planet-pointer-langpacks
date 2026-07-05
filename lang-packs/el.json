@@ -237,7 +237,12 @@
     "time.return": "Επιστροφή στο παρόν",
     "time.done": "Τέλος",
     "common.on": "Ενεργ.",
-    "common.off": "Απενεργ."
+    "common.off": "Απενεργ.",
+    "season.winter": "Χειμώνας",
+    "season.spring": "Άνοιξη",
+    "season.summer": "Καλοκαίρι",
+    "season.autumn": "Φθινόπωρο",
+    "season.allYear": "Όλο τον χρόνο"
   },
   "content": {
     "bodyName": {

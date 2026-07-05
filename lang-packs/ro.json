@@ -237,7 +237,12 @@
     "time.return": "Întoarce-te la prezent",
     "time.done": "Gata",
     "common.on": "Pornit",
-    "common.off": "Oprit"
+    "common.off": "Oprit",
+    "season.winter": "Iarnă",
+    "season.spring": "Primăvară",
+    "season.summer": "Vară",
+    "season.autumn": "Toamnă",
+    "season.allYear": "Tot anul"
   },
   "content": {
     "bodyName": {

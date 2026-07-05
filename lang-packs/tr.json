@@ -237,7 +237,12 @@
     "time.return": "Şimdiye dön",
     "time.done": "Tamam",
     "common.on": "Açık",
-    "common.off": "Kapalı"
+    "common.off": "Kapalı",
+    "season.winter": "Kış",
+    "season.spring": "İlkbahar",
+    "season.summer": "Yaz",
+    "season.autumn": "Sonbahar",
+    "season.allYear": "Yıl boyunca"
   },
   "content": {
     "bodyName": {

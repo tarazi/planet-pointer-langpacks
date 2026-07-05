@@ -237,7 +237,12 @@
     "time.return": "Buyela manje",
     "time.done": "Kuphela",
     "common.on": "Vula",
-    "common.off": "Vala"
+    "common.off": "Vala",
+    "season.winter": "Ubusika",
+    "season.spring": "Intwasahlobo",
+    "season.summer": "Ihlobo",
+    "season.autumn": "Ukwindla",
+    "season.allYear": "Unyaka wonke"
   },
   "content": {
     "bodyName": {},

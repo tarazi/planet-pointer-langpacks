@@ -237,7 +237,12 @@
     "time.return": "Врати се у садашњост",
     "time.done": "Готово",
     "common.on": "Укључено",
-    "common.off": "Искључено"
+    "common.off": "Искључено",
+    "season.winter": "Зима",
+    "season.spring": "Пролеће",
+    "season.summer": "Лето",
+    "season.autumn": "Јесен",
+    "season.allYear": "Цела година"
   },
   "content": {
     "bodyName": {

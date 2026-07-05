@@ -237,7 +237,12 @@
     "time.return": "वर्तमानात परता",
     "time.done": "पूर्ण",
     "common.on": "सुरू",
-    "common.off": "बंद"
+    "common.off": "बंद",
+    "season.winter": "हिवाळा",
+    "season.spring": "वसंत ऋतू",
+    "season.summer": "उन्हाळा",
+    "season.autumn": "शरद ऋतू",
+    "season.allYear": "वर्षभर"
   },
   "content": {
     "bodyName": {

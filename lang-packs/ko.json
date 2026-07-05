@@ -237,7 +237,12 @@
     "time.return": "현재로 돌아오기",
     "time.done": "완료",
     "common.on": "켜기",
-    "common.off": "끄기"
+    "common.off": "끄기",
+    "season.winter": "겨울",
+    "season.spring": "봄",
+    "season.summer": "여름",
+    "season.autumn": "가을",
+    "season.allYear": "연중"
   },
   "content": {
     "bodyName": {

@@ -237,7 +237,12 @@
     "time.return": "ပစ္စုပ္ပန်သို့ ပြန်ပါ",
     "time.done": "ပြီးပြီ",
     "common.on": "ဖွင့်",
-    "common.off": "ပိတ်"
+    "common.off": "ပိတ်",
+    "season.winter": "ဆောင်းရာသီ",
+    "season.spring": "နွေဦးရာသီ",
+    "season.summer": "နွေရာသီ",
+    "season.autumn": "ဆောင်းဦးရာသီ",
+    "season.allYear": "တစ်နှစ်ပတ်လုံး"
   },
   "content": {
     "bodyName": {},

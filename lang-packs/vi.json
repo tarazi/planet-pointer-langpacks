@@ -237,7 +237,12 @@
     "time.return": "Quay về hiện tại",
     "time.done": "Xong",
     "common.on": "Bật",
-    "common.off": "Tắt"
+    "common.off": "Tắt",
+    "season.winter": "Mùa đông",
+    "season.spring": "Mùa xuân",
+    "season.summer": "Mùa hè",
+    "season.autumn": "Mùa thu",
+    "season.allYear": "Quanh năm"
   },
   "content": {
     "bodyName": {

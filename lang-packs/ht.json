@@ -237,7 +237,12 @@
     "time.return": "Retounen kounye",
     "time.done": "Fini",
     "common.on": "Allume",
-    "common.off": "Koupe"
+    "common.off": "Koupe",
+    "season.winter": "Ivè",
+    "season.spring": "Prentan",
+    "season.summer": "Ete",
+    "season.autumn": "Otòn",
+    "season.allYear": "Tout ane a"
   },
   "content": {
     "bodyName": {},

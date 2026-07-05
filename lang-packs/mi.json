@@ -237,7 +237,12 @@
     "time.return": "Hoki ki ināianei",
     "time.done": "Oti",
     "common.on": "Āe",
-    "common.off": "Kāore"
+    "common.off": "Kāore",
+    "season.winter": "Hōtoke",
+    "season.spring": "Kōanga",
+    "season.summer": "Raumati",
+    "season.autumn": "Ngahuru",
+    "season.allYear": "Te tau katoa"
   },
   "content": {
     "bodyName": {},

@@ -237,7 +237,12 @@
     "time.return": "Rudi sasa",
     "time.done": "Imekamilika",
     "common.on": "Washa",
-    "common.off": "Zima"
+    "common.off": "Zima",
+    "season.winter": "Majira ya baridi",
+    "season.spring": "Majira ya masika",
+    "season.summer": "Majira ya joto",
+    "season.autumn": "Majira ya vuli",
+    "season.allYear": "Mwaka mzima"
   },
   "content": {
     "bodyName": {},

@@ -237,7 +237,12 @@
     "time.return": "Wróć do teraźniejszości",
     "time.done": "Gotowe",
     "common.on": "Włącz",
-    "common.off": "Wyłącz"
+    "common.off": "Wyłącz",
+    "season.winter": "Zima",
+    "season.spring": "Wiosna",
+    "season.summer": "Lato",
+    "season.autumn": "Jesień",
+    "season.allYear": "Cały rok"
   },
   "content": {
     "bodyName": {

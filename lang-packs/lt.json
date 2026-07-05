@@ -237,7 +237,12 @@
     "time.return": "Grįžti į dabartį",
     "time.done": "Baigta",
     "common.on": "Įjungta",
-    "common.off": "Išjungta"
+    "common.off": "Išjungta",
+    "season.winter": "Žiema",
+    "season.spring": "Pavasaris",
+    "season.summer": "Vasara",
+    "season.autumn": "Ruduo",
+    "season.allYear": "Visus metus"
   },
   "content": {
     "bodyName": {

@@ -237,7 +237,12 @@
     "time.return": "இப்போதுக்கு திரும்பு",
     "time.done": "முடிந்தது",
     "common.on": "இயக்கப்பட்டது",
-    "common.off": "அணைக்கப்பட்டது"
+    "common.off": "அணைக்கப்பட்டது",
+    "season.winter": "குளிர்காலம்",
+    "season.spring": "வசந்த காலம்",
+    "season.summer": "கோடைக்காலம்",
+    "season.autumn": "இலையுதிர் காலம்",
+    "season.allYear": "ஆண்டு முழுவதும்"
   },
   "content": {
     "bodyName": {

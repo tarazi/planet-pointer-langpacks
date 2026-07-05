@@ -237,7 +237,12 @@
     "time.return": "Fill ar an láithreach",
     "time.done": "Déanta",
     "common.on": "Air",
-    "common.off": "As"
+    "common.off": "As",
+    "season.winter": "Geimhreadh",
+    "season.spring": "Earrach",
+    "season.summer": "Samhradh",
+    "season.autumn": "Fómhar",
+    "season.allYear": "Bliain ar fad"
   },
   "content": {
     "bodyName": {},

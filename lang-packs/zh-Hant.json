@@ -237,7 +237,12 @@
     "time.return": "返回現在",
     "time.done": "完成",
     "common.on": "開",
-    "common.off": "關"
+    "common.off": "關",
+    "season.winter": "冬季",
+    "season.spring": "春季",
+    "season.summer": "夏季",
+    "season.autumn": "秋季",
+    "season.allYear": "全年"
   },
   "content": {
     "bodyName": {

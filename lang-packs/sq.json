@@ -237,7 +237,12 @@
     "time.return": "Kthehu në të tashmen",
     "time.done": "U krye",
     "common.on": "Aktivizuar",
-    "common.off": "Çaktivizuar"
+    "common.off": "Çaktivizuar",
+    "season.winter": "Dimër",
+    "season.spring": "Pranverë",
+    "season.summer": "Verë",
+    "season.autumn": "Vjeshtë",
+    "season.allYear": "Gjithë vitin"
   },
   "content": {
     "bodyName": {},

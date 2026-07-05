@@ -237,7 +237,12 @@
     "time.return": "Vrátiť sa do súčasnosti",
     "time.done": "Hotovo",
     "common.on": "Zapnuté",
-    "common.off": "Vypnuté"
+    "common.off": "Vypnuté",
+    "season.winter": "Zima",
+    "season.spring": "Jar",
+    "season.summer": "Leto",
+    "season.autumn": "Jeseň",
+    "season.allYear": "Celý rok"
   },
   "content": {
     "bodyName": {

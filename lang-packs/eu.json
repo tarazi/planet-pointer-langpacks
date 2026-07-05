@@ -237,7 +237,12 @@
     "time.return": "Itzuli orainaldera",
     "time.done": "Eginda",
     "common.on": "Piztuta",
-    "common.off": "Itzalita"
+    "common.off": "Itzalita",
+    "season.winter": "Negua",
+    "season.spring": "Udaberria",
+    "season.summer": "Uda",
+    "season.autumn": "Udazkena",
+    "season.allYear": "Urte osoan"
   },
   "content": {
     "bodyName": {

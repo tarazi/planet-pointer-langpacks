@@ -237,7 +237,12 @@
     "time.return": "Buyela ngoku",
     "time.done": "Kuphela",
     "common.on": "Vula",
-    "common.off": "Cima"
+    "common.off": "Cima",
+    "season.winter": "UBusika",
+    "season.spring": "iNtwasahlobo",
+    "season.summer": "iHlobo",
+    "season.autumn": "uKwindla",
+    "season.allYear": "Unyaka wonke"
   },
   "content": {
     "bodyName": {},

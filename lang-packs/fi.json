@@ -237,7 +237,12 @@
     "time.return": "Palaa nykyhetkeen",
     "time.done": "Valmis",
     "common.on": "Päällä",
-    "common.off": "Pois"
+    "common.off": "Pois",
+    "season.winter": "Talvi",
+    "season.spring": "Kevät",
+    "season.summer": "Kesä",
+    "season.autumn": "Syksy",
+    "season.allYear": "Ympäri vuoden"
   },
   "content": {
     "bodyName": {

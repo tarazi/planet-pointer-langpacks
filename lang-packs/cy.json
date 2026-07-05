@@ -237,7 +237,12 @@
     "time.return": "Dychwelyd i'r presennol",
     "time.done": "Wedi gorffen",
     "common.on": "Ymlaen",
-    "common.off": "I ffwrdd"
+    "common.off": "I ffwrdd",
+    "season.winter": "Gaeaf",
+    "season.spring": "Gwanwyn",
+    "season.summer": "Haf",
+    "season.autumn": "Hydref",
+    "season.allYear": "Trwy'r flwyddyn"
   },
   "content": {
     "bodyName": {},
