@@ -239,6 +239,11 @@
     "time.zone": "A na-egosi oge dịka oge {zone}",
     "time.today": "Taa",
     "time.tomorrow": "Echi",
+    "season.winter": "Oge oyi",
+    "season.spring": "Oge opupu",
+    "season.summer": "Oge okpomọkụ",
+    "season.autumn": "Oge ọdịda akwụkwọ",
+    "season.allYear": "Afọ niile",
     "common.on": "Gbaa",
     "common.off": "Gbanyụo"
   },

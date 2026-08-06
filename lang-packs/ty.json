@@ -239,6 +239,11 @@
     "time.zone": "Te fa'aitehia nei te mau taime i te taime o {zone}",
     "time.today": "I teie mahana",
     "time.tomorrow": "Ananahi",
+    "season.winter": "Tau to'eto'e",
+    "season.spring": "Tau tupu",
+    "season.summer": "Tau veavea",
+    "season.autumn": "Tau topa",
+    "season.allYear": "Te matahiti ta'ato'a",
     "common.on": "Fa'aotu",
     "common.off": "Hapeepee"
   },

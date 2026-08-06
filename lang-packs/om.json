@@ -239,6 +239,11 @@
     "time.zone": "Yeroon sa'aatii {zone} tiin argama",
     "time.today": "Har'a",
     "time.tomorrow": "Boru",
+    "season.winter": "Ganna",
+    "season.spring": "Arfaasaa",
+    "season.summer": "Bonaa",
+    "season.autumn": "Birraa",
+    "season.allYear": "Waggaa guutuu",
     "common.on": "Bani",
     "common.off": "Cufi"
   },

@@ -239,6 +239,11 @@
     "time.zone": "ʻOku fakahā e taimi ʻi he taimi ʻo {zone}",
     "time.today": "Aho ni",
     "time.tomorrow": "ʻApongipongi",
+    "season.winter": "Faʻahitaʻu momoko",
+    "season.spring": "Faʻahitaʻu tupu",
+    "season.summer": "Faʻahitaʻu mafana",
+    "season.autumn": "Faʻahitaʻu tō",
+    "season.allYear": "Taʻu kātoa",
     "common.on": "Fakaʻaonga",
     "common.off": "Tukuange"
   },

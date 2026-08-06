@@ -239,6 +239,11 @@
     "time.zone": "Nguva dzinoratidzwa nenguva ye{zone}",
     "time.today": "Nhasi",
     "time.tomorrow": "Mangwana",
+    "season.winter": "Chando",
+    "season.spring": "Chirimo",
+    "season.summer": "Zhizha",
+    "season.autumn": "Matsutso",
+    "season.allYear": "Gore rose",
     "common.on": "Batidza",
     "common.off": "Dzima"
   },

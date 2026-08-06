@@ -239,6 +239,11 @@
     "time.zone": "Waqtiyada waxaa lagu muujiyaa waqtiga {zone}",
     "time.today": "Maanta",
     "time.tomorrow": "Berri",
+    "season.winter": "Jiilaal",
+    "season.spring": "Gu'",
+    "season.summer": "Xagaa",
+    "season.autumn": "Dayr",
+    "season.allYear": "Sannadka oo dhan",
     "common.on": "Shid",
     "common.off": "Key"
   },

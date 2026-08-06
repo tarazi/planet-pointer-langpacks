@@ -239,6 +239,11 @@
     "time.zone": "Ol taim i soim long taim bilong {zone}",
     "time.today": "Tude",
     "time.tomorrow": "Tumora",
+    "season.winter": "Taim bilong kol",
+    "season.spring": "Taim bilong kamap",
+    "season.summer": "Taim bilong hat",
+    "season.autumn": "Taim bilong lip i pundaun",
+    "season.allYear": "Olgeta yia",
     "common.on": "On",
     "common.off": "Of"
   },

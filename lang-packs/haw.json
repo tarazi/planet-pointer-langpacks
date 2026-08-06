@@ -239,6 +239,11 @@
     "time.zone": "Hōʻike ʻia nā manawa ma ka manawa o {zone}",
     "time.today": "Kēia lā",
     "time.tomorrow": "ʻApōpō",
+    "season.winter": "Hoʻoilo",
+    "season.spring": "Kupulau",
+    "season.summer": "Kau wela",
+    "season.autumn": "Hāʻulelau",
+    "season.allYear": "Ka makahiki holoʻokoʻa",
     "common.on": "Hoʻomaka",
     "common.off": "Hoʻopau"
   },

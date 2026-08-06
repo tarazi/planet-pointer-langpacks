@@ -239,6 +239,11 @@
     "time.zone": "A ń fi àkókò hàn ní àkókò {zone}",
     "time.today": "Òní",
     "time.tomorrow": "Ọ̀la",
+    "season.winter": "Ìgbà òtútù",
+    "season.spring": "Ìgbà ìrúwé",
+    "season.summer": "Ìgbà ooru",
+    "season.autumn": "Ìgbà ìwọ́wé",
+    "season.allYear": "Gbogbo ọdún",
     "common.on": "Tan",
     "common.off": "Pa"
   },
