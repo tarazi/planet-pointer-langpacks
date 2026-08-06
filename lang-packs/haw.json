@@ -236,6 +236,9 @@
     "time.minute": "Minuke",
     "time.return": "Hoʻi i kēia manawa",
     "time.done": "Pau",
+    "time.zone": "Hōʻike ʻia nā manawa ma ka manawa o {zone}",
+    "time.today": "Kēia lā",
+    "time.tomorrow": "ʻApōpō",
     "common.on": "Hoʻomaka",
     "common.off": "Hoʻopau"
   },

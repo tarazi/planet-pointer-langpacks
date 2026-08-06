@@ -236,6 +236,9 @@
     "time.minute": "Ìṣẹ́jú",
     "time.return": "Padà báyìí",
     "time.done": "Parí",
+    "time.zone": "Àkókò ni a fihàn ní àkókò {zone}",
+    "time.today": "Òní",
+    "time.tomorrow": "Ọ̀la",
     "common.on": "Tan",
     "common.off": "Pa"
   },

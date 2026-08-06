@@ -236,6 +236,9 @@
     "time.minute": "Minut",
     "time.return": "Go Bek Long Nau",
     "time.done": "Pinis",
+    "time.zone": "Ol taim i soim long taim bilong {zone}",
+    "time.today": "Tude",
+    "time.tomorrow": "Tumora",
     "common.on": "On",
     "common.off": "Of"
   },

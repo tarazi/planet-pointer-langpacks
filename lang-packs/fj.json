@@ -236,6 +236,9 @@
     "time.minute": "Na Miniti",
     "time.return": "Lesu ki oqo",
     "time.done": "Oti",
+    "time.zone": "Na gauna e vakaraitaki ena gauna ni {zone}",
+    "time.today": "Nikua",
+    "time.tomorrow": "Ni mataka",
     "common.on": "On",
     "common.off": "Off"
   },

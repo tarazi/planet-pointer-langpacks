@@ -236,6 +236,9 @@
     "time.minute": "Daqiiqaa",
     "time.return": "Amma deebi'i",
     "time.done": "Xumurameera",
+    "time.zone": "Yeroon sa'aatii {zone} tiin argama",
+    "time.today": "Har'a",
+    "time.tomorrow": "Boru",
     "common.on": "Bani",
     "common.off": "Cufi"
   },

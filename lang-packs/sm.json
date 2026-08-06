@@ -236,6 +236,9 @@
     "time.minute": "Minute",
     "time.return": "Toe foi i le taimi nei",
     "time.done": "Maea",
+    "time.zone": "O loʻo faʻaalia taimi i le taimi o {zone}",
+    "time.today": "Aso nei",
+    "time.tomorrow": "Taeao",
     "common.on": "On",
     "common.off": "Off"
   },

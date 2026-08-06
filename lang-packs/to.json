@@ -236,6 +236,9 @@
     "time.minute": "Miniti",
     "time.return": "Foki ki he taimi ni",
     "time.done": "Faka-ʻosi",
+    "time.zone": "ʻOku fakahā e taimi ʻi he taimi ʻo {zone}",
+    "time.today": "Aho ni",
+    "time.tomorrow": "ʻApongipongi",
     "common.on": "Fakaʻaonga",
     "common.off": "Tukuange"
   },

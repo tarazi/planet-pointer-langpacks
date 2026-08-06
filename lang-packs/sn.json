@@ -236,6 +236,9 @@
     "time.minute": "Miniti",
     "time.return": "Dzoka iye zvino",
     "time.done": "Zvapera",
+    "time.zone": "Nguva dzinoratidzwa nenguva ye{zone}",
+    "time.today": "Nhasi",
+    "time.tomorrow": "Mangwana",
     "common.on": "Batidza",
     "common.off": "Dzima"
   },

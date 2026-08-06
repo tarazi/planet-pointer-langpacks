@@ -236,6 +236,9 @@
     "time.minute": "Nkeji",
     "time.return": "Laghachi ugbu a",
     "time.done": "Mechaa",
+    "time.zone": "A na-egosi oge n'oge {zone}",
+    "time.today": "Taa",
+    "time.tomorrow": "Echi",
     "common.on": "Gbaa",
     "common.off": "Gbanyụo"
   },
