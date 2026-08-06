@@ -236,7 +236,7 @@
     "time.minute": "Minuta",
     "time.return": "Návrat do přítomnosti",
     "time.done": "Hotovo",
-    "time.zone": "Časy jsou zobrazeny v čase {zone}",
+    "time.zone": "Časy jsou zobrazeny podle času {zone}",
     "time.today": "Dnes",
     "time.tomorrow": "Zítra",
     "common.on": "Zapnuto",

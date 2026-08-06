@@ -236,7 +236,7 @@
     "time.minute": "Minuta",
     "time.return": "Wróć do teraźniejszości",
     "time.done": "Gotowe",
-    "time.zone": "Godziny są wyświetlane w czasie {zone}",
+    "time.zone": "Godziny są wyświetlane według czasu {zone}",
     "time.today": "Dziś",
     "time.tomorrow": "Jutro",
     "common.on": "Włącz",

@@ -236,7 +236,7 @@
     "time.minute": "นาที",
     "time.return": "กลับสู่ปัจจุบัน",
     "time.done": "เสร็จ",
-    "time.zone": "เวลาที่แสดงเป็นเวลา {zone}",
+    "time.zone": "แสดงเวลาตามเวลาของ {zone}",
     "time.today": "วันนี้",
     "time.tomorrow": "พรุ่งนี้",
     "common.on": "เปิด",

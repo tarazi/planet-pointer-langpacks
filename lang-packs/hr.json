@@ -236,7 +236,7 @@
     "time.minute": "Minuta",
     "time.return": "Vrati se u sadašnjost",
     "time.done": "Gotovo",
-    "time.zone": "Vremena su prikazana u vremenu {zone}",
+    "time.zone": "Vremena su prikazana po vremenu {zone}",
     "time.today": "Danas",
     "time.tomorrow": "Sutra",
     "common.on": "Uključeno",

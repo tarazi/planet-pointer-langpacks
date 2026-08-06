@@ -236,7 +236,7 @@
     "time.minute": "Minit",
     "time.return": "Kembali ke sekarang",
     "time.done": "Selesai",
-    "time.zone": "Masa dipaparkan dalam waktu {zone}",
+    "time.zone": "Masa dipaparkan dalam zon waktu {zone}",
     "time.today": "Hari ini",
     "time.tomorrow": "Esok",
     "common.on": "Hidup",

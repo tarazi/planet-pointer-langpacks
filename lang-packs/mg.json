@@ -236,7 +236,7 @@
     "time.minute": "Minitra",
     "time.return": "Hiverina izao",
     "time.done": "Vita",
-    "time.zone": "Aseho amin'ny ora {zone} ny ora",
+    "time.zone": "Aseho araka ny ora any {zone} ny fotoana",
     "time.today": "Androany",
     "time.tomorrow": "Rahampitso",
     "common.on": "Ampiasaina",

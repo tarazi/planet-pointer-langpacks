@@ -236,7 +236,7 @@
     "time.minute": "Minit",
     "time.return": "Retounen kounye",
     "time.done": "Fini",
-    "time.zone": "Lè yo montre nan lè {zone}",
+    "time.zone": "Yo afiche lè yo nan lè {zone}",
     "time.today": "Jodi a",
     "time.tomorrow": "Demen",
     "common.on": "Allume",
