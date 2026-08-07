@@ -47,7 +47,7 @@
     "settings.location.manual": "ကိုယ်တိုင်သတ်မှတ်ပါ",
     "settings.location.city": "မြို့ရှာပါ",
     "settings.location.cityNone": "မတွေ့ပါ — ပါဝင်သည့်စာရင်းတွင် အဓိကမြို့ကြီး ၅,၃၀၀ ခန့်ပါဝင်ပြီး၊ မြို့ငယ်များ ပျောက်နေပါသည်။",
-    "settings.location.cityNearest": "အနီးဆုံးမြို့ကြီးကို ရွေးပါ— ~50 km အတွင်း မိုးကောင်းကင်တူညီပါသည်။",
+    "settings.location.cityNearest": "အနီးဆုံးမြို့ကြီးကို ရွေးပါ— ~50 ကီလိုမီတာ အတွင်း မိုးကောင်းကင်တူညီပါသည်။",
     "settings.location.cityGps": "သို့မဟုတ် GPS ကိုသုံးပါ — သင့်စက်ကိရိယာက တိကျသောနေရာကို ကိရိယာပေါ်တွင်ပင် ရှာဖွေပေးသည်",
     "settings.location.cityCoords": "သို့မဟုတ် သင့်တိကျသောကိုဩဒိနိတ်များကို ရှာပါ",
     "settings.location.lat": "လတ္တီတွဒ်",
