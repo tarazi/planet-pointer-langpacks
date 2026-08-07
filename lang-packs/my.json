@@ -59,7 +59,7 @@
     "pro.renewsOn": "{date} တွင် အသစ်ပြန်ဖြစ်မည်",
     "pro.notRenewing": "အသစ်ပြန်မဖြစ်ပါ — {date} တွင် အသုံးပြုခွင့် ကုန်ဆုံးမည်",
     "pro.daysLeft": "{n} ရက် ကျန်သည်",
-    "pro.dayLeft": "၁ ရက် ကျန်သည်",
+    "pro.dayLeft": "1 ရက် ကျန်သည်",
     "settings.location.lat": "လတ္တီတွဒ်",
     "settings.location.lon": "လောင်ဂျီတျူဒ်",
     "settings.haptics": "ဟက်ပတစ်",

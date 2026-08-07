@@ -59,7 +59,7 @@
     "pro.renewsOn": "در {date} تمدید می‌شود",
     "pro.notRenewing": "تمدید نمی‌شود — دسترسی در {date} پایان می‌یابد",
     "pro.daysLeft": "{n} روز باقی‌مانده",
-    "pro.dayLeft": "۱ روز باقی‌مانده",
+    "pro.dayLeft": "1 روز باقی‌مانده",
     "settings.location.lat": "عرض جغرافیایی",
     "settings.location.lon": "طول جغرافیایی",
     "settings.haptics": "لرزش",

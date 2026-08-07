@@ -59,7 +59,7 @@
     "pro.renewsOn": "{date} তারিখে নবায়ন হবে",
     "pro.notRenewing": "নবায়ন হবে না — অ্যাক্সেস {date} তারিখে শেষ হবে",
     "pro.daysLeft": "{n} দিন বাকি",
-    "pro.dayLeft": "১ দিন বাকি",
+    "pro.dayLeft": "1 দিন বাকি",
     "settings.location.lat": "অক্ষাংশ",
     "settings.location.lon": "দ্রাঘিমাংশ",
     "settings.haptics": "হ্যাপটিক্স",

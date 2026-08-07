@@ -59,7 +59,7 @@
     "pro.renewsOn": "បន្តនៅ {date}",
     "pro.notRenewing": "នឹងមិនបន្ត — ការចូលប្រើផុតកំណត់នៅ {date}",
     "pro.daysLeft": "នៅសល់ {n} ថ្ងៃ",
-    "pro.dayLeft": "នៅសល់ ១ ថ្ងៃ",
+    "pro.dayLeft": "នៅសល់ 1 ថ្ងៃ",
     "settings.location.lat": "រយៈទទឹង",
     "settings.location.lon": "រយៈបណ្ដោយ",
     "settings.haptics": "ការញ័រ",

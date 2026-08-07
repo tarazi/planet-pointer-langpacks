@@ -59,7 +59,7 @@
     "pro.renewsOn": "{date} रोजी नूतनीकरण होईल",
     "pro.notRenewing": "नूतनीकरण होणार नाही — प्रवेश {date} रोजी संपेल",
     "pro.daysLeft": "{n} दिवस शिल्लक",
-    "pro.dayLeft": "१ दिवस शिल्लक",
+    "pro.dayLeft": "1 दिवस शिल्लक",
     "settings.location.lat": "अक्षांश",
     "settings.location.lon": "रेखांश",
     "settings.haptics": "हॅप्टिक्स",
