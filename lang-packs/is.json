@@ -50,7 +50,7 @@
     "settings.location.cityNearest": "Veldu næstu stórborg: innan ~50 km lítur himinninn eins út.",
     "settings.location.cityGps": "Eða notaðu GPS — tækið þitt finnur nákvæman stað, á tækinu sjálfu",
     "settings.location.cityCoords": "Eða flettu upp nákvæmum hnitum þínum",
-    "pro.freeCore": "Kjarninn verður alltaf ókeypis — myndavél, sól, tungl og allar 9 reikistjörnurnar. Pro stækkar bara skrána og bætir við nokkrum aukatólum.",
+    "pro.freeCore": "Kjarninn verður alltaf ókeypis — myndavél, sól, tungl og allar 7 reikistjörnurnar. Pro stækkar bara skrána og bætir við nokkrum aukatólum.",
     "pro.lifetime": "Pro — Ævilangt",
     "pro.lifetimeDesc": "Einskiptiskaup. Án tímamarka — rennur aldrei út né endurnýjast.",
     "pro.purchasedOn": "Keypt {date}",

@@ -50,7 +50,7 @@
     "settings.location.cityNearest": "Válaszd a legközelebbi nagyvárost: ~50 km-en belül ugyanolyan az égbolt.",
     "settings.location.cityGps": "Vagy használj GPS-t — az eszközöd megtalálja a pontos helyet, magán az eszközön",
     "settings.location.cityCoords": "Vagy keresd meg a pontos koordinátáidat",
-    "pro.freeCore": "A mag örökre ingyenes marad — kamera, Nap, Hold és mind a 9 bolygó. A Pro csupán bővíti a katalógust, és hozzáad néhány extra eszközt.",
+    "pro.freeCore": "A mag örökre ingyenes marad — kamera, Nap, Hold és mind a 7 bolygó. A Pro csupán bővíti a katalógust, és hozzáad néhány extra eszközt.",
     "pro.lifetime": "Pro — Élethosszig",
     "pro.lifetimeDesc": "Egyszeri vásárlás. Határidő nélkül — soha nem jár le és nem újul meg.",
     "pro.purchasedOn": "Megvásárolva: {date}",

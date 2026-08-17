@@ -50,7 +50,7 @@
     "settings.location.cityNearest": "Zgjidh qytetin e madh më të afërt: brenda ~50 km qielli duket njësoj.",
     "settings.location.cityGps": "Ose përdor GPS-në — pajisja jote gjen vendndodhjen e saktë, në vetë pajisjen",
     "settings.location.cityCoords": "Ose kërko koordinatat e sakta",
-    "pro.freeCore": "Bërthama do të mbetet gjithmonë falas — kamera, Dielli, Hëna dhe të gjithë 9 planetët. Pro thjesht zgjeron katalogun dhe shton disa mjete shtesë.",
+    "pro.freeCore": "Bërthama do të mbetet gjithmonë falas — kamera, Dielli, Hëna dhe të gjithë 7 planetët. Pro thjesht zgjeron katalogun dhe shton disa mjete shtesë.",
     "pro.lifetime": "Pro — Përjetësisht",
     "pro.lifetimeDesc": "Blerje një herë. Pa afat kohor — nuk skadon dhe nuk rinovohet kurrë.",
     "pro.purchasedOn": "Blerë më {date}",
