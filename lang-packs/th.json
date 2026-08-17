@@ -164,6 +164,8 @@
     "point.locked": "ล็อกไปที่ {name} แล้ว",
     "point.away": "ห่าง {n}°",
     "point.acquiring": "กำลังเริ่มต้นเซ็นเซอร์…",
+    "point.calibrateTitle": "เข็มทิศต้องการการปรับเทียบ",
+    "point.calibrateBody": "ขยับโทรศัพท์ของคุณเป็นรูปเลข 8 สองสามครั้ง ให้ห่างจากโลหะและแม่เหล็ก",
     "point.aboveHorizon": "● เหนือขอบฟ้า",
     "point.belowHorizon": "○ ใต้ขอบฟ้า",
     "point.info": "ข้อมูล",

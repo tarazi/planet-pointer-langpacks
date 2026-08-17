@@ -164,6 +164,8 @@
     "point.locked": "Rázárva: {name}",
     "point.away": "{n}°-ra",
     "point.acquiring": "Érzékelők inicializálása…",
+    "point.calibrateTitle": "Az iránytűt kalibrálni kell",
+    "point.calibrateBody": "Mozgasd a telefonod néhányszor nyolcas alakban, fémtől és mágnesektől távol.",
     "point.aboveHorizon": "● Látóhatár felett",
     "point.belowHorizon": "○ Látóhatár alatt",
     "point.info": "Infó",

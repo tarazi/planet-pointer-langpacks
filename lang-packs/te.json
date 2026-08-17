@@ -164,6 +164,8 @@
     "point.locked": "{name}పై లాక్ చేయబడింది",
     "point.away": "{n}° దూరంలో",
     "point.acquiring": "సెన్సార్లు ప్రారంభిస్తున్నాను…",
+    "point.calibrateTitle": "దిక్సూచికి క్రమాంకనం అవసరం",
+    "point.calibrateBody": "మీ ఫోన్‌ను లోహం మరియు అయస్కాంతాలకు దూరంగా కొన్నిసార్లు ఎనిమిది ఆకారంలో కదిలించండి.",
     "point.aboveHorizon": "● క్షితిజం పైన",
     "point.belowHorizon": "○ క్షితిజం క్రింద",
     "point.info": "సమాచారం",

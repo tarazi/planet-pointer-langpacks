@@ -164,6 +164,8 @@
     "point.locked": "Terkunci ke {name}",
     "point.away": "{n}° jauhnya",
     "point.acquiring": "Menginisialisasi sensor…",
+    "point.calibrateTitle": "Kompas perlu dikalibrasi",
+    "point.calibrateBody": "Gerakkan ponselmu membentuk angka 8 beberapa kali, jauh dari logam dan magnet.",
     "point.aboveHorizon": "● Di atas cakrawala",
     "point.belowHorizon": "○ Di bawah cakrawala",
     "point.info": "Info",

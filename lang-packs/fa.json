@@ -164,6 +164,8 @@
     "point.locked": "قفل شده روی {name}",
     "point.away": "{n}° دور",
     "point.acquiring": "راه‌اندازی حسگرها…",
+    "point.calibrateTitle": "قطب‌نما نیاز به کالیبراسیون دارد",
+    "point.calibrateBody": "چند بار گوشی خود را به شکل عدد ۸ حرکت دهید، دور از فلز و آهنربا.",
     "point.aboveHorizon": "● بالای افق",
     "point.belowHorizon": "○ زیر افق",
     "point.info": "اطلاعات",

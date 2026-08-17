@@ -164,6 +164,8 @@
     "point.locked": "Låst til {name}",
     "point.away": "{n}° fra målet",
     "point.acquiring": "Initialiserer sensorer…",
+    "point.calibrateTitle": "Kompasset trenger kalibrering",
+    "point.calibrateBody": "Beveg telefonen din i et åttetall noen ganger, unna metall og magneter.",
     "point.aboveHorizon": "● Over horisonten",
     "point.belowHorizon": "○ Under horisonten",
     "point.info": "Info",

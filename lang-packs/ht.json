@@ -164,6 +164,8 @@
     "point.locked": "Vize {name}",
     "point.away": "{n}° lwen",
     "point.acquiring": "Ap démarre capteurs…",
+    "point.calibrateTitle": "Bousòl la bezwen kalibraj",
+    "point.calibrateBody": "Deplase telefòn ou an fòm chif uit kèk fwa, lwen metal ak leman.",
     "point.aboveHorizon": "● Anlè orizòn",
     "point.belowHorizon": "○ Anba orizòn",
     "point.info": "Enfòmasyon",

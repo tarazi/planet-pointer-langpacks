@@ -164,6 +164,8 @@
     "point.locked": "Захоплено {name}",
     "point.away": "{n}° від цілі",
     "point.acquiring": "Ініціалізація датчиків…",
+    "point.calibrateTitle": "Компас потребує калібрування",
+    "point.calibrateBody": "Кілька разів проведіть телефоном у формі вісімки, подалі від металу та магнітів.",
     "point.aboveHorizon": "● Над горизонтом",
     "point.belowHorizon": "○ Під горизонтом",
     "point.info": "Інфо",

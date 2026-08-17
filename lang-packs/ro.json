@@ -164,6 +164,8 @@
     "point.locked": "Blocat pe {name}",
     "point.away": "{n}° distanță",
     "point.acquiring": "Inițializez senzorii…",
+    "point.calibrateTitle": "Busola trebuie calibrată",
+    "point.calibrateBody": "Mișcă telefonul de câteva ori în formă de opt, departe de metal și magneți.",
     "point.aboveHorizon": "● Deasupra orizontului",
     "point.belowHorizon": "○ Sub orizont",
     "point.info": "Info",

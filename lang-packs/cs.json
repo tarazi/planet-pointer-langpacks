@@ -164,6 +164,8 @@
     "point.locked": "Zamčeno na {name}",
     "point.away": "{n}° daleko",
     "point.acquiring": "Připojuji senzory…",
+    "point.calibrateTitle": "Kompas potřebuje kalibraci",
+    "point.calibrateBody": "Několikrát pohybujte telefonem ve tvaru osmičky, dál od kovu a magnetů.",
     "point.aboveHorizon": "● Nad horizontem",
     "point.belowHorizon": "○ Pod horizontem",
     "point.info": "Informace",

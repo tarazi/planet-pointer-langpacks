@@ -164,6 +164,8 @@
     "point.locked": "Maʻu ʻi {name}",
     "point.away": "H {n}°",
     "point.acquiring": "ʻOku kamataʻi ngaahi sēnia…",
+    "point.calibrateTitle": "ʻOku fiemaʻu ke fakatonutonu ʻa e mikaʻi hala",
+    "point.calibrateBody": "Ngaueʻi ho telefoni ʻi he fōtunga fika valu ha ngaahi taimi ʻe niʻihi, mamaʻo mei he ukamea mo e maketi.",
     "point.aboveHorizon": "● ʻI ʻolunga ʻo e horizon",
     "point.belowHorizon": "○ ʻI lalo ʻo e horizon",
     "point.info": "Fakamatala",

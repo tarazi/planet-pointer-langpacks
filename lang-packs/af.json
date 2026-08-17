@@ -164,6 +164,8 @@
     "point.locked": "Gesluit op {name}",
     "point.away": "{n}° ver",
     "point.acquiring": "Sensors word begin…",
+    "point.calibrateTitle": "Kompas benodig kalibrasie",
+    "point.calibrateBody": "Beweeg jou foon 'n paar keer in 'n agt-vorm, weg van metaal en magnete.",
     "point.aboveHorizon": "● Bo die horison",
     "point.belowHorizon": "○ Onder die horison",
     "point.info": "Inligting",

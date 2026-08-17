@@ -164,6 +164,8 @@
     "point.locked": "Zaklenjeno na {name}",
     "point.away": "{n}° stran",
     "point.acquiring": "Inicializiram senzorje…",
+    "point.calibrateTitle": "Kompas potrebuje umerjanje",
+    "point.calibrateBody": "Nekajkrat premaknite telefon v obliki osmice, stran od kovine in magnetov.",
     "point.aboveHorizon": "● Nad obzorjem",
     "point.belowHorizon": "○ Pod obzorjem",
     "point.info": "Info",

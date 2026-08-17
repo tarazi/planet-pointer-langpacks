@@ -164,6 +164,8 @@
     "point.locked": "Glasáilte ar {name}",
     "point.away": "{n}° i bhfad",
     "point.acquiring": "Ag túsú braiteorí…",
+    "point.calibrateTitle": "Ní mór an compás a chalabrú",
+    "point.calibrateBody": "Bog do ghuthán i gcruth an uimhir a hocht cúpla uair, i bhfad ó mhiotal agus maighnéid.",
     "point.aboveHorizon": "● Os cionn na spéirlíne",
     "point.belowHorizon": "○ Faoi bhun na spéirlíne",
     "point.info": "Eolas",

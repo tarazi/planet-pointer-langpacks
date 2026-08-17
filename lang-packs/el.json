@@ -164,6 +164,8 @@
     "point.locked": "Κλειδωμένο στο {name}",
     "point.away": "{n}° από τον στόχο",
     "point.acquiring": "Αρχικοποίηση αισθητήρων…",
+    "point.calibrateTitle": "Η πυξίδα χρειάζεται βαθμονόμηση",
+    "point.calibrateBody": "Κουνήστε το τηλέφωνό σας σε σχήμα οκτώ μερικές φορές, μακριά από μέταλλα και μαγνήτες.",
     "point.aboveHorizon": "● Πάνω από τον ορίζοντα",
     "point.belowHorizon": "○ Κάτω από τον ορίζοντα",
     "point.info": "Πληροφορίες",

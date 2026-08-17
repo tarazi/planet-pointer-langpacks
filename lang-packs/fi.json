@@ -164,6 +164,8 @@
     "point.locked": "Lukittu kohteeseen {name}",
     "point.away": "{n}° kohteesta",
     "point.acquiring": "Alustetaan antureita…",
+    "point.calibrateTitle": "Kompassi tarvitsee kalibroinnin",
+    "point.calibrateBody": "Liikuta puhelinta muutaman kerran kahdeksikkomuodossa, kaukana metallista ja magneeteista.",
     "point.aboveHorizon": "● Horisontin yläpuolella",
     "point.belowHorizon": "○ Horisontin alapuolella",
     "point.info": "Tiedot",

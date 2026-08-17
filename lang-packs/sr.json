@@ -164,6 +164,8 @@
     "point.locked": "Закључано на {name}",
     "point.away": "{n}° даљине",
     "point.acquiring": "Иницијализујем сензоре…",
+    "point.calibrateTitle": "Компас захтева калибрацију",
+    "point.calibrateBody": "Померите телефон неколико пута у облику осмице, даље од метала и магнета.",
     "point.aboveHorizon": "● Изнад хоризонта",
     "point.belowHorizon": "○ Испод хоризонта",
     "point.info": "Инфо",

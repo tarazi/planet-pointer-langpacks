@@ -164,6 +164,8 @@
     "point.locked": "{name} પર લૉક",
     "point.away": "{n}° દૂર",
     "point.acquiring": "સૅન્સર શરૂ…",
+    "point.calibrateTitle": "હોકાયંત્રને માપાંકનની જરૂર છે",
+    "point.calibrateBody": "તમારા ફોનને ધાતુ અને ચુંબકોથી દૂર થોડી વાર આઠના આકારમાં ખસેડો.",
     "point.aboveHorizon": "● ક્ષિતિજ ઉપર",
     "point.belowHorizon": "○ ક્ષિતિજ નીચે",
     "point.info": "માહિતી",

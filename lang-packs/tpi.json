@@ -164,6 +164,8 @@
     "point.locked": "Lokat long {name}",
     "point.away": "{n}° i go we",
     "point.acquiring": "Stat sensa…",
+    "point.calibrateTitle": "Kampas i nidim stretim",
+    "point.calibrateBody": "Muvim fon bilong yu long sepe bilong namba 8 sampela taim, longwe long ain na maknet.",
     "point.aboveHorizon": "● Antap horizon",
     "point.belowHorizon": "○ Aninit horizon",
     "point.info": "Infomesen",

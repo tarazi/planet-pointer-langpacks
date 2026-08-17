@@ -164,6 +164,8 @@
     "point.locked": "Eingerastet auf {name}",
     "point.away": "{n}° entfernt",
     "point.acquiring": "Sensoren werden initialisiert…",
+    "point.calibrateTitle": "Kompass muss kalibriert werden",
+    "point.calibrateBody": "Bewege dein Handy ein paar Mal in einer Achterbewegung, weg von Metall und Magneten.",
     "point.aboveHorizon": "● Über dem Horizont",
     "point.belowHorizon": "○ Unter dem Horizont",
     "point.info": "Info",

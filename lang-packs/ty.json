@@ -164,6 +164,8 @@
     "point.locked": "Fa'atia i {name}",
     "point.away": "{n}° mamao",
     "point.acquiring": "E tīmata ra mau 'ōfai ite…",
+    "point.calibrateTitle": "Titauhia te faaafaroraa o te fetii",
+    "point.calibrateBody": "A neneʻe i ta oe niuniu porotarama mai te huru numera vau e piti taime, atea mai i te auri e te mapotoro.",
     "point.aboveHorizon": "● I ni'a i te horizon",
     "point.belowHorizon": "○ I raro i te horizon",
     "point.info": "Fa'aite",

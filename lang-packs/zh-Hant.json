@@ -164,6 +164,8 @@
     "point.locked": "已鎖定 {name}",
     "point.away": "距目標 {n}°",
     "point.acquiring": "正在初始化感測器…",
+    "point.calibrateTitle": "指南針需要校正",
+    "point.calibrateBody": "將手機以數字8的形狀移動幾次，遠離金屬和磁鐵。",
     "point.aboveHorizon": "● 地平線以上",
     "point.belowHorizon": "○ 地平線以下",
     "point.info": "資訊",

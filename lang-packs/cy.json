@@ -164,6 +164,8 @@
     "point.locked": "Wedi'i gloi ar {name}",
     "point.away": "{n}° i ffwrdd",
     "point.acquiring": "Yn cychwyn synwyryddion…",
+    "point.calibrateTitle": "Mae angen calibradu'r cwmpawd",
+    "point.calibrateBody": "Symudwch eich ffôn ar siâp wyth ychydig o weithiau, i ffwrdd o fetel a magnetau.",
     "point.aboveHorizon": "● Uwchben y gorwel",
     "point.belowHorizon": "○ Islaw'r gorwel",
     "point.info": "Gwybodaeth",

@@ -164,6 +164,8 @@
     "point.locked": "{name}-ra blokeatua",
     "point.away": "Helburutik {n}°",
     "point.acquiring": "Sentsoreak hasieratzen…",
+    "point.calibrateTitle": "Iparrorratzak kalibratzea behar du",
+    "point.calibrateBody": "Mugitu telefonoa zortzi forman zenbait aldiz, metal eta imanetatik urrun.",
     "point.aboveHorizon": "● Horizontearen gainean",
     "point.belowHorizon": "○ Horizontearen azpian",
     "point.info": "Informazioa",

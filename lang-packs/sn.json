@@ -164,6 +164,8 @@
     "point.locked": "Rakavharirwa ku {name}",
     "point.away": "{n}° kure",
     "point.acquiring": "Inotanga masensa…",
+    "point.calibrateTitle": "Kanzuru inoda kururamiswa",
+    "point.calibrateBody": "Zunguzai foni yenyu muchimiro chesiki kanoverengeka, kure nesimbi nemagineti.",
     "point.aboveHorizon": "● Pamusoro pehorizon",
     "point.belowHorizon": "○ Pasi pehorizon",
     "point.info": "Ruzivo",

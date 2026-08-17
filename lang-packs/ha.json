@@ -164,6 +164,8 @@
     "point.locked": "An kulle zuwa {name}",
     "point.away": "{n}° nesa",
     "point.acquiring": "Ana farawa da firikwensi…",
+    "point.calibrateTitle": "Kamfas yana bukatar daidaitawa",
+    "point.calibrateBody": "Motsa wayarka a siffar takwas 'yan lokuta, nesa da ƙarfe da magnet.",
     "point.aboveHorizon": "● Sama da sararin ƙasa",
     "point.belowHorizon": "○ Ƙasa da sararin ƙasa",
     "point.info": "Bayani",

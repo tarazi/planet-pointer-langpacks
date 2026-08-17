@@ -164,6 +164,8 @@
     "point.locked": "{name} ተቆልፏል",
     "point.away": "{n}° ርቋል",
     "point.acquiring": "ዳሳሾች እየጀመሩ…",
+    "point.calibrateTitle": "ኮምፓስ መስተካከል ያስፈልገዋል",
+    "point.calibrateBody": "ስልክዎን ከብረት እና ማግኔቶች ርቀት ላይ በስምንት ቅርጽ ጥቂት ጊዜ ያንቀሳቅሱ።",
     "point.aboveHorizon": "● አድማሱ ላይ",
     "point.belowHorizon": "○ አድማሱ ታች",
     "point.info": "መረጃ",

@@ -164,6 +164,8 @@
     "point.locked": "Bllokuar te {name}",
     "point.away": "{n}° larg",
     "point.acquiring": "Duke inicializuar sensorët…",
+    "point.calibrateTitle": "Busulla ka nevojë për kalibrim",
+    "point.calibrateBody": "Lëvize telefonin disa herë në formën e tetës, larg metalit dhe magneteve.",
     "point.aboveHorizon": "● Mbi horizont",
     "point.belowHorizon": "○ Poshtë horizontit",
     "point.info": "Info",

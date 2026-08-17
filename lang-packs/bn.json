@@ -164,6 +164,8 @@
     "point.locked": "{name}-এ লক করা হয়েছে",
     "point.away": "{n}° দূরে",
     "point.acquiring": "সেন্সর শুরু করছি…",
+    "point.calibrateTitle": "কম্পাসে ক্যালিব্রেশন প্রয়োজন",
+    "point.calibrateBody": "আপনার ফোনটি ধাতু ও চুম্বক থেকে দূরে কয়েকবার আট আকৃতিতে নাড়ান।",
     "point.aboveHorizon": "● দিগন্তের উপরে",
     "point.belowHorizon": "○ দিগন্তের নিচে",
     "point.info": "তথ্য",

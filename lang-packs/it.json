@@ -164,6 +164,8 @@
     "point.locked": "Agganciato a {name}",
     "point.away": "{n}° di distanza",
     "point.acquiring": "Inizializzazione sensori…",
+    "point.calibrateTitle": "La bussola necessita di calibrazione",
+    "point.calibrateBody": "Muovi il telefono a forma di 8 alcune volte, lontano da metalli e magneti.",
     "point.aboveHorizon": "● Sopra l'orizzonte",
     "point.belowHorizon": "○ Sotto l'orizzonte",
     "point.info": "Info",

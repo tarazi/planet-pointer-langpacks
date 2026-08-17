@@ -164,6 +164,8 @@
     "point.locked": "Fiksēts uz {name}",
     "point.away": "{n}° attālumā",
     "point.acquiring": "Inicializē sensorus…",
+    "point.calibrateTitle": "Kompasu nepieciešams kalibrēt",
+    "point.calibrateBody": "Pakustiniet tālruni astoņnieka formā vairākas reizes, tālu no metāla un magnētiem.",
     "point.aboveHorizon": "● Virs horizonta",
     "point.belowHorizon": "○ Zem horizonta",
     "point.info": "Info",

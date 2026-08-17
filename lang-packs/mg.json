@@ -164,6 +164,8 @@
     "point.locked": "Voatahiry amin'ny {name}",
     "point.away": "{n}° lavitra",
     "point.acquiring": "Manomboka sensor…",
+    "point.calibrateTitle": "Mila hita fenitra ny kompà",
+    "point.calibrateBody": "Ahetsiho impiry ny finday ho endrika valo, lavitra ny vy sy ny andriamby.",
     "point.aboveHorizon": "● Ambony horizon",
     "point.belowHorizon": "○ Ambany horizon",
     "point.info": "Fampahalalana",

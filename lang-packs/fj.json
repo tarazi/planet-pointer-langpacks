@@ -164,6 +164,8 @@
     "point.locked": "Kania {name}",
     "point.away": "{n}° e ka",
     "point.acquiring": "E tekivu tiko na isenia…",
+    "point.calibrateTitle": "E gadreva ni vakadonui na tikinivanua",
+    "point.calibrateBody": "Movea na waqa ni talevoni ena ivakarau 8 e vica na gauna, tawa yani mai na kaukamea kei na maqiniti.",
     "point.aboveHorizon": "● E cake ni horizon",
     "point.belowHorizon": "○ E ra ni horizon",
     "point.info": "Ivolatalatala",

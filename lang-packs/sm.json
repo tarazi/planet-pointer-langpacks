@@ -164,6 +164,8 @@
     "point.locked": "Natia i {name}",
     "point.away": "{n}° mamao",
     "point.acquiring": "O loʻo amataina mea faʻailo…",
+    "point.calibrateTitle": "E manaʻomia le fuafuaina o le tapasā",
+    "point.calibrateBody": "Faʻagaoioia lau telefoni i foliga o le numera valu i ni nai taimi, ese mai metala ma māketi.",
     "point.aboveHorizon": "● I luga o le horizon",
     "point.belowHorizon": "○ I lalo o le horizon",
     "point.info": "Faʻamatalaga",

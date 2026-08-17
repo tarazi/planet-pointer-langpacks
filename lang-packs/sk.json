@@ -164,6 +164,8 @@
     "point.locked": "Zamknuté na {name}",
     "point.away": "{n}° ďalej",
     "point.acquiring": "Získavam snímače…",
+    "point.calibrateTitle": "Kompas potrebuje kalibráciu",
+    "point.calibrateBody": "Niekoľkokrát pohnite telefónom v tvare osmičky, ďalej od kovu a magnetov.",
     "point.aboveHorizon": "● Nad horizontom",
     "point.belowHorizon": "○ Pod horizontom",
     "point.info": "Info",

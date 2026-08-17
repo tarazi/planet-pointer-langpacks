@@ -164,6 +164,8 @@
     "point.locked": "Zablokowano na {name}",
     "point.away": "{n}° od celu",
     "point.acquiring": "Inicjowanie czujników…",
+    "point.calibrateTitle": "Kompas wymaga kalibracji",
+    "point.calibrateBody": "Poruszaj telefonem kilka razy w kształcie ósemki, z dala od metalu i magnesów.",
     "point.aboveHorizon": "● Nad horyzontem",
     "point.belowHorizon": "○ Pod horyzontem",
     "point.info": "Info",

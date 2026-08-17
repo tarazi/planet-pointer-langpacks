@@ -164,6 +164,8 @@
     "point.locked": "Xidhay {name}",
     "point.away": "{n}° masaafada",
     "point.acquiring": "Dareemayaasha bilaabayaa…",
+    "point.calibrateTitle": "Kombaska wuxuu u baahan yahay habayn",
+    "point.calibrateBody": "Dhaqaajimaad taleefankaaga qaab siddeed dhawr jeer, ka fogow bir iyo magnetka.",
     "point.aboveHorizon": "● Kor ee xadka",
     "point.belowHorizon": "○ Hoose ee xadka",
     "point.info": "Macluumaad",

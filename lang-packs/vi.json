@@ -164,6 +164,8 @@
     "point.locked": "Đã khóa vào {name}",
     "point.away": "Cách {n}°",
     "point.acquiring": "Đang khởi tạo cảm biến…",
+    "point.calibrateTitle": "La bàn cần hiệu chỉnh",
+    "point.calibrateBody": "Di chuyển điện thoại của bạn theo hình số 8 vài lần, tránh xa kim loại và nam châm.",
     "point.aboveHorizon": "● Trên đường chân trời",
     "point.belowHorizon": "○ Dưới đường chân trời",
     "point.info": "Thông tin",

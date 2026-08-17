@@ -164,6 +164,8 @@
     "point.locked": "Paʻa i {name}",
     "point.away": "{n}° mamao",
     "point.acquiring": "E hoʻomaka ana nā laʻau ʻike…",
+    "point.calibrateTitle": "Pono e hoʻoponopono ʻia ke kōpaki",
+    "point.calibrateBody": "E hoʻoneʻe i kāu kelepona ma ke ʻano helu ʻewalu no kekahi mau manawa, mai ka metala a me ka mākēneki.",
     "point.aboveHorizon": "● Ma luna o ka pae honua",
     "point.belowHorizon": "○ Ma lalo o ka pae honua",
     "point.info": "ʻIkepili",

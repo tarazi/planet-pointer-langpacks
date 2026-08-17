@@ -164,6 +164,8 @@
     "point.locked": "Imelenga {name}",
     "point.away": "{n}° mbali",
     "point.acquiring": "Inaanzisha vitambuzi…",
+    "point.calibrateTitle": "Dira inahitaji kusawazishwa",
+    "point.calibrateBody": "Sogeza simu yako kwa mfumo wa nane mara chache, mbali na chuma na sumaku.",
     "point.aboveHorizon": "● Juu ya upeo wa macho",
     "point.belowHorizon": "○ Chini ya upeo wa macho",
     "point.info": "Maelezo",

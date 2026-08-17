@@ -164,6 +164,8 @@
     "point.locked": "{name} ga qulflandi",
     "point.away": "{n}° uzoqda",
     "point.acquiring": "Sensorlar ishga tushmoqda…",
+    "point.calibrateTitle": "Kompas kalibrlashni talab qiladi",
+    "point.calibrateBody": "Telefoningizni bir necha marta sakkiz shaklida harakatlantiring, metall va magnitlardan uzoqda.",
     "point.aboveHorizon": "● Gorizont ustida",
     "point.belowHorizon": "○ Gorizont ostida",
     "point.info": "Ma'lumot",

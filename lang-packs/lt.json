@@ -164,6 +164,8 @@
     "point.locked": "Užfiksuota ant {name}",
     "point.away": "{n}° atstumu",
     "point.acquiring": "Inicializuoju jutiklius…",
+    "point.calibrateTitle": "Kompasą reikia kalibruoti",
+    "point.calibrateBody": "Kelis kartus pajudinkite telefoną aštuoniukės forma, toliau nuo metalo ir magnetų.",
     "point.aboveHorizon": "● Virš horizonto",
     "point.belowHorizon": "○ Po horizontu",
     "point.info": "Info",

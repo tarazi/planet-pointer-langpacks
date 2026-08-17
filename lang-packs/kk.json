@@ -164,6 +164,8 @@
     "point.locked": "{name} бекітілді",
     "point.away": "{n}° қашықта",
     "point.acquiring": "Сенсорлар іске қосылуда…",
+    "point.calibrateTitle": "Компаске калибрлеу қажет",
+    "point.calibrateBody": "Телефоныңызды бірнеше рет сегіз санының пішінінде қозғалтыңыз, металл мен магниттен алыс.",
     "point.aboveHorizon": "● Горизонт үстінде",
     "point.belowHorizon": "○ Горизонт астында",
     "point.info": "Ақпарат",

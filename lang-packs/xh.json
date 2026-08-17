@@ -164,6 +164,8 @@
     "point.locked": "Kukhongelwe {name}",
     "point.away": "{n}° kude",
     "point.acquiring": "Iqala iisensor…",
+    "point.calibrateTitle": "Ikhampasi ifuna ukulungiswa",
+    "point.calibrateBody": "Shukumisa ifowuni yakho ngendlela yenombolo esibhozo amaxesha athile, kude nentsimbi namanyeza.",
     "point.aboveHorizon": "● Ngaphezulu komda",
     "point.belowHorizon": "○ Ngaphantsi komda",
     "point.info": "Ulwazi",

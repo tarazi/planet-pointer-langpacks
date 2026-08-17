@@ -164,6 +164,8 @@
     "point.locked": "{name} ပေါ် လော့ကချ",
     "point.away": "{n}° ကွာ",
     "point.acquiring": "ဆင်ဆာများ ကလိနေသည်…",
+    "point.calibrateTitle": "အိမ်တိုင်းယန်တြားကို ချိန်ညှိရန်လိုအပ်သည်",
+    "point.calibrateBody": "သင့်ဖုန်းကို သတ္တုနှင့် သံလိုက်များနှင့်ဝေးရာတွင် ဂဏန်း ၈ ပုံစံဖြင့် အကြိမ်များစွာ လှုပ်ရှားပါ။",
     "point.aboveHorizon": "● 地平線 အပေါ်",
     "point.belowHorizon": "○ 地平線 အောက်",
     "point.info": "သတင်းအချက်အလက်",

@@ -164,6 +164,8 @@
     "point.locked": "{name} 'ਤੇ ਲਾਕ",
     "point.away": "{n}° ਦੂਰ",
     "point.acquiring": "ਸੈਂਸਰ ਸ਼ੁਰੂ ਕਰ ਰਿਹਾ ਹਾਂ…",
+    "point.calibrateTitle": "ਕੰਪਾਸ ਨੂੰ ਕੈਲੀਬ੍ਰੇਸ਼ਨ ਦੀ ਲੋੜ ਹੈ",
+    "point.calibrateBody": "ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਧਾਤ ਅਤੇ ਚੁੰਬਕਾਂ ਤੋਂ ਦੂਰ ਕੁਝ ਵਾਰ ਅੱਠ ਦੀ ਸ਼ਕਲ ਵਿੱਚ ਹਿਲਾਓ।",
     "point.aboveHorizon": "● ਖਿਤਿਜ ਉੱਪਰ",
     "point.belowHorizon": "○ ਖਿਤਿਜ ਹੇਠਾਂ",
     "point.info": "ਜਾਣਕਾਰੀ",

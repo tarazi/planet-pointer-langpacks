@@ -164,6 +164,8 @@
     "point.locked": "Læst á {name}",
     "point.away": "{n}° í burtu",
     "point.acquiring": "Tengist skynjurum…",
+    "point.calibrateTitle": "Áttavitinn þarf að stilla",
+    "point.calibrateBody": "Hreyfðu símann þinn í áttustaf nokkrum sinnum, fjarri málmi og seglum.",
     "point.aboveHorizon": "● Yfir sjónardeildarhring",
     "point.belowHorizon": "○ Undir sjónardeildarhring",
     "point.info": "Upplýsingar",

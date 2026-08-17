@@ -164,6 +164,8 @@
     "point.locked": "ចាក់សោនៅ {name}",
     "point.away": "{n}° ឆ្ងាយ",
     "point.acquiring": "ចាប់ផ្ដើមឧបករណ៍ sensor…",
+    "point.calibrateTitle": "ត្រូវការកែតម្រូវត្រីវិស័យ",
+    "point.calibrateBody": "រំកិលទូរស័ព្ទរបស់អ្នកជាទម្រង់លេខ៨ ប៉ុន្មានដង ចេញឆ្ងាយពីលោហៈ និងម៉ាញេទិក។",
     "point.aboveHorizon": "● នៅលើ Horizon",
     "point.belowHorizon": "○ ក្រោម Horizon",
     "point.info": "ព័ត៌មាន",

@@ -164,6 +164,8 @@
     "point.locked": "Blocat a {name}",
     "point.away": "A {n}° de l'objectiu",
     "point.acquiring": "Inicialitzant sensors…",
+    "point.calibrateTitle": "La brúixola necessita calibratge",
+    "point.calibrateBody": "Mou el telèfon fent un vuit unes quantes vegades, lluny de metalls i imants.",
     "point.aboveHorizon": "● Sobre l'horitzó",
     "point.belowHorizon": "○ Per sota de l'horitzó",
     "point.info": "Info",

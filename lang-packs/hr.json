@@ -164,6 +164,8 @@
     "point.locked": "Zaključano na {name}",
     "point.away": "{n}° udaljenosti",
     "point.acquiring": "Inicijaliziram senzore…",
+    "point.calibrateTitle": "Kompas treba baždarenje",
+    "point.calibrateBody": "Pomaknite telefon nekoliko puta u obliku osmice, dalje od metala i magneta.",
     "point.aboveHorizon": "● Iznad horizonta",
     "point.belowHorizon": "○ Ispod horizonta",
     "point.info": "Info",

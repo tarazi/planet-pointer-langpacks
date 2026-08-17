@@ -164,6 +164,8 @@
     "point.locked": "Ejidere {name}",
     "point.away": "{n}° anya",
     "point.acquiring": "Na-amalite sensọ…",
+    "point.calibrateTitle": "Kompas chọrọ ndozi ọzọ",
+    "point.calibrateBody": "Kwagharia ekwentị gị n’ụdị nọmba asatọ ugboro ole na ole, dị anya n’ígwè na magnet.",
     "point.aboveHorizon": "● N'elu horizon",
     "point.belowHorizon": "○ N'okpuru horizon",
     "point.info": "Ọmụmụ",

@@ -164,6 +164,8 @@
     "point.locked": "Dikunci pada {name}",
     "point.away": "{n}° jauh",
     "point.acquiring": "Memulakan penderia…",
+    "point.calibrateTitle": "Kompas perlu ditentukur",
+    "point.calibrateBody": "Gerakkan telefon anda dalam bentuk angka 8 beberapa kali, jauh daripada logam dan magnet.",
     "point.aboveHorizon": "● Di atas ufuk",
     "point.belowHorizon": "○ Di bawah ufuk",
     "point.info": "Info",

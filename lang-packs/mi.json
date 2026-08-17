@@ -164,6 +164,8 @@
     "point.locked": "Rakaina ki {name}",
     "point.away": "H {n}°",
     "point.acquiring": "E tīmata ana ngā pūhaere…",
+    "point.calibrateTitle": "Me whakatikatika te kāpehu",
+    "point.calibrateBody": "Nekehia tō waea ki te āhua o te waru, mō ētahi wā, kia mamao atu i te whakarewa me ngā aukume.",
     "point.aboveHorizon": "● I runga ake i te pae",
     "point.belowHorizon": "○ I raro ake i te pae",
     "point.info": "Mōhiohio",

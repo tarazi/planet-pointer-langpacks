@@ -164,6 +164,8 @@
     "point.locked": "{name}'e kilitlendi",
     "point.away": "{n}° uzakta",
     "point.acquiring": "Sensörler başlatılıyor…",
+    "point.calibrateTitle": "Pusula kalibrasyon gerektiriyor",
+    "point.calibrateBody": "Telefonunu birkaç kez sekiz çizecek şekilde hareket ettir, metal ve mıknatıslardan uzakta.",
     "point.aboveHorizon": "● Ufkun üzerinde",
     "point.belowHorizon": "○ Ufkun altında",
     "point.info": "Bilgi",

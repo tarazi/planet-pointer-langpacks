@@ -164,6 +164,8 @@
     "point.locked": "{name} پر لاک",
     "point.away": "{n}° دور",
     "point.acquiring": "سینسر شروع ہو رہے ہیں…",
+    "point.calibrateTitle": "قطب نما کو کیلیبریشن کی ضرورت ہے",
+    "point.calibrateBody": "اپنے فون کو دھات اور مقناطیس سے دور، چند بار آٹھ کی شکل میں حرکت دیں۔",
     "point.aboveHorizon": "● افق سے اوپر",
     "point.belowHorizon": "○ افق سے نیچے",
     "point.info": "معلومات",

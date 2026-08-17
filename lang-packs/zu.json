@@ -164,6 +164,8 @@
     "point.locked": "Kukhongelwe {name}",
     "point.away": "{n}° kude",
     "point.acquiring": "Iqala izindlu…",
+    "point.calibrateTitle": "Ikhampasi idinga ukulungiswa",
+    "point.calibrateBody": "Nyakazisa ifoni yakho ngesimo senombolo eyisishiyagalombili izikhathi ezimbalwa, kude nensimbi namamagineti.",
     "point.aboveHorizon": "● Ngenhla komugqa",
     "point.belowHorizon": "○ Phansi komugqa",
     "point.info": "Ulwazi",

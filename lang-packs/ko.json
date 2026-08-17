@@ -164,6 +164,8 @@
     "point.locked": "{name}에 잠금됨",
     "point.away": "{n}° 떨어짐",
     "point.acquiring": "센서 초기화 중…",
+    "point.calibrateTitle": "나침반 보정이 필요합니다",
+    "point.calibrateBody": "휴대폰을 금속과 자석에서 멀리 떨어진 곳에서 숫자 8 모양으로 몇 번 움직여 주세요.",
     "point.aboveHorizon": "● 지평선 위",
     "point.belowHorizon": "○ 지평선 아래",
     "point.info": "정보",

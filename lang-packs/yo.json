@@ -164,6 +164,8 @@
     "point.locked": "A Tìpa Sí {name}",
     "point.away": "{n}° jìnnà",
     "point.acquiring": "Ń bẹ̀rẹ̀ àwọn ẹ̀rọ ìsọdọ̀mọ…",
+    "point.calibrateTitle": "Kọmpasi nilo àtúnṣe",
+    "point.calibrateBody": "Gbé fóònù rẹ ní àwòrán nọ́mbà mẹ́jọ ní ìgbà díẹ̀, jìnnà sí irin àti òòfà.",
     "point.aboveHorizon": "● Lókè ipade",
     "point.belowHorizon": "○ Lísàlẹ̀ ipade",
     "point.info": "Ìtọ́nisọ̀nà",

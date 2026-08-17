@@ -164,6 +164,8 @@
     "point.locked": "Lukustatud {name}-le",
     "point.away": "{n}° eemal",
     "point.acquiring": "Sensorite lähtestamine…",
+    "point.calibrateTitle": "Kompass vajab kalibreerimist",
+    "point.calibrateBody": "Liiguta telefoni paar korda kaheksakujuliselt, eemal metallist ja magnetitest.",
     "point.aboveHorizon": "● Horisondi kohal",
     "point.belowHorizon": "○ Horisondi all",
     "point.info": "Info",
