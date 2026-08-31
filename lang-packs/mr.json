@@ -262,7 +262,21 @@
     "season.spring": "वसंत ऋतू",
     "season.summer": "उन्हाळा",
     "season.autumn": "शरद ऋतू",
-    "season.allYear": "वर्षभर"
+    "season.allYear": "वर्षभर",
+    "identify.button": "ते काय आहे?",
+    "identify.title": "ते काय आहे?",
+    "identify.hint": "ओळखण्यासाठी कुठेही टॅप करा",
+    "identify.accuracy": "होकायंत्र सुमारे 5° पर्यंत अचूक आहे, त्यामुळे हे सर्वोत्तम अंदाज आहेत, निश्चितता नाही.",
+    "identify.mostLikely": "बहुधा",
+    "identify.alsoNearby": "जवळही",
+    "identify.confidence": "{n}% जुळणी",
+    "identify.nothingHere": "तिथून {n}° च्या आत काहीही नोंदवलेले नाही.",
+    "identify.pointAtIt": "त्याकडे निर्देश करा",
+    "identify.needsLocation": "तुम्ही कोणत्या आकाशाखाली आहात हे जाणून घेण्यासाठी ओळखण्यासाठी तुमचे स्थान आवश्यक आहे.",
+    "identify.cat.all": "सर्व",
+    "identify.cat.core": "ग्रह",
+    "identify.cat.stars": "तारे",
+    "identify.manualLocation": "मॅन्युअल स्थान"
   },
   "content": {
     "bodyName": {

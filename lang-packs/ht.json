@@ -262,7 +262,21 @@
     "season.spring": "Prentan",
     "season.summer": "Ete",
     "season.autumn": "Otòn",
-    "season.allYear": "Tout ane a"
+    "season.allYear": "Tout ane a",
+    "identify.button": "Kisa sa a ye?",
+    "identify.title": "Kisa sa a ye?",
+    "identify.hint": "Tape nenpòt kote pou idantifye l",
+    "identify.accuracy": "Bousòl la egzat jiska anviwon 5°, kidonk sa yo se pi bon supozisyon, se pa sètitid.",
+    "identify.mostLikely": "Pi pwobableman",
+    "identify.alsoNearby": "Tou pre tou",
+    "identify.confidence": "{n}% ki matche",
+    "identify.nothingHere": "Pa gen anyen ki katalòge nan {n}° nan zòn sa a.",
+    "identify.pointAtIt": "Pwente sou li",
+    "identify.needsLocation": "Idantifye bezwen kote ou ye pou konnen anba ki syèl ou ye.",
+    "identify.cat.all": "Tout",
+    "identify.cat.core": "Planèt",
+    "identify.cat.stars": "Etwal",
+    "identify.manualLocation": "Kote mete manyèlman"
   },
   "content": {
     "bodyName": {},

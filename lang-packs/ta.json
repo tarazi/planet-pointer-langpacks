@@ -262,7 +262,21 @@
     "season.spring": "வசந்த காலம்",
     "season.summer": "கோடைக்காலம்",
     "season.autumn": "இலையுதிர் காலம்",
-    "season.allYear": "ஆண்டு முழுவதும்"
+    "season.allYear": "ஆண்டு முழுவதும்",
+    "identify.button": "அது என்ன?",
+    "identify.title": "அது என்ன?",
+    "identify.hint": "அடையாளம் காண எதையும் தட்டவும்",
+    "identify.accuracy": "திசைகாட்டி சுமார் 5° வரை துல்லியமானது, எனவே இவை சிறந்த யூகங்களே, உறுதியானவை அல்ல.",
+    "identify.mostLikely": "அதிக வாய்ப்புள்ளது",
+    "identify.alsoNearby": "அருகிலும் உள்ளது",
+    "identify.confidence": "{n}% பொருத்தம்",
+    "identify.nothingHere": "அங்கிருந்து {n}° க்குள் பட்டியலிடப்பட்டது எதுவும் இல்லை.",
+    "identify.pointAtIt": "அதை நோக்கி சுட்டிக்காட்டவும்",
+    "identify.needsLocation": "நீங்கள் எந்த வானத்தின் கீழ் இருக்கிறீர்கள் என்பதை அறிய அடையாளம் காணுதலுக்கு உங்கள் இருப்பிடம் தேவை.",
+    "identify.cat.all": "அனைத்தும்",
+    "identify.cat.core": "கோள்கள்",
+    "identify.cat.stars": "நட்சத்திரங்கள்",
+    "identify.manualLocation": "கைமுறை இருப்பிடம்"
   },
   "content": {
     "bodyName": {

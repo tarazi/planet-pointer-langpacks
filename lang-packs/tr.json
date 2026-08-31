@@ -262,7 +262,21 @@
     "season.spring": "İlkbahar",
     "season.summer": "Yaz",
     "season.autumn": "Sonbahar",
-    "season.allYear": "Yıl boyunca"
+    "season.allYear": "Yıl boyunca",
+    "identify.button": "O ne?",
+    "identify.title": "O ne?",
+    "identify.hint": "Tanımlamak için herhangi bir yere dokun",
+    "identify.accuracy": "Pusula yaklaşık 5° hassasiyete sahiptir, bu yüzden bunlar en iyi tahminlerdir, kesinlik değil.",
+    "identify.mostLikely": "Büyük olasılıkla",
+    "identify.alsoNearby": "Yakınlarda da",
+    "identify.confidence": "{n}% eşleşme",
+    "identify.nothingHere": "Oradan {n}° içinde kataloglanmış bir şey yok.",
+    "identify.pointAtIt": "Ona doğrult",
+    "identify.needsLocation": "Tanımla, hangi gökyüzünün altında olduğunu bilmek için konumuna ihtiyaç duyar.",
+    "identify.cat.all": "Tümü",
+    "identify.cat.core": "Gezegenler",
+    "identify.cat.stars": "Yıldızlar",
+    "identify.manualLocation": "Manuel konum"
   },
   "content": {
     "bodyName": {

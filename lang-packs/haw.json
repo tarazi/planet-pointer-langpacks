@@ -262,7 +262,21 @@
     "season.autumn": "Hāʻulelau",
     "season.allYear": "Ka makahiki holoʻokoʻa",
     "common.on": "Hoʻomaka",
-    "common.off": "Hoʻopau"
+    "common.off": "Hoʻopau",
+    "identify.button": "He aha kēlā?",
+    "identify.title": "He aha kēlā?",
+    "identify.hint": "Kikī i kekahi mea e ʻike ai",
+    "identify.accuracy": "Pololei ke kōpaki a hiki i ka 5°, no laila he mau koho maikaʻi kēia, ʻaʻole he ʻoiaʻiʻo.",
+    "identify.mostLikely": "Kūpono paha",
+    "identify.alsoNearby": "Kokoke pū kekahi",
+    "identify.confidence": "{n}% kūlike",
+    "identify.nothingHere": "ʻAʻohe mea i kākau ʻia i loko o ka {n}° mai laila.",
+    "identify.pointAtIt": "Kuhikuhi iā ia",
+    "identify.needsLocation": "Pono ka ʻIke i kou wahi e ʻike ai i ka lani āu e kū nei ma lalo.",
+    "identify.cat.all": "A Pau",
+    "identify.cat.core": "Nā Hōkūhele",
+    "identify.cat.stars": "Nā Hōkū",
+    "identify.manualLocation": "Wahi i hoʻonoho ʻia"
   },
   "content": {
     "bodyName": {},

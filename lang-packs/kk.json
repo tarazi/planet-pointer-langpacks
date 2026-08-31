@@ -262,7 +262,21 @@
     "season.spring": "Көктем",
     "season.summer": "Жаз",
     "season.autumn": "Күз",
-    "season.allYear": "Жыл бойы"
+    "season.allYear": "Жыл бойы",
+    "identify.button": "Ол не?",
+    "identify.title": "Ол не?",
+    "identify.hint": "Анықтау үшін кез келген жерге түртіңіз",
+    "identify.accuracy": "Компас шамамен 5°-қа дейін дәл, сондықтан бұл ең жақсы болжамдар, нақты дерек емес.",
+    "identify.mostLikely": "Ең ықтимал",
+    "identify.alsoNearby": "Жақын жерде де",
+    "identify.confidence": "{n}% сәйкестік",
+    "identify.nothingHere": "Сол жерден {n}° аумағында ешнәрсе тізімделмеген.",
+    "identify.pointAtIt": "Оған бағыттаңыз",
+    "identify.needsLocation": "Анықтауға қай аспан астында тұрғаныңызды білу үшін орналасқан жеріңіз қажет.",
+    "identify.cat.all": "Барлығы",
+    "identify.cat.core": "Планеталар",
+    "identify.cat.stars": "Жұлдыздар",
+    "identify.manualLocation": "Қолмен орнатылған орын"
   },
   "content": {
     "bodyName": {},

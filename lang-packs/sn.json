@@ -262,7 +262,21 @@
     "season.autumn": "Matsutso",
     "season.allYear": "Gore rose",
     "common.on": "Batidza",
-    "common.off": "Dzima"
+    "common.off": "Dzima",
+    "identify.button": "Ndechipi icho?",
+    "identify.title": "Ndechipi icho?",
+    "identify.hint": "Bata chero chinhu kuti uzive",
+    "identify.accuracy": "Kanzuru inoshanda zvakanaka kusvika padegree 5°, saka izvi zvinofungidzirwa zvakanaka, kwete chokwadi chizere.",
+    "identify.mostLikely": "Zvinonyanya kuita",
+    "identify.alsoNearby": "Pedyo zvakare",
+    "identify.confidence": "{n}% inoenderana",
+    "identify.nothingHere": "Hapana chakanyorwa mukati me{n}° kubva ipapo.",
+    "identify.pointAtIt": "Nongedza kwariri",
+    "identify.needsLocation": "Kuziva kunoda nzvimbo yako kuti uzive kuti uri pasi pedenga ripi.",
+    "identify.cat.all": "Zvose",
+    "identify.cat.core": "Nyenyedzi Dzepasi",
+    "identify.cat.stars": "Nyenyedzi",
+    "identify.manualLocation": "Nzvimbo yakagadzirwa nemunhu"
   },
   "content": {
     "bodyName": {},

@@ -262,7 +262,21 @@
     "season.spring": "Άνοιξη",
     "season.summer": "Καλοκαίρι",
     "season.autumn": "Φθινόπωρο",
-    "season.allYear": "Όλο τον χρόνο"
+    "season.allYear": "Όλο τον χρόνο",
+    "identify.button": "Τι είναι αυτό;",
+    "identify.title": "Τι είναι αυτό;",
+    "identify.hint": "Πατήστε οπουδήποτε για αναγνώριση",
+    "identify.accuracy": "Η πυξίδα έχει ακρίβεια περίπου 5°, άρα πρόκειται για εκτιμήσεις, όχι βεβαιότητες.",
+    "identify.mostLikely": "Πιθανότατα",
+    "identify.alsoNearby": "Επίσης κοντά",
+    "identify.confidence": "{n}% ταίριασμα",
+    "identify.nothingHere": "Τίποτα καταγεγραμμένο εντός {n}° από εκεί.",
+    "identify.pointAtIt": "Δείξτε προς αυτό",
+    "identify.needsLocation": "Η αναγνώριση χρειάζεται την τοποθεσία σας για να ξέρει κάτω από ποιον ουρανό βρίσκεστε.",
+    "identify.cat.all": "Όλα",
+    "identify.cat.core": "Πλανήτες",
+    "identify.cat.stars": "Αστέρια",
+    "identify.manualLocation": "Χειροκίνητη τοποθεσία"
   },
   "content": {
     "bodyName": {

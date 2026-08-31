@@ -262,7 +262,21 @@
     "season.spring": "봄",
     "season.summer": "여름",
     "season.autumn": "가을",
-    "season.allYear": "연중"
+    "season.allYear": "연중",
+    "identify.button": "저게 뭐예요?",
+    "identify.title": "저게 뭐예요?",
+    "identify.hint": "아무 곳이나 탭하여 식별하세요",
+    "identify.accuracy": "나침반은 약 5°까지 정확하므로 이는 최선의 추측일 뿐 확실한 것은 아닙니다.",
+    "identify.mostLikely": "가장 유력함",
+    "identify.alsoNearby": "근처에 또한",
+    "identify.confidence": "{n}% 일치",
+    "identify.nothingHere": "그곳에서 {n}° 이내에 등록된 것이 없습니다.",
+    "identify.pointAtIt": "그쪽을 가리키세요",
+    "identify.needsLocation": "식별 기능은 어떤 하늘 아래 있는지 알기 위해 위치 정보가 필요합니다.",
+    "identify.cat.all": "전체",
+    "identify.cat.core": "행성",
+    "identify.cat.stars": "별",
+    "identify.manualLocation": "수동 위치"
   },
   "content": {
     "bodyName": {

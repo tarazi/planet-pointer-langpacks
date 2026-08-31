@@ -262,7 +262,21 @@
     "season.spring": "بہار",
     "season.summer": "گرمی",
     "season.autumn": "خزاں",
-    "season.allYear": "سارا سال"
+    "season.allYear": "سارا سال",
+    "identify.button": "وہ کیا ہے؟",
+    "identify.title": "وہ کیا ہے؟",
+    "identify.hint": "شناخت کے لیے کہیں بھی ٹیپ کریں",
+    "identify.accuracy": "قطب نما تقریباً 5° تک درست ہے، اس لیے یہ بہترین اندازے ہیں، یقین نہیں۔",
+    "identify.mostLikely": "زیادہ امکان ہے",
+    "identify.alsoNearby": "قریب بھی",
+    "identify.confidence": "{n}% مماثلت",
+    "identify.nothingHere": "وہاں سے {n}° کے اندر کچھ بھی درج نہیں ہے۔",
+    "identify.pointAtIt": "اس کی طرف اشارہ کریں",
+    "identify.needsLocation": "شناخت کو یہ جاننے کے لیے آپ کے مقام کی ضرورت ہے کہ آپ کس آسمان کے نیچے ہیں۔",
+    "identify.cat.all": "سب",
+    "identify.cat.core": "سیارے",
+    "identify.cat.stars": "ستارے",
+    "identify.manualLocation": "دستی مقام"
   },
   "content": {
     "bodyName": {

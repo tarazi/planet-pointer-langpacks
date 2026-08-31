@@ -262,7 +262,21 @@
     "season.spring": "Kōanga",
     "season.summer": "Raumati",
     "season.autumn": "Ngahuru",
-    "season.allYear": "Te tau katoa"
+    "season.allYear": "Te tau katoa",
+    "identify.button": "He aha tērā?",
+    "identify.title": "He aha tērā?",
+    "identify.hint": "Pāwhiritia tētahi mea hei tautuhi",
+    "identify.accuracy": "E tika ana te kāpehu ki te 5° neke atu, nō reira he whakaaro pai noa ēnei, ehara i te mea mōhio pū.",
+    "identify.mostLikely": "Te nuinga o te wā",
+    "identify.alsoNearby": "Tata anō hoki",
+    "identify.confidence": "{n}% ōrite",
+    "identify.nothingHere": "Kāore he mea kua tuhia ki roto i te {n}° mai i reira.",
+    "identify.pointAtIt": "Whakaahu atu ki reira",
+    "identify.needsLocation": "Me whai wāhi te Tautuhi ki tō wāhi kia mōhio ai he aha te rangi kei runga i a koe.",
+    "identify.cat.all": "Katoa",
+    "identify.cat.core": "Ngā Whetu Ao",
+    "identify.cat.stars": "Ngā Whetu",
+    "identify.manualLocation": "Wāhi tautuhi ā-ringa"
   },
   "content": {
     "bodyName": {},

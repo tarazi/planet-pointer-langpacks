@@ -262,7 +262,21 @@
     "season.spring": "بهار",
     "season.summer": "تابستان",
     "season.autumn": "پاییز",
-    "season.allYear": "تمام سال"
+    "season.allYear": "تمام سال",
+    "identify.button": "آن چیست؟",
+    "identify.title": "آن چیست؟",
+    "identify.hint": "برای شناسایی، هر جایی را لمس کنید",
+    "identify.accuracy": "قطب‌نما تا حدود 5 درجه دقیق است، پس این‌ها بهترین حدس‌ها هستند، نه قطعیت.",
+    "identify.mostLikely": "به احتمال زیاد",
+    "identify.alsoNearby": "در نزدیکی نیز",
+    "identify.confidence": "{n}% تطابق",
+    "identify.nothingHere": "چیزی در محدوده {n}° از آنجا ثبت نشده است.",
+    "identify.pointAtIt": "به سمت آن اشاره کنید",
+    "identify.needsLocation": "شناسایی برای دانستن اینکه زیر کدام آسمان هستید، به موقعیت مکانی شما نیاز دارد.",
+    "identify.cat.all": "همه",
+    "identify.cat.core": "سیارات",
+    "identify.cat.stars": "ستاره‌ها",
+    "identify.manualLocation": "موقعیت دستی"
   },
   "content": {
     "bodyName": {

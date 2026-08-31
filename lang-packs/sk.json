@@ -262,7 +262,21 @@
     "season.spring": "Jar",
     "season.summer": "Leto",
     "season.autumn": "Jeseň",
-    "season.allYear": "Celý rok"
+    "season.allYear": "Celý rok",
+    "identify.button": "Čo je to?",
+    "identify.title": "Čo je to?",
+    "identify.hint": "Klepnutím na čokoľvek to identifikujete",
+    "identify.accuracy": "Kompas je presný na približne 5°, takže ide o najlepšie odhady, nie istoty.",
+    "identify.mostLikely": "Najpravdepodobnejšie",
+    "identify.alsoNearby": "Tiež nablízku",
+    "identify.confidence": "{n}% zhoda",
+    "identify.nothingHere": "V okruhu {n}° odtiaľ nie je nič v katalógu.",
+    "identify.pointAtIt": "Namierte naň",
+    "identify.needsLocation": "Identifikácia potrebuje vašu polohu, aby vedela, pod akou oblohou ste.",
+    "identify.cat.all": "Všetky",
+    "identify.cat.core": "Planéty",
+    "identify.cat.stars": "Hviezdy",
+    "identify.manualLocation": "Ručná poloha"
   },
   "content": {
     "bodyName": {

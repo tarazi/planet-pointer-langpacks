@@ -262,7 +262,21 @@
     "season.autumn": "Birraa",
     "season.allYear": "Waggaa guutuu",
     "common.on": "Bani",
-    "common.off": "Cufi"
+    "common.off": "Cufi",
+    "identify.button": "Sun maali?",
+    "identify.title": "Sun maali?",
+    "identify.hint": "Beekuuf iddoo kamiyyuu tuqi",
+    "identify.accuracy": "Kompaasiin hanga digrii 5° sirriidha, kanaafuu kun yaada gaarii ta'e malee mirkaneeffannaa miti.",
+    "identify.mostLikely": "Baay'ee ta'uu danda'a",
+    "identify.alsoNearby": "Naannoo sanattis",
+    "identify.confidence": "{n}% wal simuu",
+    "identify.nothingHere": "Achi keessatti {n}° keessatti wanti galmeeffame hin jiru.",
+    "identify.pointAtIt": "Gara isaatti argisiisi",
+    "identify.needsLocation": "Adda baasuun bakka ati jirtu beekuuf bakka kee barbaada.",
+    "identify.cat.all": "Hunda",
+    "identify.cat.core": "Saanqaalee",
+    "identify.cat.stars": "Urjiilee",
+    "identify.manualLocation": "Bakka harkaan qindaa'e"
   },
   "content": {
     "bodyName": {},

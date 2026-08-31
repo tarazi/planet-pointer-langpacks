@@ -262,7 +262,21 @@
     "season.spring": "Пролет",
     "season.summer": "Лято",
     "season.autumn": "Есен",
-    "season.allYear": "Цяла година"
+    "season.allYear": "Цяла година",
+    "identify.button": "Какво е това?",
+    "identify.title": "Какво е това?",
+    "identify.hint": "Докоснете нещо, за да го разпознаете",
+    "identify.accuracy": "Компасът е точен до около 5°, затова това са най-добри предположения, а не сигурност.",
+    "identify.mostLikely": "Най-вероятно",
+    "identify.alsoNearby": "Също наблизо",
+    "identify.confidence": "{n}% съвпадение",
+    "identify.nothingHere": "Нищо каталогизирано в рамките на {n}° оттам.",
+    "identify.pointAtIt": "Насочете се към него",
+    "identify.needsLocation": "Разпознаването се нуждае от местоположението ви, за да знае под кое небе сте.",
+    "identify.cat.all": "Всички",
+    "identify.cat.core": "Планети",
+    "identify.cat.stars": "Звезди",
+    "identify.manualLocation": "Ръчно местоположение"
   },
   "content": {
     "bodyName": {

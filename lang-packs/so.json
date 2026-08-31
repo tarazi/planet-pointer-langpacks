@@ -262,7 +262,21 @@
     "season.autumn": "Dayr",
     "season.allYear": "Sannadka oo dhan",
     "common.on": "Shid",
-    "common.off": "Key"
+    "common.off": "Key",
+    "identify.button": "Waa maxay taasi?",
+    "identify.title": "Waa maxay taasi?",
+    "identify.hint": "Riix wax kasta si aad u aqoonsato",
+    "identify.accuracy": "Kombaska waa sax ilaa 5°, sidaa daraaddeed kuwani waa qiyaas ugu fiican, ma aha xaqiiqo.",
+    "identify.mostLikely": "Marka ugu badan",
+    "identify.alsoNearby": "Sidoo kale dhow",
+    "identify.confidence": "{n}% waafaqsan",
+    "identify.nothingHere": "Wax lagu diiwaan geliyay {n}° gudahood halkaas kama jiraan.",
+    "identify.pointAtIt": "Ku tilmaan",
+    "identify.needsLocation": "Aqoonsigu wuxuu u baahan yahay goobtaada si loo ogaado cirka aad ku hoos jirto.",
+    "identify.cat.all": "Dhammaan",
+    "identify.cat.core": "Meeraha",
+    "identify.cat.stars": "Xiddigaha",
+    "identify.manualLocation": "Goob si gacanta loo dejiyay"
   },
   "content": {
     "bodyName": {},

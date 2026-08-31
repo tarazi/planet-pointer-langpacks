@@ -262,7 +262,21 @@
     "season.spring": "Весна",
     "season.summer": "Літо",
     "season.autumn": "Осінь",
-    "season.allYear": "Цілий рік"
+    "season.allYear": "Цілий рік",
+    "identify.button": "Що це?",
+    "identify.title": "Що це?",
+    "identify.hint": "Торкніться будь-чого, щоб визначити",
+    "identify.accuracy": "Компас точний приблизно до 5°, тож це найкращі припущення, а не точні дані.",
+    "identify.mostLikely": "Найімовірніше",
+    "identify.alsoNearby": "Також поблизу",
+    "identify.confidence": "{n}% збіг",
+    "identify.nothingHere": "У межах {n}° звідти нічого не занесено до каталогу.",
+    "identify.pointAtIt": "Наведіть на нього",
+    "identify.needsLocation": "Розпізнаванню потрібне ваше місцезнаходження, щоб знати, під яким небом ви є.",
+    "identify.cat.all": "Усі",
+    "identify.cat.core": "Планети",
+    "identify.cat.stars": "Зірки",
+    "identify.manualLocation": "Місцезнаходження вручну"
   },
   "content": {
     "bodyName": {

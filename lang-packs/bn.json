@@ -262,7 +262,21 @@
     "season.spring": "বসন্তকাল",
     "season.summer": "গ্রীষ্মকাল",
     "season.autumn": "শরৎকাল",
-    "season.allYear": "সারা বছর"
+    "season.allYear": "সারা বছর",
+    "identify.button": "ওটা কী?",
+    "identify.title": "ওটা কী?",
+    "identify.hint": "শনাক্ত করতে যেকোনো জায়গায় ট্যাপ করুন",
+    "identify.accuracy": "কম্পাস প্রায় 5° পর্যন্ত সঠিক, তাই এগুলো সেরা অনুমান, নিশ্চিততা নয়।",
+    "identify.mostLikely": "সম্ভবত",
+    "identify.alsoNearby": "কাছেও রয়েছে",
+    "identify.confidence": "{n}% মিল",
+    "identify.nothingHere": "সেখান থেকে {n}° এর মধ্যে তালিকাভুক্ত কিছু নেই।",
+    "identify.pointAtIt": "এর দিকে নির্দেশ করুন",
+    "identify.needsLocation": "শনাক্তকরণের জন্য আপনার অবস্থান প্রয়োজন যাতে জানা যায় আপনি কোন আকাশের নিচে আছেন।",
+    "identify.cat.all": "সব",
+    "identify.cat.core": "গ্রহ",
+    "identify.cat.stars": "তারা",
+    "identify.manualLocation": "ম্যানুয়াল অবস্থান"
   },
   "content": {
     "bodyName": {

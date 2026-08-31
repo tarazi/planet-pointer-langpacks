@@ -262,7 +262,21 @@
     "season.spring": "Frühling",
     "season.summer": "Sommer",
     "season.autumn": "Herbst",
-    "season.allYear": "Das ganze Jahr"
+    "season.allYear": "Das ganze Jahr",
+    "identify.button": "Was ist das?",
+    "identify.title": "Was ist das?",
+    "identify.hint": "Tippe auf irgendetwas, um es zu identifizieren",
+    "identify.accuracy": "Der Kompass ist auf etwa 5° genau, das sind also Schätzungen, keine Gewissheiten.",
+    "identify.mostLikely": "Höchstwahrscheinlich",
+    "identify.alsoNearby": "Auch in der Nähe",
+    "identify.confidence": "{n}% Übereinstimmung",
+    "identify.nothingHere": "Innerhalb von {n}° von dort ist nichts katalogisiert.",
+    "identify.pointAtIt": "Darauf zeigen",
+    "identify.needsLocation": "Identifizieren benötigt deinen Standort, um zu wissen, unter welchem Himmel du dich befindest.",
+    "identify.cat.all": "Alle",
+    "identify.cat.core": "Planeten",
+    "identify.cat.stars": "Sterne",
+    "identify.manualLocation": "Manueller Standort"
   },
   "content": {
     "bodyName": {

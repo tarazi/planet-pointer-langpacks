@@ -262,7 +262,21 @@
     "season.spring": "Pavasaris",
     "season.summer": "Vasara",
     "season.autumn": "Rudens",
-    "season.allYear": "Visu gadu"
+    "season.allYear": "Visu gadu",
+    "identify.button": "Kas tas ir?",
+    "identify.title": "Kas tas ir?",
+    "identify.hint": "Pieskarieties jebkam, lai to identificētu",
+    "identify.accuracy": "Kompass ir precīzs līdz apmēram 5°, tāpēc šie ir labākie minējumi, nevis droši dati.",
+    "identify.mostLikely": "Visticamāk",
+    "identify.alsoNearby": "Arī tuvumā",
+    "identify.confidence": "{n}% sakritība",
+    "identify.nothingHere": "{n}° attālumā no turienes nekas nav katalogizēts.",
+    "identify.pointAtIt": "Norādiet uz to",
+    "identify.needsLocation": "Identificēšanai nepieciešama jūsu atrašanās vieta, lai zinātu, zem kādām debesīm jūs esat.",
+    "identify.cat.all": "Visi",
+    "identify.cat.core": "Planētas",
+    "identify.cat.stars": "Zvaigznes",
+    "identify.manualLocation": "Manuāli iestatīta vieta"
   },
   "content": {
     "bodyName": {

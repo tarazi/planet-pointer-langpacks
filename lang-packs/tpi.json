@@ -262,7 +262,21 @@
     "season.autumn": "Taim bilong lip i pundaun",
     "season.allYear": "Olgeta yia",
     "common.on": "On",
-    "common.off": "Of"
+    "common.off": "Of",
+    "identify.button": "Em wanem samting?",
+    "identify.title": "Em wanem samting?",
+    "identify.hint": "Tasim wanpela samting long save gut long en",
+    "identify.accuracy": "Kampas i stret inap 5°, olsem na ol dispela em ol gutpela tingting, i no as tru.",
+    "identify.mostLikely": "Bikpela sans",
+    "identify.alsoNearby": "I stap klostu tu",
+    "identify.confidence": "{n}% wankain",
+    "identify.nothingHere": "I no gat wanpela samting i stap long buk insait long {n}° long dispela ples.",
+    "identify.pointAtIt": "Sanapim i go long en",
+    "identify.needsLocation": "Save gut i nidim ples bilong yu bilong save wanem skai yu stap aninit long en.",
+    "identify.cat.all": "Olgeta",
+    "identify.cat.core": "Ol Planet",
+    "identify.cat.stars": "Ol Sta",
+    "identify.manualLocation": "Ples ol i putim wanpela wanpela"
   },
   "content": {
     "bodyName": {},

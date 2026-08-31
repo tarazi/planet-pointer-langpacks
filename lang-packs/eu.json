@@ -262,7 +262,21 @@
     "season.spring": "Udaberria",
     "season.summer": "Uda",
     "season.autumn": "Udazkena",
-    "season.allYear": "Urte osoan"
+    "season.allYear": "Urte osoan",
+    "identify.button": "Zer da hori?",
+    "identify.title": "Zer da hori?",
+    "identify.hint": "Sakatu edozer identifikatzeko",
+    "identify.accuracy": "Iparrorratzak 5° inguruko zehaztasuna du, beraz, hauek asmakizun onenak dira, ez ziurtasunak.",
+    "identify.mostLikely": "Ziurrenik",
+    "identify.alsoNearby": "Gertu ere",
+    "identify.confidence": "{n}% bat-etortze",
+    "identify.nothingHere": "Handik {n}°-ra ez dago ezer katalogatuta.",
+    "identify.pointAtIt": "Seinalatu horra",
+    "identify.needsLocation": "Identifikatzeak zure kokapena behar du zein zerutan zauden jakiteko.",
+    "identify.cat.all": "Dena",
+    "identify.cat.core": "Planetak",
+    "identify.cat.stars": "Izarrak",
+    "identify.manualLocation": "Eskuzko kokapena"
   },
   "content": {
     "bodyName": {

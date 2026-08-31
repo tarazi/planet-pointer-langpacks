@@ -262,7 +262,21 @@
     "season.spring": "Intwasahlobo",
     "season.summer": "Ihlobo",
     "season.autumn": "Ukwindla",
-    "season.allYear": "Unyaka wonke"
+    "season.allYear": "Unyaka wonke",
+    "identify.button": "Yini leyo?",
+    "identify.title": "Yini leyo?",
+    "identify.hint": "Thepha noma yini ukuyihlonza",
+    "identify.accuracy": "Ikhampasi ichanekile cishe ku-5°, ngakho lokhu kuwukuqagela okuhle kunazo zonke, hhayi ukuqiniseka.",
+    "identify.mostLikely": "Kungenzeka kakhulu",
+    "identify.alsoNearby": "Eduze nakho",
+    "identify.confidence": "{n}% okufanayo",
+    "identify.nothingHere": "Akukho okubhaliwe ngaphakathi kwe-{n}° kusuka lapho.",
+    "identify.pointAtIt": "Khomba kukho",
+    "identify.needsLocation": "Ukuhlonza kudinga indawo okuyo ukwazi ukuthi ungaphansi kwaliphi izulu.",
+    "identify.cat.all": "Konke",
+    "identify.cat.core": "Izinhlaba",
+    "identify.cat.stars": "Izinkanyezi",
+    "identify.manualLocation": "Indawo emiswe ngesandla"
   },
   "content": {
     "bodyName": {},

@@ -262,7 +262,21 @@
     "season.spring": "Tavasz",
     "season.summer": "Nyár",
     "season.autumn": "Ősz",
-    "season.allYear": "Egész évben"
+    "season.allYear": "Egész évben",
+    "identify.button": "Az mi?",
+    "identify.title": "Az mi?",
+    "identify.hint": "Koppints bárhová az azonosításhoz",
+    "identify.accuracy": "Az iránytű kb. 5°-ig pontos, ezért ezek csak legjobb becslések, nem biztos adatok.",
+    "identify.mostLikely": "Legvalószínűbb",
+    "identify.alsoNearby": "Közelben is",
+    "identify.confidence": "{n}% egyezés",
+    "identify.nothingHere": "{n}°-on belül semmi nincs katalogizálva onnan.",
+    "identify.pointAtIt": "Mutass rá",
+    "identify.needsLocation": "Az Azonosításnak szüksége van a helyzetedre, hogy tudja, melyik ég alatt vagy.",
+    "identify.cat.all": "Összes",
+    "identify.cat.core": "Bolygók",
+    "identify.cat.stars": "Csillagok",
+    "identify.manualLocation": "Kézi hely"
   },
   "content": {
     "bodyName": {

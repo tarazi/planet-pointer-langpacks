@@ -262,7 +262,21 @@
     "season.spring": "နွေဦးရာသီ",
     "season.summer": "နွေရာသီ",
     "season.autumn": "ဆောင်းဦးရာသီ",
-    "season.allYear": "တစ်နှစ်ပတ်လုံး"
+    "season.allYear": "တစ်နှစ်ပတ်လုံး",
+    "identify.button": "အဲဒါဘာလဲ?",
+    "identify.title": "အဲဒါဘာလဲ?",
+    "identify.hint": "ခွဲခြားသိရှိရန် မည်သည့်နေရာမဆို တို့ပါ",
+    "identify.accuracy": "အိမ်တိုင်းယန်တြားသည် 5° ခန့်အထိ တိကျပြီး ၎င်းတို့မှာ အကောင်းဆုံးခန့်မှန်းချက်များသာဖြစ်ပြီး သေချာမှုမဟုတ်ပါ။",
+    "identify.mostLikely": "အဖြစ်များဆုံး",
+    "identify.alsoNearby": "အနီးတွင်လည်း",
+    "identify.confidence": "{n}% ကိုက်ညီမှု",
+    "identify.nothingHere": "ထိုနေရာမှ {n}° အတွင်း မှတ်တမ်းတင်ထားသည် မရှိပါ။",
+    "identify.pointAtIt": "၎င်းဆီသို့ ညွှန်ပြပါ",
+    "identify.needsLocation": "မည်သည့်ကောင်းကင်အောက်တွင် ရှိနေသည်ကို သိရှိရန် ခွဲခြားသိရှိမှုသည် သင့်တည်နေရာ လိုအပ်သည်။",
+    "identify.cat.all": "အားလုံး",
+    "identify.cat.core": "ဂြိုဟ်များ",
+    "identify.cat.stars": "ကြယ်များ",
+    "identify.manualLocation": "ကိုယ်တိုင်သတ်မှတ်သော တည်နေရာ"
   },
   "content": {
     "bodyName": {},

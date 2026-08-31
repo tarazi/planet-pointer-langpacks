@@ -262,7 +262,21 @@
     "season.spring": "រដូវផ្ការីក",
     "season.summer": "រដូវក្តៅ",
     "season.autumn": "រដូវស្លឹកឈើជ្រុះ",
-    "season.allYear": "ពេញមួយឆ្នាំ"
+    "season.allYear": "ពេញមួយឆ្នាំ",
+    "identify.button": "នោះជាអ្វី?",
+    "identify.title": "នោះជាអ្វី?",
+    "identify.hint": "ចុចលើអ្វីមួយដើម្បីកំណត់អត្តសញ្ញាណវា",
+    "identify.accuracy": "ត្រីវិស័យមានភាពត្រឹមត្រូវប្រហែល 5° ដូច្នេះទាំងនេះជាការទាយល្អបំផុត មិនមែនជាភាពប្រាកដនោះទេ។",
+    "identify.mostLikely": "ទំនងជា",
+    "identify.alsoNearby": "ក៏នៅជិតដែរ",
+    "identify.confidence": "{n}% ត្រូវគ្នា",
+    "identify.nothingHere": "មិនមានវត្ថុណាមួយត្រូវបានចុះបញ្ជីក្នុងចម្ងាយ {n}° ពីទីនោះទេ។",
+    "identify.pointAtIt": "ចង្អុលទៅវា",
+    "identify.needsLocation": "មុខងារកំណត់អត្តសញ្ញាណត្រូវការទីតាំងរបស់អ្នក ដើម្បីដឹងថាអ្នកនៅក្រោមមេឃណា។",
+    "identify.cat.all": "ទាំងអស់",
+    "identify.cat.core": "ភព",
+    "identify.cat.stars": "ផ្កាយ",
+    "identify.manualLocation": "ទីតាំងកំណត់ដោយដៃ"
   },
   "content": {
     "bodyName": {},

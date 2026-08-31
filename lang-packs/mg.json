@@ -262,7 +262,21 @@
     "season.spring": "Lohataona",
     "season.summer": "Fahavaratra",
     "season.autumn": "Fararano",
-    "season.allYear": "Mandritra ny taona"
+    "season.allYear": "Mandritra ny taona",
+    "identify.button": "Inona izany?",
+    "identify.title": "Inona izany?",
+    "identify.hint": "Tsindrio na inona na inona hamantarana azy",
+    "identify.accuracy": "Marina hatramin'ny 5° eo ho eo ny kômpa, ka vinavina tsara indrindra ireto fa tsy zavatra azo antoka.",
+    "identify.mostLikely": "Mety indrindra",
+    "identify.alsoNearby": "Akaiky ihany koa",
+    "identify.confidence": "{n}% mifanaraka",
+    "identify.nothingHere": "Tsy misy voarakitra ao anatin'ny {n}° eo amin'io toerana io.",
+    "identify.pointAtIt": "Atokisa mankany aminy",
+    "identify.needsLocation": "Mila ny toerana misy anao ny Famantarana mba hahafantarana ny lanitra ambonin'ny lohanao.",
+    "identify.cat.all": "Rehetra",
+    "identify.cat.core": "Planety",
+    "identify.cat.stars": "Kintana",
+    "identify.manualLocation": "Toerana napetraka an-tanana"
   },
   "content": {
     "bodyName": {},

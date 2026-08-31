@@ -262,7 +262,21 @@
     "season.spring": "ਬਸੰਤ",
     "season.summer": "ਗਰਮੀ",
     "season.autumn": "ਪਤਝੜ",
-    "season.allYear": "ਸਾਰਾ ਸਾਲ"
+    "season.allYear": "ਸਾਰਾ ਸਾਲ",
+    "identify.button": "ਉਹ ਕੀ ਹੈ?",
+    "identify.title": "ਉਹ ਕੀ ਹੈ?",
+    "identify.hint": "ਪਛਾਣ ਲਈ ਕਿਤੇ ਵੀ ਟੈਪ ਕਰੋ",
+    "identify.accuracy": "ਕੰਪਾਸ ਲਗਭਗ 5° ਤੱਕ ਸਟੀਕ ਹੈ, ਇਸ ਲਈ ਇਹ ਸਭ ਤੋਂ ਵਧੀਆ ਅਨੁਮਾਨ ਹਨ, ਯਕੀਨੀ ਨਹੀਂ।",
+    "identify.mostLikely": "ਸਭ ਤੋਂ ਵੱਧ ਸੰਭਾਵਨਾ",
+    "identify.alsoNearby": "ਨੇੜੇ ਵੀ",
+    "identify.confidence": "{n}% ਮੇਲ",
+    "identify.nothingHere": "ਉੱਥੋਂ {n}° ਦੇ ਅੰਦਰ ਕੁਝ ਵੀ ਸੂਚੀਬੱਧ ਨਹੀਂ ਹੈ।",
+    "identify.pointAtIt": "ਇਸ ਵੱਲ ਇਸ਼ਾਰਾ ਕਰੋ",
+    "identify.needsLocation": "ਪਛਾਣ ਲਈ ਤੁਹਾਡੀ ਸਥਿਤੀ ਦੀ ਲੋੜ ਹੈ ਤਾਂ ਜੋ ਪਤਾ ਲੱਗ ਸਕੇ ਕਿ ਤੁਸੀਂ ਕਿਸ ਅਸਮਾਨ ਹੇਠ ਹੋ।",
+    "identify.cat.all": "ਸਭ",
+    "identify.cat.core": "ਗ੍ਰਹਿ",
+    "identify.cat.stars": "ਤਾਰੇ",
+    "identify.manualLocation": "ਦਸਤੀ ਸਥਾਨ"
   },
   "content": {
     "bodyName": {

@@ -262,7 +262,21 @@
     "season.spring": "Earrach",
     "season.summer": "Samhradh",
     "season.autumn": "Fómhar",
-    "season.allYear": "Bliain ar fad"
+    "season.allYear": "Bliain ar fad",
+    "identify.button": "Cad é sin?",
+    "identify.title": "Cad é sin?",
+    "identify.hint": "Tapáil rud ar bith chun é a aithint",
+    "identify.accuracy": "Tá an compás cruinn go dtí thart ar 5°, mar sin is buillí faoi thuairim iad seo, ní deimhne.",
+    "identify.mostLikely": "Is dócha",
+    "identify.alsoNearby": "In aice láimhe freisin",
+    "identify.confidence": "{n}% meaitseáil",
+    "identify.nothingHere": "Níl aon rud catalógaithe laistigh de {n}° ón áit sin.",
+    "identify.pointAtIt": "Dírigh air",
+    "identify.needsLocation": "Teastaíonn do shuíomh ó Aithint chun a fháil amach cén spéir atá tú fúithi.",
+    "identify.cat.all": "Go léir",
+    "identify.cat.core": "Pláinéid",
+    "identify.cat.stars": "Réaltaí",
+    "identify.manualLocation": "Suíomh de láimh"
   },
   "content": {
     "bodyName": {},

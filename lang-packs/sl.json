@@ -262,7 +262,21 @@
     "season.spring": "Pomlad",
     "season.summer": "Poletje",
     "season.autumn": "Jesen",
-    "season.allYear": "Vse leto"
+    "season.allYear": "Vse leto",
+    "identify.button": "Kaj je to?",
+    "identify.title": "Kaj je to?",
+    "identify.hint": "Dotaknite se česarkoli, da ga prepoznate",
+    "identify.accuracy": "Kompas je natančen na približno 5°, zato so to najboljše ocene, ne gotovosti.",
+    "identify.mostLikely": "Najverjetneje",
+    "identify.alsoNearby": "Tudi v bližini",
+    "identify.confidence": "{n}% ujemanje",
+    "identify.nothingHere": "V krogu {n}° od tam ni ničesar v katalogu.",
+    "identify.pointAtIt": "Pokažite nanj",
+    "identify.needsLocation": "Prepoznavanje potrebuje vašo lokacijo, da ve, pod katerim nebom ste.",
+    "identify.cat.all": "Vse",
+    "identify.cat.core": "Planeti",
+    "identify.cat.stars": "Zvezde",
+    "identify.manualLocation": "Ročna lokacija"
   },
   "content": {
     "bodyName": {

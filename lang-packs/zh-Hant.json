@@ -262,7 +262,21 @@
     "season.spring": "春季",
     "season.summer": "夏季",
     "season.autumn": "秋季",
-    "season.allYear": "全年"
+    "season.allYear": "全年",
+    "identify.button": "那是什麼？",
+    "identify.title": "那是什麼？",
+    "identify.hint": "點擊任何位置以進行識別",
+    "identify.accuracy": "指南針精度約為5°，因此這些只是最佳猜測，並非確定結果。",
+    "identify.mostLikely": "最有可能是",
+    "identify.alsoNearby": "附近還有",
+    "identify.confidence": "{n}% 相符",
+    "identify.nothingHere": "那裡{n}°範圍內沒有已收錄的天體。",
+    "identify.pointAtIt": "指向它",
+    "identify.needsLocation": "識別功能需要您的位置資訊，以確定您所在的天空。",
+    "identify.cat.all": "全部",
+    "identify.cat.core": "行星",
+    "identify.cat.stars": "星星",
+    "identify.manualLocation": "手動位置"
   },
   "content": {
     "bodyName": {

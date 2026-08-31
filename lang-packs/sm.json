@@ -262,7 +262,21 @@
     "season.autumn": "Tau toʻulu",
     "season.allYear": "Tausaga atoa",
     "common.on": "On",
-    "common.off": "Off"
+    "common.off": "Off",
+    "identify.button": "O le a lena mea?",
+    "identify.title": "O le a lena mea?",
+    "identify.hint": "Pipiki soo se mea e iloa ai",
+    "identify.accuracy": "E sa'o le tapasa i le 5°, o lea o ia mea o mea sili ona lelei e mafaufau i ai, ae le o le mautinoa.",
+    "identify.mostLikely": "E sili atu ona ono tupu",
+    "identify.alsoNearby": "E lata mai foi",
+    "identify.confidence": "{n}% fetaui",
+    "identify.nothingHere": "E leai se mea ua lisiina i totonu o le {n}° mai iina.",
+    "identify.pointAtIt": "Tusi atu i ai",
+    "identify.needsLocation": "E manaʻomia e le Iloa lou nofoaga ina ia iloa po o le a le lagi o loo e i ai.",
+    "identify.cat.all": "Uma",
+    "identify.cat.core": "Paneta",
+    "identify.cat.stars": "Fetu",
+    "identify.manualLocation": "Nofoaga ua fuafuaina lima"
   },
   "content": {
     "bodyName": {},

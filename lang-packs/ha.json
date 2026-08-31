@@ -262,7 +262,21 @@
     "season.spring": "Bazara",
     "season.summer": "Rani",
     "season.autumn": "Kaka",
-    "season.allYear": "Cikin shekara"
+    "season.allYear": "Cikin shekara",
+    "identify.button": "Mece ce wancan?",
+    "identify.title": "Mece ce wancan?",
+    "identify.hint": "Taɓa kowane abu don gane shi",
+    "identify.accuracy": "Kamfas daidai ne har zuwa digiri 5°, don haka waɗannan tsammani ne mafi kyau, ba tabbaci ba.",
+    "identify.mostLikely": "Mafi yiwuwa",
+    "identify.alsoNearby": "Kusa da nan ma",
+    "identify.confidence": "{n}% dacewa",
+    "identify.nothingHere": "Babu wani abu da aka jera cikin {n}° daga can.",
+    "identify.pointAtIt": "Ka nuna zuwa gare shi",
+    "identify.needsLocation": "Ganewa yana bukatar wurinka don sanin wane sama kake ƙarƙashinsa.",
+    "identify.cat.all": "Duka",
+    "identify.cat.core": "Taurari",
+    "identify.cat.stars": "Taurari",
+    "identify.manualLocation": "Wurin da aka saita da hannu"
   },
   "content": {
     "bodyName": {},

@@ -262,7 +262,21 @@
     "season.spring": "ፀደይ",
     "season.summer": "በጋ",
     "season.autumn": "መፀው",
-    "season.allYear": "ዓመቱን ሙሉ"
+    "season.allYear": "ዓመቱን ሙሉ",
+    "identify.button": "ያ ምንድን ነው?",
+    "identify.title": "ያ ምንድን ነው?",
+    "identify.hint": "ለመለየት ማንኛውንም ነገር ይንኩ",
+    "identify.accuracy": "ኮምፓሱ እስከ 5° ገደማ ትክክለኛ ነው፣ ስለዚህ እነዚህ ግምቶች እንጂ እርግጠኝነት አይደሉም።",
+    "identify.mostLikely": "እጅግ የሚመስለው",
+    "identify.alsoNearby": "በአቅራቢያም",
+    "identify.confidence": "{n}% ተመሳሳይነት",
+    "identify.nothingHere": "ከዚያ በ{n}° ውስጥ የተመዘገበ ነገር የለም።",
+    "identify.pointAtIt": "ወደ እሱ ጠቁም",
+    "identify.needsLocation": "መለያ ሥር የትኛው ሰማይ ላይ እንዳለህ ለማወቅ አካባቢህን ይፈልጋል።",
+    "identify.cat.all": "ሁሉም",
+    "identify.cat.core": "ፕላኔቶች",
+    "identify.cat.stars": "ከዋክብት",
+    "identify.manualLocation": "በእጅ የተቀመጠ አካባቢ"
   },
   "content": {
     "bodyName": {},

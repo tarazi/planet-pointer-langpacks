@@ -262,7 +262,21 @@
     "season.spring": "Primavera",
     "season.summer": "Estiu",
     "season.autumn": "Tardor",
-    "season.allYear": "Tot l'any"
+    "season.allYear": "Tot l'any",
+    "identify.button": "Què és allò?",
+    "identify.title": "Què és allò?",
+    "identify.hint": "Toca qualsevol cosa per identificar-la",
+    "identify.accuracy": "La brúixola és precisa a uns 5°, així que són les millors conjectures, no certeses.",
+    "identify.mostLikely": "Probablement",
+    "identify.alsoNearby": "També a prop",
+    "identify.confidence": "{n}% de coincidència",
+    "identify.nothingHere": "Res catalogat a menys de {n}° d'allà.",
+    "identify.pointAtIt": "Apunta-hi",
+    "identify.needsLocation": "Identificar necessita la teva ubicació per saber sota quin cel ets.",
+    "identify.cat.all": "Tot",
+    "identify.cat.core": "Planetes",
+    "identify.cat.stars": "Estrelles",
+    "identify.manualLocation": "Ubicació manual"
   },
   "content": {
     "bodyName": {

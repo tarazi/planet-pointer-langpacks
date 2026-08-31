@@ -262,7 +262,21 @@
     "season.spring": "Pavasaris",
     "season.summer": "Vasara",
     "season.autumn": "Ruduo",
-    "season.allYear": "Visus metus"
+    "season.allYear": "Visus metus",
+    "identify.button": "Kas tai?",
+    "identify.title": "Kas tai?",
+    "identify.hint": "Bakstelėkite bet ką, kad atpažintumėte",
+    "identify.accuracy": "Kompasas tikslus iki maždaug 5°, todėl tai geriausi spėjimai, o ne tikri faktai.",
+    "identify.mostLikely": "Labiausiai tikėtina",
+    "identify.alsoNearby": "Taip pat netoliese",
+    "identify.confidence": "{n}% atitikimas",
+    "identify.nothingHere": "{n}° spinduliu nuo ten nieko nėra sukataloguota.",
+    "identify.pointAtIt": "Nukreipkite į tai",
+    "identify.needsLocation": "Atpažinimui reikia jūsų vietos, kad žinotų, po kokiu dangumi esate.",
+    "identify.cat.all": "Visi",
+    "identify.cat.core": "Planetos",
+    "identify.cat.stars": "Žvaigždės",
+    "identify.manualLocation": "Rankiniu būdu nustatyta vieta"
   },
   "content": {
     "bodyName": {

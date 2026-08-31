@@ -262,7 +262,21 @@
     "season.autumn": "Ìgbà ìwọ́wé",
     "season.allYear": "Gbogbo ọdún",
     "common.on": "Tan",
-    "common.off": "Pa"
+    "common.off": "Pa",
+    "identify.button": "Kí ni ìyẹn?",
+    "identify.title": "Kí ni ìyẹn?",
+    "identify.hint": "Fọwọ́ba ibikíbi láti dá a mọ̀",
+    "identify.accuracy": "Kọ́mpasi jẹ́ pípéye títí dé 5°, nítorí náà, àwọn wọ̀nyí jẹ́ àsọtẹ́lẹ̀ tí ó dára jùlọ, kìí ṣe òtítọ́ dájúdájú.",
+    "identify.mostLikely": "Ó ṣeéṣe jùlọ",
+    "identify.alsoNearby": "Nítòsí pẹ̀lú",
+    "identify.confidence": "{n}% ìbámu",
+    "identify.nothingHere": "Kò sí ohun tí a kọ sílẹ̀ láàrín {n}° láti ibẹ̀.",
+    "identify.pointAtIt": "Tọ́ka sí i",
+    "identify.needsLocation": "Ìdámọ̀ nílò ipò rẹ láti mọ ọ̀run wo lo wà lábẹ́ rẹ̀.",
+    "identify.cat.all": "Gbogbo",
+    "identify.cat.core": "Àwọn Pílánẹ̀tì",
+    "identify.cat.stars": "Àwọn Ìràwọ̀",
+    "identify.manualLocation": "Ipò tí a ṣètò fúnra rẹ"
   },
   "content": {
     "bodyName": {},

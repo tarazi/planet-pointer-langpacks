@@ -262,7 +262,21 @@
     "season.spring": "Lente",
     "season.summer": "Somer",
     "season.autumn": "Herfs",
-    "season.allYear": "Die hele jaar"
+    "season.allYear": "Die hele jaar",
+    "identify.button": "Wat is dit?",
+    "identify.title": "Wat is dit?",
+    "identify.hint": "Tik op enigiets om dit te identifiseer",
+    "identify.accuracy": "Die kompas is akkuraat tot ongeveer 5°, dus dit is die beste raaiskote, nie sekerhede nie.",
+    "identify.mostLikely": "Waarskynlik",
+    "identify.alsoNearby": "Ook naby",
+    "identify.confidence": "{n}% ooreenstemming",
+    "identify.nothingHere": "Niks binne {n}° van daar gekatalogiseer nie.",
+    "identify.pointAtIt": "Wys daarna",
+    "identify.needsLocation": "Identifisering het jou ligging nodig om te weet onder watter lug jy is.",
+    "identify.cat.all": "Alles",
+    "identify.cat.core": "Planete",
+    "identify.cat.stars": "Sterre",
+    "identify.manualLocation": "Handmatige ligging"
   },
   "content": {
     "bodyName": {},

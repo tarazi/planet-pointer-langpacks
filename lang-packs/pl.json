@@ -262,7 +262,21 @@
     "season.spring": "Wiosna",
     "season.summer": "Lato",
     "season.autumn": "Jesień",
-    "season.allYear": "Cały rok"
+    "season.allYear": "Cały rok",
+    "identify.button": "Co to jest?",
+    "identify.title": "Co to jest?",
+    "identify.hint": "Dotknij czegokolwiek, aby to zidentyfikować",
+    "identify.accuracy": "Kompas jest dokładny do około 5°, więc to są tylko najlepsze przypuszczenia, nie pewność.",
+    "identify.mostLikely": "Najprawdopodobniej",
+    "identify.alsoNearby": "Także w pobliżu",
+    "identify.confidence": "{n}% dopasowania",
+    "identify.nothingHere": "W promieniu {n}° stamtąd nic nie ma w katalogu.",
+    "identify.pointAtIt": "Wskaż na to",
+    "identify.needsLocation": "Identyfikacja potrzebuje Twojej lokalizacji, aby wiedzieć, pod jakim niebem jesteś.",
+    "identify.cat.all": "Wszystko",
+    "identify.cat.core": "Planety",
+    "identify.cat.stars": "Gwiazdy",
+    "identify.manualLocation": "Lokalizacja ręczna"
   },
   "content": {
     "bodyName": {

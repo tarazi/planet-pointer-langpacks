@@ -262,7 +262,21 @@
     "season.spring": "Musim bunga",
     "season.summer": "Musim panas",
     "season.autumn": "Musim luruh",
-    "season.allYear": "Sepanjang tahun"
+    "season.allYear": "Sepanjang tahun",
+    "identify.button": "Apa itu?",
+    "identify.title": "Apa itu?",
+    "identify.hint": "Ketik apa sahaja untuk mengenal pastinya",
+    "identify.accuracy": "Kompas tepat sehingga kira-kira 5°, jadi ini adalah tekaan terbaik, bukan kepastian.",
+    "identify.mostLikely": "Kemungkinan besar",
+    "identify.alsoNearby": "Juga berdekatan",
+    "identify.confidence": "{n}% padanan",
+    "identify.nothingHere": "Tiada apa dikatalogkan dalam {n}° dari sana.",
+    "identify.pointAtIt": "Tunjuk ke arahnya",
+    "identify.needsLocation": "Kenal pasti memerlukan lokasi anda untuk mengetahui di bawah langit yang mana anda berada.",
+    "identify.cat.all": "Semua",
+    "identify.cat.core": "Planet",
+    "identify.cat.stars": "Bintang",
+    "identify.manualLocation": "Lokasi manual"
   },
   "content": {
     "bodyName": {

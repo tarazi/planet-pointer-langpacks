@@ -262,7 +262,21 @@
     "season.spring": "Gwanwyn",
     "season.summer": "Haf",
     "season.autumn": "Hydref",
-    "season.allYear": "Trwy'r flwyddyn"
+    "season.allYear": "Trwy'r flwyddyn",
+    "identify.button": "Beth yw hwnnw?",
+    "identify.title": "Beth yw hwnnw?",
+    "identify.hint": "Tapiwch unrhyw beth i'w adnabod",
+    "identify.accuracy": "Mae'r cwmpawd yn gywir i tua 5°, felly dyfaliadau gorau yw'r rhain, nid sicrwydd.",
+    "identify.mostLikely": "Yn fwyaf tebygol",
+    "identify.alsoNearby": "Hefyd gerllaw",
+    "identify.confidence": "{n}% cydweddiad",
+    "identify.nothingHere": "Dim byd wedi'i gatalogio o fewn {n}° o'r fan honno.",
+    "identify.pointAtIt": "Pwyntiwch ato",
+    "identify.needsLocation": "Mae Adnabod angen eich lleoliad i wybod pa awyr rydych chi oddi tani.",
+    "identify.cat.all": "Pob un",
+    "identify.cat.core": "Planedau",
+    "identify.cat.stars": "Sêr",
+    "identify.manualLocation": "Lleoliad â llaw"
   },
   "content": {
     "bodyName": {},

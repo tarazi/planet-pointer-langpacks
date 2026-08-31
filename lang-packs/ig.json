@@ -262,7 +262,21 @@
     "season.autumn": "Oge ọdịda akwụkwọ",
     "season.allYear": "Afọ niile",
     "common.on": "Gbaa",
-    "common.off": "Gbanyụo"
+    "common.off": "Gbanyụo",
+    "identify.button": "Gịnị bụ nke ahụ?",
+    "identify.title": "Gịnị bụ nke ahụ?",
+    "identify.hint": "Bịkwasị ihe ọ bụla iji chọpụta ya",
+    "identify.accuracy": "Kompas ziri ezi ihe dịka 5°, ya mere ndị a bụ ezigbo echiche, ọ bụghị eziokwu doro anya.",
+    "identify.mostLikely": "O yikarịrị ka",
+    "identify.alsoNearby": "Nʼakụkụ ya kwa",
+    "identify.confidence": "{n}% dabara",
+    "identify.nothingHere": "Ọ dịghị ihe edekọrọ n'ime {n}° site ebe ahụ.",
+    "identify.pointAtIt": "Chụpụta ya",
+    "identify.needsLocation": "Nchọpụta chọrọ ọnọdụ gị iji mara mbara igwe ị nọ n'okpuru ya.",
+    "identify.cat.all": "Nile",
+    "identify.cat.core": "Mbara igwe",
+    "identify.cat.stars": "Kpakpando",
+    "identify.manualLocation": "Ebe edobere n'aka"
   },
   "content": {
     "bodyName": {},

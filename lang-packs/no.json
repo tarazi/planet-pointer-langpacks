@@ -262,7 +262,21 @@
     "season.spring": "Vår",
     "season.summer": "Sommer",
     "season.autumn": "Høst",
-    "season.allYear": "Hele året"
+    "season.allYear": "Hele året",
+    "identify.button": "Hva er det?",
+    "identify.title": "Hva er det?",
+    "identify.hint": "Trykk hvor som helst for å identifisere",
+    "identify.accuracy": "Kompasset er nøyaktig til rundt 5°, så dette er de beste gjetningene, ikke sikker viten.",
+    "identify.mostLikely": "Mest sannsynlig",
+    "identify.alsoNearby": "Også i nærheten",
+    "identify.confidence": "{n}% treff",
+    "identify.nothingHere": "Ingenting katalogisert innenfor {n}° derfra.",
+    "identify.pointAtIt": "Pek mot den",
+    "identify.needsLocation": "Identifiser trenger stedet ditt for å vite hvilken himmel du er under.",
+    "identify.cat.all": "Alle",
+    "identify.cat.core": "Planeter",
+    "identify.cat.stars": "Stjerner",
+    "identify.manualLocation": "Manuelt sted"
   },
   "content": {
     "bodyName": {

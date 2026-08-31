@@ -262,7 +262,21 @@
     "season.spring": "ฤดูใบไม้ผลิ",
     "season.summer": "ฤดูร้อน",
     "season.autumn": "ฤดูใบไม้ร่วง",
-    "season.allYear": "ตลอดทั้งปี"
+    "season.allYear": "ตลอดทั้งปี",
+    "identify.button": "นั่นคืออะไร?",
+    "identify.title": "นั่นคืออะไร?",
+    "identify.hint": "แตะสิ่งใดก็ได้เพื่อระบุ",
+    "identify.accuracy": "เข็มทิศแม่นยำประมาณ 5° ดังนั้นนี่จึงเป็นการเดาที่ดีที่สุด ไม่ใช่ความแน่นอน",
+    "identify.mostLikely": "มีแนวโน้มมากที่สุด",
+    "identify.alsoNearby": "อยู่ใกล้ ๆ ด้วย",
+    "identify.confidence": "{n}% ตรงกัน",
+    "identify.nothingHere": "ไม่มีสิ่งใดถูกบันทึกไว้ในระยะ {n}° จากที่นั่น",
+    "identify.pointAtIt": "ชี้ไปที่มัน",
+    "identify.needsLocation": "การระบุต้องใช้ตำแหน่งของคุณเพื่อทราบว่าคุณอยู่ใต้ท้องฟ้าใด",
+    "identify.cat.all": "ทั้งหมด",
+    "identify.cat.core": "ดาวเคราะห์",
+    "identify.cat.stars": "ดาวฤกษ์",
+    "identify.manualLocation": "ตำแหน่งที่ตั้งด้วยตนเอง"
   },
   "content": {
     "bodyName": {

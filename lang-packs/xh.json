@@ -262,7 +262,21 @@
     "season.spring": "iNtwasahlobo",
     "season.summer": "iHlobo",
     "season.autumn": "uKwindla",
-    "season.allYear": "Unyaka wonke"
+    "season.allYear": "Unyaka wonke",
+    "identify.button": "Yintoni leyo?",
+    "identify.title": "Yintoni leyo?",
+    "identify.hint": "Cofa nantoni na ukuyichonga",
+    "identify.accuracy": "Ikhampasi ichanekile ukuya kuthi ga kwi-5°, ngoko ke oku kuqikelelo olulungileyo, ingekhona inyaniso epheleleyo.",
+    "identify.mostLikely": "Kunokwenzeka kakhulu",
+    "identify.alsoNearby": "Kufutshane nakhona",
+    "identify.confidence": "{n}% ukungqamana",
+    "identify.nothingHere": "Akukho nto ibhalisiweyo kwi-{n}° ukusuka apho.",
+    "identify.pointAtIt": "Yalathisa kuyo",
+    "identify.needsLocation": "Ukuchonga kufuna indawo okuyo ukwazi ukuba uphantsi kwesiphi isibhakabhaka.",
+    "identify.cat.all": "Konke",
+    "identify.cat.core": "Iiplanethe",
+    "identify.cat.stars": "Iinkanyezi",
+    "identify.manualLocation": "Indawo emiswe ngesandla"
   },
   "content": {
     "bodyName": {},

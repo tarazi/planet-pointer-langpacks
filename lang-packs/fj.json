@@ -262,7 +262,21 @@
     "season.autumn": "Gauna ni lutu",
     "season.allYear": "Yabaki taucoko",
     "common.on": "On",
-    "common.off": "Off"
+    "common.off": "Off",
+    "identify.button": "Cava oya?",
+    "identify.title": "Cava oya?",
+    "identify.hint": "Tabaka na ka kece me kilai",
+    "identify.accuracy": "E dodonu na kompasi ki na 5°, o koya gona na ka vinaka duadua me nanuma, sega ni dina taucoko.",
+    "identify.mostLikely": "Rairai dina",
+    "identify.alsoNearby": "Voleka tale ga",
+    "identify.confidence": "{n}% veiganiti",
+    "identify.nothingHere": "Sega ni dua na ka e volai ena {n}° mai kea.",
+    "identify.pointAtIt": "Dusia vua",
+    "identify.needsLocation": "E gadreva na Kilai na nomu tikinivanua me kila na lomalagi o tiko kina.",
+    "identify.cat.all": "Taucoko",
+    "identify.cat.core": "Na Planiti",
+    "identify.cat.stars": "Kalokalo",
+    "identify.manualLocation": "Tikinivanua ni vakadewa"
   },
   "content": {
     "bodyName": {},

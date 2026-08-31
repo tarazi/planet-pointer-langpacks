@@ -262,7 +262,21 @@
     "season.spring": "Musim semi",
     "season.summer": "Musim panas",
     "season.autumn": "Musim gugur",
-    "season.allYear": "Sepanjang tahun"
+    "season.allYear": "Sepanjang tahun",
+    "identify.button": "Itu apa?",
+    "identify.title": "Itu apa?",
+    "identify.hint": "Ketuk apa saja untuk mengidentifikasinya",
+    "identify.accuracy": "Kompas akurat hingga sekitar 5°, jadi ini adalah perkiraan terbaik, bukan kepastian.",
+    "identify.mostLikely": "Kemungkinan besar",
+    "identify.alsoNearby": "Juga di dekatnya",
+    "identify.confidence": "{n}% cocok",
+    "identify.nothingHere": "Tidak ada yang terkatalogkan dalam {n}° dari sana.",
+    "identify.pointAtIt": "Arahkan ke sana",
+    "identify.needsLocation": "Identifikasi memerlukan lokasi Anda untuk mengetahui di bawah langit mana Anda berada.",
+    "identify.cat.all": "Semua",
+    "identify.cat.core": "Planet",
+    "identify.cat.stars": "Bintang",
+    "identify.manualLocation": "Lokasi manual"
   },
   "content": {
     "bodyName": {

@@ -262,7 +262,21 @@
     "season.spring": "Vor",
     "season.summer": "Sumar",
     "season.autumn": "Haust",
-    "season.allYear": "Allt árið"
+    "season.allYear": "Allt árið",
+    "identify.button": "Hvað er þetta?",
+    "identify.title": "Hvað er þetta?",
+    "identify.hint": "Snertu hvað sem er til að bera kennsl á það",
+    "identify.accuracy": "Áttavitinn er nákvæmur upp á um 5°, svo þetta eru bestu getgátur, ekki vissa.",
+    "identify.mostLikely": "Líklegast",
+    "identify.alsoNearby": "Einnig nálægt",
+    "identify.confidence": "{n}% samsvörun",
+    "identify.nothingHere": "Ekkert skráð innan {n}° þaðan.",
+    "identify.pointAtIt": "Beindu að því",
+    "identify.needsLocation": "Auðkenning þarf staðsetningu þína til að vita undir hvaða himni þú ert.",
+    "identify.cat.all": "Allt",
+    "identify.cat.core": "Reikistjörnur",
+    "identify.cat.stars": "Stjörnur",
+    "identify.manualLocation": "Handvirk staðsetning"
   },
   "content": {
     "bodyName": {

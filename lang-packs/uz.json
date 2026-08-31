@@ -262,7 +262,21 @@
     "season.spring": "Bahor",
     "season.summer": "Yoz",
     "season.autumn": "Kuz",
-    "season.allYear": "Butun yil"
+    "season.allYear": "Butun yil",
+    "identify.button": "Bu nima?",
+    "identify.title": "Bu nima?",
+    "identify.hint": "Aniqlash uchun istalgan joyga bosing",
+    "identify.accuracy": "Kompas taxminan 5° gacha aniq, shuning uchun bular eng yaxshi taxminlar, aniqlik emas.",
+    "identify.mostLikely": "Eng ehtimoli",
+    "identify.alsoNearby": "Yaqin atrofda ham",
+    "identify.confidence": "{n}% mos kelish",
+    "identify.nothingHere": "U yerdan {n}° radiusda hech narsa qayd etilmagan.",
+    "identify.pointAtIt": "Unga qarating",
+    "identify.needsLocation": "Aniqlash qaysi osmon ostida ekaningizni bilish uchun joylashuvingizni talab qiladi.",
+    "identify.cat.all": "Hammasi",
+    "identify.cat.core": "Sayyoralar",
+    "identify.cat.stars": "Yulduzlar",
+    "identify.manualLocation": "Qo'lda sozlangan joylashuv"
   },
   "content": {
     "bodyName": {},

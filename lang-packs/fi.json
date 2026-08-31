@@ -262,7 +262,21 @@
     "season.spring": "Kevät",
     "season.summer": "Kesä",
     "season.autumn": "Syksy",
-    "season.allYear": "Ympäri vuoden"
+    "season.allYear": "Ympäri vuoden",
+    "identify.button": "Mikä tuo on?",
+    "identify.title": "Mikä tuo on?",
+    "identify.hint": "Napauta mitä tahansa tunnistaaksesi sen",
+    "identify.accuracy": "Kompassi on tarkka noin 5°:n verran, joten nämä ovat parhaita arvauksia, ei varmuuksia.",
+    "identify.mostLikely": "Todennäköisimmin",
+    "identify.alsoNearby": "Myös lähellä",
+    "identify.confidence": "{n}% osuvuus",
+    "identify.nothingHere": "{n}°:n säteellä ei ole mitään luetteloitua.",
+    "identify.pointAtIt": "Osoita sitä kohti",
+    "identify.needsLocation": "Tunnistus tarvitsee sijaintisi tietääkseen, minkä taivaan alla olet.",
+    "identify.cat.all": "Kaikki",
+    "identify.cat.core": "Planeetat",
+    "identify.cat.stars": "Tähdet",
+    "identify.manualLocation": "Manuaalinen sijainti"
   },
   "content": {
     "bodyName": {

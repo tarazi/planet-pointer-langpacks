@@ -262,7 +262,21 @@
     "season.spring": "Majira ya masika",
     "season.summer": "Majira ya joto",
     "season.autumn": "Majira ya vuli",
-    "season.allYear": "Mwaka mzima"
+    "season.allYear": "Mwaka mzima",
+    "identify.button": "Hicho ni nini?",
+    "identify.title": "Hicho ni nini?",
+    "identify.hint": "Gusa chochote ili kukitambua",
+    "identify.accuracy": "Dira ni sahihi hadi karibu 5°, kwa hivyo haya ni makisio bora, si uhakika.",
+    "identify.mostLikely": "Yawezekana zaidi",
+    "identify.alsoNearby": "Karibu pia",
+    "identify.confidence": "{n}% inayolingana",
+    "identify.nothingHere": "Hakuna kilichoorodheshwa ndani ya {n}° kutoka hapo.",
+    "identify.pointAtIt": "Elekeza kwake",
+    "identify.needsLocation": "Kutambua kunahitaji mahali ulipo ili kujua uko chini ya anga gani.",
+    "identify.cat.all": "Zote",
+    "identify.cat.core": "Sayari",
+    "identify.cat.stars": "Nyota",
+    "identify.manualLocation": "Mahali palipowekwa kwa mkono"
   },
   "content": {
     "bodyName": {},

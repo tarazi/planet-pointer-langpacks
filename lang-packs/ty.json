@@ -262,7 +262,21 @@
     "season.autumn": "Tau topa",
     "season.allYear": "Te matahiti ta'ato'a",
     "common.on": "Fa'aotu",
-    "common.off": "Hapeepee"
+    "common.off": "Hapeepee",
+    "identify.button": "Eaha te reira?",
+    "identify.title": "Eaha te reira?",
+    "identify.hint": "Tape i te tahi noa mea no te ite i te reira",
+    "identify.accuracy": "E tano te faaafaroraa i te 5°, no reira e mau opuaraa maitai teie, eiaha ratou e parau papu.",
+    "identify.mostLikely": "Fatata roa",
+    "identify.alsoNearby": "I pihai iho atoa",
+    "identify.confidence": "{n}% tuea",
+    "identify.nothingHere": "Aita e mea i papaihia i roto i te {n}° mai reira.",
+    "identify.pointAtIt": "A faaite atu i te reira",
+    "identify.needsLocation": "E hina'aro te Ite i to vāhi no te ite eaha te ra'i e vai na i nia ia oe.",
+    "identify.cat.all": "Atoa",
+    "identify.cat.core": "Mau Fenua'ura",
+    "identify.cat.stars": "Mau Feti'a",
+    "identify.manualLocation": "Vāhi i faatupuhia māua'e"
   },
   "content": {
     "bodyName": {},

@@ -262,7 +262,21 @@
     "season.spring": "Mùa xuân",
     "season.summer": "Mùa hè",
     "season.autumn": "Mùa thu",
-    "season.allYear": "Quanh năm"
+    "season.allYear": "Quanh năm",
+    "identify.button": "Đó là gì?",
+    "identify.title": "Đó là gì?",
+    "identify.hint": "Chạm vào bất cứ đâu để nhận dạng",
+    "identify.accuracy": "La bàn chính xác đến khoảng 5°, vì vậy đây chỉ là những phỏng đoán tốt nhất, không chắc chắn.",
+    "identify.mostLikely": "Nhiều khả năng nhất",
+    "identify.alsoNearby": "Cũng gần đó",
+    "identify.confidence": "{n}% khớp",
+    "identify.nothingHere": "Không có gì được ghi nhận trong phạm vi {n}° từ đó.",
+    "identify.pointAtIt": "Hướng vào đó",
+    "identify.needsLocation": "Nhận dạng cần vị trí của bạn để biết bạn đang ở dưới bầu trời nào.",
+    "identify.cat.all": "Tất cả",
+    "identify.cat.core": "Hành Tinh",
+    "identify.cat.stars": "Các sao",
+    "identify.manualLocation": "Vị trí thủ công"
   },
   "content": {
     "bodyName": {

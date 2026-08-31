@@ -262,7 +262,21 @@
     "season.spring": "Primavera",
     "season.summer": "Estate",
     "season.autumn": "Autunno",
-    "season.allYear": "Tutto l'anno"
+    "season.allYear": "Tutto l'anno",
+    "identify.button": "Cos'è quello?",
+    "identify.title": "Cos'è quello?",
+    "identify.hint": "Tocca qualsiasi cosa per identificarla",
+    "identify.accuracy": "La bussola è precisa a circa 5°, quindi queste sono le ipotesi migliori, non certezze.",
+    "identify.mostLikely": "Molto probabilmente",
+    "identify.alsoNearby": "Anche nelle vicinanze",
+    "identify.confidence": "{n}% di corrispondenza",
+    "identify.nothingHere": "Nulla di catalogato entro {n}° da lì.",
+    "identify.pointAtIt": "Puntalo",
+    "identify.needsLocation": "Identifica ha bisogno della tua posizione per sapere sotto quale cielo ti trovi.",
+    "identify.cat.all": "Tutto",
+    "identify.cat.core": "Pianeti",
+    "identify.cat.stars": "Stelle",
+    "identify.manualLocation": "Posizione manuale"
   },
   "content": {
     "bodyName": {

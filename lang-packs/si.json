@@ -262,7 +262,21 @@
     "time.tomorrow": "හෙට",
     "time.zone": "වේලාවන් {zone} වේලාව අනුව පෙන්වයි",
     "common.on": "සක්‍රිය",
-    "common.off": "අක්‍රිය"
+    "common.off": "අක්‍රිය",
+    "identify.button": "ඒක මොකක්ද?",
+    "identify.title": "ඒක මොකක්ද?",
+    "identify.hint": "හඳුනා ගැනීමට ඕනෑම දෙයක් ස්පර්ශ කරන්න",
+    "identify.accuracy": "දික්සූචිය අනුමානය 5° පමණ නිවැරදියි, එබැවින් මේවා හොඳම අනුමාන මිස ස්ථිර දේ නොවේ.",
+    "identify.mostLikely": "වඩාත් සම්භාවිතාව",
+    "identify.alsoNearby": "ළඟදීත් ඇත",
+    "identify.confidence": "{n}% ගැළපීම",
+    "identify.nothingHere": "එතැනින් {n}° ඇතුළත ලේඛනගත වූ කිසිවක් නැත.",
+    "identify.pointAtIt": "එය දෙසට යොමු කරන්න",
+    "identify.needsLocation": "ඔබ කුමන අහසක් යටතේද යන්න දැනගැනීමට හඳුනාගැනීමට ඔබේ ස්ථානය අවශ්‍යයි.",
+    "identify.cat.all": "සියල්ල",
+    "identify.cat.core": "ග්‍රහලෝක",
+    "identify.cat.stars": "තාරකා",
+    "identify.manualLocation": "අතින් සකසන ලද ස්ථානය"
   },
   "content": {
     "bodyName": {},

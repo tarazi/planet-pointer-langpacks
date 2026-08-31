@@ -262,7 +262,21 @@
     "season.spring": "Pranverë",
     "season.summer": "Verë",
     "season.autumn": "Vjeshtë",
-    "season.allYear": "Gjithë vitin"
+    "season.allYear": "Gjithë vitin",
+    "identify.button": "Çfarë është ajo?",
+    "identify.title": "Çfarë është ajo?",
+    "identify.hint": "Prekni çdo gjë për ta identifikuar",
+    "identify.accuracy": "Busulla është e saktë deri në rreth 5°, kështu që këto janë supozimet më të mira, jo siguri.",
+    "identify.mostLikely": "Ka shumë të ngjarë",
+    "identify.alsoNearby": "Gjithashtu afër",
+    "identify.confidence": "{n}% përputhje",
+    "identify.nothingHere": "Asgjë e katalogizuar brenda {n}° prej andej.",
+    "identify.pointAtIt": "Drejtoje nga ai",
+    "identify.needsLocation": "Identifikimi ka nevojë për vendndodhjen tuaj për të ditur nën cilën qiell ndodheni.",
+    "identify.cat.all": "Të gjitha",
+    "identify.cat.core": "Planetet",
+    "identify.cat.stars": "Yjet",
+    "identify.manualLocation": "Vendndodhje manuale"
   },
   "content": {
     "bodyName": {},

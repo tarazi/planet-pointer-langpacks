@@ -262,7 +262,21 @@
     "season.spring": "Primăvară",
     "season.summer": "Vară",
     "season.autumn": "Toamnă",
-    "season.allYear": "Tot anul"
+    "season.allYear": "Tot anul",
+    "identify.button": "Ce este aceea?",
+    "identify.title": "Ce este aceea?",
+    "identify.hint": "Atinge orice pentru a-l identifica",
+    "identify.accuracy": "Busola este precisă la aproximativ 5°, deci acestea sunt cele mai bune presupuneri, nu certitudini.",
+    "identify.mostLikely": "Cel mai probabil",
+    "identify.alsoNearby": "De asemenea în apropiere",
+    "identify.confidence": "{n}% potrivire",
+    "identify.nothingHere": "Nimic catalogat în raza de {n}° de acolo.",
+    "identify.pointAtIt": "Îndreaptă-te spre el",
+    "identify.needsLocation": "Identificare are nevoie de locația ta pentru a ști sub ce cer te afli.",
+    "identify.cat.all": "Toate",
+    "identify.cat.core": "Planete",
+    "identify.cat.stars": "Stele",
+    "identify.manualLocation": "Locație manuală"
   },
   "content": {
     "bodyName": {

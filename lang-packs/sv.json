@@ -262,7 +262,21 @@
     "season.spring": "Vår",
     "season.summer": "Sommar",
     "season.autumn": "Höst",
-    "season.allYear": "Hela året"
+    "season.allYear": "Hela året",
+    "identify.button": "Vad är det där?",
+    "identify.title": "Vad är det där?",
+    "identify.hint": "Tryck var som helst för att identifiera",
+    "identify.accuracy": "Kompassen är exakt till cirka 5°, så det här är bästa gissningarna, inte säkra fakta.",
+    "identify.mostLikely": "Troligast",
+    "identify.alsoNearby": "Även i närheten",
+    "identify.confidence": "{n}% matchning",
+    "identify.nothingHere": "Inget katalogiserat inom {n}° därifrån.",
+    "identify.pointAtIt": "Peka mot det",
+    "identify.needsLocation": "Identifiera behöver din plats för att veta under vilken himmel du befinner dig.",
+    "identify.cat.all": "Alla",
+    "identify.cat.core": "Planeter",
+    "identify.cat.stars": "Stjärnor",
+    "identify.manualLocation": "Manuell plats"
   },
   "content": {
     "bodyName": {

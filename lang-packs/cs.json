@@ -262,7 +262,21 @@
     "season.spring": "Jaro",
     "season.summer": "Léto",
     "season.autumn": "Podzim",
-    "season.allYear": "Celý rok"
+    "season.allYear": "Celý rok",
+    "identify.button": "Co to je?",
+    "identify.title": "Co to je?",
+    "identify.hint": "Klepnutím na cokoli to identifikujete",
+    "identify.accuracy": "Kompas je přesný na zhruba 5°, takže jde o nejlepší odhady, ne jistoty.",
+    "identify.mostLikely": "Nejspíš",
+    "identify.alsoNearby": "Také poblíž",
+    "identify.confidence": "{n}% shoda",
+    "identify.nothingHere": "V okruhu {n}° odtud nic není v katalogu.",
+    "identify.pointAtIt": "Namiřte na to",
+    "identify.needsLocation": "Identifikace potřebuje vaši polohu, aby zjistila, pod jakou oblohou jste.",
+    "identify.cat.all": "Vše",
+    "identify.cat.core": "Planety",
+    "identify.cat.stars": "Hvězdy",
+    "identify.manualLocation": "Ruční poloha"
   },
   "content": {
     "bodyName": {

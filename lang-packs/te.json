@@ -262,7 +262,21 @@
     "season.spring": "వసంత కాలం",
     "season.summer": "వేసవి కాలం",
     "season.autumn": "శరదృతువు",
-    "season.allYear": "ఏడాది పొడవునా"
+    "season.allYear": "ఏడాది పొడవునా",
+    "identify.button": "అది ఏమిటి?",
+    "identify.title": "అది ఏమిటి?",
+    "identify.hint": "గుర్తించడానికి ఎక్కడైనా నొక్కండి",
+    "identify.accuracy": "దిక్సూచి సుమారు 5° వరకు ఖచ్చితంగా ఉంటుంది, కాబట్టి ఇవి ఉత్తమ అంచనాలు మాత్రమే, ఖచ్చితత్వం కాదు.",
+    "identify.mostLikely": "అత్యంత అవకాశం",
+    "identify.alsoNearby": "సమీపంలో కూడా",
+    "identify.confidence": "{n}% సరిపోలిక",
+    "identify.nothingHere": "అక్కడి నుండి {n}° లోపల ఏదీ నమోదు కాలేదు.",
+    "identify.pointAtIt": "దాని వైపు చూపండి",
+    "identify.needsLocation": "మీరు ఏ ఆకాశం క్రింద ఉన్నారో తెలుసుకోవడానికి గుర్తింపుకు మీ స్థానం అవసరం.",
+    "identify.cat.all": "అన్నీ",
+    "identify.cat.core": "గ్రహాలు",
+    "identify.cat.stars": "నక్షత్రాలు",
+    "identify.manualLocation": "మాన్యువల్ స్థానం"
   },
   "content": {
     "bodyName": {

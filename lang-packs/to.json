@@ -262,7 +262,21 @@
     "season.autumn": "Faʻahitaʻu tō",
     "season.allYear": "Taʻu kātoa",
     "common.on": "Fakaʻaonga",
-    "common.off": "Tukuange"
+    "common.off": "Tukuange",
+    "identify.button": "Ko e hā ia?",
+    "identify.title": "Ko e hā ia?",
+    "identify.hint": "Tuki ha meʻa ke fakahinohino ai",
+    "identify.accuracy": "ʻOku totonu ʻa e mikaʻi hala ki he 5° nai, ko ia ko e ngaahi fakakaukau lelei taha eni, kae ʻikai ko e moʻoni.",
+    "identify.mostLikely": "Lahi taha ʻa e ngofua",
+    "identify.alsoNearby": "ʻOku ofi mai foki",
+    "identify.confidence": "{n}% fehoanaki",
+    "identify.nothingHere": "ʻOku ʻikai ha meʻa kuo lisi ʻi he {n}° mei ai.",
+    "identify.pointAtIt": "Tuhu atu ki ai",
+    "identify.needsLocation": "ʻOku fiemaʻu ʻe he Fakahinohino ho feituʻu ke ne ʻilo pe ko e hā ʻa e langi ʻoku ke ʻi lalo ai.",
+    "identify.cat.all": "Kotoa",
+    "identify.cat.core": "Ngaahi Palaneeti",
+    "identify.cat.stars": "Ngaahi Fetuʻu",
+    "identify.manualLocation": "Feituʻu naʻe fokotuʻu fakaʻatamai"
   },
   "content": {
     "bodyName": {},

@@ -262,7 +262,21 @@
     "season.spring": "Kevad",
     "season.summer": "Suvi",
     "season.autumn": "Sügis",
-    "season.allYear": "Aastaringselt"
+    "season.allYear": "Aastaringselt",
+    "identify.button": "Mis see on?",
+    "identify.title": "Mis see on?",
+    "identify.hint": "Puuduta mida tahes, et see tuvastada",
+    "identify.accuracy": "Kompass on täpne umbes 5° ulatuses, seega on need vaid oletused, mitte kindlad vastused.",
+    "identify.mostLikely": "Kõige tõenäolisemalt",
+    "identify.alsoNearby": "Lähedal ka",
+    "identify.confidence": "{n}% vaste",
+    "identify.nothingHere": "{n}° raadiuses sealt ei ole midagi kataloogitud.",
+    "identify.pointAtIt": "Suuna selle poole",
+    "identify.needsLocation": "Tuvastamiseks on vaja sinu asukohta, et teada, millise taeva all sa oled.",
+    "identify.cat.all": "Kõik",
+    "identify.cat.core": "Planeedid",
+    "identify.cat.stars": "Tähed",
+    "identify.manualLocation": "Käsitsi määratud asukoht"
   },
   "content": {
     "bodyName": {
