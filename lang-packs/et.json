@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Avatud täheparv",
     "dso.type.globularCluster": "Kuulikujuline täheparv",
     "dso.type.milkyWay": "Linnutee",
+    "dso.type.doubleStar": "Kaksiktäht",
+    "dso.type.asterism": "Asterism — tähed, mis näivad juhuslikult ühe mustrina",
+    "dso.type.starCloud": "Tähepilv Linnuteel",
     "badge.above": "Kohal",
     "badge.below": "All",
     "badge.visible": "Nähtav",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Binoklita raske näha",
     "sat.notVisibleDay": "Pole nähtav · päev",
     "sat.notVisibleShadow": "Pole nähtav · Maa varjus",
+    "sat.tooFaint": "Horisondi kohal, kuid silmale liiga nõrk",
     "sat.hoursAgo": "{n} h tagasi",
     "info.typeSatellite": "Satelliit",
     "info.type": "Tüüp",
@@ -515,7 +519,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Linnutee"
+      "milky-way": "Linnutee",
+      "m6": "Liblika parv",
+      "m17": "Omega udukogu",
+      "m24": "Amburi tähepilv",
+      "m43": "De Mairani udukogu",
+      "m63": "Päevalille galaktika",
+      "m64": "Mustsilma galaktika",
+      "m76": "Väike Hantli udukogu",
+      "m82": "Sigari galaktika",
+      "m83": "Lõuna-Tuuleveski galaktika",
+      "m97": "Öökulli udukogu",
+      "m102": "Värtna galaktika"
     }
   }
 }

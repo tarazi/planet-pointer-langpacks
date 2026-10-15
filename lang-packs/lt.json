@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Atviras spiečius",
     "dso.type.globularCluster": "Rutulinasis spiečius",
     "dso.type.milkyWay": "Paukščių Takas",
+    "dso.type.doubleStar": "Dvinarė žvaigždė",
+    "dso.type.asterism": "Asterizmas — žvaigždės, kurios tik atsitiktinai atrodo išsirikiavusios",
+    "dso.type.starCloud": "Žvaigždžių debesis Paukščių Take",
     "badge.above": "Aukščiau",
     "badge.below": "Žemiau",
     "badge.visible": "Matoma",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Sunku pastebėti be žiūronų",
     "sat.notVisibleDay": "Nesimato · dieną",
     "sat.notVisibleShadow": "Nesimato · Žemės šešėlyje",
+    "sat.tooFaint": "Virš horizonto, bet akiai per blausu",
     "sat.hoursAgo": "prieš {n} val.",
     "info.typeSatellite": "Palydovas",
     "info.type": "Tipas",
@@ -515,7 +519,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Paukščių Takas"
+      "milky-way": "Paukščių Takas",
+      "m6": "Drugelio spiečius",
+      "m17": "Omega ūkas",
+      "m24": "Šaulio žvaigždžių debesis",
+      "m43": "De Mairano ūkas",
+      "m63": "Saulėgrąžos galaktika",
+      "m64": "Juodosios akies galaktika",
+      "m76": "Mažasis Hantelio ūkas",
+      "m82": "Cigaro galaktika",
+      "m83": "Pietinė Vėjo malūnėlio galaktika",
+      "m97": "Pelėdos ūkas",
+      "m102": "Verpstės galaktika"
     }
   }
 }

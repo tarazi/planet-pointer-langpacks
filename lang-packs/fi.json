@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Avoin tähtijoukko",
     "dso.type.globularCluster": "Pallomainen tähtijoukko",
     "dso.type.milkyWay": "Linnunrata",
+    "dso.type.doubleStar": "Kaksoistähti",
+    "dso.type.asterism": "Asterismi — tähtiä, jotka vain sattuvat näyttämään ryhmältä",
+    "dso.type.starCloud": "Tähtipilvi Linnunradalla",
     "badge.above": "Horisontin yläpuolella",
     "badge.below": "Horisontin alapuolella",
     "badge.visible": "Näkyvissä",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Vaikea nähdä kiikareitta",
     "sat.notVisibleDay": "Ei näkyvissä · päivällä",
     "sat.notVisibleShadow": "Ei näkyvissä · Maan varjossa",
+    "sat.tooFaint": "Horisontin yläpuolella, mutta liian himmeä silmälle",
     "sat.hoursAgo": "{n} h sitten",
     "info.typeSatellite": "Satelliitti",
     "info.type": "Tyyppi",
@@ -1111,7 +1115,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Linnunrata"
+      "milky-way": "Linnunrata",
+      "m6": "Perhostähtijoukko",
+      "m17": "Omegasumu",
+      "m24": "Jousimiehen tähtipilvi",
+      "m43": "De Mairanin sumu",
+      "m63": "Auringonkukkagalaksi",
+      "m64": "Mustasilmägalaksi",
+      "m76": "Pieni käsipainosumu",
+      "m82": "Sikarigalaksi",
+      "m83": "Eteläinen tuulimyllygalaksi",
+      "m97": "Pöllösumu",
+      "m102": "Värttinägalaksi"
     }
   }
 }

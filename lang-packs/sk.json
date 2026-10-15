@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Otvorené hviezkozoskupenie",
     "dso.type.globularCluster": "Guľové hviezkozoskupenie",
     "dso.type.milkyWay": "Mliečna cesta",
+    "dso.type.doubleStar": "Dvojhviezda",
+    "dso.type.asterism": "Asterizmus — hviezdy, ktoré sa len náhodou zdajú zoradené",
+    "dso.type.starCloud": "Hviezdny oblak v Mliečnej ceste",
     "badge.above": "Nad",
     "badge.below": "Pod",
     "badge.visible": "Viditeľný",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Ťažko vidieť bez ďalekohľadu",
     "sat.notVisibleDay": "Nevidno · počas dňa",
     "sat.notVisibleShadow": "Nevidno · v tieni Zeme",
+    "sat.tooFaint": "Nad obzorom, ale jas je príliš slabý pre oko",
     "sat.hoursAgo": "pred {n} h",
     "info.typeSatellite": "Satelit",
     "info.type": "Typ",
@@ -515,7 +519,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Mliečna cesta"
+      "milky-way": "Mliečna cesta",
+      "m6": "Hviezdokopa Motýľ",
+      "m17": "Hmlovina Omega",
+      "m24": "Hviezdny oblak v Strelcovi",
+      "m43": "Hmlovina De Mairan",
+      "m63": "Galaxia Slnečnica",
+      "m64": "Galaxia Čierne oko",
+      "m76": "Malá hmlovina Činka",
+      "m82": "Galaxia Cigara",
+      "m83": "Južná galaxia Veterník",
+      "m97": "Hmlovina Sova",
+      "m102": "Galaxia Vreteno"
     }
   }
 }

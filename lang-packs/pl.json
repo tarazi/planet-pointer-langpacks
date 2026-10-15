@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Gromada otwarta",
     "dso.type.globularCluster": "Gromada kulista",
     "dso.type.milkyWay": "Droga Mleczna",
+    "dso.type.doubleStar": "Gwiazda podwójna",
+    "dso.type.asterism": "Asteryzm — gwiazdy ułożone w figurę tylko przypadkiem",
+    "dso.type.starCloud": "Obłok gwiazd w Drodze Mlecznej",
     "badge.above": "Powyżej",
     "badge.below": "Poniżej",
     "badge.visible": "Widoczne",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Trudno zobaczyć bez lornetki",
     "sat.notVisibleDay": "Nie widać · za dnia",
     "sat.notVisibleShadow": "Nie widać · w cieniu Ziemi",
+    "sat.tooFaint": "Nad horyzontem, ale blask zbyt słaby dla oka",
     "sat.hoursAgo": "{n} godz. temu",
     "info.typeSatellite": "Satelita",
     "info.type": "Typ",
@@ -1111,7 +1115,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Droga Mleczna"
+      "milky-way": "Droga Mleczna",
+      "m6": "Gromada Motyl",
+      "m17": "Mgławica Omega",
+      "m24": "Obłok gwiazd w Strzelcu",
+      "m43": "Mgławica De Mairana",
+      "m63": "Galaktyka Słonecznik",
+      "m64": "Galaktyka Czarne Oko",
+      "m76": "Mała Mgławica Hantle",
+      "m82": "Galaktyka Cygaro",
+      "m83": "Południowa Galaktyka Wiatraczek",
+      "m97": "Mgławica Sowa",
+      "m102": "Galaktyka Wrzeciono"
     }
   }
 }

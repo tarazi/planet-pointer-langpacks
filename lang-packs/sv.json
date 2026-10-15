@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Öppen stjärnhop",
     "dso.type.globularCluster": "Klotformig stjärnhop",
     "dso.type.milkyWay": "Vintergatan",
+    "dso.type.doubleStar": "Dubbelstjärna",
+    "dso.type.asterism": "Asterism — stjärnor som bara av en slump ser ut att höra ihop",
+    "dso.type.starCloud": "Stjärnmoln i Vintergatan",
     "badge.above": "Över horisonten",
     "badge.below": "Under horisonten",
     "badge.visible": "Synlig",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Svårt att se utan kikare",
     "sat.notVisibleDay": "Syns inte · dagtid",
     "sat.notVisibleShadow": "Syns inte · i jordens skugga",
+    "sat.tooFaint": "Ovanför horisonten, men ljuset är för svagt för ögat",
     "sat.hoursAgo": "{n} tim sedan",
     "info.typeSatellite": "Satellit",
     "info.type": "Typ",
@@ -1111,7 +1115,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Vintergatan"
+      "milky-way": "Vintergatan",
+      "m6": "Fjärilshopen",
+      "m17": "Omeganebulosan",
+      "m24": "Stjärnmolnet i Skytten",
+      "m43": "De Mairans nebulosa",
+      "m63": "Solrosgalaxen",
+      "m64": "Svarta Ögat-galaxen",
+      "m76": "Lilla Hantelnebulosan",
+      "m82": "Cigarrgalaxen",
+      "m83": "Södra Pinwheelgalaxen",
+      "m97": "Ugglenebulosan",
+      "m102": "Spindelgalaxen"
     }
   }
 }

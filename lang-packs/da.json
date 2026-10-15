@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Åben stjernehob",
     "dso.type.globularCluster": "Kugleformet stjernehob",
     "dso.type.milkyWay": "Mælkevejen",
+    "dso.type.doubleStar": "Dobbeltstjerne",
+    "dso.type.asterism": "Asterisme — stjerner, der kun tilfældigt ligner en gruppe",
+    "dso.type.starCloud": "Stjernesky i Mælkevejen",
     "badge.above": "Over horisonten",
     "badge.below": "Under horisonten",
     "badge.visible": "Synlig",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Svært at se uden kikkert",
     "sat.notVisibleDay": "Ses ikke · dagslys",
     "sat.notVisibleShadow": "Ses ikke · i Jordens skygge",
+    "sat.tooFaint": "Over horisonten, men lyset er for svagt til øjet",
     "sat.hoursAgo": "{n} t siden",
     "info.typeSatellite": "Satellit",
     "info.type": "Type",
@@ -1111,7 +1115,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Mælkevejen"
+      "milky-way": "Mælkevejen",
+      "m6": "Sommerfuglehoben",
+      "m17": "Omegatågen",
+      "m24": "Stjerneskyen i Skytten",
+      "m43": "De Mairans tåge",
+      "m63": "Solsikkegalaksen",
+      "m64": "Sortøjegalaksen",
+      "m76": "Lille Vægtstangstågen",
+      "m82": "Cigargalaksen",
+      "m83": "Sydlige Pinwheel-galaksen",
+      "m97": "Ugletågen",
+      "m102": "Spindelgalaksen"
     }
   }
 }

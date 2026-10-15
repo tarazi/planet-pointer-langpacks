@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Roi deschis",
     "dso.type.globularCluster": "Roi globular",
     "dso.type.milkyWay": "Calea Lactee",
+    "dso.type.doubleStar": "Stea dublă",
+    "dso.type.asterism": "Asterism — stele aliniate doar întâmplător",
+    "dso.type.starCloud": "Nor de stele în Calea Lactee",
     "badge.above": "Deasupra",
     "badge.below": "Dedesubt",
     "badge.visible": "Vizibil",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Dificil de văzut fără binoclu",
     "sat.notVisibleDay": "Nu se vede · ziua",
     "sat.notVisibleShadow": "Nu se vede · în umbra Pământului",
+    "sat.tooFaint": "Deasupra orizontului, dar luminozitatea e prea mică pentru ochi",
     "sat.hoursAgo": "acum {n} h",
     "info.typeSatellite": "Satelit",
     "info.type": "Tip",
@@ -515,7 +519,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Calea Lactee"
+      "milky-way": "Calea Lactee",
+      "m6": "Roiul Fluturelui",
+      "m17": "Nebuloasa Omega",
+      "m24": "Norul stelar din Săgetător",
+      "m43": "Nebuloasa De Mairan",
+      "m63": "Galaxia Floarea-soarelui",
+      "m64": "Galaxia Ochiul Negru",
+      "m76": "Nebuloasa Haltera Mică",
+      "m82": "Galaxia Trabucul",
+      "m83": "Galaxia Morișca Sudică",
+      "m97": "Nebuloasa Bufniței",
+      "m102": "Galaxia Fusul"
     }
   }
 }

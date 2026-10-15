@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Nyílt csillaghalmaz",
     "dso.type.globularCluster": "Gömbhalmaz",
     "dso.type.milkyWay": "Tejút",
+    "dso.type.doubleStar": "Kettőscsillag",
+    "dso.type.asterism": "Asterizmus — csillagok, amelyek csak véletlenül tűnnek egy alakzatnak",
+    "dso.type.starCloud": "Csillagfelhő a Tejútban",
     "badge.above": "Felett",
     "badge.below": "Alatt",
     "badge.visible": "Látható",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Távcső nélkül nehezen látható",
     "sat.notVisibleDay": "Nem látható · nappal",
     "sat.notVisibleShadow": "Nem látható · a Föld árnyékában",
+    "sat.tooFaint": "A horizont felett, de a szem számára túl halvány",
     "sat.hoursAgo": "{n} órával ezelőtt",
     "info.typeSatellite": "Műhold",
     "info.type": "Típus",
@@ -515,7 +519,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Tejút"
+      "milky-way": "Tejút",
+      "m6": "Pillangó-halmaz",
+      "m17": "Omega-köd",
+      "m24": "Nyilas csillagfelhő",
+      "m43": "De Mairan-köd",
+      "m63": "Napraforgó-galaxis",
+      "m64": "Fekete Szem-galaxis",
+      "m76": "Kis Súlyzó-köd",
+      "m82": "Szivar-galaxis",
+      "m83": "Déli Szélkerék-galaxis",
+      "m97": "Bagoly-köd",
+      "m102": "Orsó-galaxis"
     }
   }
 }

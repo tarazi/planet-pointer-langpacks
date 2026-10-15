@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Odprta zvezdna jata",
     "dso.type.globularCluster": "Krogelna zvezdna jata",
     "dso.type.milkyWay": "Rimska cesta",
+    "dso.type.doubleStar": "Dvojna zvezda",
+    "dso.type.asterism": "Asterizem — zvezde, ki se le naključno zdijo urejene",
+    "dso.type.starCloud": "Zvezdni oblak v Rimski cesti",
     "badge.above": "Nad",
     "badge.below": "Pod",
     "badge.visible": "Vidna",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Težko se vidi brez daljnogleda",
     "sat.notVisibleDay": "Ne vidi se · podnevi",
     "sat.notVisibleShadow": "Ne vidi se · v senci Zemlje",
+    "sat.tooFaint": "Nad obzorjem, a sij je prešibak za oko",
     "sat.hoursAgo": "pred {n} h",
     "info.typeSatellite": "Satelit",
     "info.type": "Vrsta",
@@ -515,7 +519,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Rimska cesta"
+      "milky-way": "Rimska cesta",
+      "m6": "Jata Metulj",
+      "m17": "Meglica Omega",
+      "m24": "Zvezdni oblak v Strelcu",
+      "m43": "Meglica De Mairan",
+      "m63": "Galaksija Sončnica",
+      "m64": "Galaksija Črno oko",
+      "m76": "Mala meglica Ročka",
+      "m82": "Galaksija Cigara",
+      "m83": "Južna galaksija Vrtavka",
+      "m97": "Meglica Sova",
+      "m102": "Galaksija Vreteno"
     }
   }
 }

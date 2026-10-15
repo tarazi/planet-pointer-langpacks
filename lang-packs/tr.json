@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Açık küme",
     "dso.type.globularCluster": "Küresel küme",
     "dso.type.milkyWay": "Samanyolu",
+    "dso.type.doubleStar": "Çift yıldız",
+    "dso.type.asterism": "Asterizm — yalnızca rastlantıyla dizilmiş görünen yıldızlar",
+    "dso.type.starCloud": "Samanyolu'nda yıldız bulutu",
     "badge.above": "Üstünde",
     "badge.below": "Altında",
     "badge.visible": "Görünür",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Dürbünsüz görmesi zor",
     "sat.notVisibleDay": "Görünmüyor · gündüz",
     "sat.notVisibleShadow": "Görünmüyor · Dünya'nın gölgesinde",
+    "sat.tooFaint": "Ufkun üzerinde, ama göz için fazla sönük",
     "sat.hoursAgo": "{n} sa önce",
     "info.typeSatellite": "Uydu",
     "info.type": "Tür",
@@ -1175,7 +1179,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Samanyolu"
+      "milky-way": "Samanyolu",
+      "m6": "Kelebek Kümesi",
+      "m17": "Omega Bulutsusu",
+      "m24": "Yay Yıldız Bulutu",
+      "m43": "De Mairan Bulutsusu",
+      "m63": "Ayçiçeği Gökadası",
+      "m64": "Kara Göz Gökadası",
+      "m76": "Küçük Dambıl Bulutsusu",
+      "m82": "Puro Gökadası",
+      "m83": "Güney Fırıldak Gökadası",
+      "m97": "Baykuş Bulutsusu",
+      "m102": "İğ Gökadası"
     }
   }
 }

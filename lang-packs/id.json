@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Gugus terbuka",
     "dso.type.globularCluster": "Gugus bola",
     "dso.type.milkyWay": "Bima Sakti",
+    "dso.type.doubleStar": "Bintang ganda",
+    "dso.type.asterism": "Asterisme — bintang yang tampak sejajar secara kebetulan",
+    "dso.type.starCloud": "Awan bintang di Bima Sakti",
     "badge.above": "Atas",
     "badge.below": "Bawah",
     "badge.visible": "Terlihat",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Sulit dilihat tanpa teropong",
     "sat.notVisibleDay": "Tidak terlihat · siang",
     "sat.notVisibleShadow": "Tidak terlihat · di bayangan Bumi",
+    "sat.tooFaint": "Di atas cakrawala, tetapi terlalu redup untuk mata",
     "sat.hoursAgo": "{n} jam lalu",
     "info.typeSatellite": "Satelit",
     "info.type": "Jenis",
@@ -1112,7 +1116,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Bima Sakti"
+      "milky-way": "Bima Sakti",
+      "m6": "Gugus Kupu-kupu",
+      "m17": "Nebula Omega",
+      "m24": "Awan Bintang Sagitarius",
+      "m43": "Nebula De Mairan",
+      "m63": "Galaksi Bunga Matahari",
+      "m64": "Galaksi Mata Hitam",
+      "m76": "Nebula Dumbbell Kecil",
+      "m82": "Galaksi Cerutu",
+      "m83": "Galaksi Kincir Angin Selatan",
+      "m97": "Nebula Burung Hantu",
+      "m102": "Galaksi Gelendong"
     }
   }
 }

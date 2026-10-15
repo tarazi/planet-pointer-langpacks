@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Otevřená hvězdokupa",
     "dso.type.globularCluster": "Kulová hvězdokupa",
     "dso.type.milkyWay": "Mléčná dráha",
+    "dso.type.doubleStar": "Dvojhvězda",
+    "dso.type.asterism": "Asterismus — hvězdy seřazené jen náhodou",
+    "dso.type.starCloud": "Hvězdný oblak v Mléčné dráze",
     "badge.above": "Nad",
     "badge.below": "Pod",
     "badge.visible": "Viditelné",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Těžko vidět bez dalekohledu",
     "sat.notVisibleDay": "Není vidět · den",
     "sat.notVisibleShadow": "Není vidět · ve stínu Země",
+    "sat.tooFaint": "Nad obzorem, ale jas je pro oko příliš slabý",
     "sat.hoursAgo": "před {n} h",
     "info.typeSatellite": "Satelit",
     "info.type": "Typ",
@@ -1108,7 +1112,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Mléčná dráha"
+      "milky-way": "Mléčná dráha",
+      "m6": "Hvězdokupa Motýl",
+      "m17": "Mlhovina Omega",
+      "m24": "Hvězdný oblak ve Střelci",
+      "m43": "Mlhovina De Mairan",
+      "m63": "Galaxie Slunečnice",
+      "m64": "Galaxie Černé oko",
+      "m76": "Malá mlhovina Činka",
+      "m82": "Galaxie Doutník",
+      "m83": "Jižní galaxie Větrník",
+      "m97": "Mlhovina Sova",
+      "m102": "Galaxie Vřeteno"
     }
   }
 }

@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Otvorena nakupina",
     "dso.type.globularCluster": "Kuglasta nakupina",
     "dso.type.milkyWay": "Mliječni put",
+    "dso.type.doubleStar": "Dvostruka zvijezda",
+    "dso.type.asterism": "Asterizam — zvijezde koje se samo čine poredane",
+    "dso.type.starCloud": "Zvjezdani oblak u Mliječnom putu",
     "badge.above": "Iznad",
     "badge.below": "Ispod",
     "badge.visible": "Vidljiva",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Teško se vidi bez dalekozora",
     "sat.notVisibleDay": "Ne vidi se · dan",
     "sat.notVisibleShadow": "Ne vidi se · u Zemljinoj sjeni",
+    "sat.tooFaint": "Iznad horizonta, ali je sjaj preslab za oko",
     "sat.hoursAgo": "prije {n} h",
     "info.typeSatellite": "Satelit",
     "info.type": "Vrsta",
@@ -515,7 +519,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Mliječna staza"
+      "milky-way": "Mliječna staza",
+      "m6": "Nakupina Leptir",
+      "m17": "Maglica Omega",
+      "m24": "Zvjezdani oblak u Strijelcu",
+      "m43": "Maglica De Mairan",
+      "m63": "Galaksija Suncokret",
+      "m64": "Galaksija Crno oko",
+      "m76": "Mala maglica Bučica",
+      "m82": "Galaksija Cigara",
+      "m83": "Južna galaksija Vjetrenjača",
+      "m97": "Maglica Sova",
+      "m102": "Galaksija Vreteno"
     }
   }
 }

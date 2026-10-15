@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Åpen stjernehop",
     "dso.type.globularCluster": "Kulestjernehop",
     "dso.type.milkyWay": "Melkeveien",
+    "dso.type.doubleStar": "Dobbeltstjerne",
+    "dso.type.asterism": "Asterisme — stjerner som bare tilfeldigvis ser ut som en gruppe",
+    "dso.type.starCloud": "Stjernesky i Melkeveien",
     "badge.above": "Over horisonten",
     "badge.below": "Under horisonten",
     "badge.visible": "Synlig",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Vanskelig å se uten kikkert",
     "sat.notVisibleDay": "Ikke synlig · dagslys",
     "sat.notVisibleShadow": "Ikke synlig · i jordens skygge",
+    "sat.tooFaint": "Over horisonten, men lyset er for svakt for øyet",
     "sat.hoursAgo": "{n} t siden",
     "info.typeSatellite": "Satellitt",
     "info.type": "Type",
@@ -1111,7 +1115,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Melkeveien"
+      "milky-way": "Melkeveien",
+      "m6": "Sommerfuglhopen",
+      "m17": "Omegatåken",
+      "m24": "Stjerneskyen i Skytten",
+      "m43": "De Mairans tåke",
+      "m63": "Solsikkegalaksen",
+      "m64": "Svartøyegalaksen",
+      "m76": "Lille Manualtåken",
+      "m82": "Sigargalaksen",
+      "m83": "Sørlige Vindmøllegalaksen",
+      "m97": "Ugletåken",
+      "m102": "Spindelgalaksen"
     }
   }
 }

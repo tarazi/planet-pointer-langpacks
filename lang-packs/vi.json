@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Cụm sao mở",
     "dso.type.globularCluster": "Cụm sao cầu",
     "dso.type.milkyWay": "Ngân Hà",
+    "dso.type.doubleStar": "Sao đôi",
+    "dso.type.asterism": "Cụm hình sao — những ngôi sao chỉ tình cờ trông như xếp thẳng hàng",
+    "dso.type.starCloud": "Đám mây sao trong Ngân Hà",
     "badge.above": "Trên",
     "badge.below": "Dưới",
     "badge.visible": "Có thể thấy",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Khó nhìn thấy nếu không có ống nhòm",
     "sat.notVisibleDay": "Không nhìn thấy · ban ngày",
     "sat.notVisibleShadow": "Không nhìn thấy · trong bóng Trái Đất",
+    "sat.tooFaint": "Trên đường chân trời, nhưng quá mờ đối với mắt thường",
     "sat.hoursAgo": "{n} giờ trước",
     "info.typeSatellite": "Vệ tinh",
     "info.type": "Loại",
@@ -1164,7 +1168,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Ngân Hà"
+      "milky-way": "Ngân Hà",
+      "m6": "Cụm sao Bướm",
+      "m17": "Tinh vân Omega",
+      "m24": "Đám mây sao Nhân Mã",
+      "m43": "Tinh vân De Mairan",
+      "m63": "Thiên hà Hướng Dương",
+      "m64": "Thiên hà Mắt Đen",
+      "m76": "Tinh vân Quả Tạ Nhỏ",
+      "m82": "Thiên hà Xì Gà",
+      "m83": "Thiên hà Chong Chóng Nam",
+      "m97": "Tinh vân Cú Mèo",
+      "m102": "Thiên hà Con Suốt"
     }
   }
 }

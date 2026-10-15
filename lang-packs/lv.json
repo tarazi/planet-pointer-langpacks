@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Atvērta kopa",
     "dso.type.globularCluster": "Sfēriska kopa",
     "dso.type.milkyWay": "Piena Ceļš",
+    "dso.type.doubleStar": "Dubultzvaigzne",
+    "dso.type.asterism": "Asterisms — zvaigznes, kas tikai nejauši šķiet sakārtotas",
+    "dso.type.starCloud": "Zvaigžņu mākonis Piena Ceļā",
     "badge.above": "Virs",
     "badge.below": "Zem",
     "badge.visible": "Redzama",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Grūti ieraudzīt bez binokļa",
     "sat.notVisibleDay": "Nevar ieraudzīt · dienā",
     "sat.notVisibleShadow": "Nevar ieraudzīt · Zemes ēnā",
+    "sat.tooFaint": "Virs horizonta, bet spožums acij pārāk mazs",
     "sat.hoursAgo": "pirms {n} h",
     "info.typeSatellite": "Satelīts",
     "info.type": "Veids",
@@ -515,7 +519,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Piena Ceļš"
+      "milky-way": "Piena Ceļš",
+      "m6": "Tauriņa kopa",
+      "m17": "Omega miglājs",
+      "m24": "Strēlnieka zvaigžņu mākonis",
+      "m43": "De Mērāna miglājs",
+      "m63": "Saulespuķes galaktika",
+      "m64": "Melnās acs galaktika",
+      "m76": "Mazais Hanteles miglājs",
+      "m82": "Cigāra galaktika",
+      "m83": "Dienvidu Vējdzirnavu galaktika",
+      "m97": "Pūces miglājs",
+      "m102": "Vārpstas galaktika"
     }
   }
 }

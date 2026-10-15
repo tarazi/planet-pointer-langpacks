@@ -128,6 +128,9 @@
     "dso.type.openCluster": "Cúmul obert",
     "dso.type.globularCluster": "Cúmul globular",
     "dso.type.milkyWay": "Via Làctia",
+    "dso.type.doubleStar": "Estrella doble",
+    "dso.type.asterism": "Asterisme — estrelles alineades per casualitat",
+    "dso.type.starCloud": "Núvol d'estrelles a la Via Làctia",
     "badge.above": "Sobre l'horitzó",
     "badge.below": "Per sota de l'horitzó",
     "badge.visible": "Visible",
@@ -334,6 +337,7 @@
     "sat.mag.binoculars": "Difícil de veure sense prismàtics",
     "sat.notVisibleDay": "No visible · de dia",
     "sat.notVisibleShadow": "No visible · a l'ombra de la Terra",
+    "sat.tooFaint": "Sobre l'horitzó, però massa feble per a l'ull",
     "sat.hoursAgo": "fa {n} h",
     "info.typeSatellite": "Satèl·lit",
     "info.type": "Tipus",
@@ -1111,7 +1115,18 @@
       "47-tucanae": "47 Tucanae",
       "m22": "Messier 22",
       "m5": "Messier 5",
-      "milky-way": "Via Làctia"
+      "milky-way": "Via Làctia",
+      "m6": "Cúmul de la Papallona",
+      "m17": "Nebulosa Omega",
+      "m24": "Núvol estel·lar del Sagitari",
+      "m43": "Nebulosa de De Mairan",
+      "m63": "Galàxia del Gira-sol",
+      "m64": "Galàxia de l'Ull Negre",
+      "m76": "Nebulosa Dumbbell Petita",
+      "m82": "Galàxia del Cigar",
+      "m83": "Galàxia del Molinet Austral",
+      "m97": "Nebulosa del Mussol",
+      "m102": "Galàxia del Fus"
     }
   }
 }
