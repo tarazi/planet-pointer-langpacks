@@ -76,6 +76,7 @@
     "settings.about.version": "Útgáfa",
     "settings.about.sources": "Gagnaveita",
     "settings.about.credits": "Byggt með astronomy-engine, satellite.js og Celestrak.",
+    "settings.about.rate": "Gefa appinu einkunn",
     "pro.title": "Planet Pointer Pro",
     "pro.free": "Ókeypis útgáfa",
     "pro.active": "★ Pro virkt",

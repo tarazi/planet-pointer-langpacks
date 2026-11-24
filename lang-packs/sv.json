@@ -76,6 +76,7 @@
     "settings.about.version": "Version",
     "settings.about.sources": "Datakällor",
     "settings.about.credits": "Skapad med astronomy-engine, satellite.js och Celestrak.",
+    "settings.about.rate": "Betygsätt appen",
     "pro.title": "Planet Pointer Pro",
     "pro.free": "Gratisversion",
     "pro.active": "★ Pro upplåst",

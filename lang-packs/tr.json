@@ -76,6 +76,7 @@
     "settings.about.version": "Sürüm",
     "settings.about.sources": "Veri kaynakları",
     "settings.about.credits": "astronomy-engine, satellite.js ve Celestrak ile yapılmıştır.",
+    "settings.about.rate": "Uygulamayı değerlendir",
     "pro.title": "Planet Pointer Pro",
     "pro.free": "Ücretsiz sürüm",
     "pro.active": "★ Pro Kilidi Açık",

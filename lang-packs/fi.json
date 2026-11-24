@@ -76,6 +76,7 @@
     "settings.about.version": "Versio",
     "settings.about.sources": "Tietolähteet",
     "settings.about.credits": "Tehty astronomy-engine-, satellite.js- ja Celestrak-ohjelmistoilla.",
+    "settings.about.rate": "Arvioi sovellus",
     "pro.title": "Planet Pointer Pro",
     "pro.free": "Ilmaisversio",
     "pro.active": "★ Pro avattu",

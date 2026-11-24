@@ -76,6 +76,7 @@
     "settings.about.version": "เวอร์ชัน",
     "settings.about.sources": "แหล่งข้อมูล",
     "settings.about.credits": "สร้างด้วย astronomy-engine, satellite.js และ Celestrak",
+    "settings.about.rate": "ให้คะแนนแอป",
     "pro.title": "Planet Pointer Pro",
     "pro.free": "เวอร์ชันฟรี",
     "pro.active": "★ Pro ปลดล็อกแล้ว",

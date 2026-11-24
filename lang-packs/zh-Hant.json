@@ -76,6 +76,7 @@
     "settings.about.version": "版本",
     "settings.about.sources": "資料來源",
     "settings.about.credits": "使用 astronomy-engine、satellite.js 及 Celestrak 製作。",
+    "settings.about.rate": "為應用程式評分",
     "pro.title": "Planet Pointer Pro",
     "pro.free": "免費版",
     "pro.active": "★ Pro 已解鎖",
